@@ -1,115 +1,266 @@
- <!--
-Design by Bryant Smith
-http://www.bryantsmith.com
-http://www.aszx.net
-
-Name       : Faded Tab
-Description: Two columns, with naviagation
-Version    : 1.0
-Released   : 20081009
--->
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="stylesheet" type="text/css" href="fadedtab.css" />
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Healthy Living San Diego</title>
+<style>
+  :root {
+    --sand: #F6F1E4;
+    --sand-deep: #EDE5D2;
+    --teal: #1F4B4A;
+    --teal-dark: #163634;
+    --gold: #E8A33D;
+    --tomato: #D96C4A;
+    --sage: #7C9070;
+    --ink: #26302D;
+    --ink-soft: #55605C;
+    --focus: #1F4B4A;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--sand);
+    color: var(--ink);
+    font-family: 'Work Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    line-height: 1.55;
+  }
+
+  h1, h2, h3 {
+    font-family: 'Fraunces', Georgia, serif;
+    color: var(--teal-dark);
+    line-height: 1.15;
+    margin: 0 0 0.5em;
+  }
+
+  a { color: var(--teal); }
+  a:focus-visible, button:focus-visible {
+    outline: 3px solid var(--focus);
+    outline-offset: 2px;
+  }
+
+  /* ---- Header ---- */
+  .site-header {
+    background: var(--teal);
+    color: var(--sand);
+    padding: 2rem 1.5rem 0;
+  }
+  .site-header-inner {
+    max-width: 860px;
+    margin: 0 auto;
+  }
+  .site-header h1 {
+    color: var(--sand);
+    font-size: clamp(1.8rem, 4vw, 2.6rem);
+    font-weight: 600;
+  }
+  .site-header p {
+    color: #CFE0DC;
+    margin: 0 0 1.5rem;
+    max-width: 46ch;
+  }
+
+  /* ---- Tabs ---- */
+  .tabs {
+    display: flex;
+    gap: 0.25rem;
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    overflow-x: auto;
+  }
+  .tab-btn {
+    background: none;
+    border: none;
+    color: #CFE0DC;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 0.95rem;
+    font-weight: 600;
+    padding: 0.9rem 1rem 0.8rem;
+    cursor: pointer;
+    border-bottom: 3px solid transparent;
+    white-space: nowrap;
+    transition: color 0.15s ease, border-color 0.15s ease;
+  }
+  .tab-btn:hover { color: #FFFFFF; }
+  .tab-btn[aria-selected="true"] {
+    color: #FFFFFF;
+    border-bottom-color: var(--gold);
+  }
+
+  /* ---- Content ---- */
+  main {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 2.5rem 1.5rem 4rem;
+  }
+  .panel { display: none; }
+  .panel.active { display: block; }
+
+  .panel h2 {
+    font-size: 1.6rem;
+    border-bottom: 2px solid var(--sand-deep);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1.2rem;
+  }
+
+  .card {
+    background: #FFFFFF;
+    border: 1px solid var(--sand-deep);
+    border-left: 4px solid var(--sage);
+    padding: 1.2rem 1.4rem;
+    margin-bottom: 1rem;
+    max-width: 68ch;
+  }
+  .card.accent-gold { border-left-color: var(--gold); }
+  .card.accent-tomato { border-left-color: var(--tomato); }
+
+  .card h3 {
+    font-size: 1.1rem;
+    margin-bottom: 0.3rem;
+  }
+  .card p {
+    margin: 0;
+    color: var(--ink-soft);
+  }
+  .card .meta {
+    display: block;
+    font-size: 0.85rem;
+    color: var(--sage);
+    margin-top: 0.5rem;
+  }
+
+  .link-list { list-style: none; padding: 0; margin: 0; }
+  .link-list li {
+    padding: 0.6rem 0;
+    border-bottom: 1px solid var(--sand-deep);
+  }
+  .link-list li:last-child { border-bottom: none; }
+  .link-list a {
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .link-list a:hover { text-decoration: underline; }
+  .link-list span {
+    display: block;
+    color: var(--ink-soft);
+    font-size: 0.9rem;
+    margin-top: 0.15rem;
+  }
+
+  footer {
+    text-align: center;
+    color: var(--ink-soft);
+    font-size: 0.85rem;
+    padding: 1.5rem;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .tab-btn { transition: none; }
+  }
+</style>
 </head>
-
 <body>
-		
-        <div id="header">
-        	<div class="logo"></div>
-            <h1>Healthy Living San Diego</h1>
-			<h2>A guide for healthy living</h2>
-        </div>
-<div id="bottomContent">
-	<div class="navColumn"> 
-    	<div class="overview">
-        	Welcome! Below are some helpful links!        </div>
-    	<div class="link"><a href="https://perennialpasturesranch.com/">Beef</a></div>
-        <div class="link"><a href="https://www.sdfarmbureau.org/farmers-market/">Farmers Markets</a></div>
-        <div class="link"><a href="https://www.sandiego.org/media/press-release/from-tide-to-table-experience-san-diegos-premier-sustainable-seafood">Dining</a></div>
-        <div class="link"><a href="https://www.localharvest.org/pages-organics-M27077">More Food!</a></div>
-        <div class="link"><a href="https://theseedsource.com/"Seeds!</a></div>        
-        
-<div id="navBottom"></div>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <h1>Healthy Living San Diego</h1>
+    <p>A local guide to eating well, staying active, and finding your people — block by block, market by market.</p>
+    <nav class="tabs" role="tablist" aria-label="Site sections">
+      <button class="tab-btn" role="tab" aria-selected="true" aria-controls="panel-nutrition" id="tab-nutrition">Nutrition</button>
+      <button class="tab-btn" role="tab" aria-selected="false" aria-controls="panel-news" id="tab-news">News</button>
+      <button class="tab-btn" role="tab" aria-selected="false" aria-controls="panel-activity" id="tab-activity">Activity</button>
+      <button class="tab-btn" role="tab" aria-selected="false" aria-controls="panel-community" id="tab-community">Community</button>
+      <button class="tab-btn" role="tab" aria-selected="false" aria-controls="panel-events" id="tab-events">Events</button>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <section class="panel active" id="panel-nutrition" role="tabpanel" aria-labelledby="tab-nutrition">
+    <h2>Nutrition</h2>
+    <div class="card">
+      <h3>Where the beef comes from</h3>
+      <p>Grass-fed, pasture-raised sources within driving distance, with notes on how each ranch operates.</p>
+      <a class="meta" href="https://perennialpasturesranch.com/">Perennial Pastures Ranch →</a>
     </div>
-	<div class="contentColumn">
+    <div class="card accent-gold">
+      <h3>Farmers markets this week</h3>
+      <p>A running list of certified markets across the county, with days, hours, and what's in season right now.</p>
+      <a class="meta" href="https://www.sdfarmbureau.org/farmers-market/">San Diego Farm Bureau listings →</a>
+    </div>
+    <div class="card">
+      <h3>Sustainable seafood, tide to table</h3>
+      <p>Local seafood sourced and served with the coast in mind — where to find it and why it matters.</p>
+      <a class="meta" href="https://www.sandiego.org/media/press-release/from-tide-to-table-experience-san-diegos-premier-sustainable-seafood">Read more →</a>
+    </div>
+    <div class="card accent-tomato">
+      <h3>Grow your own</h3>
+      <p>Organic seed sources and a directory of local growers, for anyone starting a backyard plot.</p>
+      <a class="meta" href="https://theseedsource.com/">The Seed Source →</a>
+      <a class="meta" href="https://www.localharvest.org/pages-organics-M27077">Local Harvest directory →</a>
+    </div>
+  </section>
 
+  <section class="panel" id="panel-news" role="tabpanel" aria-labelledby="tab-news" hidden>
+    <h2>News</h2>
+    <p style="max-width:60ch;color:var(--ink-soft)">Health and wellness news relevant to San Diego — policy changes, new local studies, market openings, and public health updates. Drop your latest stories in here.</p>
+  </section>
 
+  <section class="panel" id="panel-activity" role="tabpanel" aria-labelledby="tab-activity" hidden>
+    <h2>Activity</h2>
+    <p style="max-width:60ch;color:var(--ink-soft)">Trails, group workouts, beach volleyball leagues, yoga in the park — anything that gets people moving locally. Add specific spots and schedules here.</p>
+  </section>
 
-	<!--Start Content Box (use one of the simple ones below -->
-  	<!--  To make a new content box, copy and paste from the Start to End, and paste it below this one.. you can create as many as you like. -->
-      <div class="contentTop"></div>
-      <div class="contentMain"> 
-            <h1>The title for your content</h1>
-                <p>You can include all of your content in one of these boxes, spread it out between many boxes, list one title per box, or many titles per box.   Feel free to use this template anywhere you'd like, but please leave the link back to me.  </p>
-                <p>
-            In order to include two titles in one of these content boxes all your have to do is create another H1 tag; and follow it with the content you wanted like so (note: if you are using comments, also include the comments div.) </p>
-            
-                        <div class="comments"><a href="#">Comments (1)</a></div>
-                        <br />
+  <section class="panel" id="panel-community" role="tabpanel" aria-labelledby="tab-community" hidden>
+    <h2>Community</h2>
+    <p style="max-width:60ch;color:var(--ink-soft)">Forums, local groups, volunteer opportunities, and ways for people to connect around healthy living in their own neighborhood.</p>
+  </section>
 
-                        
-            <h1>A Second H1 Tag</h1>
-            <p>You can include all of your content in one of these boxes, spread it out between many boxes, list one title per box, or many titles per box.   Feel free to use this template anywhere you'd like, but please leave the link back to me.  </p>
-            
-                                    <div class="comments"><a href="#">Comments (5)</a></div>
-                                    <br />
+  <section class="panel" id="panel-events" role="tabpanel" aria-labelledby="tab-events" hidden>
+    <h2>Events</h2>
+    <ul class="link-list">
+      <li>
+        <a href="#">Sunday Farmers Market — Little Italy</a>
+        <span>Weekly · 8am–2pm</span>
+      </li>
+      <li>
+        <a href="#">Coastal Cleanup & Sunrise Walk</a>
+        <span>Monthly · Ocean Beach</span>
+      </li>
+      <li>
+        <a href="#">Community Garden Volunteer Day</a>
+        <span>First Saturday · North Park</span>
+      </li>
+    </ul>
+  </section>
 
-                        
-            <h1>A Third H1 Tag</h1>
-            <p>You can include all of your content in one of these boxes, spread it out between many boxes, list one title per box, or many titles per box.   Feel free to use this template anywhere you'd like, but please leave the link back to me.  </p>
-                
-                
-            <div class="comments"><a href="#">Comments (34)</a></div>
-     </div>
-     <div class="contentBottom"></div>
-   	<!--End Content Box -->
-    
-  
-    	<!--Start Content Box -->
-  	<!--  To make a new content box, copy and paste from the Start to End, and paste it below this one.. you can create as many as you like. -->
-      <div class="contentTop"></div>
-      <div class="contentMain"> 
-            <h1>The title for your content</h1>
-                You can include all of your content in one of these boxes, spread it out between many boxes, list one title per box, or many titles per box.   
-            <div class="comments"><a href="#">Comments (42)</a></div>
-     </div>
-     <div class="contentBottom"></div>
-   	<!--End Content Box -->
-    
-    
-    
-    
-    <!--Start Content Box -->
-  	<!--  To make a new content box, copy and paste from the Start to End, and paste it below this one.. you can create as many as you like. -->
-      <div class="contentTop"></div>
-      <div class="contentMain"> 
-            <h1>Copy this box</h1>
-                Enter your content here   
-            <div class="comments"><a href="#">Comments (16)</a></div>   
-            <!-- feel free to delete this line if you don't use comments -->
-     </div>
-     <div class="contentBottom"></div>
-   	<!--End Content Box -->
-    
-    
+</main>
 
+<footer>
+  Healthy Living San Diego — a local guide, built by the community it serves.
+</footer>
 
-	<!-- PLEASE LEAVE THIS AT THE END OF YOUR LAST BOX -->
-    <h4><a href="http://www.aszx.net">web development</a> by <a href="http://www.bryantsmith.com">bryant smith</a></h4>
-    <!-- PLEASE LEAVE THIS AT THE END OF YOUR LAST BOX -->
+<script>
+  const tabs = document.querySelectorAll('.tab-btn');
+  tabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      tabs.forEach(t => t.setAttribute('aria-selected', 'false'));
+      document.querySelectorAll('.panel').forEach(p => {
+        p.classList.remove('active');
+        p.setAttribute('hidden', '');
+      });
 
+      tab.setAttribute('aria-selected', 'true');
+      const panel = document.getElementById(tab.getAttribute('aria-controls'));
+      panel.classList.add('active');
+      panel.removeAttribute('hidden');
+    });
+  });
+</script>
 
-
-
-	</div>
-
-</div>
-             
 </body>
 </html>
