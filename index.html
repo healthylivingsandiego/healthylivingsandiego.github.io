@@ -160,6 +160,49 @@
   @media (prefers-reduced-motion: reduce) {
     .tab-btn { transition: none; }
   }
+
+  /* ---- News tab ---- */
+  .news-meta {
+    color: var(--ink-soft);
+    font-size: 0.85rem;
+    margin: -0.5rem 0 1.2rem;
+  }
+  .news-status {
+    color: var(--ink-soft);
+  }
+  .news-card h3 {
+    font-size: 1.05rem;
+    margin-bottom: 0.4rem;
+  }
+  .outlet-badge {
+    display: inline-block;
+    background: var(--sage);
+    color: #FFFFFF;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    padding: 0.15rem 0.5rem;
+    border-radius: 999px;
+    margin-bottom: 0.5rem;
+  }
+  .coverage-list {
+    list-style: none;
+    padding: 0;
+    margin: 0.6rem 0 0;
+  }
+  .coverage-list li {
+    font-size: 0.9rem;
+    padding: 0.25rem 0;
+  }
+  .coverage-list li:first-child {
+    padding-top: 0;
+  }
+  .coverage-list .coverage-source {
+    color: var(--ink-soft);
+    font-weight: 600;
+    margin-right: 0.35rem;
+  }
 </style>
 </head>
 <body>
@@ -211,6 +254,168 @@
   </section>
 
   <section class="panel" id="panel-news" role="tabpanel" aria-labelledby="tab-news" hidden>
+    <h2>News</h2>
+    <p id="news-meta" class="news-meta"></p>
+    <div id="news-list" aria-live="polite">
+      <p class="news-status">Loading local coverage…</p>
+    </div>
+  </section>
+
+  <section class="panel" id="panel-activity" role="tabpanel" aria-labelledby="tab-activity" hidden>
+    <h2>Activity</h2>
+    <div class="card">
+      <h3>Join a hiking group</h3>
+      <p>San Diego Day Hikers is one of the region's longest-running groups, with easy-to-moderate outings roughly once a month plus occasional weekday evening hikes. UCSD's hiking club (open to students and staff) and several county YMCA branches also run regularly scheduled group hikes and walks for various fitness levels.</p>
+    </div>
+    <div class="card accent-gold">
+      <h3>Where to go</h3>
+      <p>Mission Trails Regional Park and its Cowles Mountain loop are among the most popular routes in the county. For a coastal option, Torrey Pines State Natural Reserve offers a few miles of bluff-top trails overlooking the Pacific, ranging from moderate to difficult.</p>
+    </div>
+    <div class="card accent-tomato">
+      <h3>Find a trail near you</h3>
+      <p>Beyond the well-known spots, the wider county has well over 200 mapped trails covering a range of distances and difficulty levels — useful for finding something closer to home.</p>
+      <a class="meta" href="https://www.alltrails.com/us/california/san-diego">Browse trails on AllTrails →</a>
+    </div>
+    <div class="card">
+      <h3>Stay active with the YMCA</h3>
+      <p>County YMCA branches run "Active Clubs" — organized walks, group hikes, and local runs — as a low-barrier way to get moving and meet people nearby.</p>
+      <a class="meta" href="https://www.ymcasd.org/programs/sports-and-fitness/active-clubs">YMCA of San Diego County Active Clubs →</a>
+    </div>
+  </section>
+
+  <section class="panel" id="panel-community" role="tabpanel" aria-labelledby="tab-community" hidden>
+    <h2>Community</h2>
+    <div class="card">
+      <h3>Community Wellness Collaborative</h3>
+      <p>A Normal Heights-based nonprofit running free and sliding-scale integrative health nights (acupuncture, massage, chiropractic care) for underserved neighborhoods, and always looking for volunteer practitioners and board members.</p>
+      <a class="meta" href="https://communitywellness.org/share-your-time/">Volunteer with them →</a>
+    </div>
+    <div class="card accent-gold">
+      <h3>HandsOn San Diego</h3>
+      <p>A volunteer clearinghouse connecting people to over 100 local organizations, with a searchable calendar of one-off and ongoing projects by location, age group, and cause area.</p>
+      <a class="meta" href="https://www.handsonsandiego.org/">Browse opportunities →</a>
+    </div>
+    <div class="card accent-tomato">
+      <h3>Feeding San Diego</h3>
+      <p>The county's leading food-rescue nonprofit, with regular volunteer shifts for sorting, packing, and distributing produce and other donated food.</p>
+    </div>
+    <div class="card">
+      <h3>Live Well San Diego</h3>
+      <p>The county's public volunteer portal lists a wide range of health-adjacent opportunities — from food distribution to supporting community gardens to mentoring youth.</p>
+      <a class="meta" href="https://www.livewellsd.org/i-want-to/get-involved/volunteer">Live Well San Diego volunteering →</a>
+    </div>
+  </section>
+
+  <section class="panel" id="panel-resources" role="tabpanel" aria-labelledby="tab-resources" hidden>
+    <h2>Resources</h2>
+    <div class="card">
+      <h3>Family Health Centers of San Diego</h3>
+      <p>Affordable, sliding-scale medical, dental, and behavioral health care, with a particular focus on uninsured and low-income residents. One of the county's largest community health providers.</p>
+      <a class="meta" href="https://www.fhcsd.org/">Visit site →</a>
+    </div>
+    <div class="card accent-gold">
+      <h3>Find a free or low-cost clinic near you</h3>
+      <p>The federal directory of Health Resources & Services Administration (HRSA) centers lets you search by location for federally qualified health centers, which are required to see patients regardless of insurance or ability to pay.</p>
+      <a class="meta" href="https://findahealthcenter.hrsa.gov/">HRSA health center finder →</a>
+    </div>
+    <div class="card accent-tomato">
+      <h3>YMCA of San Diego County</h3>
+      <p>Multiple branches across the county offering fitness facilities, classes, and the Active Clubs program mentioned under Activity — a good general-purpose starting point for gym access.</p>
+      <a class="meta" href="https://www.ymcasd.org/">Visit site →</a>
+    </div>
+    <div class="card">
+      <h3>San Diego Farm Bureau — Farmers Markets</h3>
+      <p>The same certified market directory referenced under Nutrition — useful here too as a general local-food resource.</p>
+      <a class="meta" href="https://www.sdfarmbureau.org/farmers-market/">Find a market →</a>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  Healthy Living San Diego — a local guide, built by the community it serves.
+</footer>
+
+<script>
+  const tabs = document.querySelectorAll('.tab-btn');
+  tabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      tabs.forEach(t => t.setAttribute('aria-selected', 'false'));
+      document.querySelectorAll('.panel').forEach(p => {
+        p.classList.remove('active');
+        p.setAttribute('hidden', '');
+      });
+
+      tab.setAttribute('aria-selected', 'true');
+      const panel = document.getElementById(tab.getAttribute('aria-controls'));
+      panel.classList.add('active');
+      panel.removeAttribute('hidden');
+    });
+  });
+
+  // ---- News tab: load news.json (built by fetch_news.py / GitHub Action) ----
+  function formatDate(iso) {
+    if (!iso) return '';
+    const d = new Date(iso);
+    if (isNaN(d)) return '';
+    return d.toLocaleDateString(undefined, { month: 'short', day: 'numeric' });
+  }
+
+  function renderNews(data) {
+    const listEl = document.getElementById('news-list');
+    const metaEl = document.getElementById('news-meta');
+
+    if (!data.stories || data.stories.length === 0) {
+      listEl.innerHTML = '<p class="news-status">No recent stories found. Check back soon.</p>';
+      return;
+    }
+
+    if (data.generated_at) {
+      const gen = new Date(data.generated_at);
+      metaEl.textContent = isNaN(gen)
+        ? ''
+        : `Updated ${gen.toLocaleDateString(undefined, { month: 'short', day: 'numeric' })} from ${data.debug ? data.debug.sources_ok : '?'} local outlets`;
+    }
+
+    const accents = ['', 'accent-gold', 'accent-tomato'];
+    listEl.innerHTML = data.stories.map((story, i) => {
+      const accent = accents[i % accents.length];
+      const badge = story.outlet_count > 1
+        ? `<span class="outlet-badge">${story.outlet_count} outlets covering this</span>`
+        : '';
+      const coverage = story.coverage.map(c => `
+        <li>
+          <span class="coverage-source">${c.source}</span>
+          <a href="${c.link}" target="_blank" rel="noopener">${c.title}</a>
+        </li>
+      `).join('');
+
+      return `
+        <div class="card news-card ${accent}">
+          ${badge}
+          <h3>${story.headline}</h3>
+          <span class="meta">${formatDate(story.published)}</span>
+          <ul class="coverage-list">${coverage}</ul>
+        </div>
+      `;
+    }).join('');
+  }
+
+  fetch('news.json', { cache: 'no-store' })
+    .then(res => {
+      if (!res.ok) throw new Error('news.json not found');
+      return res.json();
+    })
+    .then(renderNews)
+    .catch(err => {
+      document.getElementById('news-list').innerHTML =
+        '<p class="news-status">Local news couldn\'t be loaded right now. Please check back later.</p>';
+      console.error(err);
+    });
+</script>
+
+</body>
+</html>
     <h2>News</h2>
     <div class="card accent-gold">
       <h3>UC San Diego Health tops the state again</h3>
