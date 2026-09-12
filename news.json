@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-09-12T23:18:23.257742Z",
+  "story_count": 2,
+  "stories": [
+    {
+      "headline": "City council approves new bike lanes downtown",
+      "published": "2026-09-12T23:18:23.257949Z",
+      "outlet_count": 2,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Council approves downtown bike lane expansion",
+          "link": "https://voiceofsandiego.org/",
+          "published": "2026-09-12T23:18:23.258122Z"
+        },
+        {
+          "source": "KPBS",
+          "title": "San Diego City Council OKs new bike lanes",
+          "link": "https://www.kpbs.org/",
+          "published": "2026-09-12T23:18:23.258130Z"
+        }
+      ]
+    },
+    {
+      "headline": "Farmers market vendors report record turnout",
+      "published": "2026-09-12T23:18:23.258135Z",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Farmers market vendors report record turnout",
+          "link": "https://thecoastnews.com/",
+          "published": "2026-09-12T23:18:23.258141Z"
+        }
+      ]
+    }
+  ],
+  "debug": {
+    "sources_configured": 22,
+    "sources_ok": 15,
+    "sources_failed": [
+      "El Cajon City News"
+    ]
+  }
+}
