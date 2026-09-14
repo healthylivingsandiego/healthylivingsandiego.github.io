@@ -1,7 +1,169 @@
 {
-  "generated_at": "2026-09-13T14:14:49.302736+00:00",
-  "story_count": 65,
+  "generated_at": "2026-09-14T14:15:33.951912+00:00",
+  "story_count": 74,
   "stories": [
+    {
+      "headline": "Suspicious packages prompt investigation, shelter-in-place",
+      "published": "2026-09-14T13:52:30+00:00",
+      "outlet_count": 2,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Suspicious packages prompt investigation, shelter-in-place",
+          "link": "https://thecoastnews.com/suspicious-packages-prompt-investigation-shelter-in-place/",
+          "published": "2026-09-14T13:52:30+00:00"
+        },
+        {
+          "source": "Times of San Diego",
+          "title": "Residents ordered to shelter in place after ‘suspicious packages’ found in Oceanside neighborhood",
+          "link": "https://timesofsandiego.com/crime/2026/09/13/residents-ordered-to-shelter-in-place-after-suspicious-packages-found-in-oceanside-neighborhood/",
+          "published": "2026-09-13T23:00:32+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "School Board Candidate Quits Day Job",
+      "published": "2026-09-14T09:15:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "School Board Candidate Quits Day Job",
+          "link": "https://voiceofsandiego.org/2026/09/14/school-board-candidate-quits-day-job/",
+          "published": "2026-09-14T09:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Supes Sound Off on Employee Misconduct Records",
+      "published": "2026-09-14T09:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Supes Sound Off on Employee Misconduct Records",
+          "link": "https://voiceofsandiego.org/2026/09/14/supes-sound-off-on-employee-misconduct-records/",
+          "published": "2026-09-14T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "California promulga leyes que restringen los chatbots y prohíben las redes sociales «adictivas» a menores",
+      "published": "2026-09-14T06:39:26+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "California promulga leyes que restringen los chatbots y prohíben las redes sociales «adictivas» a menores",
+          "link": "https://timesofsandiego.com/education/2026/09/13/california-promulga-leyes-que-restringen-los-chatbots-y-prohiben-las-redes-sociales-adictivas-a-menores/",
+          "published": "2026-09-14T06:39:26+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "El galón de gasolina en el condado de San Diego vuelve a superar los $6 dólares",
+      "published": "2026-09-14T06:34:05+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "El galón de gasolina en el condado de San Diego vuelve a superar los $6 dólares",
+          "link": "https://timesofsandiego.com/transportation/2026/09/13/el-galon-de-gasolina-en-el-condado-de-san-diego-vuelve-a-superar-los-6-dolares/",
+          "published": "2026-09-14T06:34:05+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Hay una alta probabilidad de que el fenómeno de El Niño de este año rompa récords. Estamos a punto de descubrir qué significa eso",
+      "published": "2026-09-14T06:30:08+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Hay una alta probabilidad de que el fenómeno de El Niño de este año rompa récords. Estamos a punto de descubrir qué significa eso",
+          "link": "https://timesofsandiego.com/environment/2026/09/13/hay-una-alta-probabilidad-de-que-el-fenomeno-de-el-nino-de-este-ano-rompa-records-estamos-a-punto-de-descubrir-que-significa-eso/",
+          "published": "2026-09-14T06:30:08+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "MarketInk: Ex-Chargers QB Ryan Leaf returns to Pac-12 roots as USA Network football analyst",
+      "published": "2026-09-13T22:30:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "MarketInk: Ex-Chargers QB Ryan Leaf returns to Pac-12 roots as USA Network football analyst",
+          "link": "https://timesofsandiego.com/business/2026/09/13/marketink-ex-chargers-qb-ryan-leaf-returns-to-pac-12-roots-as-usa-network-football-analyst/",
+          "published": "2026-09-13T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "A day of music near the beach kicks off weeklong Sessions Surf Festival in Encinitas",
+      "published": "2026-09-13T20:30:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "A day of music near the beach kicks off weeklong Sessions Surf Festival in Encinitas",
+          "link": "https://timesofsandiego.com/arts/2026/09/13/a-day-of-music-near-the-beach-kicks-off-weeklong-sessions-surf-festival-in-encinitas/",
+          "published": "2026-09-13T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "What makes San Diego cool? Design Week has a six-day answer",
+      "published": "2026-09-13T20:05:20+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "What makes San Diego cool? Design Week has a six-day answer",
+          "link": "https://timesofsandiego.com/arts/2026/09/13/san-diego-design-week-cool-factor/",
+          "published": "2026-09-13T20:05:20+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego officials tout water investments while other Southwest communities brace for Colorado River cuts",
+      "published": "2026-09-13T19:05:10+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego officials tout water investments while other Southwest communities brace for Colorado River cuts",
+          "link": "https://timesofsandiego.com/politics/2026/09/13/san-diego-county-water-authority-colorado-river-supply-cuts/",
+          "published": "2026-09-13T19:05:10+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "SD County gas price rises for 25th time in 26 days",
+      "published": "2026-09-13T19:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "SD County gas price rises for 25th time in 26 days",
+          "link": "https://timesofsandiego.com/transportation/2026/09/13/sd-county-gas-price-rises-for-25th-time-in-26th-days/",
+          "published": "2026-09-13T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Opinion: Water for California’s future hinges on outcome of 4 intertwined battles",
+      "published": "2026-09-13T17:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Opinion: Water for California’s future hinges on outcome of 4 intertwined battles",
+          "link": "https://timesofsandiego.com/opinion/2026/09/13/opinion-water-for-californias-future-hinges-on-outcome-of-4-intwined-battles/",
+          "published": "2026-09-13T17:00:00+00:00"
+        }
+      ]
+    },
     {
       "headline": "Learn to play Texas hold ’em without losing your money",
       "published": "2026-09-13T13:41:52+00:00",
@@ -12,71 +174,6 @@
           "title": "Learn to play Texas hold ’em without losing your money",
           "link": "https://coronadotimes.com/news/2026/09/13/learn-to-play-texas-hold-em-without-losing-your-money/",
           "published": "2026-09-13T13:41:52+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "An epic victory: San Diego-trained Latak wins U.S. Open Juniors singles final",
-      "published": "2026-09-13T00:52:58+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "An epic victory: San Diego-trained Latak wins U.S. Open Juniors singles final",
-          "link": "https://timesofsandiego.com/sports/2026/09/12/an-epic-victory-san-diego-trained-latak-wins-u-s-open-juniors-singles-final/",
-          "published": "2026-09-13T00:52:58+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diego weather will be cooler next week — and also drier",
-      "published": "2026-09-12T23:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "San Diego weather will be cooler next week — and also drier",
-          "link": "https://timesofsandiego.com/weather/2026/09/12/san-diego-weather-will-be-cooler-next-week-and-also-drier/",
-          "published": "2026-09-12T23:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Public comment open on court release of two sexually violent predators",
-      "published": "2026-09-12T22:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Public comment open on court release of two sexually violent predators",
-          "link": "https://timesofsandiego.com/crime/2026/09/12/public-comment-open-on-court-release-of-two-sexually-violent-predators/",
-          "published": "2026-09-12T22:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diego’s troubled reservoirs brace for ‘Super’ El Niño. How the city is addressing downstream risks",
-      "published": "2026-09-12T20:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "San Diego’s troubled reservoirs brace for ‘Super’ El Niño. How the city is addressing downstream risks",
-          "link": "https://timesofsandiego.com/weather/2026/09/12/san-diego-reservoirs-brace-super-el-nino/",
-          "published": "2026-09-12T20:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Community colleges suddenly oppose plan to let them offer more bachelor’s degrees",
-      "published": "2026-09-12T19:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Community colleges suddenly oppose plan to let them offer more bachelor’s degrees",
-          "link": "https://timesofsandiego.com/education/2026/09/12/community-colleges-suddenly-oppose-plan-to-let-them-offer-more-bachelors-degrees/",
-          "published": "2026-09-12T19:00:00+00:00"
         }
       ]
     },
@@ -107,32 +204,6 @@
       ]
     },
     {
-      "headline": "Opinion: A local safety plan is urgently needed for San Onofre nuclear waste",
-      "published": "2026-09-12T17:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Opinion: A local safety plan is urgently needed for San Onofre nuclear waste",
-          "link": "https://timesofsandiego.com/opinion/2026/09/12/opinion-a-local-safety-plan-is-urgently-needed-for-san-onofre-nuclear-waste/",
-          "published": "2026-09-12T17:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "There’s a good chance this year’s El Niño will break records. We’re about to find out what that means.",
-      "published": "2026-09-12T16:58:45+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "There’s a good chance this year’s El Niño will break records. We’re about to find out what that means.",
-          "link": "https://timesofsandiego.com/weather/2026/09/12/theres-a-good-chance-this-years-el-nino-will-break-records-were-about-to-find-out-what-that-means/",
-          "published": "2026-09-12T16:58:45+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Firefighters Union Pulls Endorsement of Foster",
       "published": "2026-09-12T16:30:00+00:00",
       "outlet_count": 1,
@@ -146,45 +217,6 @@
       ]
     },
     {
-      "headline": "No seed oils and only organic ingredients at Sourpuss Donuts",
-      "published": "2026-09-12T16:23:37+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "No seed oils and only organic ingredients at Sourpuss Donuts",
-          "link": "https://timesofsandiego.com/business/2026/09/12/no-seed-oils-and-only-organic-ingredients-at-sourpuss-donuts/",
-          "published": "2026-09-12T16:23:37+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "California spends $35M on ‘trusted sources’ to ensure workers know their rights",
-      "published": "2026-09-12T16:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "California spends $35M on ‘trusted sources’ to ensure workers know their rights",
-          "link": "https://timesofsandiego.com/agriculture/2026/09/12/california-spends-35m-on-trusted-sources-to-ensure-workers-know-their-rights/",
-          "published": "2026-09-12T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "‘It’s Triage’: California’s next governor will face destabilizing surge in uninsured",
-      "published": "2026-09-12T15:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "‘It’s Triage’: California’s next governor will face destabilizing surge in uninsured",
-          "link": "https://timesofsandiego.com/health/2026/09/12/its-triage-californias-next-governor-will-face-destabilizing-surge-in-uninsured/",
-          "published": "2026-09-12T15:00:00+00:00"
-        }
-      ]
-    },
-    {
       "headline": "VOSD Podcast: The Mitochondria of San Diego County",
       "published": "2026-09-12T02:34:09+00:00",
       "outlet_count": 1,
@@ -194,6 +226,19 @@
           "title": "VOSD Podcast: The Mitochondria of San Diego County",
           "link": "https://voiceofsandiego.org/2026/09/11/vosd-podcast-the-mitochondria-of-san-diego-county/",
           "published": "2026-09-12T02:34:09+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "The Mira Mesa Epicentre is Back!",
+      "published": "2026-09-11T23:26:54+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "The Mira Mesa Epicentre is Back!",
+          "link": "https://www.countynewscenter.com/the-mira-mesa-epicentre-is-back/?utm_source=rss&utm_medium=rss&utm_campaign=the-mira-mesa-epicentre-is-back",
+          "published": "2026-09-11T23:26:54+00:00"
         }
       ]
     },
@@ -220,6 +265,19 @@
           "title": "Commentary: Remember 1998? Get ready for El Niño",
           "link": "https://thecoastnews.com/commentary-remember-1998-get-ready-for-el-nino/",
           "published": "2026-09-11T22:48:24+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "County Public Health Leaders Stress Fall Vaccinations to Prevent Severe Illness",
+      "published": "2026-09-11T22:32:30+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "County Public Health Leaders Stress Fall Vaccinations to Prevent Severe Illness",
+          "link": "https://www.countynewscenter.com/county-public-health-leaders-stress-fall-vaccinations-to-prevent-severe-illness/?utm_source=rss&utm_medium=rss&utm_campaign=county-public-health-leaders-stress-fall-vaccinations-to-prevent-severe-illness",
+          "published": "2026-09-11T22:32:30+00:00"
         }
       ]
     },
@@ -263,6 +321,19 @@
       ]
     },
     {
+      "headline": "County Opens Villa Serena II, Expanding Affordable Housing in North County",
+      "published": "2026-09-11T21:03:40+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "County Opens Villa Serena II, Expanding Affordable Housing in North County",
+          "link": "https://www.countynewscenter.com/county-opens-villa-serena-ii-expanding-affordable-housing-in-north-county/?utm_source=rss&utm_medium=rss&utm_campaign=county-opens-villa-serena-ii-expanding-affordable-housing-in-north-county",
+          "published": "2026-09-11T21:03:40+00:00"
+        }
+      ]
+    },
+    {
       "headline": "San Marcos unveils 63 affordable apartments at Villa Serena",
       "published": "2026-09-11T20:36:20+00:00",
       "outlet_count": 1,
@@ -298,6 +369,19 @@
           "title": "Victim of fatal Oceanside bicycle collision identified",
           "link": "https://thecoastnews.com/victim-of-fatal-oceanside-bicycle-collision-identified/",
           "published": "2026-09-11T19:35:31+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "National Increase in Reported Human Rabies Exposures",
+      "published": "2026-09-11T19:19:31+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "National Increase in Reported Human Rabies Exposures",
+          "link": "https://www.countynewscenter.com/national-increase-in-reported-human-rabies-exposures/?utm_source=rss&utm_medium=rss&utm_campaign=national-increase-in-reported-human-rabies-exposures",
+          "published": "2026-09-11T19:19:31+00:00"
         }
       ]
     },
@@ -653,19 +737,6 @@
       ]
     },
     {
-      "headline": "Legal Notices, September 11, 2026",
-      "published": "2026-09-10T14:19:23+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Legal Notices, September 11, 2026",
-          "link": "https://thecoastnews.com/legal-notices-september-11-2026/",
-          "published": "2026-09-10T14:19:23+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Science Says: It’s OK to Hate the Heat",
       "published": "2026-09-10T09:15:00+00:00",
       "outlet_count": 1,
@@ -705,19 +776,6 @@
       ]
     },
     {
-      "headline": "Three-Way Race for Poway Mayor Is Heating Up",
-      "published": "2026-09-10T01:11:28+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Three-Way Race for Poway Mayor Is Heating Up",
-          "link": "https://voiceofsandiego.org/2026/09/09/three-way-race-for-poway-mayor-is-heating-up/",
-          "published": "2026-09-10T01:11:28+00:00"
-        }
-      ]
-    },
-    {
       "headline": "TERI Fest showcases programs, growth at San Marcos campus",
       "published": "2026-09-09T22:41:13+00:00",
       "outlet_count": 1,
@@ -729,63 +787,11 @@
           "published": "2026-09-09T22:41:13+00:00"
         }
       ]
-    },
-    {
-      "headline": "Four Coronado High students completed intensive STEM summer internship",
-      "published": "2026-09-09T18:00:58+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Four Coronado High students completed intensive STEM summer internship",
-          "link": "https://coronadotimes.com/news/2026/09/09/four-coronado-high-students-completed-intensive-stem-summer-internship/",
-          "published": "2026-09-09T18:00:58+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Two Lawsuits Force San Diego Housing Commission Policy Change on Illegal Rent Increases",
-      "published": "2026-09-09T17:47:12+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Two Lawsuits Force San Diego Housing Commission Policy Change on Illegal Rent Increases",
-          "link": "https://obrag.org/2026/09/two-lawsuits-force-san-diego-housing-commission-policy-change-on-illegal-rent-increases/",
-          "published": "2026-09-09T17:47:12+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "SAN MARCOS: TERI Players debut original film Sept. 10",
-      "published": "2026-09-09T17:38:40+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "SAN MARCOS: TERI Players debut original film Sept. 10",
-          "link": "https://www.northcoastcurrent.com/currentevents/2026/09/san-marcos-teri-players-debut-original-film-sept-10/",
-          "published": "2026-09-09T17:38:40+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Alchemy: Turning happy hour into gold",
-      "published": "2026-09-09T16:00:47+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Alchemy: Turning happy hour into gold",
-          "link": "https://coronadotimes.com/news/2026/09/09/alchemy-turning-happy-hour-into-gold/",
-          "published": "2026-09-09T16:00:47+00:00"
-        }
-      ]
     }
   ],
   "debug": {
     "sources_configured": 23,
-    "sources_ok": 7,
+    "sources_ok": 8,
     "sources_failed": [
       "KPBS",
       "San Diego Union-Tribune",
@@ -801,7 +807,6 @@
       "Solana Beach City News",
       "Chula Vista City News",
       "Del Mar Weekly",
-      "County News Center",
       "SD Sheriff News Releases"
     ]
   }
