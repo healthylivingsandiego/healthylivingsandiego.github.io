@@ -1,17 +1,160 @@
 {
-  "generated_at": "2026-09-19T14:10:35.560431+00:00",
-  "story_count": 85,
+  "generated_at": "2026-09-20T14:10:37.893088+00:00",
+  "story_count": 75,
   "stories": [
     {
-      "headline": "Pitbull Cruz, now training in San Diego, to defend title on Saturday’s fight card at Pechanga Arena",
-      "published": "2026-09-19T00:47:47+00:00",
+      "headline": "A Conversation with a D8 Candidate",
+      "published": "2026-09-20T13:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "A Conversation with a D8 Candidate",
+          "link": "https://voiceofsandiego.org/2026/09/20/a-conversation-with-a-d8-candidate/",
+          "published": "2026-09-20T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Three people spotted leaving scene after vehicle sinks in Oceanside Harbor",
+      "published": "2026-09-20T00:30:00+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "Times of San Diego",
-          "title": "Pitbull Cruz, now training in San Diego, to defend title on Saturday’s fight card at Pechanga Arena",
-          "link": "https://timesofsandiego.com/sports/2026/09/18/pitbull-cruz-bravo-san-diego-pechanga-arena/",
-          "published": "2026-09-19T00:47:47+00:00"
+          "title": "Three people spotted leaving scene after vehicle sinks in Oceanside Harbor",
+          "link": "https://timesofsandiego.com/crime/2026/09/19/three-people-spotted-leaving-scene-after-vehicle-sinks-in-oceanside-harbor/",
+          "published": "2026-09-20T00:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Imperial Beach home vandalized with antisemitic graffiti for second consecutive week",
+      "published": "2026-09-19T23:30:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Imperial Beach home vandalized with antisemitic graffiti for second consecutive week",
+          "link": "https://timesofsandiego.com/crime/2026/09/19/imperial-beach-home-vandalized-with-antisemitic-graffiti-for-second-consecutive-week/",
+          "published": "2026-09-19T23:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Average gas price around San Diego now over $6 after 31st increase in 32 days",
+      "published": "2026-09-19T22:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Average gas price around San Diego now over $6 after 31st increase in 32 days",
+          "link": "https://timesofsandiego.com/transportation/2026/09/19/average-gas-price-around-san-diego-now-over-6-after-31st-increase-in-32-days/",
+          "published": "2026-09-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Opinion: San Diego’s driverless future requires a public report card",
+      "published": "2026-09-19T21:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Opinion: San Diego’s driverless future requires a public report card",
+          "link": "https://timesofsandiego.com/opinion/2026/09/19/san-diego-driverless-future-requires-public-report-card/",
+          "published": "2026-09-19T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "North County native Chris Thile brings Grammy-winning Punch Brothers and their ‘wild adventure’ to UCSD",
+      "published": "2026-09-19T20:50:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "North County native Chris Thile brings Grammy-winning Punch Brothers and their ‘wild adventure’ to UCSD",
+          "link": "https://timesofsandiego.com/arts/2026/09/19/san-diego-fall-arts-punch-brothers-grammy/",
+          "published": "2026-09-19T20:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Fall is almost here. The season will bring top artists to San Diego arenas, concert halls and more",
+      "published": "2026-09-19T20:05:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Fall is almost here. The season will bring top artists to San Diego arenas, concert halls and more",
+          "link": "https://timesofsandiego.com/arts/2026/09/19/fall-arts-guide-music-tours-san-diego/",
+          "published": "2026-09-19T20:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Brace for Silly Season",
+      "published": "2026-09-19T19:41:40+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Brace for Silly Season",
+          "link": "https://voiceofsandiego.org/2026/09/19/brace-for-silly-season/",
+          "published": "2026-09-19T19:41:40+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "His Hot Wheels full circle: Childhood toy becomes monster-sized profession for disabled vet",
+      "published": "2026-09-19T19:05:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "His Hot Wheels full circle: Childhood toy becomes monster-sized profession for disabled vet",
+          "link": "https://timesofsandiego.com/sports/2026/09/19/his-hot-wheels-full-circle-childhood-toy-becomes-monster-sized-profession-for-disabled-vet/",
+          "published": "2026-09-19T19:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Five ‘connected’ cases of mumps reported on SDSU athletic team",
+      "published": "2026-09-19T18:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Five ‘connected’ cases of mumps reported on SDSU athletic team",
+          "link": "https://timesofsandiego.com/health/2026/09/19/five-connected-cases-of-mumps-reported-on-sdsu-athletic-team/",
+          "published": "2026-09-19T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Opinion: Newspapers slash staff as Gov. Gavin Newsom weighs state aid",
+      "published": "2026-09-19T17:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Opinion: Newspapers slash staff as Gov. Gavin Newsom weighs state aid",
+          "link": "https://timesofsandiego.com/opinion/2026/09/19/newspapers-slash-staff-gavin-newsom-weighs-state-aid/",
+          "published": "2026-09-19T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "‘Billionaires shouldn’t exist.’ Why California unions are fighting for a wealth tax",
+      "published": "2026-09-19T16:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "‘Billionaires shouldn’t exist.’ Why California unions are fighting for a wealth tax",
+          "link": "https://timesofsandiego.com/politics/2026/09/19/billionaires-shouldnt-exist-why-california-unions-are-fighting-for-a-wealth-tax/",
+          "published": "2026-09-19T16:00:00+00:00"
         }
       ]
     },
@@ -29,32 +172,6 @@
       ]
     },
     {
-      "headline": "California K-12 schools with military-style rifles don’t always disclose them as law requires",
-      "published": "2026-09-18T22:40:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "California K-12 schools with military-style rifles don’t always disclose them as law requires",
-          "link": "https://timesofsandiego.com/education/2026/09/18/california-k-12-schools-with-military-style-rifles-dont-always-disclose-them-as-law-requires/",
-          "published": "2026-09-18T22:40:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "A year after their promise, lawmakers again reform environmental planning; now Newsom will weigh in",
-      "published": "2026-09-18T22:30:51+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "A year after their promise, lawmakers again reform environmental planning; now Newsom will weigh in",
-          "link": "https://www.northcoastcurrent.com/top-stories/2026/09/a-year-after-their-promise-lawmakers-again-reform-environmental-planning-now-newsom-will-weigh-in/",
-          "published": "2026-09-18T22:30:51+00:00"
-        }
-      ]
-    },
-    {
       "headline": "San Diego Dems Mum on Wealth Tax",
       "published": "2026-09-18T22:14:54+00:00",
       "outlet_count": 1,
@@ -68,19 +185,6 @@
       ]
     },
     {
-      "headline": "North Park man in custody after allegedly mailing threats to East County campus",
-      "published": "2026-09-18T22:13:36+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "North Park man in custody after allegedly mailing threats to East County campus",
-          "link": "https://timesofsandiego.com/crime/2026/09/18/north-park-suspect-alleged-mail-threats-school/",
-          "published": "2026-09-18T22:13:36+00:00"
-        }
-      ]
-    },
-    {
       "headline": "VOSD Podcast: It’s Silly Season",
       "published": "2026-09-18T21:58:01+00:00",
       "outlet_count": 1,
@@ -90,19 +194,6 @@
           "title": "VOSD Podcast: It’s Silly Season",
           "link": "https://voiceofsandiego.org/2026/09/18/vosd-podcast-its-silly-season-2/",
           "published": "2026-09-18T21:58:01+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "PETA criticizes SDPD for sending burned K-9 into situation ‘too dangerous for human officers’",
-      "published": "2026-09-18T21:40:43+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "PETA criticizes SDPD for sending burned K-9 into situation ‘too dangerous for human officers’",
-          "link": "https://timesofsandiego.com/crime/2026/09/18/peta-sdpd-k-9-police-dogs-too-dangerous/",
-          "published": "2026-09-18T21:40:43+00:00"
         }
       ]
     },
@@ -159,19 +250,6 @@
       ]
     },
     {
-      "headline": "Padres coming up big in September, putting them in thick of Wild Card hunt",
-      "published": "2026-09-18T19:56:03+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Padres coming up big in September, putting them in thick of Wild Card hunt",
-          "link": "https://timesofsandiego.com/sports/2026/09/18/padres-september-d-backs-wild-card/",
-          "published": "2026-09-18T19:56:03+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Coronado Schools Foundation “The Golden Gala” celebrated generous community support for Coronado students",
       "published": "2026-09-18T19:12:37+00:00",
       "outlet_count": 1,
@@ -194,19 +272,6 @@
           "title": "The Rise of Roadside Motor Lodges in San Diego",
           "link": "https://obrag.org/2026/09/the-rise-of-roadside-motor-lodges-in-san-diego/",
           "published": "2026-09-18T19:03:54+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Plaintiffs won a court battle over the Green Card Lottery shut down by Trump. But with a key deadline looming, time is not on their side",
-      "published": "2026-09-18T19:00:35+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Plaintiffs won a court battle over the Green Card Lottery shut down by Trump. But with a key deadline looming, time is not on their side",
-          "link": "https://timesofsandiego.com/politics/2026/09/18/plaintiffs-court-green-card-lottery-trump-sept-30-deadline/",
-          "published": "2026-09-18T19:00:35+00:00"
         }
       ]
     },
@@ -276,19 +341,6 @@
       ]
     },
     {
-      "headline": "Cómo un joven que cumplía condena en centros de detención juvenil logró salir adelante, clase tras clase",
-      "published": "2026-09-18T17:40:21+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Cómo un joven que cumplía condena en centros de detención juvenil logró salir adelante, clase tras clase",
-          "link": "https://timesofsandiego.com/education/2026/09/18/joven-centros-detencion-juvenil-logro-salir-adelante-clase-tras-clase/",
-          "published": "2026-09-18T17:40:21+00:00"
-        }
-      ]
-    },
-    {
       "headline": "‘We Have Been Taking Balboa Park for Granted for Too Long’",
       "published": "2026-09-18T17:02:58+00:00",
       "outlet_count": 1,
@@ -302,19 +354,6 @@
       ]
     },
     {
-      "headline": "Opinion: Measure B offers an important choice about funding community needs",
-      "published": "2026-09-18T17:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Opinion: Measure B offers an important choice about funding community needs",
-          "link": "https://timesofsandiego.com/opinion/2026/09/18/measure-b-offers-important-choice-about-funding-community-needs/",
-          "published": "2026-09-18T17:00:00+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Young Motorcyclist Dies From Crash with SUV on Catalina in Point Loma",
       "published": "2026-09-18T16:45:12+00:00",
       "outlet_count": 1,
@@ -324,19 +363,6 @@
           "title": "Young Motorcyclist Dies From Crash with SUV on Catalina in Point Loma",
           "link": "https://obrag.org/2026/09/young-motorcyclist-dies-from-crash-with-suv-on-catalina-in-point-loma/",
           "published": "2026-09-18T16:45:12+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Años después de dejar de fumar, una prueba de cáncer de pulmón le salvó la vida",
-      "published": "2026-09-18T16:33:09+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Años después de dejar de fumar, una prueba de cáncer de pulmón le salvó la vida",
-          "link": "https://timesofsandiego.com/health/2026/09/18/prueba-cancer-pulmon-salvo-vida-exfumador/",
-          "published": "2026-09-18T16:33:09+00:00"
         }
       ]
     },
@@ -376,19 +402,6 @@
           "title": "Encinitas to study potential return of red-light cameras",
           "link": "https://thecoastnews.com/encinitas-to-explore-impacts-of-the-return-of-red-light-cameras/",
           "published": "2026-09-18T16:05:20+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Peninsula Beacon: September 18, 2026",
-      "published": "2026-09-18T16:04:48+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Peninsula Beacon: September 18, 2026",
-          "link": "https://timesofsandiego.com/print-editions/2026/09/18/peninsula-beacon-september-18-2026/",
-          "published": "2026-09-18T16:04:48+00:00"
         }
       ]
     },
@@ -445,19 +458,6 @@
       ]
     },
     {
-      "headline": "Vista-Based DIG Corp. lease fills San Marcos industrial building",
-      "published": "2026-09-18T00:23:08+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Vista-Based DIG Corp. lease fills San Marcos industrial building",
-          "link": "https://www.northcoastcurrent.com/business-notes/2026/09/vista-based-dig-corp-lease-fills-san-marcos-industrial-building/",
-          "published": "2026-09-18T00:23:08+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Large tree falls over parked cars near Carlsbad apartment complex",
       "published": "2026-09-18T00:04:06+00:00",
       "outlet_count": 1,
@@ -467,19 +467,6 @@
           "title": "Large tree falls over parked cars near Carlsbad apartment complex",
           "link": "https://thecoastnews.com/large-tree-falls-over-parked-cars-near-carlsbad-apartment-complex/",
           "published": "2026-09-18T00:04:06+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Encinitas Chamber honors five San Dieguito district seniors as Rising Stars",
-      "published": "2026-09-17T23:22:04+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Encinitas Chamber honors five San Dieguito district seniors as Rising Stars",
-          "link": "https://www.northcoastcurrent.com/campus/2026/09/encinitas-chamber-honors-five-san-dieguito-district-seniors-as-rising-stars/",
-          "published": "2026-09-17T23:22:04+00:00"
         }
       ]
     },
@@ -532,71 +519,6 @@
           "title": "Woman sentenced to nearly 12 years in prison for fatal Bonsall DUI crash",
           "link": "https://thecoastnews.com/woman-sentenced-to-nearly-12-years-in-prison-for-fatal-bonsall-dui-crash/",
           "published": "2026-09-17T22:49:47+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "OCEANSIDE: Literary festival showcases local authors Sept. 26",
-      "published": "2026-09-17T22:32:38+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "OCEANSIDE: Literary festival showcases local authors Sept. 26",
-          "link": "https://www.northcoastcurrent.com/currentevents/2026/09/oceanside-literary-festival-showcases-local-authors-sept-26/",
-          "published": "2026-09-17T22:32:38+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "ENCINITAS: Courtyard series offers two nights of free music",
-      "published": "2026-09-17T22:32:04+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "ENCINITAS: Courtyard series offers two nights of free music",
-          "link": "https://www.northcoastcurrent.com/currentevents/2026/09/encinitas-courtyard-series-offers-two-nights-of-free-music/",
-          "published": "2026-09-17T22:32:04+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "CARLSBAD: Pancake breakfast benefits Shop with a Cop program",
-      "published": "2026-09-17T22:31:23+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "CARLSBAD: Pancake breakfast benefits Shop with a Cop program",
-          "link": "https://www.northcoastcurrent.com/currentevents/2026/09/carlsbad-pancake-breakfast-benefits-shop-with-a-cop-program/",
-          "published": "2026-09-17T22:31:23+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "SOLANA BEACH: Community joins countywide Coastal Cleanup Day",
-      "published": "2026-09-17T22:30:47+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "SOLANA BEACH: Community joins countywide Coastal Cleanup Day",
-          "link": "https://www.northcoastcurrent.com/currentevents/2026/09/solana-beach-community-joins-countywide-coastal-cleanup-day/",
-          "published": "2026-09-17T22:30:47+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "SAN MARCOS: Summer concert series closes Saturday",
-      "published": "2026-09-17T22:30:22+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "SAN MARCOS: Summer concert series closes Saturday",
-          "link": "https://www.northcoastcurrent.com/currentevents/2026/09/san-marcos-summer-concert-series-closes-saturday/",
-          "published": "2026-09-17T22:30:22+00:00"
         }
       ]
     },
@@ -781,17 +703,96 @@
           "published": "2026-09-17T02:27:53+00:00"
         }
       ]
+    },
+    {
+      "headline": "She Won County Teacher of the Year. Then Lost Her Position",
+      "published": "2026-09-17T01:41:12+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "She Won County Teacher of the Year. Then Lost Her Position",
+          "link": "https://voiceofsandiego.org/2026/09/16/she-won-county-teacher-of-the-year-then-lost-her-position/",
+          "published": "2026-09-17T01:41:12+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "There’s Still Time to Meet Your Work Requirements",
+      "published": "2026-09-17T00:18:27+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "There’s Still Time to Meet Your Work Requirements",
+          "link": "https://www.countynewscenter.com/theres-still-time-to-meet-your-work-requirements/?utm_source=rss&utm_medium=rss&utm_campaign=theres-still-time-to-meet-your-work-requirements",
+          "published": "2026-09-17T00:18:27+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "CHS ’25 graduate competes on “The Amazing Race” season 39 with his grandfather",
+      "published": "2026-09-16T23:28:10+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "CHS ’25 graduate competes on “The Amazing Race” season 39 with his grandfather",
+          "link": "https://coronadotimes.com/news/2026/09/16/chs-25-graduate-competes-on-the-amazing-race-season-39-with-his-grandfather/",
+          "published": "2026-09-16T23:28:10+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Dissatisfaction with City Hall Threatens Incumbent in District 4",
+      "published": "2026-09-16T21:19:11+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Dissatisfaction with City Hall Threatens Incumbent in District 4",
+          "link": "https://voiceofsandiego.org/2026/09/16/dissatisfaction-with-city-hall-threatens-incumbent-in-district-4/",
+          "published": "2026-09-16T21:19:11+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "The $40 million problem: Air conditioning at Coronado schools",
+      "published": "2026-09-16T20:20:01+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "The $40 million problem: Air conditioning at Coronado schools",
+          "link": "https://coronadotimes.com/news/2026/09/16/the-40-million-problem-air-conditioning-at-coronado-schools/",
+          "published": "2026-09-16T20:20:01+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "NASNI’s biometric entry lanes have expanded, but gate backups persist",
+      "published": "2026-09-16T20:17:35+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "NASNI’s biometric entry lanes have expanded, but gate backups persist",
+          "link": "https://coronadotimes.com/news/2026/09/16/nasnis-biometric-entry-lanes-have-expanded-but-gate-backups-persist/",
+          "published": "2026-09-16T20:17:35+00:00"
+        }
+      ]
     }
   ],
   "debug": {
     "sources_configured": 23,
-    "sources_ok": 9,
+    "sources_ok": 8,
     "sources_failed": [
       "KPBS",
       "San Diego Union-Tribune",
       "San Diego Reader",
       "CalMatters (San Diego tag)",
       "Inside San Diego",
+      "North Coast Current",
       "Imperial Beach News CA",
       "La Jolla Light",
       "Point Loma-OB Monthly",
