@@ -1,17 +1,511 @@
 {
-  "generated_at": "2026-09-22T14:11:12.668446+00:00",
-  "story_count": 84,
+  "generated_at": "2026-09-23T14:12:03.233449+00:00",
+  "story_count": 95,
   "stories": [
     {
-      "headline": "El Cajon Boulevard: San Diego’s unofficial drag strip — and the riot that made history",
-      "published": "2026-09-22T14:00:00+00:00",
+      "headline": "1906: The morning Cathedral Rock collapsed in La Jolla",
+      "published": "2026-09-23T14:00:00+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "Times of San Diego",
-          "title": "El Cajon Boulevard: San Diego’s unofficial drag strip — and the riot that made history",
-          "link": "https://timesofsandiego.com/arts/2026/09/22/el-cajon-boulevard-san-diegos-unofficial-drag-strip-and-the-riot-that-made-history/",
-          "published": "2026-09-22T14:00:00+00:00"
+          "title": "1906: The morning Cathedral Rock collapsed in La Jolla",
+          "link": "https://timesofsandiego.com/arts/2026/09/23/1906-the-morning-cathedral-rock-collapsed-in-la-jolla/",
+          "published": "2026-09-23T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Third Try for Nat City Biz Tax Hike",
+      "published": "2026-09-23T09:15:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Third Try for Nat City Biz Tax Hike",
+          "link": "https://voiceofsandiego.org/2026/09/23/third-try-for-nat-city-biz-tax-hike/",
+          "published": "2026-09-23T09:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Sharp Contrasts in South County Mayoral Races",
+      "published": "2026-09-23T09:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Sharp Contrasts in South County Mayoral Races",
+          "link": "https://voiceofsandiego.org/2026/09/23/sharp-contrasts-in-south-county-mayoral-races/",
+          "published": "2026-09-23T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Bahía de San Diego y South Bay ante el Súper El Niño",
+      "published": "2026-09-23T02:59:15+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Bahía de San Diego y South Bay ante el Súper El Niño",
+          "link": "https://timesofsandiego.com/environment/2026/09/22/bahia-san-diego-south-bay-super-el-nino/",
+          "published": "2026-09-23T02:59:15+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Playas de la ciudad enfrentan riesgos por posible Súper El Niño",
+      "published": "2026-09-23T02:49:20+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Playas de la ciudad enfrentan riesgos por posible Súper El Niño",
+          "link": "https://timesofsandiego.com/environment/2026/09/22/playas-ciudad-super-el-nino-san-diego/",
+          "published": "2026-09-23T02:49:20+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "La Jolla enfrenta erosión costera y riesgos de inundación por posible Súper El Niño",
+      "published": "2026-09-23T02:40:55+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "La Jolla enfrenta erosión costera y riesgos de inundación por posible Súper El Niño",
+          "link": "https://timesofsandiego.com/environment/2026/09/22/la-jolla-super-el-nino-erosion-costera/",
+          "published": "2026-09-23T02:40:55+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Las playas del norte de San Diego y El Niño",
+      "published": "2026-09-23T02:34:30+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Las playas del norte de San Diego y El Niño",
+          "link": "https://timesofsandiego.com/environment/2026/09/22/north-county-riesgos-super-el-nino-san-diego/",
+          "published": "2026-09-23T02:34:30+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "El icónico litoral del condado de San Diego enfrenta una triple amenaza por un ‘Súper El Niño’",
+      "published": "2026-09-23T02:30:03+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "El icónico litoral del condado de San Diego enfrenta una triple amenaza por un ‘Súper El Niño’",
+          "link": "https://timesofsandiego.com/environment/2026/09/22/super-el-nino-amenaza-costa-san-diego/",
+          "published": "2026-09-23T02:30:03+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Mujeres latinas unen ciencia, raíces y servicio a la comunidad",
+      "published": "2026-09-23T02:18:58+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Mujeres latinas unen ciencia, raíces y servicio a la comunidad",
+          "link": "https://timesofsandiego.com/agriculture/2026/09/22/mujeres-latinas-unen-ciencia-raices-y-servicio-a-la-comunidad/",
+          "published": "2026-09-23T02:18:58+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Three Coronado residents have West Nile Virus; County to conduct pesticide spray",
+      "published": "2026-09-23T02:00:44+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Three Coronado residents have West Nile Virus; County to conduct pesticide spray",
+          "link": "https://coronadotimes.com/news/2026/09/22/three-coronado-residents-have-west-nile-virus-county-to-conduct-pesticide-spray/",
+          "published": "2026-09-23T02:00:44+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Coronado police beat would-be bank robber to the door",
+      "published": "2026-09-23T01:05:52+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Coronado police beat would-be bank robber to the door",
+          "link": "https://coronadotimes.com/news/2026/09/22/coronado-police-beat-would-be-bank-robber-to-the-door/",
+          "published": "2026-09-23T01:05:52+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Ocean Beach’s Grateful Dead Mondays aren’t going anywhere, but they won’t be at Winston’s anymore",
+      "published": "2026-09-23T00:45:18+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Ocean Beach’s Grateful Dead Mondays aren’t going anywhere, but they won’t be at Winston’s anymore",
+          "link": "https://timesofsandiego.com/business/2026/09/22/ocean-beach-winstons-music-closing/",
+          "published": "2026-09-23T00:45:18+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Teenager arrested in Imperial Beach, suspected of leaving antisemitic graffiti on homes",
+      "published": "2026-09-23T00:17:54+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Teenager arrested in Imperial Beach, suspected of leaving antisemitic graffiti on homes",
+          "link": "https://timesofsandiego.com/crime/2026/09/22/teen-imperial-beach-suspect-antisemitic-graffiti/",
+          "published": "2026-09-23T00:17:54+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Endorsement of Mal Sandie",
+      "published": "2026-09-22T23:26:52+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Endorsement of Mal Sandie",
+          "link": "https://coronadotimes.com/news/2026/09/22/endorsement-of-mal-sandie/",
+          "published": "2026-09-22T23:26:52+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Judge rejects bid to dismiss Del Mar polo fields land-use suit",
+      "published": "2026-09-22T23:17:50+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Judge rejects bid to dismiss Del Mar polo fields land-use suit",
+          "link": "https://thecoastnews.com/judge-rejects-bid-to-dismiss-del-mar-polo-fields-land-use-suit/",
+          "published": "2026-09-22T23:17:50+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Father accused of murder, abuse in death of 7-month-old baby",
+      "published": "2026-09-22T23:07:51+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Father accused of murder, abuse in death of 7-month-old baby",
+          "link": "https://timesofsandiego.com/crime/2026/09/22/father-suspect-murder-abuse-baby-daughter/",
+          "published": "2026-09-22T23:07:51+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "AI works best when it assists, rather than replaces",
+      "published": "2026-09-22T22:26:12+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "AI works best when it assists, rather than replaces",
+          "link": "https://thecoastnews.com/ai-works-best-when-it-assists-rather-than-replaces/",
+          "published": "2026-09-22T22:26:12+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "County to Treat Areas for Mosquitoes to Reduce Risk of West Nile Virus",
+      "published": "2026-09-22T22:20:49+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "County to Treat Areas for Mosquitoes to Reduce Risk of West Nile Virus",
+          "link": "https://www.countynewscenter.com/county-to-treat-areas-for-mosquitoes-to-reduce-risk-of-west-nile-virus/?utm_source=rss&utm_medium=rss&utm_campaign=county-to-treat-areas-for-mosquitoes-to-reduce-risk-of-west-nile-virus",
+          "published": "2026-09-22T22:20:49+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Riding a Catalina Mountains High",
+      "published": "2026-09-22T22:15:00+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Riding a Catalina Mountains High",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDyEFca9pyYEkA7v6L8moPO_?utm_source=follow.it",
+          "published": "2026-09-22T22:15:00+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Carlsbad’s Acosta named Water Authority vice chair",
+      "published": "2026-09-22T22:13:47+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "Carlsbad’s Acosta named Water Authority vice chair",
+          "link": "https://www.northcoastcurrent.com/carlsbad-news/2026/09/carlsbads-acosta-named-water-authority-vice-chair/",
+          "published": "2026-09-22T22:13:47+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Neighborhood Activists Sue City of San Diego for Withholding Public Records on Development and Density Policy",
+      "published": "2026-09-22T22:08:04+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Neighborhood Activists Sue City of San Diego for Withholding Public Records on Development and Density Policy",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDze25ukDO8r_qGEg7ObxiL7?utm_source=follow.it",
+          "published": "2026-09-22T22:08:04+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Is San Diego’s Mass Transit System On the Verge of Collapse?",
+      "published": "2026-09-22T21:34:16+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Is San Diego’s Mass Transit System On the Verge of Collapse?",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDyjHEhECA63y3F_jtDzWeMs?utm_source=follow.it",
+          "published": "2026-09-22T21:34:16+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Appeals court reverses county’s dismissal from suit involving former deputy",
+      "published": "2026-09-22T21:26:10+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Appeals court reverses county’s dismissal from suit involving former deputy",
+          "link": "https://thecoastnews.com/appeals-court-reverses-countys-dismissal-from-suit-involving-former-deputy/",
+          "published": "2026-09-22T21:26:10+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "State senator says new data center laws will protect consumers",
+      "published": "2026-09-22T21:12:18+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "State senator says new data center laws will protect consumers",
+          "link": "https://thecoastnews.com/state-senator-says-new-data-center-laws-will-protect-consumers/",
+          "published": "2026-09-22T21:12:18+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Old Wonder Bread Building in Downtown San Diego to Be Transformed Into Music Venue",
+      "published": "2026-09-22T20:50:54+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Old Wonder Bread Building in Downtown San Diego to Be Transformed Into Music Venue",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDzs4XHijyIbIWSGgqUU2Ifs?utm_source=follow.it",
+          "published": "2026-09-22T20:50:54+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Encinitas Oktoberfest marks 30th anniversary Sept. 27",
+      "published": "2026-09-22T20:46:09+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "Encinitas Oktoberfest marks 30th anniversary Sept. 27",
+          "link": "https://www.northcoastcurrent.com/north-coast-life/2026/09/encinitas-oktoberfest-marks-30th-anniversary-sept-27/",
+          "published": "2026-09-22T20:46:09+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Escondido police issues 72 citations in pedestrian, bike safety operation",
+      "published": "2026-09-22T20:42:16+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Escondido police issues 72 citations in pedestrian, bike safety operation",
+          "link": "https://thecoastnews.com/escondido-police-issues-72-citations-in-pedestrian-bike-safety-operation/",
+          "published": "2026-09-22T20:42:16+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Solana Beach Chamber welcomes Torrey Pines senior as marketing intern",
+      "published": "2026-09-22T20:40:18+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Solana Beach Chamber welcomes Torrey Pines senior as marketing intern",
+          "link": "https://thecoastnews.com/solana-beach-chamber-welcomes-torrey-pines-senior-as-marketing-intern/",
+          "published": "2026-09-22T20:40:18+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "ACE Tutoring turns stress into success",
+      "published": "2026-09-22T20:32:54+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "ACE Tutoring turns stress into success",
+          "link": "https://thecoastnews.com/ace-tutoring-turns-stress-into-success/",
+          "published": "2026-09-22T20:32:54+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "A taste of autumn at Four Seasons",
+      "published": "2026-09-22T20:27:31+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "A taste of autumn at Four Seasons",
+          "link": "https://thecoastnews.com/a-taste-of-autumn-at-four-seasons/",
+          "published": "2026-09-22T20:27:31+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Pentagon Has Lied to Public About How Many U.S. Service Members Have Died in Middle East During Iran War",
+      "published": "2026-09-22T20:27:20+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Pentagon Has Lied to Public About How Many U.S. Service Members Have Died in Middle East During Iran War",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDx5O2vl2PWec9-WdxIa1_WC?utm_source=follow.it",
+          "published": "2026-09-22T20:27:20+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Mayor US Television Outlets Boycott Trump After He Banned Journalists from White House",
+      "published": "2026-09-22T19:59:47+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Mayor US Television Outlets Boycott Trump After He Banned Journalists from White House",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDzKjCQXk-_ymDJIJpcVaipe?utm_source=follow.it",
+          "published": "2026-09-22T19:59:47+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Judgment in Encinitas",
+      "published": "2026-09-22T19:05:03+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Judgment in Encinitas",
+          "link": "https://thecoastnews.com/from-the-cheap-seats-whose-judgment-do-you-trust/",
+          "published": "2026-09-22T19:05:03+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Coast Thai-Way brings delightful Southeast Asian comfort food to Leucadia",
+      "published": "2026-09-22T18:43:18+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Coast Thai-Way brings delightful Southeast Asian comfort food to Leucadia",
+          "link": "https://thecoastnews.com/coast-thai-way-brings-delightful-southeast-asian-comfort-food-to-leucadia/",
+          "published": "2026-09-22T18:43:18+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Pedestrian struck, killed on Centre City Parkway in Escondido",
+      "published": "2026-09-22T18:07:32+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Pedestrian struck, killed on Centre City Parkway in Escondido",
+          "link": "https://thecoastnews.com/pedestrian-struck-killed-on-centre-city-parkway-in-escondido/",
+          "published": "2026-09-22T18:07:32+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Newsom declares state of emergency in preparation for El Niño",
+      "published": "2026-09-22T17:57:39+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Newsom declares state of emergency in preparation for El Niño",
+          "link": "https://thecoastnews.com/newsom-declares-state-of-emergency-in-preparation-for-el-nino/",
+          "published": "2026-09-22T17:57:39+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "New field lights brighten Fallbrook’s Ingold Sports Park",
+      "published": "2026-09-22T16:36:22+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "New field lights brighten Fallbrook’s Ingold Sports Park",
+          "link": "https://thecoastnews.com/new-field-lights-brighten-fallbrooks-ingold-sports-park/",
+          "published": "2026-09-22T16:36:22+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Nordic traditions come alive at Vista Viking Festival",
+      "published": "2026-09-22T16:23:35+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Nordic traditions come alive at Vista Viking Festival",
+          "link": "https://thecoastnews.com/nordic-traditions-come-alive-at-vista-viking-festival/",
+          "published": "2026-09-22T16:23:35+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Oceanside pier bridge, lifeguard center rebuild faces $60M funding gap",
+      "published": "2026-09-22T15:38:53+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Oceanside pier bridge, lifeguard center rebuild faces $60M funding gap",
+          "link": "https://thecoastnews.com/oceanside-pier-bridge-rebuild-faces-60m-funding-gap/",
+          "published": "2026-09-22T15:38:53+00:00"
         }
       ]
     },
@@ -29,13 +523,13 @@
       ]
     },
     {
-      "headline": "The Debate Over a Countywide Sales Tax Increase",
+      "headline": "The Debate Over a Countywide Sales Tax Increase",
       "published": "2026-09-22T09:00:00+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "Voice of San Diego",
-          "title": "The Debate Over a Countywide Sales Tax Increase",
+          "title": "The Debate Over a Countywide Sales Tax Increase",
           "link": "https://voiceofsandiego.org/2026/09/22/the-debate-over-a-countywide-sales-tax-increase/",
           "published": "2026-09-22T09:00:00+00:00"
         }
@@ -68,45 +562,6 @@
       ]
     },
     {
-      "headline": "Port of San Diego to officially rename César Chávez Park",
-      "published": "2026-09-21T23:53:01+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Port of San Diego to officially rename César Chávez Park",
-          "link": "https://timesofsandiego.com/community/2026/09/21/port-san-diego-rename-cesar-chavez-park/",
-          "published": "2026-09-21T23:53:01+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Carlsbad mother identified as victim killed in suspected DUI hit-and-run",
-      "published": "2026-09-21T23:40:56+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Carlsbad mother identified as victim killed in suspected DUI hit-and-run",
-          "link": "https://thecoastnews.com/carlsbad-mother-identified-as-victim-killed-in-suspected-dui-hit-and-run/",
-          "published": "2026-09-21T23:40:56+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Who’s News: 9/25/26",
-      "published": "2026-09-21T23:39:52+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Who’s News: 9/25/26",
-          "link": "https://thecoastnews.com/whos-news-9-25-26/",
-          "published": "2026-09-21T23:39:52+00:00"
-        }
-      ]
-    },
-    {
       "headline": "CHS alum Sarah Matney returns from Mumbai with new insights on postpartum care",
       "published": "2026-09-21T23:29:26+00:00",
       "outlet_count": 1,
@@ -133,19 +588,6 @@
       ]
     },
     {
-      "headline": "Paso Robles wineries confront challenge of changing tastes",
-      "published": "2026-09-21T23:04:20+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Paso Robles wineries confront challenge of changing tastes",
-          "link": "https://thecoastnews.com/paso-robles-wineries-confront-challenge-of-changing-tastes/",
-          "published": "2026-09-21T23:04:20+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Sheriff: New Vista Jail Is Critical to Sustaining Progress on Jail Deaths",
       "published": "2026-09-21T22:00:00+00:00",
       "outlet_count": 1,
@@ -155,32 +597,6 @@
           "title": "Sheriff: New Vista Jail Is Critical to Sustaining Progress on Jail Deaths",
           "link": "https://voiceofsandiego.org/2026/09/21/sheriff-new-vista-jail-is-critical-to-sustaining-progress-on-inmate-deaths/",
           "published": "2026-09-21T22:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Four rapes reported at CSUSM during first month of fall semester",
-      "published": "2026-09-21T21:55:15+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Four rapes reported at CSUSM during first month of fall semester",
-          "link": "https://thecoastnews.com/four-rapes-reported-at-csusm-during-first-month-of-fall-semester/",
-          "published": "2026-09-21T21:55:15+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Encinitas planners advance Vulcan pedestrian path near railroad tracks",
-      "published": "2026-09-21T21:34:36+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Encinitas planners advance Vulcan pedestrian path near railroad tracks",
-          "link": "https://thecoastnews.com/encinitas-planners-advance-vulcan-pedestrian-path-near-railroad-tracks/",
-          "published": "2026-09-21T21:34:36+00:00"
         }
       ]
     },
@@ -198,164 +614,80 @@
       ]
     },
     {
-      "headline": "Crisis-tested principal brings steady leadership to Twin Oaks",
-      "published": "2026-09-21T21:17:01+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Crisis-tested principal brings steady leadership to Twin Oaks",
-          "link": "https://thecoastnews.com/crisis-tested-principal-brings-steady-leadership-to-twin-oaks/",
-          "published": "2026-09-21T21:17:01+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "‘The Surge’s’ mature dancers translate Sinéad O’Connor’s life and music into movement",
-      "published": "2026-09-21T20:50:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "‘The Surge’s’ mature dancers translate Sinéad O’Connor’s life and music into movement",
-          "link": "https://timesofsandiego.com/arts/2026/09/21/san-diego-fall-arts-surge-dance-sinead-oconnor/",
-          "published": "2026-09-21T20:50:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Escuelas de California no siempre revelan rifles de estilo militar que poseen sus cuerpos policiales",
-      "published": "2026-09-21T20:47:46+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Escuelas de California no siempre revelan rifles de estilo militar que poseen sus cuerpos policiales",
-          "link": "https://timesofsandiego.com/education/2026/09/21/escuelas-california-policias-rifles-estilo-militar-transparencia/",
-          "published": "2026-09-21T20:47:46+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Grandview Beach access closed after bluff collapse",
-      "published": "2026-09-21T20:44:03+00:00",
-      "outlet_count": 2,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Grandview Beach access closed after bluff collapse",
-          "link": "https://thecoastnews.com/grandview-beach-access-closed-after-bluff-collapse/",
-          "published": "2026-09-21T20:44:03+00:00"
-        },
-        {
-          "source": "North Coast Current",
-          "title": "Bluff failure leads to Grandview Beach access closure",
-          "link": "https://www.northcoastcurrent.com/encinitas-news/2026/09/bluff-failure-leads-to-grandview-beach-access-closure/",
-          "published": "2026-09-20T02:06:35+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Joe Cardona, especialista en centros largos, se enorgullece de estar preparado. Como veterano de la NFL, el arduo trabajo del originario del Este del Condado ha dado frutos",
-      "published": "2026-09-21T20:21:52+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Joe Cardona, especialista en centros largos, se enorgullece de estar preparado. Como veterano de la NFL, el arduo trabajo del originario del Este del Condado ha dado frutos",
-          "link": "https://timesofsandiego.com/sports/2026/09/21/joe-cardona-preparacion-carrera-exitosa-nfl/",
-          "published": "2026-09-21T20:21:52+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Cutting-edge theater to be excited about this fall on San Diego stages",
-      "published": "2026-09-21T20:05:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Cutting-edge theater to be excited about this fall on San Diego stages",
-          "link": "https://timesofsandiego.com/arts/2026/09/21/san-diego-fall-arts-theater/",
-          "published": "2026-09-21T20:05:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Wise Owl Gym in Santee packs a punch for those fighting Parkinson’s",
-      "published": "2026-09-21T19:35:12+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Wise Owl Gym in Santee packs a punch for those fighting Parkinson’s",
-          "link": "https://timesofsandiego.com/business/2026/09/21/wise-owl-fit-packs-punch-against-parkinsons/",
-          "published": "2026-09-21T19:35:12+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Ocean Beach Library closes for massive renovation",
-      "published": "2026-09-21T18:40:57+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Ocean Beach Library closes for massive renovation",
-          "link": "https://timesofsandiego.com/community/2026/09/21/ocean-beach-library-closes-for-massive-renovation/",
-          "published": "2026-09-21T18:40:57+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "REPORTAJE ESPECIAL | Morir frente a las cámaras",
-      "published": "2026-09-21T18:40:39+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "REPORTAJE ESPECIAL | Morir frente a las cámaras",
-          "link": "https://timesofsandiego.com/immigration/2026/09/21/camaras-vigilancia-frontera-muertes-migrantes-california/",
-          "published": "2026-09-21T18:40:39+00:00"
-        }
-      ]
-    },
-    {
       "headline": "How San Diego’s Housing Commission Continues to Fast-Track the Concentration of Poverty",
-      "published": "2026-09-21T18:13:27+00:00",
+      "published": "2026-09-21T20:13:27+02:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
           "title": "How San Diego’s Housing Commission Continues to Fast-Track the Concentration of Poverty",
-          "link": "https://obrag.org/2026/09/how-san-diegos-housing-commission-continues-to-fast-track-the-concentration-of-poverty/",
-          "published": "2026-09-21T18:13:27+00:00"
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDzLcl9--WZ8WKIpL6WnoxJF?utm_source=follow.it",
+          "published": "2026-09-21T20:13:27+02:00"
         }
       ]
     },
     {
-      "headline": "Opinion: Oceanside taxpayers should reject Measure S",
-      "published": "2026-09-21T18:12:46+00:00",
+      "headline": "Community Coalition Bulletin: This Week at City Hall — Sept. 21–25",
+      "published": "2026-09-21T19:25:15+02:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "The Coast News",
-          "title": "Opinion: Oceanside taxpayers should reject Measure S",
-          "link": "https://thecoastnews.com/opinion-oceanside-taxpayers-should-reject-measure-s/",
-          "published": "2026-09-21T18:12:46+00:00"
+          "source": "OB Rag",
+          "title": "Community Coalition Bulletin: This Week at City Hall — Sept. 21–25",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDz0-T-EcZiQ008AVxfHsWeX?utm_source=follow.it",
+          "published": "2026-09-21T19:25:15+02:00"
         }
       ]
     },
     {
-      "headline": "La Mesa to fund city’s first Pride event, coming in 2027",
-      "published": "2026-09-21T18:04:30+00:00",
+      "headline": "‘Are You Registered to Vote? Please Confirm.’",
+      "published": "2026-09-21T19:04:31+02:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "Times of San Diego",
-          "title": "La Mesa to fund city’s first Pride event, coming in 2027",
-          "link": "https://timesofsandiego.com/life/2026/09/21/la-mesa-city-first-pride-event/",
-          "published": "2026-09-21T18:04:30+00:00"
+          "source": "OB Rag",
+          "title": "‘Are You Registered to Vote? Please Confirm.’",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDzAxeZW6cZ24J69GrtU_Ua2?utm_source=follow.it",
+          "published": "2026-09-21T19:04:31+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Emerald Hills Neighborhood Meeting Held to Discuss District 4 Issues",
+      "published": "2026-09-21T18:42:17+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Emerald Hills Neighborhood Meeting Held to Discuss District 4 Issues",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDyOlxq3WHvGTVvaP633w_CV?utm_source=follow.it",
+          "published": "2026-09-21T18:42:17+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Midway Rising Plans Affordable Housing, but There’s No Guarantee",
+      "published": "2026-09-21T18:16:02+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Midway Rising Plans Affordable Housing, but There’s No Guarantee",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxg35AaTaZ-3dRPCjlhk9FW?utm_source=follow.it",
+          "published": "2026-09-21T18:16:02+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "6th Annual Battle for the Paddle by OB Woman’s Club — Friday, Sept. 25",
+      "published": "2026-09-21T18:01:21+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "6th Annual Battle for the Paddle by OB Woman’s Club — Friday, Sept. 25",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwGvzTN-_7-V66yDhi7abzW?utm_source=follow.it",
+          "published": "2026-09-21T18:01:21+02:00"
         }
       ]
     },
@@ -369,149 +701,6 @@
           "title": "Coronado ocean water and air quality report – Sept. 10-16, 2026",
           "link": "https://coronadotimes.com/news/2026/09/21/coronado-ocean-water-and-air-quality-report-sept-10-16-2026/",
           "published": "2026-09-21T17:48:49+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Oceanside snaps three-game skid with 51-0 road victory",
-      "published": "2026-09-21T17:32:21+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Oceanside snaps three-game skid with 51-0 road victory",
-          "link": "https://thecoastnews.com/oceanside-snaps-three-game-skid-with-51-0-road-victory/",
-          "published": "2026-09-21T17:32:21+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Community Coalition Bulletin: This Week at City Hall — Sept. 21–25",
-      "published": "2026-09-21T17:25:15+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Community Coalition Bulletin: This Week at City Hall — Sept. 21–25",
-          "link": "https://obrag.org/2026/09/community-coalition-bulletin-this-week-at-city-hall-sept-21-25/",
-          "published": "2026-09-21T17:25:15+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "‘Are You Registered to Vote? Please Confirm.’",
-      "published": "2026-09-21T17:04:31+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "‘Are You Registered to Vote? Please Confirm.’",
-          "link": "https://obrag.org/2026/09/are-you-registered-to-vote-please-confirm/",
-          "published": "2026-09-21T17:04:31+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "North County Notebook: Strike Force reloads without Davis; Evans wins title",
-      "published": "2026-09-21T16:59:28+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "North County Notebook: Strike Force reloads without Davis; Evans wins title",
-          "link": "https://thecoastnews.com/north-county-notebook-strike-force-reloads-without-davis-evans-wins-title/",
-          "published": "2026-09-21T16:59:28+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Hovis leads surging San Marcos flag football team",
-      "published": "2026-09-21T16:44:07+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Hovis leads surging San Marcos flag football team",
-          "link": "https://thecoastnews.com/hovis-leads-surging-san-marcos-flag-football-team/",
-          "published": "2026-09-21T16:44:07+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Emerald Hills Neighborhood Meeting Held to Discuss District 4 Issues",
-      "published": "2026-09-21T16:42:17+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Emerald Hills Neighborhood Meeting Held to Discuss District 4 Issues",
-          "link": "https://obrag.org/2026/09/emerald-hills-neighborhood-meeting-held-to-discuss-district-4-issues/",
-          "published": "2026-09-21T16:42:17+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Captain Courageous: When Duke saved the day at Disneyland",
-      "published": "2026-09-21T16:33:45+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Captain Courageous: When Duke saved the day at Disneyland",
-          "link": "https://thecoastnews.com/captain-courageous-when-duke-saved-the-day-at-disneyland/",
-          "published": "2026-09-21T16:33:45+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Damage forces temporary closure of Bradley Bike Park",
-      "published": "2026-09-21T16:27:11+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Damage forces temporary closure of Bradley Bike Park",
-          "link": "https://thecoastnews.com/damage-forces-temporary-closure-of-bradley-bike-park/",
-          "published": "2026-09-21T16:27:11+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Midway Rising Plans Affordable Housing, but There’s No Guarantee",
-      "published": "2026-09-21T16:16:02+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Midway Rising Plans Affordable Housing, but There’s No Guarantee",
-          "link": "https://obrag.org/2026/09/midway-rising-plans-affordable-housing-but-theres-no-guarantee/",
-          "published": "2026-09-21T16:16:02+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "6th Annual Battle for the Paddle by OB Woman’s Club — Friday, Sept. 25",
-      "published": "2026-09-21T16:01:21+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "6th Annual Battle for the Paddle by OB Woman’s Club — Friday, Sept. 25",
-          "link": "https://obrag.org/2026/09/6th-annual-battle-for-the-paddle-by-ob-womans-club-friday-sept-25/",
-          "published": "2026-09-21T16:01:21+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Encinitas candidates tackle growth, safety and homelessness at forum",
-      "published": "2026-09-21T16:01:01+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Encinitas candidates tackle growth, safety and homelessness at forum",
-          "link": "https://thecoastnews.com/encinitas-candidates-tackle-growth-safety-and-homelessness-at-forum/",
-          "published": "2026-09-21T16:01:01+00:00"
         }
       ]
     },
@@ -555,28 +744,15 @@
       ]
     },
     {
-      "headline": "A Conversation with a D8 Candidate",
-      "published": "2026-09-20T13:00:00+00:00",
+      "headline": "Bluff failure leads to Grandview Beach access closure",
+      "published": "2026-09-20T02:06:35+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "Voice of San Diego",
-          "title": "A Conversation with a D8 Candidate",
-          "link": "https://voiceofsandiego.org/2026/09/20/a-conversation-with-a-d8-candidate/",
-          "published": "2026-09-20T13:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Brace for Silly Season",
-      "published": "2026-09-19T19:41:40+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Brace for Silly Season",
-          "link": "https://voiceofsandiego.org/2026/09/19/brace-for-silly-season/",
-          "published": "2026-09-19T19:41:40+00:00"
+          "source": "North Coast Current",
+          "title": "Bluff failure leads to Grandview Beach access closure",
+          "link": "https://www.northcoastcurrent.com/encinitas-news/2026/09/bluff-failure-leads-to-grandview-beach-access-closure/",
+          "published": "2026-09-20T02:06:35+00:00"
         }
       ]
     },
@@ -603,188 +779,6 @@
           "title": "A year after their promise, lawmakers again reform environmental planning; now Newsom will weigh in",
           "link": "https://www.northcoastcurrent.com/top-stories/2026/09/a-year-after-their-promise-lawmakers-again-reform-environmental-planning-now-newsom-will-weigh-in/",
           "published": "2026-09-18T22:30:51+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "SDG&E Powerlink plan draws strong opposition at San Marcos hearing",
-      "published": "2026-09-18T21:06:44+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "SDG&E Powerlink plan draws strong opposition at San Marcos hearing",
-          "link": "https://thecoastnews.com/sdge-powerlink-plan-draws-strong-opposition-at-san-marcos-hearing/",
-          "published": "2026-09-18T21:06:44+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "“Adopt a Camper” – Coronado Middle School seeks sponsors for sixth grade camp",
-      "published": "2026-09-18T20:37:49+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "“Adopt a Camper” – Coronado Middle School seeks sponsors for sixth grade camp",
-          "link": "https://coronadotimes.com/news/2026/09/18/adopt-a-camper-coronado-middle-school-seeks-sponsors-for-sixth-grade-camp/",
-          "published": "2026-09-18T20:37:49+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Coronado Schools Foundation “The Golden Gala” celebrated generous community support for Coronado students",
-      "published": "2026-09-18T19:12:37+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Coronado Schools Foundation “The Golden Gala” celebrated generous community support for Coronado students",
-          "link": "https://coronadotimes.com/news/2026/09/18/coronado-schools-foundation-the-golden-gala-celebrated-generous-community-support-for-coronado-students/",
-          "published": "2026-09-18T19:12:37+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "The Rise of Roadside Motor Lodges in San Diego",
-      "published": "2026-09-18T19:03:54+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "The Rise of Roadside Motor Lodges in San Diego",
-          "link": "https://obrag.org/2026/09/the-rise-of-roadside-motor-lodges-in-san-diego/",
-          "published": "2026-09-18T19:03:54+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "We should all be grateful",
-      "published": "2026-09-18T18:38:10+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "We should all be grateful",
-          "link": "https://coronadotimes.com/news/2026/09/18/we-should-all-be-grateful/",
-          "published": "2026-09-18T18:38:10+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Upcoming Events in Ocean Beach and Point Loma",
-      "published": "2026-09-18T18:07:22+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Upcoming Events in Ocean Beach and Point Loma",
-          "link": "https://obrag.org/2026/09/upcoming-events-in-ocean-beach-and-point-loma/",
-          "published": "2026-09-18T18:07:22+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "‘We Have Been Taking Balboa Park for Granted for Too Long’",
-      "published": "2026-09-18T17:02:58+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "‘We Have Been Taking Balboa Park for Granted for Too Long’",
-          "link": "https://obrag.org/2026/09/we-have-been-taking-balboa-park-for-granted-for-too-long/",
-          "published": "2026-09-18T17:02:58+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Young Motorcyclist Dies From Crash with SUV on Catalina in Point Loma",
-      "published": "2026-09-18T16:45:12+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Young Motorcyclist Dies From Crash with SUV on Catalina in Point Loma",
-          "link": "https://obrag.org/2026/09/young-motorcyclist-dies-from-crash-with-suv-on-catalina-in-point-loma/",
-          "published": "2026-09-18T16:45:12+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Living Sustainably Can Put Money in Your Pocket",
-      "published": "2026-09-18T16:24:59+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "Living Sustainably Can Put Money in Your Pocket",
-          "link": "https://www.countynewscenter.com/living-sustainably-can-put-money-in-your-pocket/?utm_source=rss&utm_medium=rss&utm_campaign=living-sustainably-can-put-money-in-your-pocket",
-          "published": "2026-09-18T16:24:59+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "County Releases $9.16 Billion Adopted Budget for Fiscal Year 2026-27 Online",
-      "published": "2026-09-18T15:50:22+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "County Releases $9.16 Billion Adopted Budget for Fiscal Year 2026-27 Online",
-          "link": "https://www.countynewscenter.com/county-releases-9-16-billion-adopted-budget-for-fiscal-year-2026-27/?utm_source=rss&utm_medium=rss&utm_campaign=county-releases-9-16-billion-adopted-budget-for-fiscal-year-2026-27",
-          "published": "2026-09-18T15:50:22+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Vista-Based DIG Corp. lease fills San Marcos industrial building",
-      "published": "2026-09-18T00:23:08+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Vista-Based DIG Corp. lease fills San Marcos industrial building",
-          "link": "https://www.northcoastcurrent.com/business-notes/2026/09/vista-based-dig-corp-lease-fills-san-marcos-industrial-building/",
-          "published": "2026-09-18T00:23:08+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Encinitas Chamber honors five San Dieguito district seniors as Rising Stars",
-      "published": "2026-09-17T23:22:04+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Encinitas Chamber honors five San Dieguito district seniors as Rising Stars",
-          "link": "https://www.northcoastcurrent.com/campus/2026/09/encinitas-chamber-honors-five-san-dieguito-district-seniors-as-rising-stars/",
-          "published": "2026-09-17T23:22:04+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "OCEANSIDE: Literary festival showcases local authors Sept. 26",
-      "published": "2026-09-17T22:32:38+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "OCEANSIDE: Literary festival showcases local authors Sept. 26",
-          "link": "https://www.northcoastcurrent.com/currentevents/2026/09/oceanside-literary-festival-showcases-local-authors-sept-26/",
-          "published": "2026-09-17T22:32:38+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "ENCINITAS: Courtyard series offers two nights of free music",
-      "published": "2026-09-17T22:32:04+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "ENCINITAS: Courtyard series offers two nights of free music",
-          "link": "https://www.northcoastcurrent.com/currentevents/2026/09/encinitas-courtyard-series-offers-two-nights-of-free-music/",
-          "published": "2026-09-17T22:32:04+00:00"
         }
       ]
     }
