@@ -1,7 +1,130 @@
 {
-  "generated_at": "2026-09-26T14:11:02.167993+00:00",
-  "story_count": 85,
+  "generated_at": "2026-09-27T14:10:08.423502+00:00",
+  "story_count": 84,
   "stories": [
+    {
+      "headline": "Here’s where you can pick up sandbags to prepare for El Niño storm flooding",
+      "published": "2026-09-26T23:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Here’s where you can pick up sandbags to prepare for El Niño storm flooding",
+          "link": "https://timesofsandiego.com/weather/2026/09/26/heres-where-you-can-pick-up-sandbags-to-prepare-for-el-nino-storm-flooding/",
+          "published": "2026-09-26T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Officials issue warning after E. coli outbreak from raw milk cheese reaches San Diego",
+      "published": "2026-09-26T21:45:00+00:00",
+      "outlet_count": 2,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Officials issue warning after E. coli outbreak from raw milk cheese reaches San Diego",
+          "link": "https://timesofsandiego.com/health/2026/09/26/officials-issue-warning-after-e-coli-outbreak-from-raw-milk-cheese-reaches-san-diego/",
+          "published": "2026-09-26T21:45:00+00:00"
+        },
+        {
+          "source": "County News Center",
+          "title": "Raw Milk Cheese Linked to E.Coli Outbreak",
+          "link": "https://www.countynewscenter.com/raw-milk-cheese-linked-to-e-coli-outbreak/?utm_source=rss&utm_medium=rss&utm_campaign=raw-milk-cheese-linked-to-e-coli-outbreak",
+          "published": "2026-09-26T00:16:03+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "SD average gas price just 6 cents from matching all-time high",
+      "published": "2026-09-26T21:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "SD average gas price just 6 cents from matching all-time high",
+          "link": "https://timesofsandiego.com/transportation/2026/09/26/sd-average-gas-price-just-6-cents-from-matching-all-time-high/",
+          "published": "2026-09-26T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Opinion: San Diego residents should not have to audit their own trash bills",
+      "published": "2026-09-26T21:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Opinion: San Diego residents should not have to audit their own trash bills",
+          "link": "https://timesofsandiego.com/opinion/2026/09/26/opinion-san-diego-residents-should-not-have-to-audit-their-own-trash-bills/",
+          "published": "2026-09-26T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "With arts educators in short supply, California teachers weave arts into academics",
+      "published": "2026-09-26T20:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "With arts educators in short supply, California teachers weave arts into academics",
+          "link": "https://timesofsandiego.com/education/2026/09/26/san-marcos-arts-education-program/",
+          "published": "2026-09-26T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "September in Barrio Logan: Flags, churros family memories and celebrations, even in uncertain times",
+      "published": "2026-09-26T19:05:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "September in Barrio Logan: Flags, churros family memories and celebrations, even in uncertain times",
+          "link": "https://timesofsandiego.com/community/2026/09/26/hispanic-heritage-month-september-october-barrio-logan/",
+          "published": "2026-09-26T19:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Opinion: With 10 million seniors in poverty, a federal safety net is critical",
+      "published": "2026-09-26T17:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Opinion: With 10 million seniors in poverty, a federal safety net is critical",
+          "link": "https://timesofsandiego.com/opinion/2026/09/26/opinion-with-10-million-seniors-in-poverty-a-federal-safety-net-is-critical/",
+          "published": "2026-09-26T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "How do you get a housing permit in California? He can hook you up, for a fee",
+      "published": "2026-09-26T16:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "How do you get a housing permit in California? He can hook you up, for a fee",
+          "link": "https://timesofsandiego.com/housing/2026/09/26/how-do-you-get-a-housing-permit-in-california-he-can-hook-you-up-for-a-fee/",
+          "published": "2026-09-26T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "With Baja fish tacos, mango parfaits and more, SDUSD launches refreshed menu for new school year",
+      "published": "2026-09-26T15:10:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "With Baja fish tacos, mango parfaits and more, SDUSD launches refreshed menu for new school year",
+          "link": "https://timesofsandiego.com/education/2026/09/26/san-diego-unified-new-menu-school-year/",
+          "published": "2026-09-26T15:10:00+00:00"
+        }
+      ]
+    },
     {
       "headline": "How the Trash Screw-Up Happened and Why It’s Not Going Away",
       "published": "2026-09-26T14:00:43+00:00",
@@ -64,32 +187,6 @@
           "title": "On heels of trash fee error, Gloria set to embark on national affordability tour for Conference of Mayors",
           "link": "https://timesofsandiego.com/politics/2026/09/25/gloria-trash-fee-error-conference-mayors-affordability-tour/",
           "published": "2026-09-26T00:55:55+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diego County launches online hub to inform residents of El Niño-related storms",
-      "published": "2026-09-26T00:33:27+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "San Diego County launches online hub to inform residents of El Niño-related storms",
-          "link": "https://timesofsandiego.com/community/2026/09/25/san-diego-county-launches-online-hub-to-inform-residents-of-el-nino-related-storms/",
-          "published": "2026-09-26T00:33:27+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Raw Milk Cheese Linked to E.Coli Outbreak",
-      "published": "2026-09-26T00:16:03+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "Raw Milk Cheese Linked to E.Coli Outbreak",
-          "link": "https://www.countynewscenter.com/raw-milk-cheese-linked-to-e-coli-outbreak/?utm_source=rss&utm_medium=rss&utm_campaign=raw-milk-cheese-linked-to-e-coli-outbreak",
-          "published": "2026-09-26T00:16:03+00:00"
         }
       ]
     },
@@ -198,32 +295,6 @@
       ]
     },
     {
-      "headline": "Five questions with Daniel Atkinson: San Diego Tijuana International Jazz Festival takes music beyond borders",
-      "published": "2026-09-25T20:15:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Five questions with Daniel Atkinson: San Diego Tijuana International Jazz Festival takes music beyond borders",
-          "link": "https://timesofsandiego.com/arts/2026/09/25/daniel-atkinson-san-diego-tijuana-international-jazz-festival/",
-          "published": "2026-09-25T20:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Geppetto’s has spent 50 years finding the ‘fun factor’ in toys for kids and the young at heart",
-      "published": "2026-09-25T19:27:14+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Geppetto’s has spent 50 years finding the ‘fun factor’ in toys for kids and the young at heart",
-          "link": "https://timesofsandiego.com/business/2026/09/25/geppettos-50-years-toys-retail/",
-          "published": "2026-09-25T19:27:14+00:00"
-        }
-      ]
-    },
-    {
       "headline": "First North County EMS Corps Class Graduates",
       "published": "2026-09-25T19:11:14+00:00",
       "outlet_count": 1,
@@ -276,19 +347,6 @@
       ]
     },
     {
-      "headline": "La Mesa Courier: September 25, 2026",
-      "published": "2026-09-25T17:34:37+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "La Mesa Courier: September 25, 2026",
-          "link": "https://timesofsandiego.com/print-editions/2026/09/25/la-mesa-courier-september-25-2026/",
-          "published": "2026-09-25T17:34:37+00:00"
-        }
-      ]
-    },
-    {
       "headline": "County Launches El Niño 2026 Information Hub to Help Residents Prepare Early",
       "published": "2026-09-25T17:18:01+00:00",
       "outlet_count": 1,
@@ -298,45 +356,6 @@
           "title": "County Launches El Niño 2026 Information Hub to Help Residents Prepare Early",
           "link": "https://www.countynewscenter.com/county-launches-el-nino-2026-information-hub-to-help-residents-prepare-early/?utm_source=rss&utm_medium=rss&utm_campaign=county-launches-el-nino-2026-information-hub-to-help-residents-prepare-early",
           "published": "2026-09-25T17:18:01+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Desarolladores piden poner freno de emergencia a la inteligencia artificial",
-      "published": "2026-09-25T17:17:22+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Desarolladores piden poner freno de emergencia a la inteligencia artificial",
-          "link": "https://timesofsandiego.com/tech/2026/09/25/desarrolladores-piden-freno-emergencia-inteligencia-artificial/",
-          "published": "2026-09-25T17:17:22+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "La Jolla Village News: September 25, 2026",
-      "published": "2026-09-25T17:10:35+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "La Jolla Village News: September 25, 2026",
-          "link": "https://timesofsandiego.com/print-editions/2026/09/25/la-jolla-village-news-september-25-2026/",
-          "published": "2026-09-25T17:10:35+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Opinion: The California dream has always warned of its own demise",
-      "published": "2026-09-25T17:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Opinion: The California dream has always warned of its own demise",
-          "link": "https://timesofsandiego.com/opinion/2026/09/25/california-dream-always-warned-demise/",
-          "published": "2026-09-25T17:00:00+00:00"
         }
       ]
     },
@@ -354,19 +373,6 @@
       ]
     },
     {
-      "headline": "Reseña: Nathan Fielder: el hombre que ensaya la realidad",
-      "published": "2026-09-25T16:46:25+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Reseña: Nathan Fielder: el hombre que ensaya la realidad",
-          "link": "https://timesofsandiego.com/arts/2026/09/25/nathan-fielder-el-hombre-que-ensaya-la-realidad/",
-          "published": "2026-09-25T16:46:25+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Oceanside construction crew unearths 40 million-year-old fossils",
       "published": "2026-09-25T16:42:14+00:00",
       "outlet_count": 1,
@@ -376,19 +382,6 @@
           "title": "Oceanside construction crew unearths 40 million-year-old fossils",
           "link": "https://thecoastnews.com/oceanside-construction-crew-unearths-40-million-year-old-fossils/",
           "published": "2026-09-25T16:42:14+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Beach and Bay Press: September 25, 2026",
-      "published": "2026-09-25T16:24:31+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Beach and Bay Press: September 25, 2026",
-          "link": "https://timesofsandiego.com/print-editions/2026/09/25/beach-and-bay-press-september-25-2026/",
-          "published": "2026-09-25T16:24:31+00:00"
         }
       ]
     },
@@ -779,6 +772,19 @@
           "title": "Escondido police to hold DUI checkpoint on Friday",
           "link": "https://thecoastnews.com/escondido-police-to-hold-dui-checkpoint-on-friday/",
           "published": "2026-09-23T20:32:37+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Mission Hills band boosters urge city support for Holiday Parade",
+      "published": "2026-09-23T19:58:36+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Mission Hills band boosters urge city support for Holiday Parade",
+          "link": "https://thecoastnews.com/mission-hills-band-boosters-urge-city-support-for-holiday-parade/",
+          "published": "2026-09-23T19:58:36+00:00"
         }
       ]
     }
