@@ -1,127 +1,225 @@
 {
-  "generated_at": "2026-09-27T14:10:08.423502+00:00",
-  "story_count": 84,
+  "generated_at": "2026-09-28T14:13:50.533941+00:00",
+  "story_count": 85,
   "stories": [
     {
-      "headline": "Here’s where you can pick up sandbags to prepare for El Niño storm flooding",
-      "published": "2026-09-26T23:00:00+00:00",
+      "headline": "Podcasting expands across San Diego State University as more classes take the microphone",
+      "published": "2026-09-28T13:17:24+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "Times of San Diego",
-          "title": "Here’s where you can pick up sandbags to prepare for El Niño storm flooding",
-          "link": "https://timesofsandiego.com/weather/2026/09/26/heres-where-you-can-pick-up-sandbags-to-prepare-for-el-nino-storm-flooding/",
-          "published": "2026-09-26T23:00:00+00:00"
+          "title": "Podcasting expands across San Diego State University as more classes take the microphone",
+          "link": "https://timesofsandiego.com/community/2026/09/28/podcasting-expands-across-san-diego-state-university-as-more-classes-take-the-microphone/",
+          "published": "2026-09-28T13:17:24+00:00"
         }
       ]
     },
     {
-      "headline": "Officials issue warning after E. coli outbreak from raw milk cheese reaches San Diego",
-      "published": "2026-09-26T21:45:00+00:00",
-      "outlet_count": 2,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Officials issue warning after E. coli outbreak from raw milk cheese reaches San Diego",
-          "link": "https://timesofsandiego.com/health/2026/09/26/officials-issue-warning-after-e-coli-outbreak-from-raw-milk-cheese-reaches-san-diego/",
-          "published": "2026-09-26T21:45:00+00:00"
-        },
-        {
-          "source": "County News Center",
-          "title": "Raw Milk Cheese Linked to E.Coli Outbreak",
-          "link": "https://www.countynewscenter.com/raw-milk-cheese-linked-to-e-coli-outbreak/?utm_source=rss&utm_medium=rss&utm_campaign=raw-milk-cheese-linked-to-e-coli-outbreak",
-          "published": "2026-09-26T00:16:03+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "SD average gas price just 6 cents from matching all-time high",
-      "published": "2026-09-26T21:00:00+00:00",
+      "headline": "‘Fall’ in Love with East Village this October",
+      "published": "2026-09-28T12:59:30+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "Times of San Diego",
-          "title": "SD average gas price just 6 cents from matching all-time high",
-          "link": "https://timesofsandiego.com/transportation/2026/09/26/sd-average-gas-price-just-6-cents-from-matching-all-time-high/",
-          "published": "2026-09-26T21:00:00+00:00"
+          "title": "‘Fall’ in Love with East Village this October",
+          "link": "https://timesofsandiego.com/community/2026/09/28/fall-in-love-with-east-village-this-october/",
+          "published": "2026-09-28T12:59:30+00:00"
         }
       ]
     },
     {
-      "headline": "Opinion: San Diego residents should not have to audit their own trash bills",
-      "published": "2026-09-26T21:00:00+00:00",
+      "headline": "Little Italy News | The Feast, Galbani Bella Vita, and Trick or Treats",
+      "published": "2026-09-28T12:53:51+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "Times of San Diego",
-          "title": "Opinion: San Diego residents should not have to audit their own trash bills",
-          "link": "https://timesofsandiego.com/opinion/2026/09/26/opinion-san-diego-residents-should-not-have-to-audit-their-own-trash-bills/",
-          "published": "2026-09-26T21:00:00+00:00"
+          "title": "Little Italy News | The Feast, Galbani Bella Vita, and Trick or Treats",
+          "link": "https://timesofsandiego.com/community/2026/09/28/little-italy-news-the-feast-galbani-bella-vita-and-trick-or-treats/",
+          "published": "2026-09-28T12:53:51+00:00"
         }
       ]
     },
     {
-      "headline": "With arts educators in short supply, California teachers weave arts into academics",
-      "published": "2026-09-26T20:00:00+00:00",
+      "headline": "City Demands Answers from Gaslamp Business Leader on Comic-Con Ad Deal",
+      "published": "2026-09-28T09:15:00+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "Times of San Diego",
-          "title": "With arts educators in short supply, California teachers weave arts into academics",
-          "link": "https://timesofsandiego.com/education/2026/09/26/san-marcos-arts-education-program/",
-          "published": "2026-09-26T20:00:00+00:00"
+          "source": "Voice of San Diego",
+          "title": "City Demands Answers from Gaslamp Business Leader on Comic-Con Ad Deal",
+          "link": "https://voiceofsandiego.org/2026/09/28/city-demands-answers-from-gaslamp-business-leader-on-comic-con-ad-deal/",
+          "published": "2026-09-28T09:15:00+00:00"
         }
       ]
     },
     {
-      "headline": "September in Barrio Logan: Flags, churros family memories and celebrations, even in uncertain times",
-      "published": "2026-09-26T19:05:00+00:00",
+      "headline": "County Supe Set to Dish on the State of the County",
+      "published": "2026-09-28T09:00:00+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "Times of San Diego",
-          "title": "September in Barrio Logan: Flags, churros family memories and celebrations, even in uncertain times",
-          "link": "https://timesofsandiego.com/community/2026/09/26/hispanic-heritage-month-september-october-barrio-logan/",
-          "published": "2026-09-26T19:05:00+00:00"
+          "source": "Voice of San Diego",
+          "title": "County Supe Set to Dish on the State of the County",
+          "link": "https://voiceofsandiego.org/2026/09/28/county-supe-set-to-dish-on-the-state-of-the-county/",
+          "published": "2026-09-28T09:00:00+00:00"
         }
       ]
     },
     {
-      "headline": "Opinion: With 10 million seniors in poverty, a federal safety net is critical",
-      "published": "2026-09-26T17:00:00+00:00",
+      "headline": "Guía del votante para las elecciones generales del 3 de noviembre en el condado de San Diego",
+      "published": "2026-09-28T04:55:30+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "Times of San Diego",
-          "title": "Opinion: With 10 million seniors in poverty, a federal safety net is critical",
-          "link": "https://timesofsandiego.com/opinion/2026/09/26/opinion-with-10-million-seniors-in-poverty-a-federal-safety-net-is-critical/",
-          "published": "2026-09-26T17:00:00+00:00"
+          "title": "Guía del votante para las elecciones generales del 3 de noviembre en el condado de San Diego",
+          "link": "https://timesofsandiego.com/politics/2026/09/27/guia-votante-elecciones-generales-3-noviembre-condado-san-diego/",
+          "published": "2026-09-28T04:55:30+00:00"
         }
       ]
     },
     {
-      "headline": "How do you get a housing permit in California? He can hook you up, for a fee",
-      "published": "2026-09-26T16:00:00+00:00",
+      "headline": "Estos son los lugares donde puede recoger bolsas de arena para prepararse ante inundaciones por El Niño",
+      "published": "2026-09-28T02:41:18+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "Times of San Diego",
-          "title": "How do you get a housing permit in California? He can hook you up, for a fee",
-          "link": "https://timesofsandiego.com/housing/2026/09/26/how-do-you-get-a-housing-permit-in-california-he-can-hook-you-up-for-a-fee/",
-          "published": "2026-09-26T16:00:00+00:00"
+          "title": "Estos son los lugares donde puede recoger bolsas de arena para prepararse ante inundaciones por El Niño",
+          "link": "https://timesofsandiego.com/community/2026/09/27/donde-conseguir-bolsas-arena-san-diego-el-nino/",
+          "published": "2026-09-28T02:41:18+00:00"
         }
       ]
     },
     {
-      "headline": "With Baja fish tacos, mango parfaits and more, SDUSD launches refreshed menu for new school year",
-      "published": "2026-09-26T15:10:00+00:00",
+      "headline": "Voter guide to Nov. 3 general election in San Diego County",
+      "published": "2026-09-28T02:26:54+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "Times of San Diego",
-          "title": "With Baja fish tacos, mango parfaits and more, SDUSD launches refreshed menu for new school year",
-          "link": "https://timesofsandiego.com/education/2026/09/26/san-diego-unified-new-menu-school-year/",
-          "published": "2026-09-26T15:10:00+00:00"
+          "title": "Voter guide to Nov. 3 general election in San Diego County",
+          "link": "https://timesofsandiego.com/politics/2026/09/27/voter-guide-november-3-general-election-san-diego-county/",
+          "published": "2026-09-28T02:26:54+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Cinco preguntas con Daniel Atkinson: el Festival Internacional de Jazz San Diego Tijuana lleva la música más allá de las fronteras",
+      "published": "2026-09-28T02:23:11+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Cinco preguntas con Daniel Atkinson: el Festival Internacional de Jazz San Diego Tijuana lleva la música más allá de las fronteras",
+          "link": "https://timesofsandiego.com/arts/2026/09/27/festival-internacional-jazz-san-diego-tijuana-daniel-atkinson/",
+          "published": "2026-09-28T02:23:11+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Imperial Beach coastline closed over sewage contamination",
+      "published": "2026-09-28T00:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Imperial Beach coastline closed over sewage contamination",
+          "link": "https://timesofsandiego.com/environment/2026/09/27/imperial-beach-coastline-closed-over-sewage-contamination/",
+          "published": "2026-09-28T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego Climate Week starts with Water Summit in Coronado",
+      "published": "2026-09-27T23:49:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "San Diego Climate Week starts with Water Summit in Coronado",
+          "link": "https://coronadotimes.com/news/2026/09/27/san-diego-climate-week-starts-with-water-summit-in-coronado/",
+          "published": "2026-09-27T23:49:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Paloma Aguirre: If you want the Sewage Crisis Fixed, put Rebecca King on Coronado’s City Council",
+      "published": "2026-09-27T23:00:57+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Paloma Aguirre: If you want the Sewage Crisis Fixed, put Rebecca King on Coronado’s City Council",
+          "link": "https://coronadotimes.com/news/2026/09/27/paloma-aguirre-if-you-want-the-sewage-crisis-fixed-put-rebecca-king-on-coronados-city-council/",
+          "published": "2026-09-27T23:00:57+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Cloudy San Diego weather likely to give way to another round of heat and dryness",
+      "published": "2026-09-27T23:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Cloudy San Diego weather likely to give way to another round of heat and dryness",
+          "link": "https://timesofsandiego.com/weather/2026/09/27/cloudy-san-diego-weather-likely-to-give-way-to-another-round-of-heat-and-dryness/",
+          "published": "2026-09-27T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Officials continue searching for sexually violent predator last seen in Rancho Bernardo",
+      "published": "2026-09-27T22:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Officials continue searching for sexually violent predator last seen in Rancho Bernardo",
+          "link": "https://timesofsandiego.com/crime/2026/09/27/officials-continue-searching-for-sexually-violent-predator-last-seen-in-rancho-bernardo/",
+          "published": "2026-09-27T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Carlsbad nonprofit turns a day of golf into lasting impact for children and families",
+      "published": "2026-09-27T18:29:36+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Carlsbad nonprofit turns a day of golf into lasting impact for children and families",
+          "link": "https://thecoastnews.com/carlsbad-nonprofit-turns-a-day-of-golf-into-lasting-impact-for-children-and-families/",
+          "published": "2026-09-27T18:29:36+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Proud to endorse my Mom for School Board",
+      "published": "2026-09-27T18:00:33+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Proud to endorse my Mom for School Board",
+          "link": "https://coronadotimes.com/news/2026/09/27/proud-to-endorse-my-mom-for-school-board/",
+          "published": "2026-09-27T18:00:33+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Vote for Rebecca King on November 3rd",
+      "published": "2026-09-26T17:00:27+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Vote for Rebecca King on November 3rd",
+          "link": "https://coronadotimes.com/news/2026/09/26/vote-for-rebecca-king-on-november-3rd/",
+          "published": "2026-09-26T17:00:27+00:00"
         }
       ]
     },
@@ -135,6 +233,19 @@
           "title": "How the Trash Screw-Up Happened and Why It’s Not Going Away",
           "link": "https://voiceofsandiego.org/2026/09/26/how-the-trash-screw-up-happened-and-why-its-not-going-away/",
           "published": "2026-09-26T14:00:43+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Join me in voting for Rebecca King for City Council",
+      "published": "2026-09-26T05:15:44+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Join me in voting for Rebecca King for City Council",
+          "link": "https://coronadotimes.com/news/2026/09/25/join-me-in-voting-for-rebecca-king-for-city-council/",
+          "published": "2026-09-26T05:15:44+00:00"
         }
       ]
     },
@@ -178,15 +289,15 @@
       ]
     },
     {
-      "headline": "On heels of trash fee error, Gloria set to embark on national affordability tour for Conference of Mayors",
-      "published": "2026-09-26T00:55:55+00:00",
+      "headline": "Raw Milk Cheese Linked to E.Coli Outbreak",
+      "published": "2026-09-26T00:16:03+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "Times of San Diego",
-          "title": "On heels of trash fee error, Gloria set to embark on national affordability tour for Conference of Mayors",
-          "link": "https://timesofsandiego.com/politics/2026/09/25/gloria-trash-fee-error-conference-mayors-affordability-tour/",
-          "published": "2026-09-26T00:55:55+00:00"
+          "source": "County News Center",
+          "title": "Raw Milk Cheese Linked to E.Coli Outbreak",
+          "link": "https://www.countynewscenter.com/raw-milk-cheese-linked-to-e-coli-outbreak/?utm_source=rss&utm_medium=rss&utm_campaign=raw-milk-cheese-linked-to-e-coli-outbreak",
+          "published": "2026-09-26T00:16:03+00:00"
         }
       ]
     },
@@ -451,19 +562,6 @@
       ]
     },
     {
-      "headline": "A Race to Be the Outsider in Southeastern Council District",
-      "published": "2026-09-25T09:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "A Race to Be the Outsider in Southeastern Council District",
-          "link": "https://voiceofsandiego.org/2026/09/25/a-race-to-be-the-outsider-in-southeastern-council-district/",
-          "published": "2026-09-25T09:00:00+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Encinitas looks to dim the lights for Dark Sky Week",
       "published": "2026-09-25T00:08:28+00:00",
       "outlet_count": 1,
@@ -499,19 +597,6 @@
           "title": "Newsom moves to bolster California’s El Niño readiness",
           "link": "https://www.northcoastcurrent.com/weather/el-nino/2026/09/newsom-moves-to-bolster-californias-el-nino-readiness/",
           "published": "2026-09-25T00:00:09+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Hate Graffiti Rattles Imperial Beach in Election Season",
-      "published": "2026-09-24T23:25:57+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Hate Graffiti Rattles Imperial Beach in Election Season",
-          "link": "https://voiceofsandiego.org/2026/09/24/hate-graffiti-rattles-imperial-beach-in-election-season/",
-          "published": "2026-09-24T23:25:57+00:00"
         }
       ]
     },
@@ -694,97 +779,6 @@
           "title": "Obituary – John Hartsell",
           "link": "https://thecoastnews.com/obituary-john-hartsell/",
           "published": "2026-09-24T13:46:44+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "‘Thunder beast’ or ‘swamp rhino’? Fossils found in Oceanside",
-      "published": "2026-09-24T06:47:50+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "‘Thunder beast’ or ‘swamp rhino’? Fossils found in Oceanside",
-          "link": "https://www.northcoastcurrent.com/top-stories/2026/09/thunder-beast-or-swamp-rhino-fossils-found-in-oceanside/",
-          "published": "2026-09-24T06:47:50+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "‘Our worst fear about the city trash fee being placed on the tax bill came true this week.’",
-      "published": "2026-09-24T04:58:13+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "‘Our worst fear about the city trash fee being placed on the tax bill came true this week.’",
-          "link": "https://obrag.org/2026/09/our-worst-fear-about-the-city-trash-fee-being-placed-on-the-tax-bill-came-true-this-week/",
-          "published": "2026-09-24T04:58:13+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "RFK Jr. visits Escondido’s Neighborhood Healthcare",
-      "published": "2026-09-23T22:58:32+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "RFK Jr. visits Escondido’s Neighborhood Healthcare",
-          "link": "https://www.times-advocate.com/articles/rfk-jr-visits-escondidos-neighborhood-healthcare/",
-          "published": "2026-09-23T22:58:32+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Letters: A fresh approach for Encinitas",
-      "published": "2026-09-23T21:42:24+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Letters: A fresh approach for Encinitas",
-          "link": "https://thecoastnews.com/letters-a-fresh-approach-for-encinitas/",
-          "published": "2026-09-23T21:42:24+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Ramiro Solis",
-      "published": "2026-09-23T21:38:41+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Ramiro Solis",
-          "link": "https://coronadotimes.com/news/2026/09/23/ramiro-solis-2/",
-          "published": "2026-09-23T21:38:41+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Escondido police to hold DUI checkpoint on Friday",
-      "published": "2026-09-23T20:32:37+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Escondido police to hold DUI checkpoint on Friday",
-          "link": "https://thecoastnews.com/escondido-police-to-hold-dui-checkpoint-on-friday/",
-          "published": "2026-09-23T20:32:37+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Mission Hills band boosters urge city support for Holiday Parade",
-      "published": "2026-09-23T19:58:36+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Mission Hills band boosters urge city support for Holiday Parade",
-          "link": "https://thecoastnews.com/mission-hills-band-boosters-urge-city-support-for-holiday-parade/",
-          "published": "2026-09-23T19:58:36+00:00"
         }
       ]
     }
