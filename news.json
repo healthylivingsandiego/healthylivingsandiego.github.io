@@ -1,17 +1,290 @@
 {
-  "generated_at": "2026-10-02T18:59:54.726146+00:00",
-  "story_count": 104,
+  "generated_at": "2026-10-03T17:48:20.844235+00:00",
+  "story_count": 94,
   "stories": [
     {
-      "headline": "Celebrating the Legacy of James Hubbell at the Recent Harvest Moon Fundraiser Near Julian",
-      "published": "2026-10-02T18:37:07+02:00",
+      "headline": "Opinion: Prop. 45 will gut public review for data centers and other big projects",
+      "published": "2026-10-03T17:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Opinion: Prop. 45 will gut public review for data centers and other big projects",
+          "link": "https://timesofsandiego.com/opinion/2026/10/03/prop-45-gut-public-review-fdata-centers-big-projects/",
+          "published": "2026-10-03T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Incoming El Niño is so extreme it doesn’t have a scientific name",
+      "published": "2026-10-03T16:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Incoming El Niño is so extreme it doesn’t have a scientific name",
+          "link": "https://timesofsandiego.com/weather/2026/10/03/incoming-el-nino-is-so-extreme-it-doesnt-have-a-scientific-name/",
+          "published": "2026-10-03T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Mayor Pushes for Councilmember’s Opponent",
+      "published": "2026-10-03T14:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Mayor Pushes for Councilmember’s Opponent",
+          "link": "https://voiceofsandiego.org/2026/10/03/mayor-pushes-for-councilmembers-opponent/",
+          "published": "2026-10-03T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Padres anticipate ‘very tough’ NLDS against Brewers, owners of baseball’s best record in 2026",
+      "published": "2026-10-03T00:47:49+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Padres anticipate ‘very tough’ NLDS against Brewers, owners of baseball’s best record in 2026",
+          "link": "https://timesofsandiego.com/sports/2026/10/02/padres-brewers-mlb-playoffs-nlds/",
+          "published": "2026-10-03T00:47:49+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Build Your Emergency Go Kit and One for Fido Too!",
+      "published": "2026-10-03T00:26:55+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "Build Your Emergency Go Kit and One for Fido Too!",
+          "link": "https://www.countynewscenter.com/build-your-emergency-go-kit-and-one-for-fido-too/?utm_source=rss&utm_medium=rss&utm_campaign=build-your-emergency-go-kit-and-one-for-fido-too",
+          "published": "2026-10-03T00:26:55+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Encinitas marks 40 years as a city Oct. 3 with special events",
+      "published": "2026-10-03T00:07:53+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "Encinitas marks 40 years as a city Oct. 3 with special events",
+          "link": "https://www.northcoastcurrent.com/encinitas-news/2026/10/encinitas-marks-40-years-as-a-city-oct-3-with-special-events/",
+          "published": "2026-10-03T00:07:53+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "The city of San Diego currently owns 505 ALPR cameras. Here’s which neighborhoods have the most.",
+      "published": "2026-10-03T00:04:10+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "The city of San Diego currently owns 505 ALPR cameras. Here’s which neighborhoods have the most.",
+          "link": "https://timesofsandiego.com/tech/2026/10/02/san-diego-neighborhoods-most-alpr-flock-camera/",
+          "published": "2026-10-03T00:04:10+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "What Did and Didn’t Survive Newsom’s Desk",
+      "published": "2026-10-03T00:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "What Did and Didn’t Survive Newsom’s Desk",
+          "link": "https://voiceofsandiego.org/2026/10/02/the-bills-that-cleared-newsoms-desk/",
+          "published": "2026-10-03T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Retired contractor traces mounting claims against ‘King of ADUs’",
+      "published": "2026-10-02T23:32:48+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Retired contractor traces mounting claims against ‘King of ADUs’",
+          "link": "https://thecoastnews.com/retired-contractor-traces-mounting-claims-against-king-of-adus/",
+          "published": "2026-10-02T23:32:48+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "VOSD Podcast: The Other Avengers",
+      "published": "2026-10-02T22:58:52+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "VOSD Podcast: The Other Avengers",
+          "link": "https://voiceofsandiego.org/2026/10/02/vosd-podcast-the-other-avengers/",
+          "published": "2026-10-02T22:58:52+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Testigo del tiempo:  ¿Víctimas o culpables?: La geopolítica suicida de los líderes europeos",
+      "published": "2026-10-02T22:48:09+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Testigo del tiempo:  ¿Víctimas o culpables?: La geopolítica suicida de los líderes europeos",
+          "link": "https://timesofsandiego.com/opinion/2026/10/02/testigo-del-tiempo-victimas-o-culpables-la-geopolitica-suicida-de-los-lideres-europeos/",
+          "published": "2026-10-02T22:48:09+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Sai: el hombre que llega cuando la desgracia ya está adentro",
+      "published": "2026-10-02T22:37:33+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Sai: el hombre que llega cuando la desgracia ya está adentro",
+          "link": "https://timesofsandiego.com/arts/2026/10/02/sai-el-hombre-que-llega-cuando-la-desgracia-ya-esta-adentro/",
+          "published": "2026-10-02T22:37:33+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Crece el tráfico de personas por el corredor marítimo del Pacífico",
+      "published": "2026-10-02T22:29:17+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Crece el tráfico de personas por el corredor marítimo del Pacífico",
+          "link": "https://timesofsandiego.com/crime/2026/10/02/crece-el-trafico-de-personas-por-el-corredor-maritimo-del-pacifico/",
+          "published": "2026-10-02T22:29:17+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Poll: Coastal San Diego Voters Negative on Sales Tax, Gloria, Trump and Divided on Midway Rising",
+      "published": "2026-10-02T22:10:15+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
-          "title": "Celebrating the Legacy of James Hubbell at the Recent Harvest Moon Fundraiser Near Julian",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwDYh68yLx32wI0gf0kh05K?utm_source=follow.it",
-          "published": "2026-10-02T18:37:07+02:00"
+          "title": "Poll: Coastal San Diego Voters Negative on Sales Tax, Gloria, Trump and Divided on Midway Rising",
+          "link": "https://obrag.org/2026/10/poll-coastal-san-diego-voters-negative-on-sales-tax-gloria-trump-and-divided-on-midway-rising/",
+          "published": "2026-10-02T22:10:15+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Widely Contrasting Positions on Display at Point Loma Library Debate for City Council District 2",
+      "published": "2026-10-02T21:50:34+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Widely Contrasting Positions on Display at Point Loma Library Debate for City Council District 2",
+          "link": "https://obrag.org/2026/10/widely-contrasting-positions-on-display-at-point-loma-library-debate-for-city-council-district-2/",
+          "published": "2026-10-02T21:50:34+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Schizophonics tried to ‘capture the live feel’ on ‘Burning Floor,’ the band’s first album in four years",
+      "published": "2026-10-02T21:30:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Schizophonics tried to ‘capture the live feel’ on ‘Burning Floor,’ the band’s first album in four years",
+          "link": "https://timesofsandiego.com/arts/2026/10/02/schizophonics-burning-floor-album-biafra/",
+          "published": "2026-10-02T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego Climate Week 2026 – Opening ceremony and Water Summit held in Coronado",
+      "published": "2026-10-02T21:18:30+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "San Diego Climate Week 2026 – Opening ceremony and Water Summit held in Coronado",
+          "link": "https://coronadotimes.com/news/2026/10/02/san-diego-climate-week-2026-opening-ceremony-and-water-summit-held-in-coronado/",
+          "published": "2026-10-02T21:18:30+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "No Museum Needed: Local Artists Build Community in a South Park Driveway",
+      "published": "2026-10-02T20:46:37+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "No Museum Needed: Local Artists Build Community in a South Park Driveway",
+          "link": "https://voiceofsandiego.org/2026/10/02/no-museum-needed-local-artists-build-community-in-a-south-park-driveway/",
+          "published": "2026-10-02T20:46:37+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Third body recovered after Catalina helicopter crash",
+      "published": "2026-10-02T19:48:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Third body recovered after Catalina helicopter crash",
+          "link": "https://thecoastnews.com/body-recovered-after-catalina-helicopter-crash-death-toll-rises-to-3/",
+          "published": "2026-10-02T19:48:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Could the U-T Have Picked an Even Worse Photo of Nicole Crosby?",
+      "published": "2026-10-02T19:33:38+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Could the U-T Have Picked an Even Worse Photo of Nicole Crosby?",
+          "link": "https://obrag.org/2026/10/could-the-u-t-have-picked-an-even-worse-photo-of-nicole-crosby/",
+          "published": "2026-10-02T19:33:38+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego State University breaks ground on Fenton Parkway Bridge",
+      "published": "2026-10-02T19:12:33+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego State University breaks ground on Fenton Parkway Bridge",
+          "link": "https://timesofsandiego.com/community/2026/10/02/san-diego-state-university-breaks-ground-on-fenton-parkway-bridge/",
+          "published": "2026-10-02T19:12:33+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "The Hidden Cost of Upzoning: Living With Constant Uncertainty",
+      "published": "2026-10-02T18:58:14+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "The Hidden Cost of Upzoning: Living With Constant Uncertainty",
+          "link": "https://obrag.org/2026/10/the-hidden-cost-of-upzoning-living-with-constant-uncertainty/",
+          "published": "2026-10-02T18:58:14+00:00"
         }
       ]
     },
@@ -42,19 +315,6 @@
       ]
     },
     {
-      "headline": "Uptown News: October 2, 2026",
-      "published": "2026-10-02T18:14:34+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Uptown News: October 2, 2026",
-          "link": "https://timesofsandiego.com/print-editions/2026/10/02/uptown-news-october-2-2026/",
-          "published": "2026-10-02T18:14:34+00:00"
-        }
-      ]
-    },
-    {
       "headline": "LCC flag football seniors aim to cap four years with league title",
       "published": "2026-10-02T18:04:45+00:00",
       "outlet_count": 1,
@@ -64,45 +324,6 @@
           "title": "LCC flag football seniors aim to cap four years with league title",
           "link": "https://thecoastnews.com/lcc-flag-football-seniors-aim-to-cap-four-years-with-league-title/",
           "published": "2026-10-02T18:04:45+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "What bills did Gavin Newsom sign into law — or veto — in his final year leading California?",
-      "published": "2026-10-02T18:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "What bills did Gavin Newsom sign into law — or veto — in his final year leading California?",
-          "link": "https://timesofsandiego.com/politics/2026/10/02/what-bills-did-gavin-newsom-sign-into-law-or-veto-in-his-final-year-leading-california/",
-          "published": "2026-10-02T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Peninsula Beacon: October 2, 2026",
-      "published": "2026-10-02T17:53:38+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Peninsula Beacon: October 2, 2026",
-          "link": "https://timesofsandiego.com/print-editions/2026/10/02/peninsula-beacon-october-2-2026/",
-          "published": "2026-10-02T17:53:38+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "SDG&E power shutoffs start; could affect thousands of customers as temperatures soar",
-      "published": "2026-10-02T17:33:09+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "SDG&E power shutoffs start; could affect thousands of customers as temperatures soar",
-          "link": "https://timesofsandiego.com/business/2026/10/02/san-diego-public-safety-power-shutoffs-heat/",
-          "published": "2026-10-02T17:33:09+00:00"
         }
       ]
     },
@@ -120,15 +341,15 @@
       ]
     },
     {
-      "headline": "Opinion: Should San Diego continue to lease or redevelop city golf courses?",
-      "published": "2026-10-02T17:00:00+00:00",
+      "headline": "Celebrating the Legacy of James Hubbell at the Recent Harvest Moon Fundraiser Near Julian",
+      "published": "2026-10-02T16:37:07+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "Times of San Diego",
-          "title": "Opinion: Should San Diego continue to lease or redevelop city golf courses?",
-          "link": "https://timesofsandiego.com/opinion/2026/10/02/should-san-diego-lease-redevelop-golf-courses/",
-          "published": "2026-10-02T17:00:00+00:00"
+          "source": "OB Rag",
+          "title": "Celebrating the Legacy of James Hubbell at the Recent Harvest Moon Fundraiser Near Julian",
+          "link": "https://obrag.org/2026/10/celebrating-the-legacy-of-james-hubbell-at-the-recent-harvest-moon-fundraiser-near-julian/",
+          "published": "2026-10-02T16:37:07+00:00"
         }
       ]
     },
@@ -142,19 +363,6 @@
           "title": "NCTD offers free rides Oct. 7 for Clean Air Day",
           "link": "https://thecoastnews.com/nctd-offers-free-rides-oct-7-for-clean-air-day/",
           "published": "2026-10-02T16:16:21+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diego, South Bay clubs meet in rematch of US Open Cup qualifying round clash",
-      "published": "2026-10-02T16:15:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "San Diego, South Bay clubs meet in rematch of US Open Cup qualifying round clash",
-          "link": "https://timesofsandiego.com/sports/2026/10/02/san-diego-south-bay-us-open-cup-qualifying-rounds/",
-          "published": "2026-10-02T16:15:00+00:00"
         }
       ]
     },
@@ -198,19 +406,6 @@
       ]
     },
     {
-      "headline": "Duckville: The strange little place that once sat on Pacific Beach marshes",
-      "published": "2026-10-02T14:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Duckville: The strange little place that once sat on Pacific Beach marshes",
-          "link": "https://timesofsandiego.com/arts/2026/10/02/duckville-the-strange-little-place-that-once-sat-on-pacific-beach-marshes/",
-          "published": "2026-10-02T14:00:00+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Supporters Bash Supporters",
       "published": "2026-10-02T09:15:00+00:00",
       "outlet_count": 1,
@@ -220,19 +415,6 @@
           "title": "Supporters Bash Supporters",
           "link": "https://voiceofsandiego.org/2026/10/02/supporters-bash-supporters/",
           "published": "2026-10-02T09:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Appeals panel overturns felony murder conviction in case of man killed in North Park dispute over hair",
-      "published": "2026-10-02T00:41:13+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Appeals panel overturns felony murder conviction in case of man killed in North Park dispute over hair",
-          "link": "https://timesofsandiego.com/crime/2026/10/01/judges-overturn-san-diego-felony-murder-conviction-hair/",
-          "published": "2026-10-02T00:41:13+00:00"
         }
       ]
     },
@@ -289,19 +471,6 @@
       ]
     },
     {
-      "headline": "Review: ‘Oh, Mary!’ — Just the right amount of offensive and raunchy",
-      "published": "2026-10-01T22:24:32+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Review: ‘Oh, Mary!’ — Just the right amount of offensive and raunchy",
-          "link": "https://timesofsandiego.com/arts/2026/10/01/oh-mary-san-diego-national-tour/",
-          "published": "2026-10-01T22:24:32+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Greenway: Creating award-winning outdoor spaces",
       "published": "2026-10-01T22:17:37+00:00",
       "outlet_count": 1,
@@ -328,19 +497,6 @@
       ]
     },
     {
-      "headline": "City of San Diego and Police Department Sued for Use of Flock Cameras",
-      "published": "2026-10-01T21:30:46+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "City of San Diego and Police Department Sued for Use of Flock Cameras",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwf4BSit-kJ7EWJ8XNsyDog?utm_source=follow.it",
-          "published": "2026-10-01T21:30:46+02:00"
-        }
-      ]
-    },
-    {
       "headline": "Solana Center programs director receives Changemaker award",
       "published": "2026-10-01T21:17:35+00:00",
       "outlet_count": 1,
@@ -350,45 +506,6 @@
           "title": "Solana Center programs director receives Changemaker award",
           "link": "https://www.northcoastcurrent.com/north-coast-life/2026/10/solana-center-programs-director-receives-changemaker-award/",
           "published": "2026-10-01T21:17:35+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Mayors Deliver. So What Has Todd Gloria Delivered?",
-      "published": "2026-10-01T20:58:26+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Mayors Deliver. So What Has Todd Gloria Delivered?",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDydkKLxETBnDVL45X0am235?utm_source=follow.it",
-          "published": "2026-10-01T20:58:26+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "October 2026 Events for San Diegans Compiled by the Ocean Beach Green Center",
-      "published": "2026-10-01T20:42:32+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "October 2026 Events for San Diegans Compiled by the Ocean Beach Green Center",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwEzzpy7nC7JW4_aSKIgKZ2?utm_source=follow.it",
-          "published": "2026-10-01T20:42:32+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "Update on the Turquoise Tower in Pacific Beach — Congressman Scott Peters Remains Opposed to It",
-      "published": "2026-10-01T20:18:07+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Update on the Turquoise Tower in Pacific Beach — Congressman Scott Peters Remains Opposed to It",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwu1qzS4EzvsCnuBJxanUmg?utm_source=follow.it",
-          "published": "2026-10-01T20:18:07+02:00"
         }
       ]
     },
@@ -406,15 +523,15 @@
       ]
     },
     {
-      "headline": "The New York Times’ Bromance with Christian Spicer — San Diego’s ‘King of the ADUs’",
-      "published": "2026-10-01T19:55:02+02:00",
+      "headline": "City of San Diego and Police Department Sued for Use of Flock Cameras",
+      "published": "2026-10-01T19:30:46+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
-          "title": "The New York Times’ Bromance with Christian Spicer — San Diego’s ‘King of the ADUs’",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxkYa5fYZZ2KQ6Pc6JK4yT0?utm_source=follow.it",
-          "published": "2026-10-01T19:55:02+02:00"
+          "title": "City of San Diego and Police Department Sued for Use of Flock Cameras",
+          "link": "https://obrag.org/2026/10/city-of-san-diego-and-police-department-sued-for-use-of-flock-cameras/",
+          "published": "2026-10-01T19:30:46+00:00"
         }
       ]
     },
@@ -432,6 +549,19 @@
       ]
     },
     {
+      "headline": "Mayors Deliver. So What Has Todd Gloria Delivered?",
+      "published": "2026-10-01T18:58:26+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Mayors Deliver. So What Has Todd Gloria Delivered?",
+          "link": "https://obrag.org/2026/10/mayors-deliver-so-what-has-todd-gloria-delivered/",
+          "published": "2026-10-01T18:58:26+00:00"
+        }
+      ]
+    },
+    {
       "headline": "Letters: Judge the record, not the rhetoric",
       "published": "2026-10-01T18:58:02+00:00",
       "outlet_count": 1,
@@ -445,15 +575,15 @@
       ]
     },
     {
-      "headline": "Donna Frye: Governor Signs Midway Rising Gut-and-Amend Bill; What Can the Public do Now?",
-      "published": "2026-10-01T18:40:40+02:00",
+      "headline": "October 2026 Events for San Diegans Compiled by the Ocean Beach Green Center",
+      "published": "2026-10-01T18:42:32+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
-          "title": "Donna Frye: Governor Signs Midway Rising Gut-and-Amend Bill; What Can the Public do Now?",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDy9fKGZa1W_hl9R-LfGYFIe?utm_source=follow.it",
-          "published": "2026-10-01T18:40:40+02:00"
+          "title": "October 2026 Events for San Diegans Compiled by the Ocean Beach Green Center",
+          "link": "https://obrag.org/2026/10/october-2026-events-for-san-diegans-compiled-by-the-ocean-beach-green-center/",
+          "published": "2026-10-01T18:42:32+00:00"
         }
       ]
     },
@@ -467,6 +597,32 @@
           "title": "News briefs: Awards bestowed, local artist exhibition, SD bayside park gets new name",
           "link": "https://coronadotimes.com/news/2026/10/01/news-briefs-awards-bestowed-local-artist-exhibition-sd-bayside-park-gets-new-name/",
           "published": "2026-10-01T18:24:50+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Update on the Turquoise Tower in Pacific Beach — Congressman Scott Peters Remains Opposed to It",
+      "published": "2026-10-01T18:18:07+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Update on the Turquoise Tower in Pacific Beach — Congressman Scott Peters Remains Opposed to It",
+          "link": "https://obrag.org/2026/10/update-on-the-turquoise-tower-in-pacific-beach-congressman-scott-peters-remains-opposed-to-it/",
+          "published": "2026-10-01T18:18:07+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "The New York Times’ Bromance with Christian Spicer — San Diego’s ‘King of the ADUs’",
+      "published": "2026-10-01T17:55:02+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "The New York Times’ Bromance with Christian Spicer — San Diego’s ‘King of the ADUs’",
+          "link": "https://obrag.org/2026/10/the-new-york-times-bromance-with-christian-spicer-san-diegos-king-of-the-adus/",
+          "published": "2026-10-01T17:55:02+00:00"
         }
       ]
     },
@@ -493,32 +649,6 @@
           "title": "County Animal Services to Open New Santee Animal Shelter",
           "link": "https://www.countynewscenter.com/county-animal-services-to-open-new-santee-animal-shelter/?utm_source=rss&utm_medium=rss&utm_campaign=county-animal-services-to-open-new-santee-animal-shelter",
           "published": "2026-10-01T17:50:16+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "First major transit fare hike since 2009 takes effect",
-      "published": "2026-10-01T17:27:35+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "First major transit fare hike since 2009 takes effect",
-          "link": "https://thecoastnews.com/first-major-transit-fare-hike-since-2009-takes-effect/",
-          "published": "2026-10-01T17:27:35+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Search continues for victim of helicopter crash that killed 2 off Catalina",
-      "published": "2026-10-01T17:15:36+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Search continues for victim of helicopter crash that killed 2 off Catalina",
-          "link": "https://thecoastnews.com/search-continues-for-victim-of-helicopter-crash-that-killed-2-off-catalina/",
-          "published": "2026-10-01T17:15:36+00:00"
         }
       ]
     },
@@ -649,136 +779,6 @@
           "title": "Editorial: Consequential Choices",
           "link": "https://delmarsandpiper.org/2026-10-002/",
           "published": "2026-10-01T07:02:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "The Sandpiper Endorses",
-      "published": "2026-10-01T07:01:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Del Mar Sandpiper",
-          "title": "The Sandpiper Endorses",
-          "link": "https://delmarsandpiper.org/2026-10-001/",
-          "published": "2026-10-01T07:01:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Marcos Sheriff’s detectives bust crime ring in Escondido",
-      "published": "2026-10-01T01:41:22+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "San Marcos Sheriff’s detectives bust crime ring in Escondido",
-          "link": "https://www.times-advocate.com/articles/san-marcos-sheriffs-detectives-bust-crime-ring-in-escondido/",
-          "published": "2026-10-01T01:41:22+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "New Vista stretch of Inland Rail Trail now open",
-      "published": "2026-10-01T00:08:44+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "New Vista stretch of Inland Rail Trail now open",
-          "link": "https://www.northcoastcurrent.com/north-county/2026/09/new-vista-stretch-of-inland-rail-trail-now-open/",
-          "published": "2026-10-01T00:08:44+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "‘My Beef with the UT’s Coverage of Midway Rising’",
-      "published": "2026-09-30T23:50:35+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "‘My Beef with the UT’s Coverage of Midway Rising’",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwhsqYI66JAnFsnRWG5shN0?utm_source=follow.it",
-          "published": "2026-09-30T23:50:35+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "Hateful chalk graffiti persists at Silver Strand military housing",
-      "published": "2026-09-30T22:44:13+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Hateful chalk graffiti persists at Silver Strand military housing",
-          "link": "https://coronadotimes.com/news/2026/09/30/hateful-chalk-graffiti-persists-at-silver-strand-military-housing/",
-          "published": "2026-09-30T22:44:13+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Kamala Harris drops in on local Dems",
-      "published": "2026-09-30T22:43:36+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Kamala Harris drops in on local Dems",
-          "link": "https://www.times-advocate.com/articles/kamala-harris-drops-in-on-local-dems/",
-          "published": "2026-09-30T22:43:36+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Candidate Elias Velazquez: ‘We have momentum’",
-      "published": "2026-09-30T22:42:26+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Candidate Elias Velazquez: ‘We have momentum’",
-          "link": "https://www.times-advocate.com/articles/candidate-elias-velazquez-we-have-momentum/",
-          "published": "2026-09-30T22:42:26+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Anti-ICE groups rally at City Hall",
-      "published": "2026-09-30T22:40:38+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Anti-ICE groups rally at City Hall",
-          "link": "https://www.times-advocate.com/articles/anti-ice-groups-rally-at-city-hall/",
-          "published": "2026-09-30T22:40:38+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Ed Gallo Speaks: The more things change . . .",
-      "published": "2026-09-30T22:38:02+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Ed Gallo Speaks: The more things change . . .",
-          "link": "https://www.times-advocate.com/articles/ed-gallo-speaks-the-more-things-change/",
-          "published": "2026-09-30T22:38:02+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Letter to the Editor: WHY I AM VOTING FOR JIM DESMOND IN CA-48",
-      "published": "2026-09-30T22:37:05+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Letter to the Editor: WHY I AM VOTING FOR JIM DESMOND IN CA-48",
-          "link": "https://www.times-advocate.com/articles/letter-to-the-editor-why-i-am-voting-for-jim-desmond-in-ca-48/",
-          "published": "2026-09-30T22:37:05+00:00"
         }
       ]
     }
