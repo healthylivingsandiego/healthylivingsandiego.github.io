@@ -1,30 +1,186 @@
 {
-  "generated_at": "2026-10-03T17:48:20.844235+00:00",
+  "generated_at": "2026-10-04T17:59:29.096810+00:00",
   "story_count": 94,
   "stories": [
     {
-      "headline": "Opinion: Prop. 45 will gut public review for data centers and other big projects",
-      "published": "2026-10-03T17:00:00+00:00",
+      "headline": "Opinion: California’s iconic economic sectors confront threats to their survival",
+      "published": "2026-10-04T17:00:00+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "Times of San Diego",
-          "title": "Opinion: Prop. 45 will gut public review for data centers and other big projects",
-          "link": "https://timesofsandiego.com/opinion/2026/10/03/prop-45-gut-public-review-fdata-centers-big-projects/",
-          "published": "2026-10-03T17:00:00+00:00"
+          "title": "Opinion: California’s iconic economic sectors confront threats to their survival",
+          "link": "https://timesofsandiego.com/opinion/2026/10/04/california-iconic-economic-sectors-confront-threats-survival/",
+          "published": "2026-10-04T17:00:00+00:00"
         }
       ]
     },
     {
-      "headline": "Incoming El Niño is so extreme it doesn’t have a scientific name",
-      "published": "2026-10-03T16:00:00+00:00",
+      "headline": "U.S. sends immigrants to countries it warns Americans not to visit",
+      "published": "2026-10-04T16:00:00+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "Times of San Diego",
-          "title": "Incoming El Niño is so extreme it doesn’t have a scientific name",
-          "link": "https://timesofsandiego.com/weather/2026/10/03/incoming-el-nino-is-so-extreme-it-doesnt-have-a-scientific-name/",
-          "published": "2026-10-03T16:00:00+00:00"
+          "title": "U.S. sends immigrants to countries it warns Americans not to visit",
+          "link": "https://timesofsandiego.com/immigration/2026/10/04/u-s-sends-immigrants-to-countries-it-warns-americans-not-to-visit/",
+          "published": "2026-10-04T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Doctors, insurers sue Newsom over health insurance premium increases",
+      "published": "2026-10-04T15:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Doctors, insurers sue Newsom over health insurance premium increases",
+          "link": "https://timesofsandiego.com/health/2026/10/04/doctors-insurers-sue-newsom-over-health-insurance-premium-increases/",
+          "published": "2026-10-04T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Everything that could go wrong did in Padres’ 3-2 Game 1 loss",
+      "published": "2026-10-04T07:40:41+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Everything that could go wrong did in Padres’ 3-2 Game 1 loss",
+          "link": "https://timesofsandiego.com/sports/2026/10/04/padres-playoff-loss-brewers-game-1-nlds/",
+          "published": "2026-10-04T07:40:41+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Brewers edge Padres 3-2 in NLDS opener that features bizarre play in 9th inning",
+      "published": "2026-10-04T06:06:58+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Brewers edge Padres 3-2 in NLDS opener that features bizarre play in 9th inning",
+          "link": "https://timesofsandiego.com/sports/2026/10/03/brewers-edge-padres-3-2-in-nlds-opener-that-features-bizarre-play-in-9th-inning/",
+          "published": "2026-10-04T06:06:58+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "MainStreet Oceanside semifinalist for national award",
+      "published": "2026-10-04T00:30:02+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "MainStreet Oceanside semifinalist for national award",
+          "link": "https://www.northcoastcurrent.com/business-notes/2026/10/mainstreet-oceanside-semifinalist-for-national-award/",
+          "published": "2026-10-04T00:30:02+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego man gets two years in prison for stealing $180K from low-income families",
+      "published": "2026-10-04T00:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego man gets two years in prison for stealing $180K from low-income families",
+          "link": "https://timesofsandiego.com/crime/2026/10/03/san-diego-man-gets-two-years-in-prison-for-stealing-180k-from-low-income-families/",
+          "published": "2026-10-04T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego gas prices still hovering above $6 despite slight decrease",
+      "published": "2026-10-03T22:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego gas prices still hovering above $6 despite slight decrease",
+          "link": "https://timesofsandiego.com/transportation/2026/10/03/san-diego-gas-prices-still-hovering-above-6-despite-slight-decrease/",
+          "published": "2026-10-03T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Opinion: Local farmers found a groundwater solution that works. Investments should build on it",
+      "published": "2026-10-03T21:00:03+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Opinion: Local farmers found a groundwater solution that works. Investments should build on it",
+          "link": "https://timesofsandiego.com/opinion/2026/10/03/opinion-california-groundwater/",
+          "published": "2026-10-03T21:00:03+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Orchids & Onions: This year’s fragrant or smelly architecture",
+      "published": "2026-10-03T21:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Orchids & Onions: This year’s fragrant or smelly architecture",
+          "link": "https://timesofsandiego.com/arts/2026/10/03/orchids-onions-this-years-fragrant-or-smelly-architecture/",
+          "published": "2026-10-03T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Making Coronado’s streets safer",
+      "published": "2026-10-03T19:07:05+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Making Coronado’s streets safer",
+          "link": "https://coronadotimes.com/news/2026/10/03/making-coronados-streets-safer/",
+          "published": "2026-10-03T19:07:05+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "The OB Rag Endorses Nicole Crosby for District 2 of the San Diego City Council",
+      "published": "2026-10-03T19:04:55+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "The OB Rag Endorses Nicole Crosby for District 2 of the San Diego City Council",
+          "link": "https://obrag.org/2026/10/the-ob-rag-endorses-nicole-crosby-for-district-2-of-the-san-diego-city-council/",
+          "published": "2026-10-03T19:04:55+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Halloween happenings: Pumpkin sculpting, ghoulish gondoliers, spooky fun at The Del, Bayside Boo",
+      "published": "2026-10-03T18:24:17+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Halloween happenings: Pumpkin sculpting, ghoulish gondoliers, spooky fun at The Del, Bayside Boo",
+          "link": "https://coronadotimes.com/news/2026/10/03/halloween-happenings-pumpkin-sculpting-ghoulish-gondoliers-spooky-fun-at-the-del-bayside-boo/",
+          "published": "2026-10-03T18:24:17+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "High plans for High Street Village to replace aging Costa Verde in University City",
+      "published": "2026-10-03T18:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "High plans for High Street Village to replace aging Costa Verde in University City",
+          "link": "https://timesofsandiego.com/community/2026/10/03/high-plans-for-high-street-village-to-replace-aging-costa-verde-in-university-city/",
+          "published": "2026-10-03T18:00:00+00:00"
         }
       ]
     },
@@ -38,19 +194,6 @@
           "title": "Mayor Pushes for Councilmember’s Opponent",
           "link": "https://voiceofsandiego.org/2026/10/03/mayor-pushes-for-councilmembers-opponent/",
           "published": "2026-10-03T14:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Padres anticipate ‘very tough’ NLDS against Brewers, owners of baseball’s best record in 2026",
-      "published": "2026-10-03T00:47:49+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Padres anticipate ‘very tough’ NLDS against Brewers, owners of baseball’s best record in 2026",
-          "link": "https://timesofsandiego.com/sports/2026/10/02/padres-brewers-mlb-playoffs-nlds/",
-          "published": "2026-10-03T00:47:49+00:00"
         }
       ]
     },
@@ -77,19 +220,6 @@
           "title": "Encinitas marks 40 years as a city Oct. 3 with special events",
           "link": "https://www.northcoastcurrent.com/encinitas-news/2026/10/encinitas-marks-40-years-as-a-city-oct-3-with-special-events/",
           "published": "2026-10-03T00:07:53+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "The city of San Diego currently owns 505 ALPR cameras. Here’s which neighborhoods have the most.",
-      "published": "2026-10-03T00:04:10+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "The city of San Diego currently owns 505 ALPR cameras. Here’s which neighborhoods have the most.",
-          "link": "https://timesofsandiego.com/tech/2026/10/02/san-diego-neighborhoods-most-alpr-flock-camera/",
-          "published": "2026-10-03T00:04:10+00:00"
         }
       ]
     },
@@ -133,45 +263,6 @@
       ]
     },
     {
-      "headline": "Testigo del tiempo:  ¿Víctimas o culpables?: La geopolítica suicida de los líderes europeos",
-      "published": "2026-10-02T22:48:09+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Testigo del tiempo:  ¿Víctimas o culpables?: La geopolítica suicida de los líderes europeos",
-          "link": "https://timesofsandiego.com/opinion/2026/10/02/testigo-del-tiempo-victimas-o-culpables-la-geopolitica-suicida-de-los-lideres-europeos/",
-          "published": "2026-10-02T22:48:09+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Sai: el hombre que llega cuando la desgracia ya está adentro",
-      "published": "2026-10-02T22:37:33+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Sai: el hombre que llega cuando la desgracia ya está adentro",
-          "link": "https://timesofsandiego.com/arts/2026/10/02/sai-el-hombre-que-llega-cuando-la-desgracia-ya-esta-adentro/",
-          "published": "2026-10-02T22:37:33+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Crece el tráfico de personas por el corredor marítimo del Pacífico",
-      "published": "2026-10-02T22:29:17+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Crece el tráfico de personas por el corredor marítimo del Pacífico",
-          "link": "https://timesofsandiego.com/crime/2026/10/02/crece-el-trafico-de-personas-por-el-corredor-maritimo-del-pacifico/",
-          "published": "2026-10-02T22:29:17+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Poll: Coastal San Diego Voters Negative on Sales Tax, Gloria, Trump and Divided on Midway Rising",
       "published": "2026-10-02T22:10:15+00:00",
       "outlet_count": 1,
@@ -194,19 +285,6 @@
           "title": "Widely Contrasting Positions on Display at Point Loma Library Debate for City Council District 2",
           "link": "https://obrag.org/2026/10/widely-contrasting-positions-on-display-at-point-loma-library-debate-for-city-council-district-2/",
           "published": "2026-10-02T21:50:34+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Schizophonics tried to ‘capture the live feel’ on ‘Burning Floor,’ the band’s first album in four years",
-      "published": "2026-10-02T21:30:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Schizophonics tried to ‘capture the live feel’ on ‘Burning Floor,’ the band’s first album in four years",
-          "link": "https://timesofsandiego.com/arts/2026/10/02/schizophonics-burning-floor-album-biafra/",
-          "published": "2026-10-02T21:30:00+00:00"
         }
       ]
     },
@@ -263,19 +341,6 @@
       ]
     },
     {
-      "headline": "San Diego State University breaks ground on Fenton Parkway Bridge",
-      "published": "2026-10-02T19:12:33+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "San Diego State University breaks ground on Fenton Parkway Bridge",
-          "link": "https://timesofsandiego.com/community/2026/10/02/san-diego-state-university-breaks-ground-on-fenton-parkway-bridge/",
-          "published": "2026-10-02T19:12:33+00:00"
-        }
-      ]
-    },
-    {
       "headline": "The Hidden Cost of Upzoning: Living With Constant Uncertainty",
       "published": "2026-10-02T18:58:14+00:00",
       "outlet_count": 1,
@@ -298,19 +363,6 @@
           "title": "Opinion: Safety before political theater in Paul Ecke Central rebuild",
           "link": "https://thecoastnews.com/opinion-safety-before-political-theater-in-paul-ecke-central-rebuild/",
           "published": "2026-10-02T18:32:54+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Downtown News: October 2, 2026",
-      "published": "2026-10-02T18:29:11+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Downtown News: October 2, 2026",
-          "link": "https://timesofsandiego.com/print-editions/2026/10/02/downtown-news-october-2-2026/",
-          "published": "2026-10-02T18:29:11+00:00"
         }
       ]
     },
@@ -614,19 +666,6 @@
       ]
     },
     {
-      "headline": "The New York Times’ Bromance with Christian Spicer — San Diego’s ‘King of the ADUs’",
-      "published": "2026-10-01T17:55:02+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "The New York Times’ Bromance with Christian Spicer — San Diego’s ‘King of the ADUs’",
-          "link": "https://obrag.org/2026/10/the-new-york-times-bromance-with-christian-spicer-san-diegos-king-of-the-adus/",
-          "published": "2026-10-01T17:55:02+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Four arrested in fraud, identity theft investigation",
       "published": "2026-10-01T17:54:58+00:00",
       "outlet_count": 1,
@@ -740,45 +779,6 @@
           "title": "Climate Realities",
           "link": "https://delmarsandpiper.org/2026-10-005/",
           "published": "2026-10-01T07:05:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "School Board Choices",
-      "published": "2026-10-01T07:04:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Del Mar Sandpiper",
-          "title": "School Board Choices",
-          "link": "https://delmarsandpiper.org/2026-10-004/",
-          "published": "2026-10-01T07:04:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Campaign Fact Gaps",
-      "published": "2026-10-01T07:03:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Del Mar Sandpiper",
-          "title": "Campaign Fact Gaps",
-          "link": "https://delmarsandpiper.org/2026-10-003/",
-          "published": "2026-10-01T07:03:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Editorial: Consequential Choices",
-      "published": "2026-10-01T07:02:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Del Mar Sandpiper",
-          "title": "Editorial: Consequential Choices",
-          "link": "https://delmarsandpiper.org/2026-10-002/",
-          "published": "2026-10-01T07:02:00+00:00"
         }
       ]
     }
