@@ -1,7 +1,332 @@
 {
-  "generated_at": "2026-10-09T19:16:41.051811+00:00",
-  "story_count": 92,
+  "generated_at": "2026-10-10T18:14:08.378691+00:00",
+  "story_count": 103,
   "stories": [
+    {
+      "headline": "This is where people can find weather shelters and sandbags to prepare for Tropical Storm Rachel",
+      "published": "2026-10-10T18:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "This is where people can find weather shelters and sandbags to prepare for Tropical Storm Rachel",
+          "link": "https://timesofsandiego.com/weather/2026/10/10/this-is-where-people-can-find-weather-shelters-and-sandbags-to-prepare-for-tropical-storm-rachel/",
+          "published": "2026-10-10T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Water bills surged more than other costs in US homes over 10 years, a ‘striking’ new report shows",
+      "published": "2026-10-10T15:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Water bills surged more than other costs in US homes over 10 years, a ‘striking’ new report shows",
+          "link": "https://timesofsandiego.com/economy/2026/10/10/water-bills-surged-more-than-other-costs-in-us-homes-over-10-years-a-striking-new-report-shows/",
+          "published": "2026-10-10T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Where did San Diego County’s roadside motor lodges go?",
+      "published": "2026-10-10T14:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Where did San Diego County’s roadside motor lodges go?",
+          "link": "https://timesofsandiego.com/arts/2026/10/10/where-did-san-diego-countys-roadside-motor-lodges-go/",
+          "published": "2026-10-10T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "VOSD Podcast: The Mayor’s Unwelcome Assistance",
+      "published": "2026-10-10T02:39:47+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "VOSD Podcast: The Mayor’s Unwelcome Assistance",
+          "link": "https://voiceofsandiego.org/2026/10/09/vosd-podcast-the-mayors-unwelcome-assistance/",
+          "published": "2026-10-10T02:39:47+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "More strife for Grossmont school board – conservative bloc fractures over misconduct allegations",
+      "published": "2026-10-10T00:52:10+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "More strife for Grossmont school board – conservative bloc fractures over misconduct allegations",
+          "link": "https://timesofsandiego.com/education/2026/10/09/conservative-vote-grossmont-school-board-fractures/",
+          "published": "2026-10-10T00:52:10+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "North County heat records fall as region eyes tropical storm",
+      "published": "2026-10-10T00:27:14+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "North County heat records fall as region eyes tropical storm",
+          "link": "https://www.northcoastcurrent.com/top-stories/2026/10/north-county-heat-records-fall-as-region-eyes-tropical-storm/",
+          "published": "2026-10-10T00:27:14+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Trump keeps mentioning the possibility of an attack on San Diego and Los Angeles",
+      "published": "2026-10-10T00:19:52+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Trump keeps mentioning the possibility of an attack on San Diego and Los Angeles",
+          "link": "https://timesofsandiego.com/politics/2026/10/09/trump-off-script-san-diego-los-angeles/",
+          "published": "2026-10-10T00:19:52+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Alexia Palacios-Peters champions collaboration, facilities improvement, and tech review in bid for school board reelection",
+      "published": "2026-10-10T00:05:27+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Alexia Palacios-Peters champions collaboration, facilities improvement, and tech review in bid for school board reelection",
+          "link": "https://coronadotimes.com/news/2026/10/09/alexia-palacios-peters-champions-collaboration-facilities-improvement-and-tech-review-in-bid-for-school-board-reelection/",
+          "published": "2026-10-10T00:05:27+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego Police Department Is Weighing Using AI to Write Police Reports",
+      "published": "2026-10-10T00:02:36+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "San Diego Police Department Is Weighing Using AI to Write Police Reports",
+          "link": "https://voiceofsandiego.org/2026/10/09/san-diego-police-department-is-weighing-using-ai-to-write-police-reports/",
+          "published": "2026-10-10T00:02:36+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "News briefs: Everbridge transition, CoRA opens, Soroptimists support JLAB, Ruff Run",
+      "published": "2026-10-09T23:55:42+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "News briefs: Everbridge transition, CoRA opens, Soroptimists support JLAB, Ruff Run",
+          "link": "https://coronadotimes.com/news/2026/10/09/news-briefs-everbridge-transition-cora-opens-soroptimists-support-jlab-ruff-run/",
+          "published": "2026-10-09T23:55:42+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Carlsbad filmmaker revisits troubled Padres pitcher who gave up Rose’s historic hit",
+      "published": "2026-10-09T23:15:15+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Carlsbad filmmaker revisits troubled Padres pitcher who gave up Rose’s historic hit",
+          "link": "https://thecoastnews.com/carlsbad-filmmaker-tells-story-of-padres-pitcher-behind-roses-historic-hit/",
+          "published": "2026-10-09T23:15:15+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Beach flag football tournament comes to Oceanside",
+      "published": "2026-10-09T22:44:27+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Beach flag football tournament comes to Oceanside",
+          "link": "https://thecoastnews.com/beach-flag-football-tournament-comes-to-oceanside/",
+          "published": "2026-10-09T22:44:27+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Escondido police awarded $352K grant for traffic safety programs",
+      "published": "2026-10-09T22:24:22+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Escondido police awarded $352K grant for traffic safety programs",
+          "link": "https://thecoastnews.com/escondido-police-awarded-352k-grant-for-traffic-safety-programs/",
+          "published": "2026-10-09T22:24:22+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Escondido Police awarded $352,000 grant to combat speeding and impaired driving",
+      "published": "2026-10-09T22:02:24+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times-Advocate (Escondido)",
+          "title": "Escondido Police awarded $352,000 grant to combat speeding and impaired driving",
+          "link": "https://www.times-advocate.com/articles/escondido-police-awarded-352000-grant-to-combat-speeding-and-impaired-driving/",
+          "published": "2026-10-09T22:02:24+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Escondido Police Department secures state grant to boost pedestrian and bicycle safety",
+      "published": "2026-10-09T21:57:36+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times-Advocate (Escondido)",
+          "title": "Escondido Police Department secures state grant to boost pedestrian and bicycle safety",
+          "link": "https://www.times-advocate.com/articles/escondido-police-department-secures-state-grant-to-boost-pedestrian-and-bicycle-safety/",
+          "published": "2026-10-09T21:57:36+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Coastal Commission rejects Ponto park push, clears way for housing",
+      "published": "2026-10-09T21:51:17+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Coastal Commission rejects Ponto park push, clears way for housing",
+          "link": "https://thecoastnews.com/coastal-commission-rejects-ponto-park-push-clears-way-for-housing/",
+          "published": "2026-10-09T21:51:17+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego region prepares for Tropical Cyclone Rachel this weekend",
+      "published": "2026-10-09T21:40:05+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "San Diego region prepares for Tropical Cyclone Rachel this weekend",
+          "link": "https://thecoastnews.com/san-diego-region-prepares-for-tropical-cyclone-rachel-this-weekend/",
+          "published": "2026-10-09T21:40:05+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "How to Make Sense of the Major Tax Propositions on the Ballot",
+      "published": "2026-10-09T21:03:14+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "How to Make Sense of the Major Tax Propositions on the Ballot",
+          "link": "https://voiceofsandiego.org/2026/10/09/how-to-make-sense-of-the-major-tax-propositions-on-the-ballot/",
+          "published": "2026-10-09T21:03:14+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Candidate Says This County Policy Is Pushing San Diegans to Riverside",
+      "published": "2026-10-09T20:35:55+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Candidate Says This County Policy Is Pushing San Diegans to Riverside",
+          "link": "https://voiceofsandiego.org/2026/10/09/candidate-says-this-county-policy-is-pushing-san-diegans-to-riverside/",
+          "published": "2026-10-09T20:35:55+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Tropical storm watch issued for San Diego County from Friday evening through Tuesday",
+      "published": "2026-10-09T20:29:16+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Tropical storm watch issued for San Diego County from Friday evening through Tuesday",
+          "link": "https://timesofsandiego.com/life/2026/10/09/tropical-storm-watch-issued-for-san-diego-county-from-friday-evening-through-tuesday/",
+          "published": "2026-10-09T20:29:16+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "El misterio de Irkutsk: una muerte, un laboratorio y el regreso de “la peste”, una palabra que aterra al mundo",
+      "published": "2026-10-09T20:09:16+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "El misterio de Irkutsk: una muerte, un laboratorio y el regreso de “la peste”, una palabra que aterra al mundo",
+          "link": "https://timesofsandiego.com/health/2026/10/09/misterio-irkutsk-peste-rusia-laboratorio/",
+          "published": "2026-10-09T20:09:16+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Meet &amp; Greet with Nicole Crosby in Point Loma –Tuesday, October 13",
+      "published": "2026-10-09T19:57:19+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Meet &amp; Greet with Nicole Crosby in Point Loma –Tuesday, October 13",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDw99cRn16QDNuGrDcjRcqKI?utm_source=follow.it",
+          "published": "2026-10-09T19:57:19+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Vigil for Palestine at Organ Pavilion in Balboa Park — Sat., Oct.10th",
+      "published": "2026-10-09T19:44:40+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Vigil for Palestine at Organ Pavilion in Balboa Park — Sat., Oct.10th",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxo6FK8PRbMgqPl-AGDhMag?utm_source=follow.it",
+          "published": "2026-10-09T19:44:40+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "ICE Surges Back in California and Starts With San Diego",
+      "published": "2026-10-09T19:36:16+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "ICE Surges Back in California and Starts With San Diego",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDyUuKNcO-rx6bCcQg_Pp1zJ?utm_source=follow.it",
+          "published": "2026-10-09T19:36:16+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Why Are Out-of-State Billionaires Funding Prop 39 — the California Voter ID Measure?",
+      "published": "2026-10-09T19:15:06+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Why Are Out-of-State Billionaires Funding Prop 39 — the California Voter ID Measure?",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxyyzv8CmkB9YYqqaq6Cv8m?utm_source=follow.it",
+          "published": "2026-10-09T19:15:06+02:00"
+        }
+      ]
+    },
     {
       "headline": "‘We’re always students’ — Arts District Liberty Station welcomes new cohort of regional dancers for residencies",
       "published": "2026-10-09T19:05:00+00:00",
@@ -42,158 +367,15 @@
       ]
     },
     {
-      "headline": "College Area residents fear developer is steering library future, want city – or mayor – to step up",
-      "published": "2026-10-09T18:07:30+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "College Area residents fear developer is steering library future, want city – or mayor – to step up",
-          "link": "https://timesofsandiego.com/community/2026/10/09/college-area-san-diego-developer-mayor-todd-gloria/",
-          "published": "2026-10-09T18:07:30+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Meet & Greet with Nicole Crosby in Point Loma –Tuesday, October 13",
-      "published": "2026-10-09T17:57:19+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Meet & Greet with Nicole Crosby in Point Loma –Tuesday, October 13",
-          "link": "https://obrag.org/2026/10/meet-greet-with-nicole-crosby-in-point-loma-tuesday-october-13/",
-          "published": "2026-10-09T17:57:19+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "La Jolla Village News: October 9, 2026",
-      "published": "2026-10-09T17:49:44+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "La Jolla Village News: October 9, 2026",
-          "link": "https://timesofsandiego.com/print-editions/2026/10/09/la-jolla-village-news-october-9-2026/",
-          "published": "2026-10-09T17:49:44+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Vigil for Palestine at Organ Pavilion in Balboa Park — Sat., Oct.10th",
-      "published": "2026-10-09T17:44:40+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Vigil for Palestine at Organ Pavilion in Balboa Park — Sat., Oct.10th",
-          "link": "https://obrag.org/2026/10/vigil-for-palestine-at-organ-pavilion-in-balboa-park-sat-oct-10th/",
-          "published": "2026-10-09T17:44:40+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Xavier Becerra: una campaña centrada en el costo de la vida y Trump",
-      "published": "2026-10-09T17:42:49+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Xavier Becerra: una campaña centrada en el costo de la vida y Trump",
-          "link": "https://timesofsandiego.com/politics/2026/10/09/xavier-becerra-costo-de-vida-trump-california/",
-          "published": "2026-10-09T17:42:49+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "ICE Surges Back in California and Starts With San Diego",
-      "published": "2026-10-09T17:36:16+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "ICE Surges Back in California and Starts With San Diego",
-          "link": "https://obrag.org/2026/10/ice-surges-back-in-california-and-starts-with-san-diego/",
-          "published": "2026-10-09T17:36:16+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Beach and Bay Press: October 9, 2026",
-      "published": "2026-10-09T17:35:30+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Beach and Bay Press: October 9, 2026",
-          "link": "https://timesofsandiego.com/print-editions/2026/10/09/beach-and-bay-press-october-9-2026/",
-          "published": "2026-10-09T17:35:30+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Why Are Out-of-State Billionaires Funding Prop 39 — the California Voter ID Measure?",
-      "published": "2026-10-09T17:15:06+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Why Are Out-of-State Billionaires Funding Prop 39 — the California Voter ID Measure?",
-          "link": "https://obrag.org/2026/10/why-are-out-of-state-billionaires-funding-prop-39-the-california-voter-id-measure/",
-          "published": "2026-10-09T17:15:06+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diego State University’s Theatre Program is 100 and hot as ever",
-      "published": "2026-10-09T17:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "San Diego State University’s Theatre Program is 100 and hot as ever",
-          "link": "https://timesofsandiego.com/arts/2026/10/09/san-diego-state-universitys-theatre-program-is-100-and-hot-as-ever/",
-          "published": "2026-10-09T17:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "County Respiratory Report Now Includes Forecasting as Flu Cases Unusually High",
+      "headline": "County Respiratory Report Now Includes Forecasting as Flu Unusually High",
       "published": "2026-10-09T16:13:52+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "County News Center",
-          "title": "County Respiratory Report Now Includes Forecasting as Flu Cases Unusually High",
+          "title": "County Respiratory Report Now Includes Forecasting as Flu Unusually High",
           "link": "https://www.countynewscenter.com/county-respiratory-report-now-includes-forecasting-as-flu-cases-unusually-high/?utm_source=rss&utm_medium=rss&utm_campaign=county-respiratory-report-now-includes-forecasting-as-flu-cases-unusually-high",
           "published": "2026-10-09T16:13:52+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Comunidad de Barrio Logan se reúne para eliminar grafiti racista de mural en Chicano Park",
-      "published": "2026-10-09T16:03:13+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Comunidad de Barrio Logan se reúne para eliminar grafiti racista de mural en Chicano Park",
-          "link": "https://timesofsandiego.com/community/2026/10/09/grafiti-racista-chicano-park-barrio-logan/",
-          "published": "2026-10-09T16:03:13+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "How election deniers are using public records to sow doubt in California",
-      "published": "2026-10-09T16:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "How election deniers are using public records to sow doubt in California",
-          "link": "https://timesofsandiego.com/politics/2026/10/09/how-election-deniers-are-using-public-records-to-sow-doubt-in-california/",
-          "published": "2026-10-09T16:00:00+00:00"
         }
       ]
     },
@@ -269,6 +451,19 @@
       ]
     },
     {
+      "headline": "Prop 45 Would Weaken Environmental and Public Health Protections By Fast Tracking Development Projects",
+      "published": "2026-10-08T23:05:58+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Prop 45 Would Weaken Environmental and Public Health Protections By Fast Tracking Development Projects",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxOJd-48RiTqYukLdGGwgrP?utm_source=follow.it",
+          "published": "2026-10-08T23:05:58+02:00"
+        }
+      ]
+    },
+    {
       "headline": "County supervisors advance proposed film initiative program",
       "published": "2026-10-08T23:04:53+00:00",
       "outlet_count": 1,
@@ -308,6 +503,19 @@
       ]
     },
     {
+      "headline": "More to Come on Bailey Backers’ Abusive Tactics",
+      "published": "2026-10-08T22:47:22+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "More to Come on Bailey Backers’ Abusive Tactics",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDzEOHsxdHR4uPC_11oXfwJ_?utm_source=follow.it",
+          "published": "2026-10-08T22:47:22+02:00"
+        }
+      ]
+    },
+    {
       "headline": "MiraCosta College marks opening of new $69.4 million facilities",
       "published": "2026-10-08T22:13:49+00:00",
       "outlet_count": 1,
@@ -334,15 +542,41 @@
       ]
     },
     {
-      "headline": "More to Come on Bailey Backers’ Abusive Tactics",
-      "published": "2026-10-08T20:47:22+00:00",
+      "headline": "History of the Portuguese in San Diego — Presentation at Pt Loma Assembly Friday Oct. 8",
+      "published": "2026-10-08T20:50:00+02:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
-          "title": "More to Come on Bailey Backers’ Abusive Tactics",
-          "link": "https://obrag.org/2026/10/more-to-come-on-bailey-backers-abusive-tactics/",
-          "published": "2026-10-08T20:47:22+00:00"
+          "title": "History of the Portuguese in San Diego — Presentation at Pt Loma Assembly Friday Oct. 8",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDyzoyqWU3JB220brguGN4mY?utm_source=follow.it",
+          "published": "2026-10-08T20:50:00+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "‘It’s not her fault, but …’",
+      "published": "2026-10-08T20:30:42+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "‘It’s not her fault, but …’",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDzRwTg-xI_hl_uP9FjDlTjT?utm_source=follow.it",
+          "published": "2026-10-08T20:30:42+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Ocean Beach Neighbors Resist Plan to Build 12 ADUs in Backyard of Single-Family Home on Del Mar Avenue",
+      "published": "2026-10-08T20:06:43+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Ocean Beach Neighbors Resist Plan to Build 12 ADUs in Backyard of Single-Family Home on Del Mar Avenue",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDy4OmGVuZAjqogSnOpXlRK5?utm_source=follow.it",
+          "published": "2026-10-08T20:06:43+02:00"
         }
       ]
     },
@@ -356,32 +590,6 @@
           "title": "City Council candidates address environmental issues, Emerald Keepers Q&A",
           "link": "https://coronadotimes.com/news/2026/10/08/city-council-candidates-address-environmental-issues-emerald-keepers-qa/",
           "published": "2026-10-08T19:33:04+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Prop 45 Would Weaken Environmental and Public Health Protections By Fast Tracking Development Projects",
-      "published": "2026-10-08T19:05:58+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Prop 45 Would Weaken Environmental and Public Health Protections By Fast Tracking Development Projects",
-          "link": "https://obrag.org/2026/10/prop-45-would-weaken-environmental-and-public-health-protections-by-fast-tracking-development-projects/",
-          "published": "2026-10-08T19:05:58+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "History of the Portuguese in San Diego — Presentation at Pt Loma Assembly Thursday, Oct.8th",
-      "published": "2026-10-08T18:50:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "History of the Portuguese in San Diego — Presentation at Pt Loma Assembly Thursday, Oct.8th",
-          "link": "https://obrag.org/2026/10/history-of-the-portuguese-in-san-diego-presentation-at-pt-loma-assembly-friday-oct-8/",
-          "published": "2026-10-08T18:50:00+00:00"
         }
       ]
     },
@@ -412,19 +620,6 @@
       ]
     },
     {
-      "headline": "‘It’s not her fault, but …’",
-      "published": "2026-10-08T18:30:42+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "‘It’s not her fault, but …’",
-          "link": "https://obrag.org/2026/10/its-not-her-fault-but/",
-          "published": "2026-10-08T18:30:42+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Channeling Dolly Parton this Halloween to spark passion for reading",
       "published": "2026-10-08T18:06:45+00:00",
       "outlet_count": 1,
@@ -434,19 +629,6 @@
           "title": "Channeling Dolly Parton this Halloween to spark passion for reading",
           "link": "https://coronadotimes.com/news/2026/10/08/channeling-dolly-parton-this-halloween-to-spark-passion-for-reading/",
           "published": "2026-10-08T18:06:45+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Ocean Beach Neighbors Resist Plan to Build 12 ADUs in Backyard of Single-Family Home on Del Mar Avenue",
-      "published": "2026-10-08T18:06:43+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Ocean Beach Neighbors Resist Plan to Build 12 ADUs in Backyard of Single-Family Home on Del Mar Avenue",
-          "link": "https://obrag.org/2026/10/ocean-beach-neighbors-resist-plan-to-build-12-adus-in-backyard-of-single-family-home-on-del-mar-avenue/",
-          "published": "2026-10-08T18:06:43+00:00"
         }
       ]
     },
@@ -581,6 +763,19 @@
       ]
     },
     {
+      "headline": "No News Reports Since the 5 Rapes and Sexual Assaults at CSU San Marcos Were Announced Sept. 22",
+      "published": "2026-10-07T22:34:11+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "No News Reports Since the 5 Rapes and Sexual Assaults at CSU San Marcos Were Announced Sept. 22",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwRwZJUGvbK7Zs92If7RKzr?utm_source=follow.it",
+          "published": "2026-10-07T22:34:11+02:00"
+        }
+      ]
+    },
+    {
       "headline": "Real Estate: September 2026 Coronado market update",
       "published": "2026-10-07T22:15:41+00:00",
       "outlet_count": 1,
@@ -590,201 +785,6 @@
           "title": "Real Estate: September 2026 Coronado market update",
           "link": "https://coronadotimes.com/news/2026/10/07/real-estate-september-2026-coronado-market-update/",
           "published": "2026-10-07T22:15:41+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Escondido names Tyler Batson as new Fire Chief",
-      "published": "2026-10-07T21:25:08+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Escondido names Tyler Batson as new Fire Chief",
-          "link": "https://www.times-advocate.com/articles/escondido-names-tyler-batson-as-new-fire-chief/",
-          "published": "2026-10-07T21:25:08+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "No News Reports Since the 5 Rapes and Sexual Assaults at CSU San Marcos Were Announced Sept. 22",
-      "published": "2026-10-07T20:34:11+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "No News Reports Since the 5 Rapes and Sexual Assaults at CSU San Marcos Were Announced Sept. 22",
-          "link": "https://obrag.org/2026/10/no-news-reports-since-the-5-rapes-and-sexual-assaults-at-csu-san-marcos-were-announced-sept-22/",
-          "published": "2026-10-07T20:34:11+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Encinitas planners OK final map for Torrey Crest subdivison",
-      "published": "2026-10-07T20:32:45+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Encinitas planners OK final map for Torrey Crest subdivison",
-          "link": "https://thecoastnews.com/encinitas-planners-ok-final-map-for-torrey-crest-subdivison/",
-          "published": "2026-10-07T20:32:45+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Coronado Rotary launches third annual “Christmas in October!” campaign",
-      "published": "2026-10-07T20:14:12+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Coronado Rotary launches third annual “Christmas in October!” campaign",
-          "link": "https://coronadotimes.com/news/2026/10/07/coronado-rotary-launches-third-annual-christmas-in-october-campaign/",
-          "published": "2026-10-07T20:14:12+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "No Borders: Jazz Festival hits high note",
-      "published": "2026-10-07T19:42:23+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "No Borders: Jazz Festival hits high note",
-          "link": "https://www.times-advocate.com/articles/no-borders-jazz-festival-hits-high-note/",
-          "published": "2026-10-07T19:42:23+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "TA Shorts- 10/8/26",
-      "published": "2026-10-07T19:36:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "TA Shorts- 10/8/26",
-          "link": "https://www.times-advocate.com/articles/ta-shorts-10-8-26/",
-          "published": "2026-10-07T19:36:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Candidate Valenzuela wants ‘to  champion progress’ for Escondido",
-      "published": "2026-10-07T19:32:24+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Candidate Valenzuela wants ‘to  champion progress’ for Escondido",
-          "link": "https://www.times-advocate.com/articles/candidate-valenzuela-wants-to-champion-progress-for-escondido/",
-          "published": "2026-10-07T19:32:24+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Jack Raymond, 88, was an Escondido giant, ‘North Star of charitable giving’",
-      "published": "2026-10-07T19:31:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Jack Raymond, 88, was an Escondido giant, ‘North Star of charitable giving’",
-          "link": "https://www.times-advocate.com/articles/jack-raymond-88-was-an-escondido-giant-north-star-of-charitable-giving/",
-          "published": "2026-10-07T19:31:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Gather on Grand to include Halloween contest",
-      "published": "2026-10-07T19:29:47+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Gather on Grand to include Halloween contest",
-          "link": "https://www.times-advocate.com/articles/gather-on-grand-to-include-halloween-contest/",
-          "published": "2026-10-07T19:29:47+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Council hears about threat to 55 and up mobile home parks",
-      "published": "2026-10-07T19:28:55+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Council hears about threat to 55 and up mobile home parks",
-          "link": "https://www.times-advocate.com/articles/council-hears-about-threat-to-55-and-up-mobile-home-parks/",
-          "published": "2026-10-07T19:28:55+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Candidates argue their positions",
-      "published": "2026-10-07T19:27:30+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Candidates argue their positions",
-          "link": "https://www.times-advocate.com/articles/candidates-argue-their-positions/",
-          "published": "2026-10-07T19:27:30+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Queen Califia’s Magical Circle celebrates 23rd anniversary",
-      "published": "2026-10-07T19:26:44+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Queen Califia’s Magical Circle celebrates 23rd anniversary",
-          "link": "https://www.times-advocate.com/articles/queen-califias-magical-circle-celebrates-23rd-anniversary/",
-          "published": "2026-10-07T19:26:44+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Locals get $1M bills from ICE",
-      "published": "2026-10-07T19:25:52+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Locals get $1M bills from ICE",
-          "link": "https://www.times-advocate.com/articles/locals-get-1m-bills-from-ice/",
-          "published": "2026-10-07T19:25:52+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Meet Carlsbad Mayor Keith Blackburn",
-      "published": "2026-10-07T18:37:33+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Meet Carlsbad Mayor Keith Blackburn",
-          "link": "https://thecoastnews.com/meet-carlsbad-mayor-keith-blackburn/",
-          "published": "2026-10-07T18:37:33+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "County Fall and Halloween Happenings Are a Treat",
-      "published": "2026-10-07T18:36:28+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "County Fall and Halloween Happenings Are a Treat",
-          "link": "https://www.countynewscenter.com/county-fall-and-halloween-happenings-are-a-treat/?utm_source=rss&utm_medium=rss&utm_campaign=county-fall-and-halloween-happenings-are-a-treat",
-          "published": "2026-10-07T18:36:28+00:00"
         }
       ]
     }
