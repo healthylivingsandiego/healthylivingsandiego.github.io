@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-10-10T18:14:08.378691+00:00",
-  "story_count": 103,
+  "generated_at": "2026-10-11T18:37:39.913812+00:00",
+  "story_count": 94,
   "stories": [
+    {
+      "headline": "OB Oktoberfest 2026 — A Short Video",
+      "published": "2026-10-11T18:18:08+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "OB Oktoberfest 2026 — A Short Video",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDzIyb6DLP63h5evdTdSs13G?utm_source=follow.it",
+          "published": "2026-10-11T18:18:08+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Rachel Brings High Waves and Surf to Ocean Beach",
+      "published": "2026-10-11T18:03:27+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Rachel Brings High Waves and Surf to Ocean Beach",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxVaBHeFiYgNKkUytPUlTdM?utm_source=follow.it",
+          "published": "2026-10-11T18:03:27+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "How Marni von Wilpert went from a frustrated first-term councilmember to a favorite in one of the country’s biggest Congressional races",
+      "published": "2026-10-11T17:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "How Marni von Wilpert went from a frustrated first-term councilmember to a favorite in one of the country’s biggest Congressional races",
+          "link": "https://timesofsandiego.com/politics/2026/10/11/von-wilpert-ca-48-congressional-race-desmond/",
+          "published": "2026-10-11T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Police make 40 felony arrests, recover guns in College Area joint operation",
+      "published": "2026-10-11T16:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Police make 40 felony arrests, recover guns in College Area joint operation",
+          "link": "https://timesofsandiego.com/crime/2026/10/11/police-make-40-felony-arrests-recover-guns-in-college-area-joint-operation/",
+          "published": "2026-10-11T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Becerra hasn’t made education a priority. California education leaders aren’t worried",
+      "published": "2026-10-11T15:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Becerra hasn’t made education a priority. California education leaders aren’t worried",
+          "link": "https://timesofsandiego.com/education/2026/10/11/becerra-hasnt-made-education-a-priority-california-education-leaders-arent-worried/",
+          "published": "2026-10-11T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "No BS, Just a Voter Guide",
+      "published": "2026-10-11T13:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "No BS, Just a Voter Guide",
+          "link": "https://voiceofsandiego.org/2026/10/11/no-bs-just-a-voter-guide/",
+          "published": "2026-10-11T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Rachel-related rainfall expected to continue overnight, tropical storm watch for San Diego still in effect",
+      "published": "2026-10-11T00:01:39+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Rachel-related rainfall expected to continue overnight, tropical storm watch for San Diego still in effect",
+          "link": "https://timesofsandiego.com/weather/2026/10/10/rachel-related-rainfall-expected-to-continue-overnight-tropical-storm-watch-for-san-diego-still-in-effect/",
+          "published": "2026-10-11T00:01:39+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego man sentenced to 12 years in prison for scheme holding immigrants captive for ransom",
+      "published": "2026-10-10T23:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego man sentenced to 12 years in prison for scheme holding immigrants captive for ransom",
+          "link": "https://timesofsandiego.com/crime/2026/10/10/san-diego-man-sentenced-to-12-years-in-prison-for-scheme-holding-immigrants-captive-for-ransom/",
+          "published": "2026-10-10T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego County gas prices drop for ninth consecutive day",
+      "published": "2026-10-10T22:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego County gas prices drop for ninth consecutive day",
+          "link": "https://timesofsandiego.com/transportation/2026/10/10/san-diego-county-gas-prices-drop-for-ninth-consecutive-day/",
+          "published": "2026-10-10T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Affordable housing law expected to prevent foreclosures",
+      "published": "2026-10-10T20:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Affordable housing law expected to prevent foreclosures",
+          "link": "https://timesofsandiego.com/housing/2026/10/10/affordable-housing-law-expected-to-prevent-foreclosures/",
+          "published": "2026-10-10T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Tragedy in San Carlos: A community struggles with pain and grief after the deaths of the Voight family",
+      "published": "2026-10-10T19:05:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Tragedy in San Carlos: A community struggles with pain and grief after the deaths of the Voight family",
+          "link": "https://timesofsandiego.com/crime/2026/10/10/tragedy-san-carlos-community-deaths-voight-family/",
+          "published": "2026-10-10T19:05:00+00:00"
+        }
+      ]
+    },
     {
       "headline": "This is where people can find weather shelters and sandbags to prepare for Tropical Storm Rachel",
       "published": "2026-10-10T18:00:00+00:00",
@@ -29,19 +172,6 @@
       ]
     },
     {
-      "headline": "Where did San Diego County’s roadside motor lodges go?",
-      "published": "2026-10-10T14:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Where did San Diego County’s roadside motor lodges go?",
-          "link": "https://timesofsandiego.com/arts/2026/10/10/where-did-san-diego-countys-roadside-motor-lodges-go/",
-          "published": "2026-10-10T14:00:00+00:00"
-        }
-      ]
-    },
-    {
       "headline": "VOSD Podcast: The Mayor’s Unwelcome Assistance",
       "published": "2026-10-10T02:39:47+00:00",
       "outlet_count": 1,
@@ -55,19 +185,6 @@
       ]
     },
     {
-      "headline": "More strife for Grossmont school board – conservative bloc fractures over misconduct allegations",
-      "published": "2026-10-10T00:52:10+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "More strife for Grossmont school board – conservative bloc fractures over misconduct allegations",
-          "link": "https://timesofsandiego.com/education/2026/10/09/conservative-vote-grossmont-school-board-fractures/",
-          "published": "2026-10-10T00:52:10+00:00"
-        }
-      ]
-    },
-    {
       "headline": "North County heat records fall as region eyes tropical storm",
       "published": "2026-10-10T00:27:14+00:00",
       "outlet_count": 1,
@@ -77,19 +194,6 @@
           "title": "North County heat records fall as region eyes tropical storm",
           "link": "https://www.northcoastcurrent.com/top-stories/2026/10/north-county-heat-records-fall-as-region-eyes-tropical-storm/",
           "published": "2026-10-10T00:27:14+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Trump keeps mentioning the possibility of an attack on San Diego and Los Angeles",
-      "published": "2026-10-10T00:19:52+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Trump keeps mentioning the possibility of an attack on San Diego and Los Angeles",
-          "link": "https://timesofsandiego.com/politics/2026/10/09/trump-off-script-san-diego-los-angeles/",
-          "published": "2026-10-10T00:19:52+00:00"
         }
       ]
     },
@@ -250,32 +354,6 @@
       ]
     },
     {
-      "headline": "Tropical storm watch issued for San Diego County from Friday evening through Tuesday",
-      "published": "2026-10-09T20:29:16+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Tropical storm watch issued for San Diego County from Friday evening through Tuesday",
-          "link": "https://timesofsandiego.com/life/2026/10/09/tropical-storm-watch-issued-for-san-diego-county-from-friday-evening-through-tuesday/",
-          "published": "2026-10-09T20:29:16+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "El misterio de Irkutsk: una muerte, un laboratorio y el regreso de “la peste”, una palabra que aterra al mundo",
-      "published": "2026-10-09T20:09:16+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "El misterio de Irkutsk: una muerte, un laboratorio y el regreso de “la peste”, una palabra que aterra al mundo",
-          "link": "https://timesofsandiego.com/health/2026/10/09/misterio-irkutsk-peste-rusia-laboratorio/",
-          "published": "2026-10-09T20:09:16+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Meet &amp; Greet with Nicole Crosby in Point Loma –Tuesday, October 13",
       "published": "2026-10-09T19:57:19+02:00",
       "outlet_count": 1,
@@ -324,45 +402,6 @@
           "title": "Why Are Out-of-State Billionaires Funding Prop 39 — the California Voter ID Measure?",
           "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxyyzv8CmkB9YYqqaq6Cv8m?utm_source=follow.it",
           "published": "2026-10-09T19:15:06+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "‘We’re always students’ — Arts District Liberty Station welcomes new cohort of regional dancers for residencies",
-      "published": "2026-10-09T19:05:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "‘We’re always students’ — Arts District Liberty Station welcomes new cohort of regional dancers for residencies",
-          "link": "https://timesofsandiego.com/arts/2026/10/09/arts-district-liberty-station-regional-dance-residency/",
-          "published": "2026-10-09T19:05:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Piero: El hombre que le cantó al pueblo y a su padre con la misma voz",
-      "published": "2026-10-09T18:33:36+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Piero: El hombre que le cantó al pueblo y a su padre con la misma voz",
-          "link": "https://timesofsandiego.com/arts/2026/10/09/piero-el-hombre-que-le-canto-al-pueblo-y-a-su-padre-con-la-misma-voz/",
-          "published": "2026-10-09T18:33:36+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Mission Times Courier: October 9, 2026",
-      "published": "2026-10-09T18:10:08+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Mission Times Courier: October 9, 2026",
-          "link": "https://timesofsandiego.com/print-editions/2026/10/09/mission-times-courier-october-9-2026/",
-          "published": "2026-10-09T18:10:08+00:00"
         }
       ]
     },
@@ -434,19 +473,13 @@
     {
       "headline": "North County’s next generation of filmmakers",
       "published": "2026-10-08T23:14:00+00:00",
-      "outlet_count": 2,
+      "outlet_count": 1,
       "coverage": [
         {
           "source": "The Coast News",
           "title": "North County’s next generation of filmmakers",
           "link": "https://thecoastnews.com/north-countys-next-generation-of-filmmakers/",
           "published": "2026-10-08T23:14:00+00:00"
-        },
-        {
-          "source": "Del Mar Sandpiper",
-          "title": "What’s Next for North Bluff?",
-          "link": "https://delmarsandpiper.org/2026-10-006/",
-          "published": "2026-10-01T07:06:00+00:00"
         }
       ]
     },
@@ -737,19 +770,6 @@
       ]
     },
     {
-      "headline": "Oceanside Voters to Decide on Another Sales Tax Measure",
-      "published": "2026-10-08T00:15:18+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Oceanside Voters to Decide on Another Sales Tax Measure",
-          "link": "https://voiceofsandiego.org/2026/10/07/oceanside-voters-to-decide-on-another-sales-tax-measure/",
-          "published": "2026-10-08T00:15:18+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Legal Notices, October 9, 2026",
       "published": "2026-10-07T23:32:51+00:00",
       "outlet_count": 1,
@@ -759,32 +779,6 @@
           "title": "Legal Notices, October 9, 2026",
           "link": "https://thecoastnews.com/legal-notices-october-9-2026/",
           "published": "2026-10-07T23:32:51+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "No News Reports Since the 5 Rapes and Sexual Assaults at CSU San Marcos Were Announced Sept. 22",
-      "published": "2026-10-07T22:34:11+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "No News Reports Since the 5 Rapes and Sexual Assaults at CSU San Marcos Were Announced Sept. 22",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwRwZJUGvbK7Zs92If7RKzr?utm_source=follow.it",
-          "published": "2026-10-07T22:34:11+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "Real Estate: September 2026 Coronado market update",
-      "published": "2026-10-07T22:15:41+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Real Estate: September 2026 Coronado market update",
-          "link": "https://coronadotimes.com/news/2026/10/07/real-estate-september-2026-coronado-market-update/",
-          "published": "2026-10-07T22:15:41+00:00"
         }
       ]
     }
