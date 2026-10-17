@@ -1,7 +1,280 @@
 {
-  "generated_at": "2026-10-16T17:49:09.655626+00:00",
-  "story_count": 84,
+  "generated_at": "2026-10-17T16:51:59.544702+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "headline": "Midway Rising moves to full council for approval, with some changes",
+      "published": "2026-10-17T15:19:32+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Midway Rising moves to full council for approval, with some changes",
+          "link": "https://timesofsandiego.com/community/2026/10/17/midway-rising-moves-to-full-council-for-approval-with-some-changes/",
+          "published": "2026-10-17T15:19:32+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Midway Rising Advances But Council Insists Affordable Housing Should Be ‘New’",
+      "published": "2026-10-17T15:17:25+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Midway Rising Advances But Council Insists Affordable Housing Should Be ‘New’",
+          "link": "https://voiceofsandiego.org/2026/10/17/midway-rising-advances-but-council-insists-affordable-housing-should-be-new/",
+          "published": "2026-10-17T15:17:25+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Will prediction markets spark new war with casino tribes?",
+      "published": "2026-10-17T15:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Will prediction markets spark new war with casino tribes?",
+          "link": "https://timesofsandiego.com/tech/2026/10/17/will-prediction-markets-spark-new-war-with-casino-tribes/",
+          "published": "2026-10-17T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Inside San Diego’s early canneries: How fish transformed the waterfront",
+      "published": "2026-10-17T14:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Inside San Diego’s early canneries: How fish transformed the waterfront",
+          "link": "https://timesofsandiego.com/arts/2026/10/17/inside-san-diegos-early-canneries-how-fish-transformed-the-waterfront/",
+          "published": "2026-10-17T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "VOSD Podcast: Midway Rising Week with Chris Ward",
+      "published": "2026-10-17T01:21:38+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "VOSD Podcast: Midway Rising Week with Chris Ward",
+          "link": "https://voiceofsandiego.org/2026/10/16/vosd-podcast-midway-rising-week-with-chris-ward/",
+          "published": "2026-10-17T01:21:38+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Pendleton fire tops 2,000 acres; I-5 closed again",
+      "published": "2026-10-16T23:34:53+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "Pendleton fire tops 2,000 acres; I-5 closed again",
+          "link": "https://www.northcoastcurrent.com/oceanside-news/2026/10/pendleton-fire-tops-2000-acres-i-5-closed-again/",
+          "published": "2026-10-16T23:34:53+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "SDSU waterski team seeks another national title after losing most of championship roster",
+      "published": "2026-10-16T23:31:31+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "SDSU waterski team seeks another national title after losing most of championship roster",
+          "link": "https://timesofsandiego.com/sports/2026/10/16/san-diego-state-waterski-team-division-ii-national-title/",
+          "published": "2026-10-16T23:31:31+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Judge orders release of City College student detained by federal immigration officers",
+      "published": "2026-10-16T23:03:48+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Judge orders release of City College student detained by federal immigration officers",
+          "link": "https://timesofsandiego.com/education/2026/10/16/judge-release-city-college-student-ice-immigration/",
+          "published": "2026-10-16T23:03:48+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Solana Beach says plastics out, bees and chickens in",
+      "published": "2026-10-16T22:37:32+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Solana Beach says plastics out, bees and chickens in",
+          "link": "https://thecoastnews.com/solana-beach-says-plastics-out-bees-and-chickens-in/",
+          "published": "2026-10-16T22:37:32+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Firefighters battle 2,080-acre Henderson Fire at Camp Pendleton",
+      "published": "2026-10-16T22:16:49+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Firefighters battle 2,080-acre Henderson Fire at Camp Pendleton",
+          "link": "https://thecoastnews.com/firefighters-battle-2080-acre-henderson-fire-at-camp-pendleton/",
+          "published": "2026-10-16T22:16:49+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Should California Change How It Does Recall Elections?",
+      "published": "2026-10-16T22:16:22+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Should California Change How It Does Recall Elections?",
+          "link": "https://voiceofsandiego.org/2026/10/16/should-california-change-how-it-does-recall-elections/",
+          "published": "2026-10-16T22:16:22+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "County to Hold Annual Disabled Veterans Resource Fair Oct. 20",
+      "published": "2026-10-16T22:14:11+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "County to Hold Annual Disabled Veterans Resource Fair Oct. 20",
+          "link": "https://www.countynewscenter.com/county-to-hold-annual-disabled-veterans-resource-fair-oct-20/?utm_source=rss&utm_medium=rss&utm_campaign=county-to-hold-annual-disabled-veterans-resource-fair-oct-20",
+          "published": "2026-10-16T22:14:11+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Oceanside man arrested in Bonsall restaurant burglaries",
+      "published": "2026-10-16T22:07:04+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Oceanside man arrested in Bonsall restaurant burglaries",
+          "link": "https://thecoastnews.com/oceanside-man-arrested-in-bonsall-restaurant-burglaries/",
+          "published": "2026-10-16T22:07:04+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Kroenke Town: Billionaire Stan Kroenke’s plan to remake the Midway District is already underway",
+      "published": "2026-10-16T21:27:31+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Kroenke Town: Billionaire Stan Kroenke’s plan to remake the Midway District is already underway",
+          "link": "https://timesofsandiego.com/community/2026/10/16/stan-kroenke-midway-rising-perrys-cafe/",
+          "published": "2026-10-16T21:27:31+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Review: Digger, Alejandro González Iñárritu’s most divisive film yet",
+      "published": "2026-10-16T21:10:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Review: Digger, Alejandro González Iñárritu’s most divisive film yet",
+          "link": "https://timesofsandiego.com/arts/2026/10/16/film-review-digger-cruise-gonzalez-inarritus-divisive/",
+          "published": "2026-10-16T21:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Encinitas officials detail storm season prep ahead of El Niño",
+      "published": "2026-10-16T20:55:23+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "Encinitas officials detail storm season prep ahead of El Niño",
+          "link": "https://www.northcoastcurrent.com/encinitas-news/2026/10/encinitas-officials-detail-storm-season-prep-ahead-of-el-nino/",
+          "published": "2026-10-16T20:55:23+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Carlsbad Village bookstore opens in former Irish pub",
+      "published": "2026-10-16T20:40:07+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Carlsbad Village bookstore opens in former Irish pub",
+          "link": "https://thecoastnews.com/carlsbad-village-bookstore-opens-in-former-irish-pub/",
+          "published": "2026-10-16T20:40:07+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Brush fire at Camp Pendleton 20% contained, with  Interstate 5 again open in area",
+      "published": "2026-10-16T19:45:10+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Brush fire at Camp Pendleton 20% contained, with  Interstate 5 again open in area",
+          "link": "https://timesofsandiego.com/crime/2026/10/16/brush-fire-camp-pendleton-spreads-closing-interstate-5/",
+          "published": "2026-10-16T19:45:10+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Encinitas tackles ‘worsening’ rent hikes at mobile home parks",
+      "published": "2026-10-16T18:54:19+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Encinitas tackles ‘worsening’ rent hikes at mobile home parks",
+          "link": "https://thecoastnews.com/encinitas-tackles-worsening-problem-of-rent-hikes-at-mobile-home-parks/",
+          "published": "2026-10-16T18:54:19+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Aztecs, snakebit during inaugural Pac-12 season, try to overcome poor play and a contagion to draw fans back to Snapdragon",
+      "published": "2026-10-16T18:39:21+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Aztecs, snakebit during inaugural Pac-12 season, try to overcome poor play and a contagion to draw fans back to Snapdragon",
+          "link": "https://timesofsandiego.com/sports/2026/10/16/aztecs-pac-12-losing-record-poor-play-mumps/",
+          "published": "2026-10-16T18:39:21+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "From an East Village studio to a state-of-the-art bakery in Sorrento Valley —IZOLA to open second location",
+      "published": "2026-10-16T18:13:29+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "From an East Village studio to a state-of-the-art bakery in Sorrento Valley —IZOLA to open second location",
+          "link": "https://timesofsandiego.com/business/2026/10/16/izola-to-open-second-location/",
+          "published": "2026-10-16T18:13:29+00:00"
+        }
+      ]
+    },
     {
       "headline": "San Diego County: Register to Vote by Oct. 19 for a Mail Ballot for November General Election",
       "published": "2026-10-16T17:43:02+00:00",
@@ -12,45 +285,6 @@
           "title": "San Diego County: Register to Vote by Oct. 19 for a Mail Ballot for November General Election",
           "link": "https://www.countynewscenter.com/san-diego-county-register-to-vote-by-oct-19-for-a-mail-ballot-for-november-general-election/?utm_source=rss&utm_medium=rss&utm_campaign=san-diego-county-register-to-vote-by-oct-19-for-a-mail-ballot-for-november-general-election",
           "published": "2026-10-16T17:43:02+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "La Jolla Vikings football: ‘It’s playoff football from here on’",
-      "published": "2026-10-16T17:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "La Jolla Vikings football: ‘It’s playoff football from here on’",
-          "link": "https://timesofsandiego.com/education/2026/10/16/la-jolla-vikings-football-its-playoff-football-from-here-on/",
-          "published": "2026-10-16T17:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Peninsula Beacon: October 16, 2026",
-      "published": "2026-10-16T16:18:38+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Peninsula Beacon: October 16, 2026",
-          "link": "https://timesofsandiego.com/print-editions/2026/10/16/peninsula-beacon-october-16-2026/",
-          "published": "2026-10-16T16:18:38+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Punishing heat waves are becoming more common in California. Most schools aren’t prepared",
-      "published": "2026-10-16T15:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Punishing heat waves are becoming more common in California. Most schools aren’t prepared",
-          "link": "https://timesofsandiego.com/education/2026/10/16/punishing-heat-waves-are-becoming-more-common-in-california-most-schools-arent-prepared/",
-          "published": "2026-10-16T15:00:00+00:00"
         }
       ]
     },
@@ -107,64 +341,6 @@
       ]
     },
     {
-      "headline": "Encinitas aprueba enviar a personas sin hogar al South Bay tras enfrentamiento con concejal de National City",
-      "published": "2026-10-16T00:31:30+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Encinitas aprueba enviar a personas sin hogar al South Bay tras enfrentamiento con concejal de National City",
-          "link": "https://timesofsandiego.com/housing/2026/10/15/encinitas-personas-sin-hogar-national-city-refugio/",
-          "published": "2026-10-16T00:31:30+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Guía de fin de semana en San Diego (16 al 18 de octubre): el norte del condado roba protagonismo",
-      "published": "2026-10-16T00:21:53+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Guía de fin de semana en San Diego (16 al 18 de octubre): el norte del condado roba protagonismo",
-          "link": "https://timesofsandiego.com/arts/2026/10/15/eventos-fin-semana-san-diego-16-18-octubre-2026/",
-          "published": "2026-10-16T00:21:53+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Incendio forestal de rápida propagación consume más de 1,100 acres en Camp Pendleton y se acerca a la Interestatal 5",
-      "published": "2026-10-16T00:06:51+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Incendio forestal de rápida propagación consume más de 1,100 acres en Camp Pendleton y se acerca a la Interestatal 5",
-          "link": "https://timesofsandiego.com/environment/2026/10/15/incendio-forestal-de-rapida-propagacion-consume-mas-de-1100-acres-en-camp-pendleton-y-se-acerca-a-la-interestatal-5/",
-          "published": "2026-10-16T00:06:51+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Fast-moving brush fire burns hundreds of acres at Camp Pendleton, closes part of Interstate 5",
-      "published": "2026-10-15T23:40:59+00:00",
-      "outlet_count": 2,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Fast-moving brush fire burns hundreds of acres at Camp Pendleton, closes part of Interstate 5",
-          "link": "https://timesofsandiego.com/crime/2026/10/15/brush-fire-camp-pendleton-interstate-5/",
-          "published": "2026-10-15T23:40:59+00:00"
-        },
-        {
-          "source": "The Coast News",
-          "title": "Fast-moving brush fire erupts at Camp Pendleton",
-          "link": "https://thecoastnews.com/fast-moving-brush-fire-erupts-at-camp-pendleton/",
-          "published": "2026-10-15T23:09:26+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Developer appeals rejection of San Elijo Hills condo project",
       "published": "2026-10-15T23:29:28+00:00",
       "outlet_count": 1,
@@ -191,6 +367,19 @@
       ]
     },
     {
+      "headline": "Fast-moving brush fire erupts at Camp Pendleton",
+      "published": "2026-10-15T23:09:26+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Fast-moving brush fire erupts at Camp Pendleton",
+          "link": "https://thecoastnews.com/fast-moving-brush-fire-erupts-at-camp-pendleton/",
+          "published": "2026-10-15T23:09:26+00:00"
+        }
+      ]
+    },
+    {
       "headline": "Encinitas residents push for lagoon sand to rebuild northern beaches",
       "published": "2026-10-15T22:28:54+00:00",
       "outlet_count": 1,
@@ -200,45 +389,6 @@
           "title": "Encinitas residents push for lagoon sand to rebuild northern beaches",
           "link": "https://thecoastnews.com/encinitas-residents-push-for-lagoon-sand-to-rebuild-northern-beaches/",
           "published": "2026-10-15T22:28:54+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Encinitas approves sending its homeless to South Bay after heated exchange with National City councilmember",
-      "published": "2026-10-15T21:56:09+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Encinitas approves sending its homeless to South Bay after heated exchange with National City councilmember",
-          "link": "https://timesofsandiego.com/community/2026/10/15/encinitas-homeless-national-city-heated-exchange-mayoral-candidate/",
-          "published": "2026-10-15T21:56:09+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Reseña: Digger, la divisiva película de Alejandro González Iñarritu",
-      "published": "2026-10-15T21:36:32+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Reseña: Digger, la divisiva película de Alejandro González Iñarritu",
-          "link": "https://timesofsandiego.com/opinion/2026/10/15/la-caida-del-digger-tom-cruise-inarritu/",
-          "published": "2026-10-15T21:36:32+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Cuando Europa no podía dejar de bailar",
-      "published": "2026-10-15T21:00:27+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Cuando Europa no podía dejar de bailar",
-          "link": "https://timesofsandiego.com/life/2026/10/15/la-epidemia-de-baile-de-1518-cuando-cientos-de-personas-no-pudieron-dejar-de-bailar/",
-          "published": "2026-10-15T21:00:27+00:00"
         }
       ]
     },
@@ -607,45 +757,6 @@
       ]
     },
     {
-      "headline": "Help bring a new holiday tradition to Encinitas",
-      "published": "2026-10-14T22:44:06+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Help bring a new holiday tradition to Encinitas",
-          "link": "https://thecoastnews.com/encinitas-holiday-market-sponsors-vendors-2026/",
-          "published": "2026-10-14T22:44:06+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Vista Irrigation District adopts AI policy",
-      "published": "2026-10-14T22:41:54+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Vista Irrigation District adopts AI policy",
-          "link": "https://thecoastnews.com/vista-irrigation-district-adopts-ai-policy/",
-          "published": "2026-10-14T22:41:54+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Council Candidates Say Changes Needed After Safe Sleeping Deaths",
-      "published": "2026-10-14T22:27:28+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Council Candidates Say Changes Needed After Safe Sleeping Deaths",
-          "link": "https://voiceofsandiego.org/2026/10/14/council-candidates-say-changes-needed-after-safe-sleeping-deaths/",
-          "published": "2026-10-14T22:27:28+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Coronado Island Film Festival announces 2026 film lineup",
       "published": "2026-10-14T20:47:07+00:00",
       "outlet_count": 1,
@@ -668,123 +779,6 @@
           "title": "High Wind Warning and Heat Advisory Issued for San Diego County Starting Thursday",
           "link": "https://www.countynewscenter.com/high-wind-watch-and-heat-advisory-issued-for-san-diego-county-starting-thursday/?utm_source=rss&utm_medium=rss&utm_campaign=high-wind-watch-and-heat-advisory-issued-for-san-diego-county-starting-thursday",
           "published": "2026-10-14T20:38:53+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Lori Saldaña: ‘I Have Questions About City’s Approval of SeaWorld’s Masterplan and Sea Level Rise’",
-      "published": "2026-10-14T19:50:55+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Lori Saldaña: ‘I Have Questions About City’s Approval of SeaWorld’s Masterplan and Sea Level Rise’",
-          "link": "https://obrag.org/2026/10/lori-saldana-i-have-questions-about-citys-approval-of-seaworlds-masterplan-and-sea-level-rise/",
-          "published": "2026-10-14T19:50:55+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Developments in San Diego Development: Another Lawsuit re Emerald Hills, Chollas Creek Toxic Contamination, Push Back on San Elijo Hills Project",
-      "published": "2026-10-14T19:20:05+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Developments in San Diego Development: Another Lawsuit re Emerald Hills, Chollas Creek Toxic Contamination, Push Back on San Elijo Hills Project",
-          "link": "https://obrag.org/2026/10/developments-in-san-diego-development-another-lawsuit-re-emerald-hills-chollas-creek-toxic-contamination-push-back-on-san-elijo-hills-project/",
-          "published": "2026-10-14T19:20:05+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "OB Restaurant Walk — Tuesday, Oct.20th",
-      "published": "2026-10-14T18:43:51+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "OB Restaurant Walk — Tuesday, Oct.20th",
-          "link": "https://obrag.org/2026/10/ob-restaurant-walk-tuesday-oct-20th/",
-          "published": "2026-10-14T18:43:51+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diego Breweries Rack Up 13 Medals at National Beer Fest Including ‘Best Brewery’",
-      "published": "2026-10-14T18:38:55+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "San Diego Breweries Rack Up 13 Medals at National Beer Fest Including ‘Best Brewery’",
-          "link": "https://obrag.org/2026/10/san-diego-breweries-rack-up-13-medals-at-national-beer-fest-including-best-brewery/",
-          "published": "2026-10-14T18:38:55+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Meet Jen Michaelson: Bringing people together, one event at a time",
-      "published": "2026-10-14T18:14:48+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Meet Jen Michaelson: Bringing people together, one event at a time",
-          "link": "https://thecoastnews.com/meet-jen-michaelson-bringing-people-together-one-event-at-a-time/",
-          "published": "2026-10-14T18:14:48+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Primary care providers: Co-captains of your health team",
-      "published": "2026-10-14T18:13:40+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Primary care providers: Co-captains of your health team",
-          "link": "https://thecoastnews.com/primary-care-providers-co-captains-of-your-health-team/",
-          "published": "2026-10-14T18:13:40+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Cartoon: Scott Chambers",
-      "published": "2026-10-14T18:12:39+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Cartoon: Scott Chambers",
-          "link": "https://thecoastnews.com/cartoon-scott-chambers-332/",
-          "published": "2026-10-14T18:12:39+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Down the Rabbit Hole with Nextdoor’s AI Censors",
-      "published": "2026-10-14T18:05:27+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Down the Rabbit Hole with Nextdoor’s AI Censors",
-          "link": "https://obrag.org/2026/10/down-the-rabbit-hole-with-nextdoors-ai-censors/",
-          "published": "2026-10-14T18:05:27+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "A New Anti-Flock Council Majority",
-      "published": "2026-10-14T09:15:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "A New Anti-Flock Council Majority",
-          "link": "https://voiceofsandiego.org/2026/10/14/a-new-anti-flock-majority/",
-          "published": "2026-10-14T09:15:00+00:00"
         }
       ]
     }
