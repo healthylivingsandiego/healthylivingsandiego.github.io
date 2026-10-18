@@ -1,17 +1,238 @@
 {
-  "generated_at": "2026-10-17T16:51:59.544702+00:00",
+  "generated_at": "2026-10-18T17:05:29.972535+00:00",
   "story_count": 85,
   "stories": [
     {
-      "headline": "Midway Rising moves to full council for approval, with some changes",
-      "published": "2026-10-17T15:19:32+00:00",
+      "headline": "Congee: Comforting spirits during the hungry ghost festival",
+      "published": "2026-10-18T17:00:18+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Congee: Comforting spirits during the hungry ghost festival",
+          "link": "https://coronadotimes.com/news/2026/10/18/congee-comforting-spirits-during-the-hungry-ghost-festival/",
+          "published": "2026-10-18T17:00:18+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Opinion: Kids don’t just need cartoons and superheroes. Give them nonfiction films too",
+      "published": "2026-10-18T17:00:00+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "Times of San Diego",
-          "title": "Midway Rising moves to full council for approval, with some changes",
-          "link": "https://timesofsandiego.com/community/2026/10/17/midway-rising-moves-to-full-council-for-approval-with-some-changes/",
-          "published": "2026-10-17T15:19:32+00:00"
+          "title": "Opinion: Kids don’t just need cartoons and superheroes. Give them nonfiction films too",
+          "link": "https://timesofsandiego.com/opinion/2026/10/18/opinion-kids-documentaries-girl-scouts/",
+          "published": "2026-10-18T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "The race for lithium Is becoming a race for water",
+      "published": "2026-10-18T15:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "The race for lithium Is becoming a race for water",
+          "link": "https://timesofsandiego.com/environment/2026/10/18/the-race-for-lithium-is-becoming-a-race-for-water/",
+          "published": "2026-10-18T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "There’s a $11.25 billion housing bond on the ballot this November. Here’s what you should know",
+      "published": "2026-10-18T14:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "There’s a $11.25 billion housing bond on the ballot this November. Here’s what you should know",
+          "link": "https://timesofsandiego.com/housing/2026/10/18/theres-a-11-25-billion-housing-bond-on-the-ballot-this-november-heres-what-you-should-know/",
+          "published": "2026-10-18T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "5 Stories to Distract You From Mailers",
+      "published": "2026-10-18T13:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "5 Stories to Distract You From Mailers",
+          "link": "https://voiceofsandiego.org/2026/10/18/5-stories-to-distract-you-from-mailers/",
+          "published": "2026-10-18T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "‘No Kings’ events spread around San Diego to push voter turnout for November",
+      "published": "2026-10-18T00:43:35+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "‘No Kings’ events spread around San Diego to push voter turnout for November",
+          "link": "https://timesofsandiego.com/politics/2026/10/17/no-kings-events-spread-around-san-diego-to-push-voter-turnout-for-november/",
+          "published": "2026-10-18T00:43:35+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Get to Know the OB Community Development Corp. — Friday, Oct.23",
+      "published": "2026-10-18T00:34:18+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Get to Know the OB Community Development Corp. — Friday, Oct.23",
+          "link": "https://obrag.org/2026/10/get-to-know-the-ob-community-development-corp-friday-oct-23/",
+          "published": "2026-10-18T00:34:18+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Sample of ‘No Kings Day’ Events",
+      "published": "2026-10-18T00:26:50+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Sample of ‘No Kings Day’ Events",
+          "link": "https://obrag.org/2026/10/sample-of-no-kings-day-events/",
+          "published": "2026-10-18T00:26:50+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Student voices spark new conversations about racism at CHS",
+      "published": "2026-10-18T00:15:11+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Student voices spark new conversations about racism at CHS",
+          "link": "https://coronadotimes.com/news/2026/10/17/student-voices-spark-new-conversations-about-racism-at-chs/",
+          "published": "2026-10-18T00:15:11+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego gas prices drop for 16th consecutive day",
+      "published": "2026-10-18T00:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego gas prices drop for 16th consecutive day",
+          "link": "https://timesofsandiego.com/transportation/2026/10/17/san-diego-gas-prices-drop-for-16th-consecutive-day/",
+          "published": "2026-10-18T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Coast Guard continues search for survivors after boat sinks off Ensenada coast",
+      "published": "2026-10-17T23:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Coast Guard continues search for survivors after boat sinks off Ensenada coast",
+          "link": "https://timesofsandiego.com/military/2026/10/17/coast-guard-continues-search-for-survivors-after-boat-sinks-off-ensenada-coast/",
+          "published": "2026-10-17T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "A fresh start for Coronado Flower Lady: island icon lays down roots at AR Workshop",
+      "published": "2026-10-17T21:55:36+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "A fresh start for Coronado Flower Lady: island icon lays down roots at AR Workshop",
+          "link": "https://coronadotimes.com/news/2026/10/17/a-fresh-start-for-coronado-flower-lady-island-icon-lays-down-roots-at-ar-workshop/",
+          "published": "2026-10-17T21:55:36+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Newsom offers mental health services to returning USS Abraham Lincoln personnel",
+      "published": "2026-10-17T21:30:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Newsom offers mental health services to returning USS Abraham Lincoln personnel",
+          "link": "https://timesofsandiego.com/military/2026/10/17/newsom-offers-mental-health-services-to-returning-uss-abraham-lincoln-personnel/",
+          "published": "2026-10-17T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Camp Pendleton brush fire now 35% contained with more than 3,000 acres burned",
+      "published": "2026-10-17T21:02:19+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Camp Pendleton brush fire now 35% contained with more than 3,000 acres burned",
+          "link": "https://timesofsandiego.com/california-fires/2026/10/17/camp-pendleton-brush-fire-now-35-contained-with-more-than-3000-acres-burned/",
+          "published": "2026-10-17T21:02:19+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "This landmark Escondido brewery was slated for closure: Instead it’s returning to its roots",
+      "published": "2026-10-17T21:01:19+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "This landmark Escondido brewery was slated for closure: Instead it’s returning to its roots",
+          "link": "https://www.northcoastcurrent.com/top-stories/2026/10/this-landmark-escondido-brewery-was-slated-for-closure-instead-its-returning-to-its-roots/",
+          "published": "2026-10-17T21:01:19+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "As beloved craft breweries close around the state, beer lovers wonder what’s next",
+      "published": "2026-10-17T21:00:06+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "As beloved craft breweries close around the state, beer lovers wonder what’s next",
+          "link": "https://www.northcoastcurrent.com/top-stories/2026/10/as-beloved-craft-breweries-close-around-the-state-beer-lovers-wonder-whats-next/",
+          "published": "2026-10-17T21:00:06+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "California’s billionaire tax promises healthcare relief. The fine print is murkier",
+      "published": "2026-10-17T20:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "California’s billionaire tax promises healthcare relief. The fine print is murkier",
+          "link": "https://timesofsandiego.com/politics/2026/10/17/californias-billionaire-tax-promises-healthcare-relief-the-fine-print-is-murkier/",
+          "published": "2026-10-17T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Passion for the pour: Chef Erin Sealy brings wine and food together in PB",
+      "published": "2026-10-17T19:45:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Passion for the pour: Chef Erin Sealy brings wine and food together in PB",
+          "link": "https://timesofsandiego.com/things-to-do/2026/10/17/pacific-beach-chef-sealy-wine-food/",
+          "published": "2026-10-17T19:45:00+00:00"
         }
       ]
     },
@@ -25,32 +246,6 @@
           "title": "Midway Rising Advances But Council Insists Affordable Housing Should Be ‘New’",
           "link": "https://voiceofsandiego.org/2026/10/17/midway-rising-advances-but-council-insists-affordable-housing-should-be-new/",
           "published": "2026-10-17T15:17:25+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Will prediction markets spark new war with casino tribes?",
-      "published": "2026-10-17T15:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Will prediction markets spark new war with casino tribes?",
-          "link": "https://timesofsandiego.com/tech/2026/10/17/will-prediction-markets-spark-new-war-with-casino-tribes/",
-          "published": "2026-10-17T15:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Inside San Diego’s early canneries: How fish transformed the waterfront",
-      "published": "2026-10-17T14:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Inside San Diego’s early canneries: How fish transformed the waterfront",
-          "link": "https://timesofsandiego.com/arts/2026/10/17/inside-san-diegos-early-canneries-how-fish-transformed-the-waterfront/",
-          "published": "2026-10-17T14:00:00+00:00"
         }
       ]
     },
@@ -77,32 +272,6 @@
           "title": "Pendleton fire tops 2,000 acres; I-5 closed again",
           "link": "https://www.northcoastcurrent.com/oceanside-news/2026/10/pendleton-fire-tops-2000-acres-i-5-closed-again/",
           "published": "2026-10-16T23:34:53+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "SDSU waterski team seeks another national title after losing most of championship roster",
-      "published": "2026-10-16T23:31:31+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "SDSU waterski team seeks another national title after losing most of championship roster",
-          "link": "https://timesofsandiego.com/sports/2026/10/16/san-diego-state-waterski-team-division-ii-national-title/",
-          "published": "2026-10-16T23:31:31+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Judge orders release of City College student detained by federal immigration officers",
-      "published": "2026-10-16T23:03:48+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Judge orders release of City College student detained by federal immigration officers",
-          "link": "https://timesofsandiego.com/education/2026/10/16/judge-release-city-college-student-ice-immigration/",
-          "published": "2026-10-16T23:03:48+00:00"
         }
       ]
     },
@@ -172,32 +341,6 @@
       ]
     },
     {
-      "headline": "Kroenke Town: Billionaire Stan Kroenke’s plan to remake the Midway District is already underway",
-      "published": "2026-10-16T21:27:31+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Kroenke Town: Billionaire Stan Kroenke’s plan to remake the Midway District is already underway",
-          "link": "https://timesofsandiego.com/community/2026/10/16/stan-kroenke-midway-rising-perrys-cafe/",
-          "published": "2026-10-16T21:27:31+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Review: Digger, Alejandro González Iñárritu’s most divisive film yet",
-      "published": "2026-10-16T21:10:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Review: Digger, Alejandro González Iñárritu’s most divisive film yet",
-          "link": "https://timesofsandiego.com/arts/2026/10/16/film-review-digger-cruise-gonzalez-inarritus-divisive/",
-          "published": "2026-10-16T21:10:00+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Encinitas officials detail storm season prep ahead of El Niño",
       "published": "2026-10-16T20:55:23+00:00",
       "outlet_count": 1,
@@ -224,19 +367,6 @@
       ]
     },
     {
-      "headline": "Brush fire at Camp Pendleton 20% contained, with  Interstate 5 again open in area",
-      "published": "2026-10-16T19:45:10+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Brush fire at Camp Pendleton 20% contained, with  Interstate 5 again open in area",
-          "link": "https://timesofsandiego.com/crime/2026/10/16/brush-fire-camp-pendleton-spreads-closing-interstate-5/",
-          "published": "2026-10-16T19:45:10+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Encinitas tackles ‘worsening’ rent hikes at mobile home parks",
       "published": "2026-10-16T18:54:19+00:00",
       "outlet_count": 1,
@@ -246,32 +376,6 @@
           "title": "Encinitas tackles ‘worsening’ rent hikes at mobile home parks",
           "link": "https://thecoastnews.com/encinitas-tackles-worsening-problem-of-rent-hikes-at-mobile-home-parks/",
           "published": "2026-10-16T18:54:19+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Aztecs, snakebit during inaugural Pac-12 season, try to overcome poor play and a contagion to draw fans back to Snapdragon",
-      "published": "2026-10-16T18:39:21+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Aztecs, snakebit during inaugural Pac-12 season, try to overcome poor play and a contagion to draw fans back to Snapdragon",
-          "link": "https://timesofsandiego.com/sports/2026/10/16/aztecs-pac-12-losing-record-poor-play-mumps/",
-          "published": "2026-10-16T18:39:21+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "From an East Village studio to a state-of-the-art bakery in Sorrento Valley —IZOLA to open second location",
-      "published": "2026-10-16T18:13:29+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "From an East Village studio to a state-of-the-art bakery in Sorrento Valley —IZOLA to open second location",
-          "link": "https://timesofsandiego.com/business/2026/10/16/izola-to-open-second-location/",
-          "published": "2026-10-16T18:13:29+00:00"
         }
       ]
     },
@@ -675,110 +779,6 @@
           "title": "Letter to the Editor: PRAISE FOR LOCAL SERVICES",
           "link": "https://www.times-advocate.com/articles/letter-to-the-editor-praise-for-local-services/",
           "published": "2026-10-15T13:30:11+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Manchester Group Pitches Massive Data Center at NAVWAR Site",
-      "published": "2026-10-15T12:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Manchester Group Pitches Massive Data Center at NAVWAR Site",
-          "link": "https://voiceofsandiego.org/2026/10/15/manchester-group-pitches-massive-data-center-at-the-navwar-site/",
-          "published": "2026-10-15T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Safe Sleeping Sites Under Scrutiny",
-      "published": "2026-10-15T09:15:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Safe Sleeping Sites Under Scrutiny",
-          "link": "https://voiceofsandiego.org/2026/10/15/safe-sleeping-sites-under-scrutiny/",
-          "published": "2026-10-15T09:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Students explore opportunities at third Water Career Day in Cardiff",
-      "published": "2026-10-15T01:05:38+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Students explore opportunities at third Water Career Day in Cardiff",
-          "link": "https://www.northcoastcurrent.com/top-stories/2026/10/students-explore-opportunities-at-third-water-career-day-in-cardiff/",
-          "published": "2026-10-15T01:05:38+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Your next holiday customer could be reading The Coast News",
-      "published": "2026-10-15T00:37:40+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Your next holiday customer could be reading The Coast News",
-          "link": "https://thecoastnews.com/your-next-holiday-customer-could-be-reading-the-coast-news/",
-          "published": "2026-10-15T00:37:40+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "India-born spice maker brings Bengaluru flavors to Solana Beach",
-      "published": "2026-10-14T23:57:44+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "India-born spice maker brings Bengaluru flavors to Solana Beach",
-          "link": "https://thecoastnews.com/india-born-spice-maker-brings-bengaluru-flavors-to-solana-beach/",
-          "published": "2026-10-14T23:57:44+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Election 2026: City Council candidates questionnaire",
-      "published": "2026-10-14T23:42:55+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Election 2026: City Council candidates questionnaire",
-          "link": "https://thecoastnews.com/election-2026-city-council-candidates-questionnaire/",
-          "published": "2026-10-14T23:42:55+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Coronado Island Film Festival announces 2026 film lineup",
-      "published": "2026-10-14T20:47:07+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Coronado Island Film Festival announces 2026 film lineup",
-          "link": "https://coronadotimes.com/news/2026/10/14/coronado-island-film-festival-announces-2026-film-lineup/",
-          "published": "2026-10-14T20:47:07+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "High Wind Warning and Heat Advisory Issued for San Diego County Starting Thursday",
-      "published": "2026-10-14T20:38:53+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "High Wind Warning and Heat Advisory Issued for San Diego County Starting Thursday",
-          "link": "https://www.countynewscenter.com/high-wind-watch-and-heat-advisory-issued-for-san-diego-county-starting-thursday/?utm_source=rss&utm_medium=rss&utm_campaign=high-wind-watch-and-heat-advisory-issued-for-san-diego-county-starting-thursday",
-          "published": "2026-10-14T20:38:53+00:00"
         }
       ]
     }
