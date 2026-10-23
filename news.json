@@ -1,17 +1,485 @@
 {
-  "generated_at": "2026-10-22T18:19:31.924723+00:00",
-  "story_count": 86,
+  "generated_at": "2026-10-23T18:06:36.502430+00:00",
+  "story_count": 97,
   "stories": [
     {
-      "headline": "WAR’s Lonnie Jordan, a San Diego native, reflects on decades of creating ‘universal street music’",
-      "published": "2026-10-22T18:10:10+00:00",
+      "headline": "DHS to Test ‘Heat Ray’ for Border Use",
+      "published": "2026-10-23T20:00:45+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "DHS to Test ‘Heat Ray’ for Border Use",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDx9AdbI7yawgWTUo6Khsq2P?utm_source=follow.it",
+          "published": "2026-10-23T20:00:45+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego Democrats Stand Against Data Centers at NAVWAR",
+      "published": "2026-10-23T19:54:09+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "San Diego Democrats Stand Against Data Centers at NAVWAR",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDyiDBgHK1uDbxwfgXpWpX-7?utm_source=follow.it",
+          "published": "2026-10-23T19:54:09+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Surfrider Report: Emergency Beach Fixes Cause Permanent Loss",
+      "published": "2026-10-23T19:34:57+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Surfrider Report: Emergency Beach Fixes Cause Permanent Loss",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDzGrRC2DO5Us9ORlbs475ok?utm_source=follow.it",
+          "published": "2026-10-23T19:34:57+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Internship for Councilmember Foster’s Son Raises Ethical Questions",
+      "published": "2026-10-23T19:12:47+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Internship for Councilmember Foster’s Son Raises Ethical Questions",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwxGQdRqzERboxXCNMP08XP?utm_source=follow.it",
+          "published": "2026-10-23T19:12:47+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "‘Monstrosity,’ ‘trash,’ ‘irreversible harm,’ — elected officials call for pause on “mega” data center",
+      "published": "2026-10-23T17:58:55+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "Times of San Diego",
-          "title": "WAR’s Lonnie Jordan, a San Diego native, reflects on decades of creating ‘universal street music’",
-          "link": "https://timesofsandiego.com/arts/2026/10/22/war-lonnie-jordan-san-diego-anniversary-greatest-hits/",
-          "published": "2026-10-22T18:10:10+00:00"
+          "title": "‘Monstrosity,’ ‘trash,’ ‘irreversible harm,’ — elected officials call for pause on “mega” data center",
+          "link": "https://timesofsandiego.com/politics/2026/10/23/monstrosity-trash-irreversible-harm-elected-officials-call-for-pause-on-mega-data-center/",
+          "published": "2026-10-23T17:58:55+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "La Mesa Courier: October 23, 2026",
+      "published": "2026-10-23T17:57:29+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "La Mesa Courier: October 23, 2026",
+          "link": "https://timesofsandiego.com/print-editions/2026/10/23/la-mesa-courier-october-23-2026/",
+          "published": "2026-10-23T17:57:29+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "All Things Creepy Crawly",
+      "published": "2026-10-23T17:33:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "All Things Creepy Crawly",
+          "link": "https://www.countynewscenter.com/all-things-creepy-crawly/?utm_source=rss&utm_medium=rss&utm_campaign=all-things-creepy-crawly",
+          "published": "2026-10-23T17:33:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "La Jolla Village News: October 23, 2026",
+      "published": "2026-10-23T17:32:31+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "La Jolla Village News: October 23, 2026",
+          "link": "https://timesofsandiego.com/print-editions/2026/10/23/la-jolla-village-news-october-23-2026/",
+          "published": "2026-10-23T17:32:31+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Beach and Bay Press: October 23, 2026",
+      "published": "2026-10-23T17:19:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Beach and Bay Press: October 23, 2026",
+          "link": "https://timesofsandiego.com/print-editions/2026/10/23/beach-and-bay-press-october-23-2026/",
+          "published": "2026-10-23T17:19:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Halloween happenings in Pacific Beach, Mission Beach, and La Jolla",
+      "published": "2026-10-23T17:05:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Halloween happenings in Pacific Beach, Mission Beach, and La Jolla",
+          "link": "https://timesofsandiego.com/san-diego-events/2026/10/23/halloween-happenings-in-pacific-beach-mission-beach-and-la-jolla/",
+          "published": "2026-10-23T17:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Opinion: Issue with school district campaign flyer isn’t the AI. It’s the misogyny",
+      "published": "2026-10-23T17:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Opinion: Issue with school district campaign flyer isn’t the AI. It’s the misogyny",
+          "link": "https://timesofsandiego.com/opinion/2026/10/23/opinion-school-district-campaign-flyer-ai-misogyny/",
+          "published": "2026-10-23T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Why so many pet owners can’t afford a veterinarian",
+      "published": "2026-10-23T16:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Why so many pet owners can’t afford a veterinarian",
+          "link": "https://timesofsandiego.com/health/2026/10/23/why-so-many-pet-owners-cant-afford-a-veterinarian/",
+          "published": "2026-10-23T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Mahj Theory Collective features open play, lessons, and leagues",
+      "published": "2026-10-23T15:50:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Mahj Theory Collective features open play, lessons, and leagues",
+          "link": "https://timesofsandiego.com/community/2026/10/23/mahj-theory-collective-features-open-play-lessons-and-leagues/",
+          "published": "2026-10-23T15:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Immigrant student enrollment has taken a nosedive in California schools",
+      "published": "2026-10-23T15:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Immigrant student enrollment has taken a nosedive in California schools",
+          "link": "https://timesofsandiego.com/education/2026/10/23/immigrant-student-enrollment-has-taken-a-nosedive-in-california-schools/",
+          "published": "2026-10-23T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "City Hall Pursues Temporary Data Center Ban, New Laws",
+      "published": "2026-10-23T09:15:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "City Hall Pursues Temporary Data Center Ban, New Laws",
+          "link": "https://voiceofsandiego.org/2026/10/23/city-hall-pursues-temporary-data-center-ban-new-laws/",
+          "published": "2026-10-23T09:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Commentary: The sexism behind Miyashiro’s AI campaign mailer",
+      "published": "2026-10-23T03:01:31+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Commentary: The sexism behind Miyashiro’s AI campaign mailer",
+          "link": "https://thecoastnews.com/commentary-the-sexism-behind-miyashiros-ai-campaign-mailer/",
+          "published": "2026-10-23T03:01:31+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Policía de San Diego mata a hombre presuntamente armado con un hacha en Morena",
+      "published": "2026-10-23T02:51:42+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Policía de San Diego mata a hombre presuntamente armado con un hacha en Morena",
+          "link": "https://timesofsandiego.com/crime/2026/10/22/policia-san-diego-mata-hombre-armado-hacha-morena/",
+          "published": "2026-10-23T02:51:42+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Following Lawsuits, Sluggish Sales, National City Is Vexed by Cannabis",
+      "published": "2026-10-22T23:50:38+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Following Lawsuits, Sluggish Sales, National City Is Vexed by Cannabis",
+          "link": "https://voiceofsandiego.org/2026/10/22/following-lawsuits-sluggish-sales-national-city-is-vexed-by-cannabis/",
+          "published": "2026-10-22T23:50:38+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Del Mar to hold pedestrian safety workshop",
+      "published": "2026-10-22T23:38:01+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Del Mar to hold pedestrian safety workshop",
+          "link": "https://thecoastnews.com/del-mar-to-hold-pedestrian-safety-workshop/",
+          "published": "2026-10-22T23:38:01+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Metrolink to suspend Oceanside service for five days amid high tides",
+      "published": "2026-10-22T23:31:35+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Metrolink to suspend Oceanside service for five days amid high tides",
+          "link": "https://thecoastnews.com/metrolink-to-suspend-oceanside-service-for-five-days-amid-high-tides/",
+          "published": "2026-10-22T23:31:35+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Husband Charged in Ex-County Contractor Case",
+      "published": "2026-10-22T23:27:28+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Husband Charged in Ex-County Contractor Case",
+          "link": "https://voiceofsandiego.org/2026/10/22/husband-charged-in-ex-county-contractor-case/",
+          "published": "2026-10-22T23:27:28+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "County Green Streets Help Filter El Niño Stormwater",
+      "published": "2026-10-22T23:25:58+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "County Green Streets Help Filter El Niño Stormwater",
+          "link": "https://www.countynewscenter.com/county-green-streets-help-filter-el-nino-stormwater/?utm_source=rss&utm_medium=rss&utm_campaign=county-green-streets-help-filter-el-nino-stormwater",
+          "published": "2026-10-22T23:25:58+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Election 2026: Local measures on the November ballot",
+      "published": "2026-10-22T23:16:06+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Election 2026: Local measures on the November ballot",
+          "link": "https://thecoastnews.com/election-2026-local-measures-on-the-november-ballot/",
+          "published": "2026-10-22T23:16:06+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Man sentenced to 10 years for fatal Carlsbad DUI crash",
+      "published": "2026-10-22T22:56:33+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Man sentenced to 10 years for fatal Carlsbad DUI crash",
+          "link": "https://thecoastnews.com/man-sentenced-to-10-years-for-fatal-carlsbad-dui-crash/",
+          "published": "2026-10-22T22:56:33+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Oceanside weighs archway timeline as infrastructure needs loom",
+      "published": "2026-10-22T22:10:40+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Oceanside weighs archway timeline as infrastructure needs loom",
+          "link": "https://thecoastnews.com/oceanside-weighs-archway-timeline-as-infrastructure-needs-loom/",
+          "published": "2026-10-22T22:10:40+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego Is About to Turn Off Those Automated License Plate Readers",
+      "published": "2026-10-22T21:51:51+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "San Diego Is About to Turn Off Those Automated License Plate Readers",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDzM8oykb5V_yhtKQwad08GZ?utm_source=follow.it",
+          "published": "2026-10-22T21:51:51+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Mission Hills pitcher Dax Hyde commits to UC Santa Barbara",
+      "published": "2026-10-22T21:38:22+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Mission Hills pitcher Dax Hyde commits to UC Santa Barbara",
+          "link": "https://thecoastnews.com/mission-hills-pitcher-dax-hyde-commits-to-uc-santa-barbara/",
+          "published": "2026-10-22T21:38:22+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Commentary: Newsom trashed California. Now he’s looking to America",
+      "published": "2026-10-22T21:21:02+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Commentary: Newsom trashed California. Now he’s looking to America",
+          "link": "https://thecoastnews.com/commentary-newsom-trashed-california-now-hes-looking-to-america/",
+          "published": "2026-10-22T21:21:02+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego’s Independent Music Scene Faces Uncertain Future",
+      "published": "2026-10-22T21:12:02+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "San Diego’s Independent Music Scene Faces Uncertain Future",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDztVtkBkFAA6oZZ3_n35wSx?utm_source=follow.it",
+          "published": "2026-10-22T21:12:02+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Commentary: Two districts, one superintendent, and a lot of questions",
+      "published": "2026-10-22T21:11:33+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Commentary: Two districts, one superintendent, and a lot of questions",
+          "link": "https://thecoastnews.com/commentary-two-districts-one-superintendent-and-a-lot-of-questions/",
+          "published": "2026-10-22T21:11:33+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "A cheap fake",
+      "published": "2026-10-22T21:05:21+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "A cheap fake",
+          "link": "https://thecoastnews.com/a-cheap-fake/",
+          "published": "2026-10-22T21:05:21+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Threatening voicemail targeting Encinitas councilman sent to DA for review",
+      "published": "2026-10-22T20:04:07+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Threatening voicemail targeting Encinitas councilman sent to DA for review",
+          "link": "https://thecoastnews.com/threatening-voicemail-targeting-encinitas-councilman-sent-to-da-for-review/",
+          "published": "2026-10-22T20:04:07+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Escondido drummer inducted into local hall of fame",
+      "published": "2026-10-22T19:16:48+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Escondido drummer inducted into local hall of fame",
+          "link": "https://thecoastnews.com/escondido-drummer-inducted-into-local-hall-of-fame/",
+          "published": "2026-10-22T19:16:48+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "CoSA Showcase Night returns — Experience the arts in action on Nov. 4",
+      "published": "2026-10-22T19:07:49+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "CoSA Showcase Night returns — Experience the arts in action on Nov. 4",
+          "link": "https://coronadotimes.com/news/2026/10/22/cosa-showcase-night-returns-experience-the-arts-in-action-on-nov-4/",
+          "published": "2026-10-22T19:07:49+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "More than 1 in 5 self-employed buyers who applied to multiple lenders reported an earlier turn-down",
+      "published": "2026-10-22T18:55:13+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "More than 1 in 5 self-employed buyers who applied to multiple lenders reported an earlier turn-down",
+          "link": "https://coronadotimes.com/news/2026/10/22/more-than-1-in-5-self-employed-buyers-who-applied-to-multiple-lenders-reported-an-earlier-turn-down/",
+          "published": "2026-10-22T18:55:13+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Elijo condo appeal set for Nov. 10 City Council meeting",
+      "published": "2026-10-22T18:50:16+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "San Elijo condo appeal set for Nov. 10 City Council meeting",
+          "link": "https://thecoastnews.com/san-elijo-condo-appeal-set-for-nov-10-city-council-meeting/",
+          "published": "2026-10-22T18:50:16+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "C3 Gallery call for artists for “Windows” exhibition",
+      "published": "2026-10-22T18:24:56+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "C3 Gallery call for artists for “Windows” exhibition",
+          "link": "https://coronadotimes.com/news/2026/10/22/c3-gallery-call-for-artists-for-windows-exhibition/",
+          "published": "2026-10-22T18:24:56+00:00"
         }
       ]
     },
@@ -42,45 +510,6 @@
       ]
     },
     {
-      "headline": "Opinion: Families waiting for care need to understand impact of Measure B",
-      "published": "2026-10-22T17:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Opinion: Families waiting for care need to understand impact of Measure B",
-          "link": "https://timesofsandiego.com/opinion/2026/10/22/san-diego-county-measure-b-families-costs/",
-          "published": "2026-10-22T17:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Buccaneers flag football heads into playoffs on hot streak",
-      "published": "2026-10-22T16:50:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Buccaneers flag football heads into playoffs on hot streak",
-          "link": "https://timesofsandiego.com/education/2026/10/22/buccaneers-flag-football-head-into-playoffs-on-hot-streak/",
-          "published": "2026-10-22T16:50:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "SDPD officer shoots, kills man said to have been armed with an ax",
-      "published": "2026-10-22T16:29:03+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "SDPD officer shoots, kills man said to have been armed with an ax",
-          "link": "https://timesofsandiego.com/crime/2026/10/22/san-diego-police-ax-wielding-man-shot-killed/",
-          "published": "2026-10-22T16:29:03+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Carlsbad parents, official frustrated by Pop Warner cheer ruling",
       "published": "2026-10-22T15:58:09+00:00",
       "outlet_count": 1,
@@ -90,45 +519,6 @@
           "title": "Carlsbad parents, official frustrated by Pop Warner cheer ruling",
           "link": "https://thecoastnews.com/carlsbad-parents-official-frustrated-by-pop-warner-cheer-ruling/",
           "published": "2026-10-22T15:58:09+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Legal Notices, October 23, 2026",
-      "published": "2026-10-22T15:39:01+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Legal Notices, October 23, 2026",
-          "link": "https://thecoastnews.com/legal-notices-october-23-2026/",
-          "published": "2026-10-22T15:39:01+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Legal Notices, October 16, 2026",
-      "published": "2026-10-22T15:16:01+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Legal Notices, October 16, 2026",
-          "link": "https://thecoastnews.com/legal-notices-october-16-2026/",
-          "published": "2026-10-22T15:16:01+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "They killed people with their big rigs, and California let them keep driving",
-      "published": "2026-10-22T15:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "They killed people with their big rigs, and California let them keep driving",
-          "link": "https://timesofsandiego.com/transportation/2026/10/22/they-killed-people-with-their-big-rigs-and-california-let-them-keep-driving/",
-          "published": "2026-10-22T15:00:00+00:00"
         }
       ]
     },
@@ -159,19 +549,6 @@
       ]
     },
     {
-      "headline": "Foster son charged with murder in Valley Center woman’s death",
-      "published": "2026-10-22T05:41:11+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Foster son charged with murder in Valley Center woman’s death",
-          "link": "https://thecoastnews.com/foster-son-charged-with-murder-in-valley-center-womans-death/",
-          "published": "2026-10-22T05:41:11+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Be Careful What You Wish For! Coronado Playhouse Presents Stephen Sondheim’s “Into the Woods”",
       "published": "2026-10-22T03:37:32+00:00",
       "outlet_count": 1,
@@ -181,19 +558,6 @@
           "title": "Be Careful What You Wish For! Coronado Playhouse Presents Stephen Sondheim’s “Into the Woods”",
           "link": "https://coronadotimes.com/news/2026/10/21/be-careful-what-you-wish-for-coronado-playhouse-presents-stephen-sondheims-into-the-woods/",
           "published": "2026-10-22T03:37:32+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diego police will no longer use “other” as reason for searching the city’s license plate readers",
-      "published": "2026-10-22T03:15:18+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "San Diego police will no longer use “other” as reason for searching the city’s license plate readers",
-          "link": "https://timesofsandiego.com/crime/2026/10/21/san-diego-police-will-no-longer-use-other-as-a-reason-for-searching-the-citys-license-plate-readers/",
-          "published": "2026-10-22T03:15:18+00:00"
         }
       ]
     },
@@ -226,32 +590,13 @@
     {
       "headline": "Cinépolis theater location in La Costa set to close",
       "published": "2026-10-22T01:15:54+00:00",
-      "outlet_count": 2,
+      "outlet_count": 1,
       "coverage": [
         {
           "source": "North Coast Current",
           "title": "Cinépolis theater location in La Costa set to close",
           "link": "https://www.northcoastcurrent.com/business-notes/2026/10/cinepolis-theater-location-in-la-costa-set-to-close/",
           "published": "2026-10-22T01:15:54+00:00"
-        },
-        {
-          "source": "The Coast News",
-          "title": "Cinépolis to close La Costa Paseo Real theater Oct. 31",
-          "link": "https://thecoastnews.com/cinepolis-to-close-la-costa-paseo-real-theater-oct-31/",
-          "published": "2026-10-21T22:51:31+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Grossmont to bring back librarians next school year, ending labor complaint",
-      "published": "2026-10-22T00:45:43+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Grossmont to bring back librarians next school year, ending labor complaint",
-          "link": "https://timesofsandiego.com/education/2026/10/21/grossmont-librarians-return-labor-complaint/",
-          "published": "2026-10-22T00:45:43+00:00"
         }
       ]
     },
@@ -269,19 +614,6 @@
       ]
     },
     {
-      "headline": "Encinitas, Carlsbad earn top marks in taxpayers association report card",
-      "published": "2026-10-21T22:38:08+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Encinitas, Carlsbad earn top marks in taxpayers association report card",
-          "link": "https://thecoastnews.com/encinitas-carlsbad-earn-top-marks-in-taxpayers-association-report-card/",
-          "published": "2026-10-21T22:38:08+00:00"
-        }
-      ]
-    },
-    {
       "headline": "San Diego County: Early Voting Options for November General Election",
       "published": "2026-10-21T22:38:04+00:00",
       "outlet_count": 1,
@@ -295,223 +627,80 @@
       ]
     },
     {
-      "headline": "Cathedral alumni Sutton, Letuli fuel Aztecs’ rivalry win",
-      "published": "2026-10-21T22:25:25+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Cathedral alumni Sutton, Letuli fuel Aztecs’ rivalry win",
-          "link": "https://thecoastnews.com/cathedral-alumni-sutton-letuli-fuel-aztecs-rivalry-win/",
-          "published": "2026-10-21T22:25:25+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "City Ballet’s ‘American Icons’ caps nation’s 250th with three master choreographers",
-      "published": "2026-10-21T20:55:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "City Ballet’s ‘American Icons’ caps nation’s 250th with three master choreographers",
-          "link": "https://timesofsandiego.com/arts/2026/10/21/city-ballets-american-icons-caps-nations-250th-three-master-choreographers/",
-          "published": "2026-10-21T20:55:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Foster son charged with murder in case of woman whose remains were discovered buried on her own property",
-      "published": "2026-10-21T20:54:20+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Foster son charged with murder in case of woman whose remains were discovered buried on her own property",
-          "link": "https://timesofsandiego.com/crime/2026/10/21/foster-son-valley-center-woman-murder-fraud/",
-          "published": "2026-10-21T20:54:20+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Some Folks We Have to Out Vote",
-      "published": "2026-10-21T20:01:08+00:00",
+      "published": "2026-10-21T22:01:08+02:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
           "title": "Some Folks We Have to Out Vote",
-          "link": "https://obrag.org/2026/10/some-folks-we-have-to-out-vote/",
-          "published": "2026-10-21T20:01:08+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Mission Beach Women’s Club to celebrate centennial in November",
-      "published": "2026-10-21T20:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Mission Beach Women’s Club to celebrate centennial in November",
-          "link": "https://timesofsandiego.com/uncategorized/2026/10/21/mission-beach-womens-club-to-celebrate-centennial-in-november/",
-          "published": "2026-10-21T20:00:00+00:00"
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwBRVUunmNg8LTlHaSdsw7b?utm_source=follow.it",
+          "published": "2026-10-21T22:01:08+02:00"
         }
       ]
     },
     {
       "headline": "ICE-Capades Around San Diego County",
-      "published": "2026-10-21T19:48:58+00:00",
+      "published": "2026-10-21T21:48:58+02:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
           "title": "ICE-Capades Around San Diego County",
-          "link": "https://obrag.org/2026/10/ice-capades-around-san-diego-county/",
-          "published": "2026-10-21T19:48:58+00:00"
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwChYCOXkawIf_IMdCVDzTh?utm_source=follow.it",
+          "published": "2026-10-21T21:48:58+02:00"
         }
       ]
     },
     {
       "headline": "Largest Landowner in America Wants to Re-Make an Expanded Midway District in His Own Image",
-      "published": "2026-10-21T18:26:17+00:00",
+      "published": "2026-10-21T20:26:17+02:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
           "title": "Largest Landowner in America Wants to Re-Make an Expanded Midway District in His Own Image",
-          "link": "https://obrag.org/2026/10/largest-landowner-in-america-wants-to-re-make-an-expanded-midway-district-in-his-own-image/",
-          "published": "2026-10-21T18:26:17+00:00"
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDy7ZJxsatuDQVVsYtekmuv9?utm_source=follow.it",
+          "published": "2026-10-21T20:26:17+02:00"
         }
       ]
     },
     {
       "headline": "Is Elon Musk a Double Agent?",
-      "published": "2026-10-21T17:53:47+00:00",
+      "published": "2026-10-21T19:53:47+02:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
           "title": "Is Elon Musk a Double Agent?",
-          "link": "https://obrag.org/2026/10/is-elon-musk-a-double-agent/",
-          "published": "2026-10-21T17:53:47+00:00"
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDz6VbJ2ohoN6fedSx_iNpPQ?utm_source=follow.it",
+          "published": "2026-10-21T19:53:47+02:00"
         }
       ]
     },
     {
       "headline": "Mexican Men Sentenced to Long Terms for 2024 Murders of 3 Surfers — One from OB, Another from Point Loma",
-      "published": "2026-10-21T17:21:50+00:00",
+      "published": "2026-10-21T19:21:50+02:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
           "title": "Mexican Men Sentenced to Long Terms for 2024 Murders of 3 Surfers — One from OB, Another from Point Loma",
-          "link": "https://obrag.org/2026/10/mexican-men-sentenced-to-long-terms-for-2024-murders-of-3-surfers-one-from-ob-another-from-point-loma/",
-          "published": "2026-10-21T17:21:50+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Waking up too early? Your window coverings might be the reason",
-      "published": "2026-10-21T17:15:18+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Waking up too early? Your window coverings might be the reason",
-          "link": "https://thecoastnews.com/waking-up-too-early-your-window-coverings-might-be-the-reason/",
-          "published": "2026-10-21T17:15:18+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Earthwise Pet Cardiff: Where pets are family and their health comes first",
-      "published": "2026-10-21T17:14:01+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Earthwise Pet Cardiff: Where pets are family and their health comes first",
-          "link": "https://thecoastnews.com/earthwise-pet-cardiff-where-pets-are-family-and-their-health-comes-first/",
-          "published": "2026-10-21T17:14:01+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Reports of increased ICE activity put North County on alert",
-      "published": "2026-10-21T16:47:17+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Reports of increased ICE activity put North County on alert",
-          "link": "https://thecoastnews.com/reports-of-increased-ice-activity-put-north-county-on-alert/",
-          "published": "2026-10-21T16:47:17+00:00"
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDx4HASzux4u3NssrK73SFp0?utm_source=follow.it",
+          "published": "2026-10-21T19:21:50+02:00"
         }
       ]
     },
     {
       "headline": "Liberty Station Chapel Wins San Diego ‘Orchid’",
-      "published": "2026-10-21T16:45:20+00:00",
+      "published": "2026-10-21T18:45:20+02:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
           "title": "Liberty Station Chapel Wins San Diego ‘Orchid’",
-          "link": "https://obrag.org/2026/10/liberty-station-chapel-wins-san-diego-orchid/",
-          "published": "2026-10-21T16:45:20+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Black Sea Cafe & Market brings taste of home to San Marcos",
-      "published": "2026-10-21T16:27:51+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Black Sea Cafe & Market brings taste of home to San Marcos",
-          "link": "https://thecoastnews.com/black-sea-cafe-market-brings-taste-of-home-to-san-marcos/",
-          "published": "2026-10-21T16:27:51+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Cartoon: Scott Chambers",
-      "published": "2026-10-21T16:26:54+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Cartoon: Scott Chambers",
-          "link": "https://thecoastnews.com/cartoon-scott-chambers-333/",
-          "published": "2026-10-21T16:26:54+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Del Mar finalizes new speed limits, approves lagoon study",
-      "published": "2026-10-21T15:24:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Del Mar finalizes new speed limits, approves lagoon study",
-          "link": "https://thecoastnews.com/del-mar-finalizes-new-speed-limits-approves-lagoon-study/",
-          "published": "2026-10-21T15:24:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Oceanside planners OK 88 condos in historic mission district",
-      "published": "2026-10-21T15:10:12+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Oceanside planners OK 88 condos in historic mission district",
-          "link": "https://thecoastnews.com/oceanside-planners-ok-88-condos-in-historic-mission-district/",
-          "published": "2026-10-21T15:10:12+00:00"
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDyZsbqTMfFXoFbAzT_xst2F?utm_source=follow.it",
+          "published": "2026-10-21T18:45:20+02:00"
         }
       ]
     },
@@ -582,209 +771,14 @@
     },
     {
       "headline": "Bailey Supporters Playing Dirty in District 2 Campaign — With Lies that Try to Connect Crosby With Mayor Gloria",
-      "published": "2026-10-20T20:44:29+00:00",
+      "published": "2026-10-20T22:44:29+02:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
           "title": "Bailey Supporters Playing Dirty in District 2 Campaign — With Lies that Try to Connect Crosby With Mayor Gloria",
-          "link": "https://obrag.org/2026/10/bailey-supporters-playing-dirty-in-district-2-campaign-with-lies-that-try-to-connect-crosby-with-mayor-gloria/",
-          "published": "2026-10-20T20:44:29+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Scott Peters: ‘Data Center Doesn’t Belong in NAVWAR’",
-      "published": "2026-10-20T20:16:13+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Scott Peters: ‘Data Center Doesn’t Belong in NAVWAR’",
-          "link": "https://obrag.org/2026/10/scott-peters-data-center-doesnt-belong-in-navwar/",
-          "published": "2026-10-20T20:16:13+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "6 Things You Didn’t Know About Ocean Beach’s First School",
-      "published": "2026-10-20T19:54:49+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "6 Things You Didn’t Know About Ocean Beach’s First School",
-          "link": "https://obrag.org/2026/10/6-things-you-didnt-know-about-ocean-beachs-first-school/",
-          "published": "2026-10-20T19:54:49+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "New Casa de Oro Library Reflects Community Preferences",
-      "published": "2026-10-20T19:41:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "New Casa de Oro Library Reflects Community Preferences",
-          "link": "https://www.countynewscenter.com/new-casa-de-oro-library-reflects-community-preferences/?utm_source=rss&utm_medium=rss&utm_campaign=new-casa-de-oro-library-reflects-community-preferences",
-          "published": "2026-10-20T19:41:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "A Massive Voter Turnout on Election Day Could Deter Any Violence Being Planned by Feds",
-      "published": "2026-10-20T18:55:52+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "A Massive Voter Turnout on Election Day Could Deter Any Violence Being Planned by Feds",
-          "link": "https://obrag.org/2026/10/a-massive-voter-turnout-on-election-day-could-deter-any-violence-being-planned-by-feds/",
-          "published": "2026-10-20T18:55:52+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Coronado residents invited to help preserve local history",
-      "published": "2026-10-20T18:00:39+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Coronado residents invited to help preserve local history",
-          "link": "https://coronadotimes.com/news/2026/10/20/coronado-residents-invited-to-help-preserve-local-history/",
-          "published": "2026-10-20T18:00:39+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "County Opens New Santee Animal Shelter, Marking Major Upgrade for Animal Care",
-      "published": "2026-10-20T16:33:44+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "County Opens New Santee Animal Shelter, Marking Major Upgrade for Animal Care",
-          "link": "https://www.countynewscenter.com/county-opens-new-santee-animal-shelter-marking-major-upgrade-for-animal-care/?utm_source=rss&utm_medium=rss&utm_campaign=county-opens-new-santee-animal-shelter-marking-major-upgrade-for-animal-care",
-          "published": "2026-10-20T16:33:44+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Judge Says Rady Children’s Can Partially Limit Gender-Transition Care",
-      "published": "2026-10-20T12:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Judge Says Rady Children’s Can Partially Limit Gender-Transition Care",
-          "link": "https://voiceofsandiego.org/2026/10/20/judge-says-rady-childrens-can-partially-limit-gender-transition-care/",
-          "published": "2026-10-20T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Manchester Promises Housing at NAVWAR",
-      "published": "2026-10-20T09:15:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Manchester Promises Housing at NAVWAR",
-          "link": "https://voiceofsandiego.org/2026/10/20/manchester-promises-housing-at-navwar/",
-          "published": "2026-10-20T09:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Manchester Group Promises Housing Will Be ‘Major Part’ of NAVWAR Development",
-      "published": "2026-10-20T09:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Manchester Group Promises Housing Will Be ‘Major Part’ of NAVWAR Development",
-          "link": "https://voiceofsandiego.org/2026/10/20/manchester-group-promises-housing-will-be-major-part-of-navwar-development/",
-          "published": "2026-10-20T09:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "ICE Appears to Be Ramping Up Enforcement in San Diego",
-      "published": "2026-10-19T23:39:52+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "ICE Appears to Be Ramping Up Enforcement in San Diego",
-          "link": "https://voiceofsandiego.org/2026/10/19/ice-appears-to-be-ramping-up-enforcement-in-san-diego/",
-          "published": "2026-10-19T23:39:52+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Rain is Coming: Prepare Your Home and Family",
-      "published": "2026-10-19T23:05:39+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "Rain is Coming: Prepare Your Home and Family",
-          "link": "https://www.countynewscenter.com/rain-is-coming-prepare-your-home-and-family/?utm_source=rss&utm_medium=rss&utm_campaign=rain-is-coming-prepare-your-home-and-family",
-          "published": "2026-10-19T23:05:39+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "County Welcomes Pollution Crisis Chief to Coordinate Tijuana River Valley Pollution Response",
-      "published": "2026-10-19T22:35:41+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "County Welcomes Pollution Crisis Chief to Coordinate Tijuana River Valley Pollution Response",
-          "link": "https://www.countynewscenter.com/county-welcomes-pollution-crisis-chief-to-coordinate-tijuana-river-valley-pollution-response/?utm_source=rss&utm_medium=rss&utm_campaign=county-welcomes-pollution-crisis-chief-to-coordinate-tijuana-river-valley-pollution-response",
-          "published": "2026-10-19T22:35:41+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Christ Church welcomes new rector, Rev. Mike Stone",
-      "published": "2026-10-19T19:19:16+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Christ Church welcomes new rector, Rev. Mike Stone",
-          "link": "https://coronadotimes.com/news/2026/10/19/christ-church-welcomes-new-rector-rev-mike-stone/",
-          "published": "2026-10-19T19:19:16+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Islanders show depth and improvement at Eastern League Cross Country Cluster 3",
-      "published": "2026-10-19T19:00:30+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Islanders show depth and improvement at Eastern League Cross Country Cluster 3",
-          "link": "https://coronadotimes.com/news/2026/10/19/islanders-show-depth-and-improvement-at-eastern-league-cross-country-cluster-3/",
-          "published": "2026-10-19T19:00:30+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Why Mal’s your Man!",
-      "published": "2026-10-19T18:47:06+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Why Mal’s your Man!",
-          "link": "https://coronadotimes.com/news/2026/10/19/why-mals-your-man/",
-          "published": "2026-10-19T18:47:06+00:00"
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxEPwUl5euwORFkACzhMr4z?utm_source=follow.it",
+          "published": "2026-10-20T22:44:29+02:00"
         }
       ]
     }
