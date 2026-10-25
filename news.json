@@ -1,7 +1,163 @@
 {
-  "generated_at": "2026-10-24T17:13:50.385924+00:00",
-  "story_count": 87,
+  "generated_at": "2026-10-25T17:25:30.743854+00:00",
+  "story_count": 89,
   "stories": [
+    {
+      "headline": "UC San Diego sent hundreds of dead bodies to the military — Families say they never knew.",
+      "published": "2026-10-25T17:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "UC San Diego sent hundreds of dead bodies to the military — Families say they never knew.",
+          "link": "https://timesofsandiego.com/education/2026/10/25/uc-san-diego-sent-hundreds-of-dead-bodies-to-the-military-families-say-they-never-knew/",
+          "published": "2026-10-25T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "As many as 47,000 people could be kicked off CalFresh",
+      "published": "2026-10-25T15:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "As many as 47,000 people could be kicked off CalFresh",
+          "link": "https://timesofsandiego.com/politics/2026/10/25/as-many-as-47000-people-could-be-kicked-off-calfresh/",
+          "published": "2026-10-25T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Why San Diego’s Shelltown was once prime real estate for Navy officers",
+      "published": "2026-10-25T14:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Why San Diego’s Shelltown was once prime real estate for Navy officers",
+          "link": "https://timesofsandiego.com/military/2026/10/25/why-san-diegos-shelltown-was-once-prime-real-estate-for-navy-officers/",
+          "published": "2026-10-25T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Permit delay holds up Oceanside bridge project",
+      "published": "2026-10-25T01:37:51+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "Permit delay holds up Oceanside bridge project",
+          "link": "https://www.northcoastcurrent.com/oceanside-news/2026/10/permit-delay-holds-up-oceanside-bridge-project/",
+          "published": "2026-10-25T01:37:51+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "North County weather whiplash: Roasty to rainy, historic high tides",
+      "published": "2026-10-25T01:03:57+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "North County weather whiplash: Roasty to rainy, historic high tides",
+          "link": "https://www.northcoastcurrent.com/north-county/2026/10/north-county-weather-whiplash-roasty-to-rainy-historic-high-tides/",
+          "published": "2026-10-25T01:03:57+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Flood warning set for Sunday with tides as high as 8 feet threatening to reach San Diego",
+      "published": "2026-10-24T23:40:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Flood warning set for Sunday with tides as high as 8 feet threatening to reach San Diego",
+          "link": "https://timesofsandiego.com/weather/2026/10/24/flood-warning-set-for-sunday-with-tides-as-high-as-8-feet-threatening-to-reach-san-diego/",
+          "published": "2026-10-24T23:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "De empleados en un restaurante de Old Town a dueños de Café Maggi: una historia de perseverancia en San Diego",
+      "published": "2026-10-24T23:33:56+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "De empleados en un restaurante de Old Town a dueños de Café Maggi: una historia de perseverancia en San Diego",
+          "link": "https://timesofsandiego.com/business/2026/10/24/cafe-maggi-san-diego-historia-de-perseverancia/",
+          "published": "2026-10-24T23:33:56+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Jessica Pegula and Coco Gauff qualify for WTA Finals in Indian Wells next month – Tickets on sale now",
+      "published": "2026-10-24T23:08:10+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Jessica Pegula and Coco Gauff qualify for WTA Finals in Indian Wells next month – Tickets on sale now",
+          "link": "https://coronadotimes.com/news/2026/10/24/jessica-pegula-and-coco-gauff-qualify-for-wta-finals-in-indian-wells-next-month-tickets-on-sale-now/",
+          "published": "2026-10-24T23:08:10+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Vehicle hits and kills man lying on street in El Cajon: police",
+      "published": "2026-10-24T22:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Vehicle hits and kills man lying on street in El Cajon: police",
+          "link": "https://timesofsandiego.com/crime/2026/10/24/vehicle-hits-and-kills-man-lying-on-street-in-el-cajon-police/",
+          "published": "2026-10-24T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Plan to expand AI translation at courthouses halted after advocates find fault with lengthy pilot project",
+      "published": "2026-10-24T21:05:02+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Plan to expand AI translation at courthouses halted after advocates find fault with lengthy pilot project",
+          "link": "https://timesofsandiego.com/tech/2026/10/24/ai-translation-california-courts-pilot-project-rfp/",
+          "published": "2026-10-24T21:05:02+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Medi-Cal cuts could push seniors and people with disabilities off of coverage",
+      "published": "2026-10-24T20:30:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Medi-Cal cuts could push seniors and people with disabilities off of coverage",
+          "link": "https://timesofsandiego.com/health/2026/10/24/medi-cal-cuts-could-push-seniors-and-people-with-disabilities-off-of-coverage/",
+          "published": "2026-10-24T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Voting centers open for in-person voting around San Diego County",
+      "published": "2026-10-24T18:30:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Voting centers open for in-person voting around San Diego County",
+          "link": "https://timesofsandiego.com/politics/2026/10/24/voting-centers-open-for-in-person-voting-around-san-diego-county/",
+          "published": "2026-10-24T18:30:00+00:00"
+        }
+      ]
+    },
     {
       "headline": "They fight wildfires. Housing is another battle",
       "published": "2026-10-24T15:00:00+00:00",
@@ -12,19 +168,6 @@
           "title": "They fight wildfires. Housing is another battle",
           "link": "https://timesofsandiego.com/california-fires/2026/10/24/they-fight-wildfires-housing-is-another-battle/",
           "published": "2026-10-24T15:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Find delights and frights for pets and humans alike at Halloween in La Mesa Village",
-      "published": "2026-10-24T14:50:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Find delights and frights for pets and humans alike at Halloween in La Mesa Village",
-          "link": "https://timesofsandiego.com/san-diego-events/2026/10/24/halloween-in-la-mesa-village-costumes-pets/",
-          "published": "2026-10-24T14:50:00+00:00"
         }
       ]
     },
@@ -172,32 +315,6 @@
       ]
     },
     {
-      "headline": "OCEANSIDE: Book club explores Indigenous horror fiction Oct. 28",
-      "published": "2026-10-24T00:42:03+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "OCEANSIDE: Book club explores Indigenous horror fiction Oct. 28",
-          "link": "https://www.northcoastcurrent.com/currentevents/2026/10/oceanside-book-club-explores-indigenous-horror-fiction-oct-28/",
-          "published": "2026-10-24T00:42:03+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "ENCINITAS: Día de los Muertos festival returns Oct. 25",
-      "published": "2026-10-24T00:22:31+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "ENCINITAS: Día de los Muertos festival returns Oct. 25",
-          "link": "https://www.northcoastcurrent.com/currentevents/2026/10/encinitas-dia-de-los-muertos-festival-returns-oct-25/",
-          "published": "2026-10-24T00:22:31+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Should California Borrow $8.4 Billion for Immunology Research?",
       "published": "2026-10-23T23:07:39+00:00",
       "outlet_count": 1,
@@ -220,6 +337,19 @@
           "title": "Trump’s Interference in Mid-Terms Escalates: DOJ Sues to Block Election of Alaskan Democrat to US Senate",
           "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwAITpwEG6mtR5s4_5OQ23U?utm_source=follow.it",
           "published": "2026-10-23T22:43:00+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Council Candidates by the (Updated) Numbers",
+      "published": "2026-10-23T22:20:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Del Mar Sandpiper",
+          "title": "Council Candidates by the (Updated) Numbers",
+          "link": "https://delmarsandpiper.org/2026-10-24-news1/",
+          "published": "2026-10-23T22:20:00+00:00"
         }
       ]
     },
@@ -259,19 +389,6 @@
           "title": "DHS to Test ‘Heat Ray’ for Border Use",
           "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDx9AdbI7yawgWTUo6Khsq2P?utm_source=follow.it",
           "published": "2026-10-23T20:00:45+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "Martha Veléz: la cantante a la que Bob Marley le prestó su banda",
-      "published": "2026-10-23T19:56:31+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Martha Veléz: la cantante a la que Bob Marley le prestó su banda",
-          "link": "https://timesofsandiego.com/arts/2026/10/23/martha-velez-bob-marley-banda-reggae/",
-          "published": "2026-10-23T19:56:31+00:00"
         }
       ]
     },
@@ -324,19 +441,6 @@
           "title": "Surfrider Report: Emergency Beach Fixes Cause Permanent Loss",
           "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDzGrRC2DO5Us9ORlbs475ok?utm_source=follow.it",
           "published": "2026-10-23T19:34:57+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "Opinión: El disfraz que llevamos puesto",
-      "published": "2026-10-23T19:26:14+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Opinión: El disfraz que llevamos puesto",
-          "link": "https://timesofsandiego.com/opinion/2026/10/23/halloween-mascaras-emocionales-adultez/",
-          "published": "2026-10-23T19:26:14+00:00"
         }
       ]
     },
@@ -406,58 +510,6 @@
       ]
     },
     {
-      "headline": "Guía rápida de las propuestas estatales  que se votarán el 3 de noviembre",
-      "published": "2026-10-23T18:32:53+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Guía rápida de las propuestas estatales  que se votarán el 3 de noviembre",
-          "link": "https://timesofsandiego.com/politics/2026/10/23/guia-rapida-de-las-propuestas-estatales-de-que-se-votaran-el-3-de-noviembre/",
-          "published": "2026-10-23T18:32:53+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "As Democrats eye House control, Sara Jacobs eyes key party leadership role",
-      "published": "2026-10-23T18:13:29+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "As Democrats eye House control, Sara Jacobs eyes key party leadership role",
-          "link": "https://timesofsandiego.com/congress/2026/10/23/as-democrats-eye-house-control-sara-jacobs-eyes-key-party-leadership-role/",
-          "published": "2026-10-23T18:13:29+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "‘Monstrosity,’ ‘trash,’ ‘irreversible harm,’ — elected officials call for pause on “mega” data center",
-      "published": "2026-10-23T17:58:55+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "‘Monstrosity,’ ‘trash,’ ‘irreversible harm,’ — elected officials call for pause on “mega” data center",
-          "link": "https://timesofsandiego.com/politics/2026/10/23/monstrosity-trash-irreversible-harm-elected-officials-call-for-pause-on-mega-data-center/",
-          "published": "2026-10-23T17:58:55+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "La Mesa Courier: October 23, 2026",
-      "published": "2026-10-23T17:57:29+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "La Mesa Courier: October 23, 2026",
-          "link": "https://timesofsandiego.com/print-editions/2026/10/23/la-mesa-courier-october-23-2026/",
-          "published": "2026-10-23T17:57:29+00:00"
-        }
-      ]
-    },
-    {
       "headline": "All Things Creepy Crawly",
       "published": "2026-10-23T17:33:00+00:00",
       "outlet_count": 1,
@@ -467,32 +519,6 @@
           "title": "All Things Creepy Crawly",
           "link": "https://www.countynewscenter.com/all-things-creepy-crawly/?utm_source=rss&utm_medium=rss&utm_campaign=all-things-creepy-crawly",
           "published": "2026-10-23T17:33:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "La Jolla Village News: October 23, 2026",
-      "published": "2026-10-23T17:32:31+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "La Jolla Village News: October 23, 2026",
-          "link": "https://timesofsandiego.com/print-editions/2026/10/23/la-jolla-village-news-october-23-2026/",
-          "published": "2026-10-23T17:32:31+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Beach and Bay Press: October 23, 2026",
-      "published": "2026-10-23T17:19:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Beach and Bay Press: October 23, 2026",
-          "link": "https://timesofsandiego.com/print-editions/2026/10/23/beach-and-bay-press-october-23-2026/",
-          "published": "2026-10-23T17:19:00+00:00"
         }
       ]
     },
@@ -755,44 +781,17 @@
           "published": "2026-10-22T09:00:00+00:00"
         }
       ]
-    },
-    {
-      "headline": "Be Careful What You Wish For! Coronado Playhouse Presents Stephen Sondheim’s “Into the Woods”",
-      "published": "2026-10-22T03:37:32+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Be Careful What You Wish For! Coronado Playhouse Presents Stephen Sondheim’s “Into the Woods”",
-          "link": "https://coronadotimes.com/news/2026/10/21/be-careful-what-you-wish-for-coronado-playhouse-presents-stephen-sondheims-into-the-woods/",
-          "published": "2026-10-22T03:37:32+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Council Takes First Step Toward Canceling Flock Contract",
-      "published": "2026-10-22T02:09:27+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Council Takes First Step Toward Canceling Flock Contract",
-          "link": "https://voiceofsandiego.org/2026/10/21/council-takes-first-step-toward-cancelling-flock-contract/",
-          "published": "2026-10-22T02:09:27+00:00"
-        }
-      ]
     }
   ],
   "debug": {
     "sources_configured": 23,
-    "sources_ok": 8,
+    "sources_ok": 9,
     "sources_failed": [
       "KPBS",
       "San Diego Union-Tribune",
       "San Diego Reader",
       "CalMatters (San Diego tag)",
       "Inside San Diego",
-      "Times-Advocate (Escondido)",
       "Imperial Beach News CA",
       "La Jolla Light",
       "Point Loma-OB Monthly",
