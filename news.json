@@ -1,108 +1,342 @@
 {
-  "generated_at": "2026-10-30T19:06:34.357058+00:00",
-  "story_count": 77,
+  "generated_at": "2026-10-31T18:13:26.220412+00:00",
+  "story_count": 86,
   "stories": [
     {
+      "headline": "San Diego County opens 180 more voting centers ahead of Tuesday election",
+      "published": "2026-10-31T18:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego County opens 180 more voting centers ahead of Tuesday election",
+          "link": "https://timesofsandiego.com/politics/2026/10/31/san-diego-county-opens-180-more-voting-centers-ahead-of-tuesday-election/",
+          "published": "2026-10-31T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "City and county crews prep popular hiking trails and open spaces ahead of El Niño",
+      "published": "2026-10-31T17:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "City and county crews prep popular hiking trails and open spaces ahead of El Niño",
+          "link": "https://timesofsandiego.com/environment/2026/10/31/crews-prep-popular-hiking-trails-el-nino/",
+          "published": "2026-10-31T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "‘I don’t trust them’: The data center fight mobilizing Imperial County voters",
+      "published": "2026-10-31T16:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "‘I don’t trust them’: The data center fight mobilizing Imperial County voters",
+          "link": "https://timesofsandiego.com/politics/2026/10/31/i-dont-trust-them-the-data-center-fight-mobilizing-imperial-county-voters/",
+          "published": "2026-10-31T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Bishop’s School football: Plan B working well",
+      "published": "2026-10-31T15:30:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Bishop’s School football: Plan B working well",
+          "link": "https://timesofsandiego.com/sports/2026/10/31/bishops-school-football-plan-b-working-well/",
+          "published": "2026-10-31T15:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Elvira Station and Rose Canyon’s early railroad history",
+      "published": "2026-10-31T14:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Elvira Station and Rose Canyon’s early railroad history",
+          "link": "https://timesofsandiego.com/history/2026/10/31/elvira-station-and-rose-canyons-early-railroad-history/",
+          "published": "2026-10-31T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Elections Contest! Plus, the Money Totals",
+      "published": "2026-10-31T13:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Elections Contest! Plus, the Money Totals",
+          "link": "https://voiceofsandiego.org/2026/10/31/elections-contest-plus-the-money-totals/",
+          "published": "2026-10-31T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "KOCT offers Oceanside, regional election forums online",
+      "published": "2026-10-31T03:10:54+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "KOCT offers Oceanside, regional election forums online",
+          "link": "https://www.northcoastcurrent.com/oceanside-news/2026/10/koct-offers-oceanside-regional-election-forums-online/",
+          "published": "2026-10-31T03:10:54+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "VOSD Podcast: Greatest Election Preview Podcast Ever",
+      "published": "2026-10-31T02:20:53+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "VOSD Podcast: Greatest Election Preview Podcast Ever",
+          "link": "https://voiceofsandiego.org/2026/10/30/vosd-podcast-greatest-election-preview-podcast-ever/",
+          "published": "2026-10-31T02:20:53+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Couples Say ‘I Boo’ During County’s Annual Halloweddings",
+      "published": "2026-10-31T02:17:21+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "Couples Say ‘I Boo’ During County’s Annual Halloweddings",
+          "link": "https://www.countynewscenter.com/couples-say-i-boo-during-countys-annual-halloweddings/?utm_source=rss&utm_medium=rss&utm_campaign=couples-say-i-boo-during-countys-annual-halloweddings",
+          "published": "2026-10-31T02:17:21+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Dozens of alleged gang members, associates targeted in two-year probe of Poway gang activity",
+      "published": "2026-10-31T01:21:12+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Dozens of alleged gang members, associates targeted in two-year probe of Poway gang activity",
+          "link": "https://timesofsandiego.com/crime/2026/10/30/san-diego-fbi-search-arrests-gang-members-associates-drugs/",
+          "published": "2026-10-31T01:21:12+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "What to Know About San Diego’s Swing Senate Race",
+      "published": "2026-10-31T00:12:31+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "What to Know About San Diego’s Swing Senate Race",
+          "link": "https://voiceofsandiego.org/2026/10/30/what-to-know-about-san-diegos-swing-senate-race/",
+          "published": "2026-10-31T00:12:31+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Clocks turn back Sunday as daylight saving time ends",
+      "published": "2026-10-30T23:37:08+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Clocks turn back Sunday as daylight saving time ends",
+          "link": "https://thecoastnews.com/clocks-turn-back-sunday-as-daylight-saving-time-ends/",
+          "published": "2026-10-30T23:37:08+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "County Probation Officers Arrest Two During Halloween Compliance Operation",
+      "published": "2026-10-30T22:54:13+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "County Probation Officers Arrest Two During Halloween Compliance Operation",
+          "link": "https://www.countynewscenter.com/county-probation-officers-arrest-two-during-halloween-compliance-operation/?utm_source=rss&utm_medium=rss&utm_campaign=county-probation-officers-arrest-two-during-halloween-compliance-operation",
+          "published": "2026-10-30T22:54:13+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "How Candidates Plan to Solve San Diego’s Bonkers Infrastructure Backlog",
+      "published": "2026-10-30T22:53:12+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "How Candidates Plan to Solve San Diego’s Bonkers Infrastructure Backlog",
+          "link": "https://voiceofsandiego.org/2026/10/30/how-candidates-plan-to-solve-san-diegos-bonkers-infrastructure-backlog/",
+          "published": "2026-10-30T22:53:12+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Emerald Keepers in search of an Executive Director",
+      "published": "2026-10-30T22:53:01+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Emerald Keepers in search of an Executive Director",
+          "link": "https://coronadotimes.com/news/2026/10/30/emerald-keepers-in-search-of-an-executive-director-2/",
+          "published": "2026-10-30T22:53:01+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Then and now: Encinitas council hopefuls reflect on city’s 40 years",
+      "published": "2026-10-30T21:54:08+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "Then and now: Encinitas council hopefuls reflect on city’s 40 years",
+          "link": "https://www.northcoastcurrent.com/encinitas-news/2026/10/then-and-now-encinitas-council-hopefuls-reflect-on-citys-40-years/",
+          "published": "2026-10-30T21:54:08+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "‘Takeover: Small Scale Works’ at SHIFT Gallery on Newport Ave., to Run Nov. 3–17",
+      "published": "2026-10-30T20:54:07+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "‘Takeover: Small Scale Works’ at SHIFT Gallery on Newport Ave., to Run Nov. 3–17",
+          "link": "https://obrag.org/2026/10/takeover-small-scale-works-at-shift-gallery-on-newport-ave-to-run-nov-3-17/",
+          "published": "2026-10-30T20:54:07+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Letters: Encinitas leadership requires, shockingly, being a leader",
+      "published": "2026-10-30T19:46:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Letters: Encinitas leadership requires, shockingly, being a leader",
+          "link": "https://thecoastnews.com/letters-encinitas-leadership-requires-shockingly-being-a-leader/",
+          "published": "2026-10-30T19:46:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Election 2026: More than 220 county vote centers open Saturday",
+      "published": "2026-10-30T19:35:49+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Election 2026: More than 220 county vote centers open Saturday",
+          "link": "https://thecoastnews.com/election-2026-more-than-220-county-vote-centers-open-saturday/",
+          "published": "2026-10-30T19:35:49+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Reseña: Dopamine Chamber y el nuevo jefe de la manada",
+      "published": "2026-10-30T19:35:33+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Reseña: Dopamine Chamber y el nuevo jefe de la manada",
+          "link": "https://timesofsandiego.com/arts/2026/10/30/dopamine-chamber-fontaines-dc-sonido-generacion-reprogramada/",
+          "published": "2026-10-30T19:35:33+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "What local election officials found in Trump’s new claims about California voters",
+      "published": "2026-10-30T19:25:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "What local election officials found in Trump’s new claims about California voters",
+          "link": "https://timesofsandiego.com/politics/2026/10/30/what-local-election-officials-found-in-trumps-new-claims-about-california-voters/",
+          "published": "2026-10-30T19:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "La banalidad del mal: ¿En qué momento la gente deja de sentirse responsable de lo hace?",
+      "published": "2026-10-30T19:21:04+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "La banalidad del mal: ¿En qué momento la gente deja de sentirse responsable de lo hace?",
+          "link": "https://timesofsandiego.com/opinion/2026/10/30/banalidad-del-mal-hannah-arendt-adolf-eichmann/",
+          "published": "2026-10-30T19:21:04+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Dolores Huerta: la maestra que organizó a los trabajadores del campo",
+      "published": "2026-10-30T19:00:21+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Dolores Huerta: la maestra que organizó a los trabajadores del campo",
+          "link": "https://timesofsandiego.com/community/2026/10/30/dolores-huerta-maestra-organizo-trabajadores-campo/",
+          "published": "2026-10-30T19:00:21+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Are we sacrificing San Diego’s future for the vision of Midway Rising’s billionaire developer?",
+      "published": "2026-10-30T18:34:53+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Are we sacrificing San Diego’s future for the vision of Midway Rising’s billionaire developer?",
+          "link": "https://obrag.org/2026/10/are-we-sacrificing-san-diegos-future-for-the-vision-of-midway-risings-billionaire-developer/",
+          "published": "2026-10-30T18:34:53+00:00"
+        }
+      ]
+    },
+    {
       "headline": "The Story of Devil’s Pot at Sunset Cliffs",
-      "published": "2026-10-30T20:21:10+02:00",
+      "published": "2026-10-30T18:21:10+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
           "title": "The Story of Devil’s Pot at Sunset Cliffs",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwYD4FknOUoc_CYcDJWKrMG?utm_source=follow.it",
-          "published": "2026-10-30T20:21:10+02:00"
+          "link": "https://obrag.org/2026/10/the-story-of-devils-pot-at-sunset-cliffs/",
+          "published": "2026-10-30T18:21:10+00:00"
         }
       ]
     },
     {
       "headline": "Guatemalan Man Dies In ICE Custody at Otay Mesa Detention Center",
-      "published": "2026-10-30T19:52:59+02:00",
+      "published": "2026-10-30T17:52:59+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
           "title": "Guatemalan Man Dies In ICE Custody at Otay Mesa Detention Center",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDySAfbn1aXHGUL8syqBlwK7?utm_source=follow.it",
-          "published": "2026-10-30T19:52:59+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "Woman on E-Bike Injured by DUI Driver on West Pt. Loma Blvd in Ocean Beach",
-      "published": "2026-10-30T19:16:18+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Woman on E-Bike Injured by DUI Driver on West Pt. Loma Blvd in Ocean Beach",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwAsxY5OKcU7SQ09XT7DuMv?utm_source=follow.it",
-          "published": "2026-10-30T19:16:18+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diego Threatens to Evict Mission Bay Sports Center Due to Millions in Unpaid Rent",
-      "published": "2026-10-30T19:06:52+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "San Diego Threatens to Evict Mission Bay Sports Center Due to Millions in Unpaid Rent",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwqMXAnzNWWfgl-xxpaIgOH?utm_source=follow.it",
-          "published": "2026-10-30T19:06:52+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "‘Ride the Point’ to Support Pancreatic Cancer Research — Saturday, Nov.7",
-      "published": "2026-10-30T18:52:13+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "‘Ride the Point’ to Support Pancreatic Cancer Research — Saturday, Nov.7",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwhRmwLFpAKuR4bg70trmc9?utm_source=follow.it",
-          "published": "2026-10-30T18:52:13+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "Why being the NWSL’s second seed might be best for San Diego Wave’s playoff hopes",
-      "published": "2026-10-30T18:50:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Why being the NWSL’s second seed might be best for San Diego Wave’s playoff hopes",
-          "link": "https://timesofsandiego.com/sports/2026/10/30/san-diego-wave-nwsl-playoffs-seeding/",
-          "published": "2026-10-30T18:50:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Crónica: Los altares de muertos son  la mejor forma de combatir el olvido",
-      "published": "2026-10-30T18:28:36+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Crónica: Los altares de muertos son  la mejor forma de combatir el olvido",
-          "link": "https://timesofsandiego.com/community/2026/10/30/dia-de-muertos-san-diego-recordar-vencer-olvido/",
-          "published": "2026-10-30T18:28:36+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Peninsula Beacon: October 30, 2026",
-      "published": "2026-10-30T17:36:30+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Peninsula Beacon: October 30, 2026",
-          "link": "https://timesofsandiego.com/print-editions/2026/10/30/peninsula-beacon-october-30-2026/",
-          "published": "2026-10-30T17:36:30+00:00"
+          "link": "https://obrag.org/2026/10/guatemalan-man-dies-in-ice-custody-at-otay-mesa-detention-center/",
+          "published": "2026-10-30T17:52:59+00:00"
         }
       ]
     },
@@ -120,15 +354,28 @@
       ]
     },
     {
-      "headline": "Food and Drink Blotter: Japanese food truck and Gladstone’s coming soon, Square Pizza and humorous wines",
-      "published": "2026-10-30T17:10:00+00:00",
+      "headline": "Woman on E-Bike Injured by DUI Driver on West Pt. Loma Blvd in Ocean Beach",
+      "published": "2026-10-30T17:16:18+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "Times of San Diego",
-          "title": "Food and Drink Blotter: Japanese food truck and Gladstone’s coming soon, Square Pizza and humorous wines",
-          "link": "https://timesofsandiego.com/business/2026/10/30/food-and-drink-blotter-japanese-food-truck-and-gladstones-coming-soon-square-pizza-and-humorous-wines/",
-          "published": "2026-10-30T17:10:00+00:00"
+          "source": "OB Rag",
+          "title": "Woman on E-Bike Injured by DUI Driver on West Pt. Loma Blvd in Ocean Beach",
+          "link": "https://obrag.org/2026/10/woman-on-e-bike-injured-by-dui-driver-on-west-pt-loma-blvd-in-ocean-beach/",
+          "published": "2026-10-30T17:16:18+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Goats Reduce Wildfire Risk at Star Valley Park in New County Pilot Program",
+      "published": "2026-10-30T17:14:36+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "Goats Reduce Wildfire Risk at Star Valley Park in New County Pilot Program",
+          "link": "https://www.countynewscenter.com/goats-reduce-wildfire-risk-at-star-valley-park-in-new-county-pilot-program/?utm_source=rss&utm_medium=rss&utm_campaign=goats-reduce-wildfire-risk-at-star-valley-park-in-new-county-pilot-program",
+          "published": "2026-10-30T17:14:36+00:00"
         }
       ]
     },
@@ -146,6 +393,19 @@
       ]
     },
     {
+      "headline": "San Diego Threatens to Evict Mission Bay Sports Center Due to Millions in Unpaid Rent",
+      "published": "2026-10-30T17:06:52+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "San Diego Threatens to Evict Mission Bay Sports Center Due to Millions in Unpaid Rent",
+          "link": "https://obrag.org/2026/10/san-diego-threatens-to-evict-mission-bay-sports-center-due-to-millions-in-unpaid-rent/",
+          "published": "2026-10-30T17:06:52+00:00"
+        }
+      ]
+    },
+    {
       "headline": "These Candidates Are Stars on Social Media. Can They Turn Their Views Into Votes?",
       "published": "2026-10-30T17:00:00+00:00",
       "outlet_count": 1,
@@ -159,28 +419,15 @@
       ]
     },
     {
-      "headline": "Opinion: Con – Are we sacrificing San Diego’s future for Midway Rising developer’s vision?",
-      "published": "2026-10-30T17:00:00+00:00",
+      "headline": "‘Ride the Point’ to Support Pancreatic Cancer Research — Saturday, Nov.7",
+      "published": "2026-10-30T16:52:13+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "Times of San Diego",
-          "title": "Opinion: Con – Are we sacrificing San Diego’s future for Midway Rising developer’s vision?",
-          "link": "https://timesofsandiego.com/opinion/2026/10/30/midway-rising-con-sacrifice-san-diego-developer/",
-          "published": "2026-10-30T17:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Opinion: Pro – For Midway community, it’s time to get to work on Midway Rising",
-      "published": "2026-10-30T17:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Opinion: Pro – For Midway community, it’s time to get to work on Midway Rising",
-          "link": "https://timesofsandiego.com/opinion/2026/10/30/midway-pro-midway-rising-development/",
-          "published": "2026-10-30T17:00:00+00:00"
+          "source": "OB Rag",
+          "title": "‘Ride the Point’ to Support Pancreatic Cancer Research — Saturday, Nov.7",
+          "link": "https://obrag.org/2026/10/ride-the-point-to-support-pancreatic-cancer-research-saturday-nov-7/",
+          "published": "2026-10-30T16:52:13+00:00"
         }
       ]
     },
@@ -211,28 +458,15 @@
       ]
     },
     {
-      "headline": "San Diego congressional Democrats vow legislation to block NAVWAR data center",
-      "published": "2026-10-30T16:18:47+00:00",
+      "headline": "221 Vote Centers Open for November General Election",
+      "published": "2026-10-30T16:00:06+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "Times of San Diego",
-          "title": "San Diego congressional Democrats vow legislation to block NAVWAR data center",
-          "link": "https://timesofsandiego.com/politics/2026/10/30/san-diego-congressional-delegation-navwar-data-center-legislation/",
-          "published": "2026-10-30T16:18:47+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Who are the billionaires behind the $304 million effort to defeat California’s wealth tax?",
-      "published": "2026-10-30T16:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Who are the billionaires behind the $304 million effort to defeat California’s wealth tax?",
-          "link": "https://timesofsandiego.com/politics/2026/10/30/who-are-the-billionaires-behind-the-304-million-effort-to-defeat-californias-wealth-tax/",
-          "published": "2026-10-30T16:00:00+00:00"
+          "source": "County News Center",
+          "title": "221 Vote Centers Open for November General Election",
+          "link": "https://www.countynewscenter.com/221-vote-centers-open-for-november-general-election/?utm_source=rss&utm_medium=rss&utm_campaign=221-vote-centers-open-for-november-general-election",
+          "published": "2026-10-30T16:00:06+00:00"
         }
       ]
     },
@@ -246,19 +480,6 @@
           "title": "Election 2026: Alessio, Montgomery Steppe face off in D4 supervisor race",
           "link": "https://thecoastnews.com/election-2026-alessio-montgomery-steppe-face-off-in-d4-supervisor-race/",
           "published": "2026-10-30T15:49:06+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Head of California high-speed rail agency resigns amid travel expenses scandal",
-      "published": "2026-10-30T15:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Head of California high-speed rail agency resigns amid travel expenses scandal",
-          "link": "https://timesofsandiego.com/transportation/2026/10/30/head-of-california-high-speed-rail-agency-resigns-amid-travel-expenses-scandal/",
-          "published": "2026-10-30T15:00:00+00:00"
         }
       ]
     },
@@ -328,45 +549,6 @@
       ]
     },
     {
-      "headline": "Workers shift to ‘shovels instead of spreadsheets’ after challenge of making new affordable housing in San Diego pencil out",
-      "published": "2026-10-30T00:55:33+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Workers shift to ‘shovels instead of spreadsheets’ after challenge of making new affordable housing in San Diego pencil out",
-          "link": "https://timesofsandiego.com/housing/2026/10/29/san-diego-affordable-housing-mass-timber-groundbreaking/",
-          "published": "2026-10-30T00:55:33+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "South County Mayoral Races Take Widely Different Courses",
-      "published": "2026-10-30T00:49:46+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "South County Mayoral Races Take Widely Different Courses",
-          "link": "https://voiceofsandiego.org/2026/10/29/south-county-mayoral-races-take-widely-different-courses/",
-          "published": "2026-10-30T00:49:46+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Congress Could Give San Diego More Say Over Proposed Data Center",
-      "published": "2026-10-30T00:00:28+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Congress Could Give San Diego More Say Over Proposed Data Center",
-          "link": "https://voiceofsandiego.org/2026/10/29/congress-could-give-san-diego-more-say-over-navwar-data-center/",
-          "published": "2026-10-30T00:00:28+00:00"
-        }
-      ]
-    },
-    {
       "headline": "DOJ renews appeal to 9th Circuit for order purging 20,000 ‘suspect’ ballots",
       "published": "2026-10-29T23:49:42+00:00",
       "outlet_count": 1,
@@ -380,6 +562,19 @@
       ]
     },
     {
+      "headline": "County of San Diego’s Cool Zone Program Goes Year-Round",
+      "published": "2026-10-29T23:24:47+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "County of San Diego’s Cool Zone Program Goes Year-Round",
+          "link": "https://www.countynewscenter.com/county-of-san-diegos-cool-zone-program-goes-year-round/?utm_source=rss&utm_medium=rss&utm_campaign=county-of-san-diegos-cool-zone-program-goes-year-round",
+          "published": "2026-10-29T23:24:47+00:00"
+        }
+      ]
+    },
+    {
       "headline": "Judge blocks suspicionless, racially discriminatory immigration stops",
       "published": "2026-10-29T23:00:10+00:00",
       "outlet_count": 1,
@@ -389,19 +584,6 @@
           "title": "Judge blocks suspicionless, racially discriminatory immigration stops",
           "link": "https://thecoastnews.com/judge-blocks-suspicionless-racially-discriminatory-immigration-stops/",
           "published": "2026-10-29T23:00:10+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Money Is Pouring Into San Diego Politics. Where Is It Coming From?",
-      "published": "2026-10-29T22:40:42+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Money Is Pouring Into San Diego Politics. Where Is It Coming From?",
-          "link": "https://voiceofsandiego.org/2026/10/29/money-is-pouring-into-san-diego-politics-where-is-it-coming-from/",
-          "published": "2026-10-29T22:40:42+00:00"
         }
       ]
     },
@@ -432,80 +614,73 @@
       ]
     },
     {
-      "headline": "Reader Rant: ‘There’s a Safety Hazard Near Barnes Tennis Center’",
-      "published": "2026-10-29T21:12:51+02:00",
+      "headline": "Prepare Now for Halloween Rain in San Diego County",
+      "published": "2026-10-29T21:49:06+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "OB Rag",
-          "title": "Reader Rant: ‘There’s a Safety Hazard Near Barnes Tennis Center’",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDx0r6pNNWs6s0uCgId_5wJd?utm_source=follow.it",
-          "published": "2026-10-29T21:12:51+02:00"
+          "source": "County News Center",
+          "title": "Prepare Now for Halloween Rain in San Diego County",
+          "link": "https://www.countynewscenter.com/prepare-now-for-halloween-rain-in-san-diego-county/?utm_source=rss&utm_medium=rss&utm_campaign=prepare-now-for-halloween-rain-in-san-diego-county",
+          "published": "2026-10-29T21:49:06+00:00"
         }
       ]
     },
     {
-      "headline": "D2: Bailey Supporters Go Low With Effort to Smear Crosby as ‘Flock Candidate’",
-      "published": "2026-10-29T20:50:26+02:00",
+      "headline": "A Spook-tacular Halloween Starts with Safety",
+      "published": "2026-10-29T20:47:05+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "OB Rag",
-          "title": "D2: Bailey Supporters Go Low With Effort to Smear Crosby as ‘Flock Candidate’",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDx3lrapPtxERLTlHaSdsw7b?utm_source=follow.it",
-          "published": "2026-10-29T20:50:26+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "The Department of Justice Wants California to Stop Processing 20,000 Ballots: A Federal Judge Said ‘No’ to This Unprecedented Coercion",
-      "published": "2026-10-29T20:25:06+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "The Department of Justice Wants California to Stop Processing 20,000 Ballots: A Federal Judge Said ‘No’ to This Unprecedented Coercion",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwSE4mLRr6sn2r3y_F8EWBC?utm_source=follow.it",
-          "published": "2026-10-29T20:25:06+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diego County Rejects DOJ’s Demand of ‘Thinly Veiled Voter Purge’",
-      "published": "2026-10-29T20:05:30+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "San Diego County Rejects DOJ’s Demand of ‘Thinly Veiled Voter Purge’",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxeriq9li-aWlTGikwny1Fi?utm_source=follow.it",
-          "published": "2026-10-29T20:05:30+02:00"
+          "source": "County News Center",
+          "title": "A Spook-tacular Halloween Starts with Safety",
+          "link": "https://www.countynewscenter.com/a-spook-tacular-halloween-starts-with-safety/?utm_source=rss&utm_medium=rss&utm_campaign=a-spook-tacular-halloween-starts-with-safety",
+          "published": "2026-10-29T20:47:05+00:00"
         }
       ]
     },
     {
       "headline": "County reports two children’s flu deaths, urges vaccinations",
       "published": "2026-10-29T19:46:29+00:00",
-      "outlet_count": 1,
+      "outlet_count": 2,
       "coverage": [
         {
           "source": "The Coast News",
           "title": "County reports two children’s flu deaths, urges vaccinations",
           "link": "https://thecoastnews.com/county-reports-two-childrens-flu-deaths-urges-vaccinations/",
           "published": "2026-10-29T19:46:29+00:00"
+        },
+        {
+          "source": "County News Center",
+          "title": "County Reports Two Pediatric Deaths as Flu Season Arrives Early",
+          "link": "https://www.countynewscenter.com/county-reports-two-pediatric-deaths-as-flu-season-arrives-early/?utm_source=rss&utm_medium=rss&utm_campaign=county-reports-two-pediatric-deaths-as-flu-season-arrives-early",
+          "published": "2026-10-29T17:22:20+00:00"
         }
       ]
     },
     {
-      "headline": "Fight at OB’s Seawall Wednesday Night Turned Deadly — Police Searching for Suspect",
-      "published": "2026-10-29T19:14:30+02:00",
+      "headline": "Reader Rant: ‘There’s a Safety Hazard Near Barnes Tennis Center’",
+      "published": "2026-10-29T19:12:51+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
-          "title": "Fight at OB’s Seawall Wednesday Night Turned Deadly — Police Searching for Suspect",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwlgjoNQTQIsdRB809r9qnu?utm_source=follow.it",
-          "published": "2026-10-29T19:14:30+02:00"
+          "title": "Reader Rant: ‘There’s a Safety Hazard Near Barnes Tennis Center’",
+          "link": "https://obrag.org/2026/10/reader-rant-theres-a-safety-hazard-near-barnes-tennis-center/",
+          "published": "2026-10-29T19:12:51+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "D2: Bailey Supporters Go Low With Effort to Smear Crosby as ‘Flock Candidate’",
+      "published": "2026-10-29T18:50:26+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "D2: Bailey Supporters Go Low With Effort to Smear Crosby as ‘Flock Candidate’",
+          "link": "https://obrag.org/2026/10/d2-bailey-supporters-go-low-with-effort-to-smear-crosby-as-flock-candidate/",
+          "published": "2026-10-29T18:50:26+00:00"
         }
       ]
     },
@@ -519,6 +694,19 @@
           "title": "Coronado Soroptimists seek donations for annual holiday season Bags of Generosity drive",
           "link": "https://coronadotimes.com/news/2026/10/29/coronado-soroptimists-seek-donations-for-annual-holiday-season-bags-of-generosity-drive/",
           "published": "2026-10-29T18:31:21+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "The Department of Justice Wants California to Stop Processing 20,000 Ballots: A Federal Judge Said ‘No’ to This Unprecedented Coercion",
+      "published": "2026-10-29T18:25:06+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "The Department of Justice Wants California to Stop Processing 20,000 Ballots: A Federal Judge Said ‘No’ to This Unprecedented Coercion",
+          "link": "https://obrag.org/2026/10/the-department-of-justice-wants-california-to-stop-processing-20000-ballots-a-federal-judge-said-no-to-this-unprecedented-coercion/",
+          "published": "2026-10-29T18:25:06+00:00"
         }
       ]
     },
@@ -588,211 +776,28 @@
       ]
     },
     {
-      "headline": "Legal Notices, October 30, 2026",
-      "published": "2026-10-29T14:25:13+00:00",
+      "headline": "Honor Our Military Community Through the Warrior Hike Challenge",
+      "published": "2026-10-29T14:31:51+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "The Coast News",
-          "title": "Legal Notices, October 30, 2026",
-          "link": "https://thecoastnews.com/legal-notices-october-30-2026/",
-          "published": "2026-10-29T14:25:13+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Will the Real Anti-Flock Candidate Please Stand Up?",
-      "published": "2026-10-29T09:15:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Will the Real Anti-Flock Candidate Please Stand Up?",
-          "link": "https://voiceofsandiego.org/2026/10/29/will-the-real-anti-flock-candidate-please-stand-up/",
-          "published": "2026-10-29T09:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "ENCINITAS: San Dieguito High School Academy marks 90 years",
-      "published": "2026-10-29T01:50:34+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "ENCINITAS: San Dieguito High School Academy marks 90 years",
-          "link": "https://www.northcoastcurrent.com/currentevents/2026/10/encinitas-san-dieguito-high-school-academy-marks-90-years/",
-          "published": "2026-10-29T01:50:34+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Education Matters: Why qualifications matter more than endorsements",
-      "published": "2026-10-29T01:29:59+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Education Matters: Why qualifications matter more than endorsements",
-          "link": "https://www.northcoastcurrent.com/columnists/education-matters/2026/10/education-matters-why-qualifications-matter-more-than-endorsements/",
-          "published": "2026-10-29T01:29:59+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diego County rebuffs DOJ request to set aside alleged noncitizen ballots",
-      "published": "2026-10-28T23:32:47+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "San Diego County rebuffs DOJ request to set aside alleged noncitizen ballots",
-          "link": "https://thecoastnews.com/san-diego-county-rebuffs-doj-request-to-set-aside-alleged-noncitizen-ballots/",
-          "published": "2026-10-28T23:32:47+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Report details San Onofre progress, hurdles to removing nuclear waste",
-      "published": "2026-10-28T23:03:34+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Report details San Onofre progress, hurdles to removing nuclear waste",
-          "link": "https://thecoastnews.com/report-details-san-onofre-progress-hurdles-to-removing-nuclear-waste/",
-          "published": "2026-10-28T23:03:34+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "SPJ Announces Kelly Davis Journalism Prize For Courage And Compassion",
-      "published": "2026-10-28T20:34:45+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "SPJ Announces Kelly Davis Journalism Prize For Courage And Compassion",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwLp-etP06mzSioGVfn5rsF?utm_source=follow.it",
-          "published": "2026-10-28T20:34:45+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "Golden Pacific Powerlink: New Routes, Continued Concerns",
-      "published": "2026-10-28T20:15:14+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Golden Pacific Powerlink: New Routes, Continued Concerns",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxx5iuZ5uD7687LdlTCiexP?utm_source=follow.it",
-          "published": "2026-10-28T20:15:14+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "The Cat’s Cradle of the D4 Council Race",
-      "published": "2026-10-28T16:50:37+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "The Cat’s Cradle of the D4 Council Race",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxY_RZw0pbaJT0kxgWb8kyv?utm_source=follow.it",
-          "published": "2026-10-28T16:50:37+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "Head to Indian Wells to watch the top women in tennis compete in the WTA Finals (Nov.  8-15)",
-      "published": "2026-10-28T13:00:17+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Head to Indian Wells to watch the top women in tennis compete in the WTA Finals (Nov.  8-15)",
-          "link": "https://coronadotimes.com/news/2026/10/28/head-to-indian-wells-to-watch-the-top-women-in-tennis-compete-in-the-wta-finals-nov-8-15/",
-          "published": "2026-10-28T13:00:17+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Opportunity for CHS students to travel abroad with the Rotary Youth Exchange",
-      "published": "2026-10-28T02:50:13+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Opportunity for CHS students to travel abroad with the Rotary Youth Exchange",
-          "link": "https://coronadotimes.com/news/2026/10/27/opportunity-for-chs-students-to-travel-abroad-with-the-rotary-youth-exchange/",
-          "published": "2026-10-28T02:50:13+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Grateful for the campaign experience and the people who have made it meaningful",
-      "published": "2026-10-27T23:56:48+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Grateful for the campaign experience and the people who have made it meaningful",
-          "link": "https://coronadotimes.com/news/2026/10/27/grateful-for-the-campaign-experience-and-the-people-who-have-made-it-meaningful/",
-          "published": "2026-10-27T23:56:48+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Personality Matters In Politics: Right Brain Politics II",
-      "published": "2026-10-27T23:50:59+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Personality Matters In Politics: Right Brain Politics II",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDx-qJlAijfrsd1siAvHAKPk?utm_source=follow.it",
-          "published": "2026-10-27T23:50:59+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "Before you turn up the heat: What is your HVAC system trying to tell you?",
-      "published": "2026-10-27T23:00:12+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Before you turn up the heat: What is your HVAC system trying to tell you?",
-          "link": "https://www.northcoastcurrent.com/home-and-family/2026/10/before-you-turn-up-the-heat-what-is-your-hvac-system-trying-to-tell-you/",
-          "published": "2026-10-27T23:00:12+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "5 ways to protect your small business and your family’s income",
-      "published": "2026-10-27T22:01:28+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "5 ways to protect your small business and your family’s income",
-          "link": "https://www.northcoastcurrent.com/home-and-family/2026/10/5-ways-to-protect-your-small-business-and-your-familys-income/",
-          "published": "2026-10-27T22:01:28+00:00"
+          "source": "County News Center",
+          "title": "Honor Our Military Community Through the Warrior Hike Challenge",
+          "link": "https://www.countynewscenter.com/honor-our-military-community-through-the-warrior-hike-challenge/?utm_source=rss&utm_medium=rss&utm_campaign=honor-our-military-community-through-the-warrior-hike-challenge",
+          "published": "2026-10-29T14:31:51+00:00"
         }
       ]
     }
   ],
   "debug": {
     "sources_configured": 23,
-    "sources_ok": 7,
+    "sources_ok": 9,
     "sources_failed": [
       "KPBS",
       "San Diego Union-Tribune",
       "San Diego Reader",
       "CalMatters (San Diego tag)",
       "Inside San Diego",
-      "Times-Advocate (Escondido)",
       "Imperial Beach News CA",
       "La Jolla Light",
       "Point Loma-OB Monthly",
@@ -801,7 +806,6 @@
       "Solana Beach City News",
       "Chula Vista City News",
       "Del Mar Weekly",
-      "County News Center",
       "SD Sheriff News Releases"
     ]
   }
