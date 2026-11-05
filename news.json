@@ -1,7 +1,540 @@
 {
-  "generated_at": "2026-11-04T20:40:29.808955+00:00",
-  "story_count": 104,
+  "generated_at": "2026-11-05T20:56:22.033024+00:00",
+  "story_count": 95,
   "stories": [
+    {
+      "headline": "SD Film Week features a soccer star stepping up as narrator and producer and a fictional take on high school life in OB",
+      "published": "2026-11-05T20:45:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "SD Film Week features a soccer star stepping up as narrator and producer and a fictional take on high school life in OB",
+          "link": "https://timesofsandiego.com/arts/2026/11/05/san-diego-film-week-digital-gym-alex-morgan-ocean-beach/",
+          "published": "2026-11-05T20:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Newsom plans to commute all California death sentences to life without parole",
+      "published": "2026-11-05T20:38:58+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Newsom plans to commute all California death sentences to life without parole",
+          "link": "https://timesofsandiego.com/crime/2026/11/05/newsom-california-death-penalty-life-no-parole/",
+          "published": "2026-11-05T20:38:58+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults",
+      "published": "2026-11-05T19:45:27+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults",
+          "link": "https://www.countynewscenter.com/county-medical-examiner-seeks-publics-help-identifying-children-and-young-adults/?utm_source=rss&utm_medium=rss&utm_campaign=county-medical-examiner-seeks-publics-help-identifying-children-and-young-adults",
+          "published": "2026-11-05T19:45:27+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Let your holiday lights shine in Coronado Floral Association’s Holiday Home Front contest",
+      "published": "2026-11-05T19:04:33+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Let your holiday lights shine in Coronado Floral Association’s Holiday Home Front contest",
+          "link": "https://coronadotimes.com/news/2026/11/05/let-your-holiday-lights-shine-in-coronado-floral-associations-holiday-home-front-contest/",
+          "published": "2026-11-05T19:04:33+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "James Barton Murtland III",
+      "published": "2026-11-05T18:48:35+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times-Advocate (Escondido)",
+          "title": "James Barton Murtland III",
+          "link": "https://www.times-advocate.com/articles/james-barton-murtland-iii/",
+          "published": "2026-11-05T18:48:35+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Mr Moto, a slice of fun in Seaport Village",
+      "published": "2026-11-05T18:35:52+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Mr Moto, a slice of fun in Seaport Village",
+          "link": "https://coronadotimes.com/news/2026/11/05/mr-moto-a-slice-of-fun-in-seaport-village/",
+          "published": "2026-11-05T18:35:52+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Lo que sabemos sobre los resultados de las 14 proposiciones en la boleta de California",
+      "published": "2026-11-05T18:32:54+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Lo que sabemos sobre los resultados de las 14 proposiciones en la boleta de California",
+          "link": "https://timesofsandiego.com/politics/2026/11/05/resultados-proposiciones-california-2026/",
+          "published": "2026-11-05T18:32:54+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Doers and Dreamers Q&A: Wildlife Jewels and the La Jolla coast",
+      "published": "2026-11-05T18:31:14+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Doers and Dreamers Q&A: Wildlife Jewels and the La Jolla coast",
+          "link": "https://timesofsandiego.com/life/2026/11/05/doers-and-dreamers-la-jolla-wildlife-jewels/",
+          "published": "2026-11-05T18:31:14+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Renovated Voco hotel makes its debut in Solana Beach",
+      "published": "2026-11-05T18:09:40+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Renovated Voco hotel makes its debut in Solana Beach",
+          "link": "https://thecoastnews.com/renovated-voco-hotel-makes-its-debut-in-solana-beach/",
+          "published": "2026-11-05T18:09:40+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Mission Bay’s Dig Pink fundraiser exceeds expectations",
+      "published": "2026-11-05T17:15:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Mission Bay’s Dig Pink fundraiser exceeds expectations",
+          "link": "https://timesofsandiego.com/sports/2026/11/05/mission-bays-dig-pink-fundraiser-exceeds-expectations/",
+          "published": "2026-11-05T17:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Carlsbad’s Lilo named among OpenTable’s top 100 restaurants",
+      "published": "2026-11-05T17:11:24+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Carlsbad’s Lilo named among OpenTable’s top 100 restaurants",
+          "link": "https://thecoastnews.com/carlsbads-lilo-named-among-opentables-top-100-restaurants/",
+          "published": "2026-11-05T17:11:24+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "California aprueba dos bonos para vivienda: qué significan las Proposiciones 1 y 37 para el estado",
+      "published": "2026-11-05T16:57:03+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "California aprueba dos bonos para vivienda: qué significan las Proposiciones 1 y 37 para el estado",
+          "link": "https://timesofsandiego.com/housing/2026/11/05/proposicion-1-proposicion-37-vivienda-california/",
+          "published": "2026-11-05T16:57:03+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "2 Ocean Beach Men Arrested in Mushroom Gummie Halloween Case",
+      "published": "2026-11-05T16:43:03+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "2 Ocean Beach Men Arrested in Mushroom Gummie Halloween Case",
+          "link": "https://obrag.org/2026/11/2-ocean-beach-men-arrested-in-mushroom-gummie-halloween/",
+          "published": "2026-11-05T16:43:03+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Two arrested after psilocybin gummies given to children on Halloween",
+      "published": "2026-11-05T16:41:17+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Two arrested after psilocybin gummies given to children on Halloween",
+          "link": "https://thecoastnews.com/two-arrested-after-psilocybin-gummies-given-to-children-on-halloween/",
+          "published": "2026-11-05T16:41:17+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Obituary – Ronald “Ron” Charles Rollo",
+      "published": "2026-11-05T15:22:03+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Obituary – Ronald “Ron” Charles Rollo",
+          "link": "https://thecoastnews.com/obituary-ronald-ron-charles-rollo/",
+          "published": "2026-11-05T15:22:03+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Winter Wonderland to return to Center Dec. 5",
+      "published": "2026-11-05T15:17:16+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times-Advocate (Escondido)",
+          "title": "Winter Wonderland to return to Center Dec. 5",
+          "link": "https://www.times-advocate.com/articles/winter-wonderland-to-return-to-center-dec-5/",
+          "published": "2026-11-05T15:17:16+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Obituary – John Thomas Swan",
+      "published": "2026-11-05T15:16:28+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Obituary – John Thomas Swan",
+          "link": "https://thecoastnews.com/obituary-john-thomas-swan/",
+          "published": "2026-11-05T15:16:28+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "VetFest to honor those who served",
+      "published": "2026-11-05T15:16:23+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times-Advocate (Escondido)",
+          "title": "VetFest to honor those who served",
+          "link": "https://www.times-advocate.com/articles/vetfest-to-honor-those-who-served/",
+          "published": "2026-11-05T15:16:23+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "‘Outstanding customer service’ is Chief Tyler Batson’s goal ‘Our engine companies are some of the busiest in North County’",
+      "published": "2026-11-05T15:15:34+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times-Advocate (Escondido)",
+          "title": "‘Outstanding customer service’ is Chief Tyler Batson’s goal ‘Our engine companies are some of the busiest in North County’",
+          "link": "https://www.times-advocate.com/articles/outstanding-customer-service-is-chief-tyler-batsons-goal-our-engine-companies-are-some-of-the-busiest-in-north-county/",
+          "published": "2026-11-05T15:15:34+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Ed Gallo Speaks: DBA take a bow",
+      "published": "2026-11-05T15:14:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times-Advocate (Escondido)",
+          "title": "Ed Gallo Speaks: DBA take a bow",
+          "link": "https://www.times-advocate.com/articles/ed-gallo-speaks-dba-take-a-bow/",
+          "published": "2026-11-05T15:14:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego already killed the mileage tax once—Sacramento wants it back",
+      "published": "2026-11-05T15:12:37+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times-Advocate (Escondido)",
+          "title": "San Diego already killed the mileage tax once—Sacramento wants it back",
+          "link": "https://www.times-advocate.com/articles/san-diego-already-killed-the-mileage-tax-once-sacramento-wants-it-back/",
+          "published": "2026-11-05T15:12:37+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Book fair comes to the mall",
+      "published": "2026-11-05T15:11:52+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times-Advocate (Escondido)",
+          "title": "Book fair comes to the mall",
+          "link": "https://www.times-advocate.com/articles/book-fair-comes-to-the-mall/",
+          "published": "2026-11-05T15:11:52+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Mesa Agricola revisited",
+      "published": "2026-11-05T15:11:13+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times-Advocate (Escondido)",
+          "title": "Mesa Agricola revisited",
+          "link": "https://www.times-advocate.com/articles/mesa-agricola-revisited/",
+          "published": "2026-11-05T15:11:13+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "TA SHORTS 11/5/26",
+      "published": "2026-11-05T15:09:16+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times-Advocate (Escondido)",
+          "title": "TA SHORTS 11/5/26",
+          "link": "https://www.times-advocate.com/articles/ta-shorts-11-5-26/",
+          "published": "2026-11-05T15:09:16+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Legal Notices, November 6, 2026",
+      "published": "2026-11-05T15:06:40+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Legal Notices, November 6, 2026",
+          "link": "https://thecoastnews.com/legal-notices-november-6-2026/",
+          "published": "2026-11-05T15:06:40+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "The Holy Spirit Was Given as A Friend!",
+      "published": "2026-11-05T15:05:40+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times-Advocate (Escondido)",
+          "title": "The Holy Spirit Was Given as A Friend!",
+          "link": "https://www.times-advocate.com/articles/the-holy-spirit-was-given-as-a-friend/",
+          "published": "2026-11-05T15:05:40+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Leads Widen for County Sales Tax, Reform Measures",
+      "published": "2026-11-05T10:15:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Leads Widen for County Sales Tax, Reform Measures",
+          "link": "https://voiceofsandiego.org/2026/11/05/leads-widen-for-county-sales-tax-reform-measures/",
+          "published": "2026-11-05T10:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Fifth rape of semester reported at CSUSM",
+      "published": "2026-11-05T07:18:02+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Fifth rape of semester reported at CSUSM",
+          "link": "https://thecoastnews.com/fifth-rape-of-semester-reported-at-csusm/",
+          "published": "2026-11-05T07:18:02+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Encinitas city races too close to call",
+      "published": "2026-11-05T04:29:52+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "Encinitas city races too close to call",
+          "link": "https://www.northcoastcurrent.com/election-2026/2026/11/encinitas-city-races-too-close-to-call/",
+          "published": "2026-11-05T04:29:52+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Joyce, Robinson ahead in Oceanside council races",
+      "published": "2026-11-05T04:21:23+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "Joyce, Robinson ahead in Oceanside council races",
+          "link": "https://www.northcoastcurrent.com/election-2026/2026/11/joyce-robinson-ahead-in-oceanside-council-races/",
+          "published": "2026-11-05T04:21:23+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Blackburn holds wide lead in Carlsbad mayoral race",
+      "published": "2026-11-05T04:10:01+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "Blackburn holds wide lead in Carlsbad mayoral race",
+          "link": "https://www.northcoastcurrent.com/election-2026/2026/11/blackburn-holds-wide-lead-in-carlsbad-mayoral-race/",
+          "published": "2026-11-05T04:10:01+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Results tight for Vista mayoral, city District 1 races",
+      "published": "2026-11-05T04:03:30+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "Results tight for Vista mayoral, city District 1 races",
+          "link": "https://www.northcoastcurrent.com/election-2026/2026/11/results-tight-for-vista-mayoral-city-district-1-races/",
+          "published": "2026-11-05T04:03:30+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Votes for San Marcos mayor, city District 2 neck and neck",
+      "published": "2026-11-05T03:54:33+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "Votes for San Marcos mayor, city District 2 neck and neck",
+          "link": "https://www.northcoastcurrent.com/election-2026/2026/11/votes-for-san-marcos-mayor-city-district-2-neck-and-neck/",
+          "published": "2026-11-05T03:54:33+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Solana Beach lodging tax passing; Spieker ahead for Del Mar council",
+      "published": "2026-11-05T03:44:01+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "Solana Beach lodging tax passing; Spieker ahead for Del Mar council",
+          "link": "https://www.northcoastcurrent.com/election-2026/2026/11/solana-beach-lodging-tax-passing-spieker-ahead-for-del-mar-council/",
+          "published": "2026-11-05T03:44:01+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Fashion Valley owner returns with plans to tear down JCPenney and build large mixed-use project",
+      "published": "2026-11-05T02:49:48+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Fashion Valley owner returns with plans to tear down JCPenney and build large mixed-use project",
+          "link": "https://timesofsandiego.com/community/2026/11/04/fashion-valley-jcpenney-mixed-use-project-proposal/",
+          "published": "2026-11-05T02:49:48+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "How Democrats took over San Diego’s congressional delegation, one seat at a time",
+      "published": "2026-11-05T01:52:28+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "How Democrats took over San Diego’s congressional delegation, one seat at a time",
+          "link": "https://timesofsandiego.com/politics/2026/11/04/democrats-san-diego-congressional-delegation-2026/",
+          "published": "2026-11-05T01:52:28+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "County Offices Close on Veterans Day",
+      "published": "2026-11-05T01:20:33+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "County Offices Close on Veterans Day",
+          "link": "https://www.countynewscenter.com/county-offices-close-on-veterans-day/?utm_source=rss&utm_medium=rss&utm_campaign=county-offices-close-on-veterans-day",
+          "published": "2026-11-05T01:20:33+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Bill Walton Classic aims to honor San Diego native son, unite local hoops teams",
+      "published": "2026-11-05T01:18:03+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Bill Walton Classic aims to honor San Diego native son, unite local hoops teams",
+          "link": "https://timesofsandiego.com/sports/2026/11/04/bill-walton-classic-honor-unite-san-diego-hoops/",
+          "published": "2026-11-05T01:18:03+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "How North County Races Are Shaping Out So Far",
+      "published": "2026-11-05T01:02:49+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "How North County Races Are Shaping Out So Far",
+          "link": "https://voiceofsandiego.org/2026/11/04/how-north-county-races-are-shaping-out-so-far/",
+          "published": "2026-11-05T01:02:49+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Election 2026: Razor-thin margins in Encinitas, San Marcos",
+      "published": "2026-11-05T00:21:40+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Election 2026: Razor-thin margins in Encinitas, San Marcos",
+          "link": "https://thecoastnews.com/election-2026-razor-thin-margins-in-encinitas-san-marcos/",
+          "published": "2026-11-05T00:21:40+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "SD Wave, winners of 6 of last 7, welcome Utah Royals to Snapdragon to open NWSL playoffs",
+      "published": "2026-11-04T23:05:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "SD Wave, winners of 6 of last 7, welcome Utah Royals to Snapdragon to open NWSL playoffs",
+          "link": "https://timesofsandiego.com/sports/2026/11/04/san-diego-wave-utah-royals-nwsl-playoffs/",
+          "published": "2026-11-04T23:05:00+00:00"
+        }
+      ]
+    },
     {
       "headline": "The five health screenings every woman needs",
       "published": "2026-11-04T20:30:27+00:00",
@@ -81,19 +614,6 @@
       ]
     },
     {
-      "headline": "Free Aging Well Expo in PB to focus on senior health and community",
-      "published": "2026-11-04T20:21:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Free Aging Well Expo in PB to focus on senior health and community",
-          "link": "https://timesofsandiego.com/health/2026/11/04/free-aging-well-expo-in-pb-to-focus-on-senior-health-and-community/",
-          "published": "2026-11-04T20:21:00+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Silvergate raises $31,594 for Alzheimer’s San Diego through ‘Walk4ALZ’ campaign",
       "published": "2026-11-04T20:17:14+00:00",
       "outlet_count": 1,
@@ -107,171 +627,54 @@
       ]
     },
     {
-      "headline": "Falcons flag football to play Helix for CIF championship on Saturday",
-      "published": "2026-11-04T19:57:35+00:00",
+      "headline": "‘No’ on Gloria Recall: Let Him Languish",
+      "published": "2026-11-04T19:30:22+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "Times of San Diego",
-          "title": "Falcons flag football to play Helix for CIF championship on Saturday",
-          "link": "https://timesofsandiego.com/sports/2026/11/04/falcons-flag-football-to-play-helix-for-cif-championship-on-saturday/",
-          "published": "2026-11-04T19:57:35+00:00"
+          "source": "OB Rag",
+          "title": "‘No’ on Gloria Recall: Let Him Languish",
+          "link": "https://obrag.org/2026/11/no-on-gloria-recall-let-him-languish/",
+          "published": "2026-11-04T19:30:22+00:00"
         }
       ]
     },
     {
-      "headline": "California housing bonds: What passage of Prop. 37, Prop. 1 means for state",
-      "published": "2026-11-04T19:46:50+00:00",
+      "headline": "Local organizations’ generosity is much appreciated for Christmas in October",
+      "published": "2026-11-04T19:00:12+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "Times of San Diego",
-          "title": "California housing bonds: What passage of Prop. 37, Prop. 1 means for state",
-          "link": "https://timesofsandiego.com/housing/2026/11/04/california-housing-what-it-means-voters-pass-bonds-prop-37-prop-1/",
-          "published": "2026-11-04T19:46:50+00:00"
+          "source": "Coronado Times",
+          "title": "Local organizations’ generosity is much appreciated for Christmas in October",
+          "link": "https://coronadotimes.com/news/2026/11/04/local-organizations-generosity-is-much-appreciated/",
+          "published": "2026-11-04T19:00:12+00:00"
         }
       ]
     },
     {
       "headline": "Nicole Crosby Appears to Have Won the District 2 City Council Seat; She Leads Richard Bailey by 9 Points and 3,000 Votes",
-      "published": "2026-11-04T19:42:43+02:00",
+      "published": "2026-11-04T17:42:43+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
           "title": "Nicole Crosby Appears to Have Won the District 2 City Council Seat; She Leads Richard Bailey by 9 Points and 3,000 Votes",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwZccddJ0IKCNRQ3JrDoan7?utm_source=follow.it",
-          "published": "2026-11-04T19:42:43+02:00"
+          "link": "https://obrag.org/2026/11/nicole-crosby-appears-to-have-won-the-district-2-city-council-seat-she-leads-richard-bailey-by-9-points-and-3000-votes/",
+          "published": "2026-11-04T17:42:43+00:00"
         }
       ]
     },
     {
-      "headline": "Cartoon: Scott Chambers",
-      "published": "2026-11-04T19:38:21+00:00",
+      "headline": "Local ACLU Applauds Defeat of Prop 39",
+      "published": "2026-11-04T16:45:27+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "The Coast News",
-          "title": "Cartoon: Scott Chambers",
-          "link": "https://thecoastnews.com/cartoon-scott-chambers-335/",
-          "published": "2026-11-04T19:38:21+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "The parable of Little Oaks",
-      "published": "2026-11-04T19:36:03+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "The parable of Little Oaks",
-          "link": "https://thecoastnews.com/the-parable-of-little-oaks/",
-          "published": "2026-11-04T19:36:03+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Pacific Beach Town Council to celebrate 75 years of serving the community",
-      "published": "2026-11-04T19:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Pacific Beach Town Council to celebrate 75 years of serving the community",
-          "link": "https://timesofsandiego.com/community/2026/11/04/pacific-beach-town-council-to-celebrate-75-years-of-serving-the-community/",
-          "published": "2026-11-04T19:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Opinion: Becerra, in confronting budget mess, is about to find out that governing California isn’t easy",
-      "published": "2026-11-04T18:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Opinion: Becerra, in confronting budget mess, is about to find out that governing California isn’t easy",
-          "link": "https://timesofsandiego.com/opinion/2026/11/04/becerra-budget-newsom-governor-california/",
-          "published": "2026-11-04T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "TERI Campus of Life offering equine team-building program",
-      "published": "2026-11-04T17:29:33+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "TERI Campus of Life offering equine team-building program",
-          "link": "https://thecoastnews.com/teri-campus-of-life-offering-equine-team-building-program/",
-          "published": "2026-11-04T17:29:33+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Escondido councilman questioned again over campaign flyer photo",
-      "published": "2026-11-04T17:17:41+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Escondido councilman questioned again over campaign flyer photo",
-          "link": "https://thecoastnews.com/escondido-councilman-questioned-again-over-campaign-flyer-photo/",
-          "published": "2026-11-04T17:17:41+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "FAFSA: la puerta de entrada a la ayuda financiera para educación superior",
-      "published": "2026-11-04T17:11:46+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "FAFSA: la puerta de entrada a la ayuda financiera para educación superior",
-          "link": "https://timesofsandiego.com/education/2026/11/04/fafsa-ayuda-financiera-estudiantes-estados-unidos/",
-          "published": "2026-11-04T17:11:46+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "The easiest PDF platforms for training your front desk staff",
-      "published": "2026-11-04T17:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "The easiest PDF platforms for training your front desk staff",
-          "link": "https://timesofsandiego.com/branded-content/2026/11/04/the-easiest-pdf-platforms-for-training-your-front-desk-staff/",
-          "published": "2026-11-04T17:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Muchos dueños de mascotas ya no pueden pagar un veterinario",
-      "published": "2026-11-04T16:40:39+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Muchos dueños de mascotas ya no pueden pagar un veterinario",
-          "link": "https://timesofsandiego.com/health/2026/11/04/costo-atencion-veterinaria-duenos-mascotas/",
-          "published": "2026-11-04T16:40:39+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "15 puntos destacados de la elección del 3 de noviembre",
-      "published": "2026-11-04T16:16:37+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "15 puntos destacados de la elección del 3 de noviembre",
-          "link": "https://timesofsandiego.com/politics/2026/11/04/15-puntos-destacados-eleccion-3-de-noviembre/",
-          "published": "2026-11-04T16:16:37+00:00"
+          "source": "OB Rag",
+          "title": "Local ACLU Applauds Defeat of Prop 39",
+          "link": "https://obrag.org/2026/11/local-aclu-applauds-defeat-of-prop-39/",
+          "published": "2026-11-04T16:45:27+00:00"
         }
       ]
     },
@@ -302,15 +705,15 @@
       ]
     },
     {
-      "headline": "Resultados electorales — Elección general del 3 de noviembre de 2026",
-      "published": "2026-11-04T15:14:00+00:00",
+      "headline": "A new day in U.S. politics",
+      "published": "2026-11-04T15:00:24+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "Times of San Diego",
-          "title": "Resultados electorales — Elección general del 3 de noviembre de 2026",
-          "link": "https://timesofsandiego.com/politics/2026/11/04/resultados-elecciones-san-diego-2026-becerra-gobernador/",
-          "published": "2026-11-04T15:14:00+00:00"
+          "source": "Coronado Times",
+          "title": "A new day in U.S. politics",
+          "link": "https://coronadotimes.com/news/2026/11/04/a-new-day-in-u-s-politics/",
+          "published": "2026-11-04T15:00:24+00:00"
         }
       ]
     },
@@ -367,19 +770,6 @@
       ]
     },
     {
-      "headline": "Encinitas workshop to help businesses navigate AI search",
-      "published": "2026-11-04T00:50:46+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Encinitas workshop to help businesses navigate AI search",
-          "link": "https://thecoastnews.com/encinitas-workshop-to-help-businesses-navigate-ai-search/",
-          "published": "2026-11-04T00:50:46+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Voices of the Voters: San Marcos Voters Faced Big Decisions",
       "published": "2026-11-04T00:23:09+00:00",
       "outlet_count": 1,
@@ -389,402 +779,6 @@
           "title": "Voices of the Voters: San Marcos Voters Faced Big Decisions",
           "link": "https://voiceofsandiego.org/2026/11/03/voices-of-the-voters-san-marcos-voters-faced-big-decisions/",
           "published": "2026-11-04T00:23:09+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Public and Private Efforts Important for Storm Resiliency",
-      "published": "2026-11-03T23:27:16+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "Public and Private Efforts Important for Storm Resiliency",
-          "link": "https://www.countynewscenter.com/public-and-private-efforts-important-for-storm-resiliency/?utm_source=rss&utm_medium=rss&utm_campaign=public-and-private-efforts-important-for-storm-resiliency",
-          "published": "2026-11-03T23:27:16+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Man accused in fatal San Marcos fire found competent for trial",
-      "published": "2026-11-03T22:10:02+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Man accused in fatal San Marcos fire found competent for trial",
-          "link": "https://thecoastnews.com/man-accused-in-fatal-san-marcos-fire-found-competent-for-trial/",
-          "published": "2026-11-03T22:10:02+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Voices of the Voters: Voters Are Feeling Cynical About the District 2 Council Race and High Cost of Living",
-      "published": "2026-11-03T21:59:48+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Voices of the Voters: Voters Are Feeling Cynical About the District 2 Council Race and High Cost of Living",
-          "link": "https://voiceofsandiego.org/2026/11/03/voices-of-the-voters-voters-are-feeling-cynical-about-the-district-2-council-race-and-high-cost-of-living/",
-          "published": "2026-11-03T21:59:48+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Photos: Scenes From Election Day in San Diego",
-      "published": "2026-11-03T21:30:35+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Photos: Scenes From Election Day in San Diego",
-          "link": "https://voiceofsandiego.org/2026/11/03/photos-election-day-in-san-diego-3/",
-          "published": "2026-11-03T21:30:35+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Voice of the Voters: In District 4, Residents Just Want Better Services",
-      "published": "2026-11-03T21:15:26+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Voice of the Voters: In District 4, Residents Just Want Better Services",
-          "link": "https://voiceofsandiego.org/2026/11/03/voice-of-the-voters-in-district-4-residents-just-want-better-services/",
-          "published": "2026-11-03T21:15:26+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Solana Beach breaks ground on eastern Lomas Santa Fe upgrades",
-      "published": "2026-11-03T21:02:09+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Solana Beach breaks ground on eastern Lomas Santa Fe upgrades",
-          "link": "https://thecoastnews.com/solana-beach-breaks-ground-on-eastern-lomas-santa-fe-upgrades/",
-          "published": "2026-11-03T21:02:09+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Voices of the Voters: Socialism Is on the Ballot in El Cajon",
-      "published": "2026-11-03T20:57:28+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Voices of the Voters: Socialism Is on the Ballot in El Cajon",
-          "link": "https://voiceofsandiego.org/2026/11/03/voices-of-the-voters-socialism-is-on-the-ballot-in-el-cajon/",
-          "published": "2026-11-03T20:57:28+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "The ceviche shines at Cancun in Leucadia",
-      "published": "2026-11-03T19:48:45+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "The ceviche shines at Cancun in Leucadia",
-          "link": "https://thecoastnews.com/the-ceviche-shines-at-cancun-in-leucadia/",
-          "published": "2026-11-03T19:48:45+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Pumpkin Smash Event Gives Halloween Pumpkins a Second Life in Lakeside",
-      "published": "2026-11-03T19:15:49+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "Pumpkin Smash Event Gives Halloween Pumpkins a Second Life in Lakeside",
-          "link": "https://www.countynewscenter.com/pumpkin-smash-event-gives-halloween-pumpkins-a-second-life-in-lakeside/?utm_source=rss&utm_medium=rss&utm_campaign=pumpkin-smash-event-gives-halloween-pumpkins-a-second-life-in-lakeside",
-          "published": "2026-11-03T19:15:49+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "OB Rag Live Blog for Election Day — Mid-Terms 2026",
-      "published": "2026-11-03T18:42:08+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "OB Rag Live Blog for Election Day — Mid-Terms 2026",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwsXX2pvSonlm0brguGN4mY?utm_source=follow.it",
-          "published": "2026-11-03T18:42:08+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diego County: When To Expect Election Results",
-      "published": "2026-11-03T17:12:37+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "San Diego County: When To Expect Election Results",
-          "link": "https://www.countynewscenter.com/san-diego-county-when-to-expect-election-results/?utm_source=rss&utm_medium=rss&utm_campaign=san-diego-county-when-to-expect-election-results",
-          "published": "2026-11-03T17:12:37+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Election Day Is Here",
-      "published": "2026-11-03T10:15:00+00:00",
-      "outlet_count": 2,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Election Day Is Here",
-          "link": "https://voiceofsandiego.org/2026/11/03/election-day-is-here-2/",
-          "published": "2026-11-03T10:15:00+00:00"
-        },
-        {
-          "source": "Coronado Times",
-          "title": "What we’re watching in Coronado this Election Day",
-          "link": "https://coronadotimes.com/news/2026/11/02/what-were-watching-in-coronado-this-election-day/",
-          "published": "2026-11-03T01:29:34+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Kids on Halloween Picked Up Mushroom Gummies from Porch in OB",
-      "published": "2026-11-03T04:16:36+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Kids on Halloween Picked Up Mushroom Gummies from Porch in OB",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDyEhve19UWji9pYy2wYO37D?utm_source=follow.it",
-          "published": "2026-11-03T04:16:36+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "News briefs: Weather preparedness town halls, recycle campaign signs, tennis and Toys for Tots",
-      "published": "2026-11-03T04:09:21+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "News briefs: Weather preparedness town halls, recycle campaign signs, tennis and Toys for Tots",
-          "link": "https://coronadotimes.com/news/2026/11/02/news-briefs-weather-preparedness-town-halls-recycle-campaign-signs-tennis-and-toys-for-tots/",
-          "published": "2026-11-03T04:09:21+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "North County voters have options to cast ballots Nov. 3",
-      "published": "2026-11-03T02:34:38+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "North County voters have options to cast ballots Nov. 3",
-          "link": "https://www.northcoastcurrent.com/election-2026/2026/11/north-county-voters-have-options-to-cast-ballots-nov-3/",
-          "published": "2026-11-03T02:34:38+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Supreme Court Rejects Trump’s Emergency Bid to Force California to Segregate Ballots",
-      "published": "2026-11-03T01:48:05+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Supreme Court Rejects Trump’s Emergency Bid to Force California to Segregate Ballots",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDysbJ42w1AtzgXch-qXWMm8?utm_source=follow.it",
-          "published": "2026-11-03T01:48:05+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "City Council agenda: Summer shuttle ridership drops, Mobility Committee’s future, Mills Act tax breaks, and more",
-      "published": "2026-11-03T01:41:37+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "City Council agenda: Summer shuttle ridership drops, Mobility Committee’s future, Mills Act tax breaks, and more",
-          "link": "https://coronadotimes.com/news/2026/11/02/city-council-agenda-summer-shuttle-ridership-drops-mobility-committees-future-mills-act-tax-breaks-and-more/",
-          "published": "2026-11-03T01:41:37+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Preserving Coronado’s story: Community gathers for 7th Annual Collections Luncheon",
-      "published": "2026-11-03T00:35:01+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Preserving Coronado’s story: Community gathers for 7th Annual Collections Luncheon",
-          "link": "https://coronadotimes.com/news/2026/11/02/preserving-coronados-story-community-gathers-for-7th-annual-collections-luncheon/",
-          "published": "2026-11-03T00:35:01+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Latest Move to Rig Mid-Terms: Trump Appeals to Supreme Court to Segregate 20,000 California Ballots Day Before Election",
-      "published": "2026-11-03T00:25:55+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Latest Move to Rig Mid-Terms: Trump Appeals to Supreme Court to Segregate 20,000 California Ballots Day Before Election",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDy24BB-wBN7ACH8mOs-Nq4Y?utm_source=follow.it",
-          "published": "2026-11-03T00:25:55+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diego Taps Reserves to Close $4.7 Million Budget Gap",
-      "published": "2026-11-02T23:47:52+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "San Diego Taps Reserves to Close $4.7 Million Budget Gap",
-          "link": "https://voiceofsandiego.org/2026/11/02/san-diego-taps-reserves-to-close-4-7-million-budget-gap/",
-          "published": "2026-11-02T23:47:52+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "USS Abraham Lincoln to leave Coronado for new home port in Washington state",
-      "published": "2026-11-02T20:39:53+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "USS Abraham Lincoln to leave Coronado for new home port in Washington state",
-          "link": "https://coronadotimes.com/news/2026/11/02/uss-abraham-lincoln-to-leave-coronado-for-new-home-port-in-washington-state/",
-          "published": "2026-11-02T20:39:53+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Vote to Check Trump’s Power— Then Demand Victorious Dems Follow Through",
-      "published": "2026-11-02T20:36:49+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Vote to Check Trump’s Power— Then Demand Victorious Dems Follow Through",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDyrY9UiHl1F7AaIfTt6XUj0?utm_source=follow.it",
-          "published": "2026-11-02T20:36:49+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "Splitting America",
-      "published": "2026-11-02T20:06:02+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Splitting America",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxYSOiD6P83m57-TWpzP_St?utm_source=follow.it",
-          "published": "2026-11-02T20:06:02+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "What Really Happened to Devil’s Pot of Sunset Cliffs?",
-      "published": "2026-11-02T19:52:53+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "What Really Happened to Devil’s Pot of Sunset Cliffs?",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxCzRrtj9aHrZJ_TOARYHYs?utm_source=follow.it",
-          "published": "2026-11-02T19:52:53+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "Go “Into the Woods” at the Coronado Playhouse",
-      "published": "2026-11-02T19:38:53+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Go “Into the Woods” at the Coronado Playhouse",
-          "link": "https://coronadotimes.com/news/2026/11/02/go-into-the-woods-at-the-coronado-playhouse/",
-          "published": "2026-11-02T19:38:53+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Judge Orders DOJ to Stop Threatening to Prosecute Election Officials",
-      "published": "2026-11-02T19:13:06+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Judge Orders DOJ to Stop Threatening to Prosecute Election Officials",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDzJwKkN3c5yO0c9vuLKzxCG?utm_source=follow.it",
-          "published": "2026-11-02T19:13:06+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "November 2026 Events from the Ocean Beach Green Center",
-      "published": "2026-11-02T18:58:43+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "November 2026 Events from the Ocean Beach Green Center",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDyc7GerfkYvX8oUOrk3WyH_?utm_source=follow.it",
-          "published": "2026-11-02T18:58:43+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "Community Coalition Bulletin: This Week at City Hall — Nov. 2–6",
-      "published": "2026-11-02T18:34:05+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Community Coalition Bulletin: This Week at City Hall — Nov. 2–6",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDw4hfuluzt1jAg9aBW5zSbZ?utm_source=follow.it",
-          "published": "2026-11-02T18:34:05+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "Victim of OB Murder Identified — Suspect Arrested in Bonita",
-      "published": "2026-11-02T18:14:32+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Victim of OB Murder Identified — Suspect Arrested in Bonita",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwBQXu52dllg3u8trs9uD2V?utm_source=follow.it",
-          "published": "2026-11-02T18:14:32+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "Vote by Tuesday: Final Day to Cast a Ballot in the November General Election",
-      "published": "2026-11-02T17:00:47+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "Vote by Tuesday: Final Day to Cast a Ballot in the November General Election",
-          "link": "https://www.countynewscenter.com/vote-by-tuesday-final-day-to-cast-a-ballot-in-the-november-general-election/?utm_source=rss&utm_medium=rss&utm_campaign=vote-by-tuesday-final-day-to-cast-a-ballot-in-the-november-general-election",
-          "published": "2026-11-02T17:00:47+00:00"
         }
       ]
     }
