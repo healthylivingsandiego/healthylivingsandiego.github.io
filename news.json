@@ -1,7 +1,228 @@
 {
-  "generated_at": "2026-11-06T20:18:26.981880+00:00",
+  "generated_at": "2026-11-07T18:28:58.232049+00:00",
   "story_count": 105,
   "stories": [
+    {
+      "headline": "1 in 3 California community college students don’t return the following term",
+      "published": "2026-11-07T16:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "1 in 3 California community college students don’t return the following term",
+          "link": "https://timesofsandiego.com/education/2026/11/07/community-college-low-return-rates/",
+          "published": "2026-11-07T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "The Mayor Isn’t Leaving",
+      "published": "2026-11-07T15:18:26+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "The Mayor Isn’t Leaving",
+          "link": "https://voiceofsandiego.org/2026/11/07/the-mayor-isnt-leaving/",
+          "published": "2026-11-07T15:18:26+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego’s cannery coast: Who drove the tuna boom?",
+      "published": "2026-11-07T15:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego’s cannery coast: Who drove the tuna boom?",
+          "link": "https://timesofsandiego.com/history/2026/11/07/san-diegos-cannery-coast-who-drove-the-tuna-boom/",
+          "published": "2026-11-07T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego upset by Utah in NWSL quarterfinals, falling to Royals for first time in franchise history",
+      "published": "2026-11-07T06:43:10+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego upset by Utah in NWSL quarterfinals, falling to Royals for first time in franchise history",
+          "link": "https://timesofsandiego.com/sports/2026/11/06/san-diego-upset-by-utah-in-nwsl-quarterfinals/",
+          "published": "2026-11-07T06:43:10+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Suspect in security guard’s shooting death in Pacific Beach pleads not guilty to murder",
+      "published": "2026-11-07T05:15:19+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Suspect in security guard’s shooting death in Pacific Beach pleads not guilty to murder",
+          "link": "https://timesofsandiego.com/crime/2026/11/06/suspect-guard-shooting-pacific-beach-not-guilty/",
+          "published": "2026-11-07T05:15:19+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Dieguito high school, district mark 90th anniversary",
+      "published": "2026-11-07T03:19:42+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "San Dieguito high school, district mark 90th anniversary",
+          "link": "https://www.northcoastcurrent.com/top-stories/2026/11/san-dieguito-high-school-district-mark-90th-anniversary/",
+          "published": "2026-11-07T03:19:42+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "GOP Troubles Spread to Statehouse Races",
+      "published": "2026-11-07T02:19:28+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "GOP Troubles Spread to Statehouse Races",
+          "link": "https://voiceofsandiego.org/2026/11/06/gop-troubles-spread-to-statehouse-races/",
+          "published": "2026-11-07T02:19:28+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego on track to erase deficit in next fiscal year, but billion-dollar infrastructure backlog still looms large",
+      "published": "2026-11-07T02:09:07+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego on track to erase deficit in next fiscal year, but billion-dollar infrastructure backlog still looms large",
+          "link": "https://timesofsandiego.com/politics/2026/11/06/san-diego-erase-budget-deficit-infrastructure-backlog/",
+          "published": "2026-11-07T02:09:07+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Rodriguez Victory Signals New, Left-Leaning Era for National City",
+      "published": "2026-11-07T01:58:39+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Rodriguez Victory Signals New, Left-Leaning Era for National City",
+          "link": "https://voiceofsandiego.org/2026/11/06/rodriguez-victory-signals-new-left-leaning-era-for-national-city/",
+          "published": "2026-11-07T01:58:39+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Palomar College’s interim president named permanent leader",
+      "published": "2026-11-07T01:13:05+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "Palomar College’s interim president named permanent leader",
+          "link": "https://www.northcoastcurrent.com/campus/2026/11/palomar-colleges-interim-president-named-permanent-leader/",
+          "published": "2026-11-07T01:13:05+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Donna Frye: ‘Midway Rising: the Public Has a Right to Know Before, Not After, the Project Is Approved’",
+      "published": "2026-11-07T00:54:39+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Donna Frye: ‘Midway Rising: the Public Has a Right to Know Before, Not After, the Project Is Approved’",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDyDCLVUtpNsg09MTfyhIihO?utm_source=follow.it",
+          "published": "2026-11-07T00:54:39+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "After years of strife, Grossmont teachers union flips board supermajority in election stunner",
+      "published": "2026-11-07T00:21:07+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "After years of strife, Grossmont teachers union flips board supermajority in election stunner",
+          "link": "https://timesofsandiego.com/education/2026/11/06/after-years-of-strife-grossmont-teachers-union-flips-board-supermajority-in-election-stunner/",
+          "published": "2026-11-07T00:21:07+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "VOSD Podcast: Vista, the Socialist Hotspot",
+      "published": "2026-11-06T23:38:48+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "VOSD Podcast: Vista, the Socialist Hotspot",
+          "link": "https://voiceofsandiego.org/2026/11/06/vosd-podcast-vista-the-socialist-hotspot/",
+          "published": "2026-11-06T23:38:48+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Lawmakers demand answers from Homeland Security in Otay Mesa death of detainee from Guatemala",
+      "published": "2026-11-06T23:21:35+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Lawmakers demand answers from Homeland Security in Otay Mesa death of detainee from Guatemala",
+          "link": "https://timesofsandiego.com/health/2026/11/06/san-diego-lawmakers-investigation-death-immigrant-detainee/",
+          "published": "2026-11-06T23:21:35+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Emergency Preparedness at Home: Document Your Valuables for Insurance Purposes",
+      "published": "2026-11-06T22:07:22+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "Emergency Preparedness at Home: Document Your Valuables for Insurance Purposes",
+          "link": "https://www.countynewscenter.com/emergency-preparedness-at-home-document-your-valuables-for-insurance-purposes/?utm_source=rss&utm_medium=rss&utm_campaign=emergency-preparedness-at-home-document-your-valuables-for-insurance-purposes",
+          "published": "2026-11-06T22:07:22+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Kloppenburg’s a big name in hoops – and at PLNU where new women’s head coach continues the family legacy",
+      "published": "2026-11-06T21:45:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Kloppenburg’s a big name in hoops – and at PLNU where new women’s head coach continues the family legacy",
+          "link": "https://timesofsandiego.com/sports/2026/11/06/kloppenburg-pruitt-point-loma-nazarene-basketball/",
+          "published": "2026-11-06T21:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Election 2026: Elliott nears Senate win; Davies holds slim lead",
+      "published": "2026-11-06T21:33:32+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Election 2026: Elliott nears Senate win; Davies holds slim lead",
+          "link": "https://thecoastnews.com/election-2026-elliott-nears-senate-win-davies-holds-slim-lead/",
+          "published": "2026-11-06T21:33:32+00:00"
+        }
+      ]
+    },
     {
       "headline": "Kate Callen: ‘Wealthy zoo deciding to charge for parking is wrong’",
       "published": "2026-11-06T21:32:13+02:00",
@@ -12,6 +233,32 @@
           "title": "Kate Callen: ‘Wealthy zoo deciding to charge for parking is wrong’",
           "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwBk13d0JSg_hgJaCrNmJaL?utm_source=follow.it",
           "published": "2026-11-06T21:32:13+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "County charter, sales tax measures lead by 3 points, supporters declare win",
+      "published": "2026-11-06T21:16:51+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "County charter, sales tax measures lead by 3 points, supporters declare win",
+          "link": "https://thecoastnews.com/county-charter-sales-tax-measures-lead-by-3-points-supporters-declare-win/",
+          "published": "2026-11-06T21:16:51+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Von Wilpert flips 48th House District, incumbents cruise to victory",
+      "published": "2026-11-06T21:09:30+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Von Wilpert flips 48th House District, incumbents cruise to victory",
+          "link": "https://thecoastnews.com/von-wilpert-flips-48th-house-district-incumbents-cruise-to-victory/",
+          "published": "2026-11-06T21:09:30+00:00"
         }
       ]
     },
@@ -29,6 +276,19 @@
       ]
     },
     {
+      "headline": "Encinitas mayor’s race tightest such contest in county",
+      "published": "2026-11-06T21:04:03+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "Encinitas mayor’s race tightest such contest in county",
+          "link": "https://www.northcoastcurrent.com/election-2026/2026/11/encinitas-mayors-race-tightest-such-contest-in-county/",
+          "published": "2026-11-06T21:04:03+00:00"
+        }
+      ]
+    },
+    {
       "headline": "E-Bike Store in OB Suffers ‘Smash and Grab’",
       "published": "2026-11-06T20:57:03+02:00",
       "outlet_count": 1,
@@ -38,6 +298,19 @@
           "title": "E-Bike Store in OB Suffers ‘Smash and Grab’",
           "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDz1bpHXU8ISvM3Txa-4mCv7?utm_source=follow.it",
           "published": "2026-11-06T20:57:03+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Downtown News: November 6, 2026",
+      "published": "2026-11-06T20:44:29+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Downtown News: November 6, 2026",
+          "link": "https://timesofsandiego.com/print-editions/2026/11/06/downtown-news-november-6-2026/",
+          "published": "2026-11-06T20:44:29+00:00"
         }
       ]
     },
@@ -68,54 +341,28 @@
       ]
     },
     {
-      "headline": "La Jolla Village News: November 6, 2026",
-      "published": "2026-11-06T19:56:45+00:00",
+      "headline": "Coronado braces for higher tides over Thanksgiving and Christmas",
+      "published": "2026-11-06T20:25:27+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "Times of San Diego",
-          "title": "La Jolla Village News: November 6, 2026",
-          "link": "https://timesofsandiego.com/print-editions/2026/11/06/la-jolla-village-news-november-6-2026/",
-          "published": "2026-11-06T19:56:45+00:00"
+          "source": "Coronado Times",
+          "title": "Coronado braces for higher tides over Thanksgiving and Christmas",
+          "link": "https://coronadotimes.com/news/2026/11/06/coronado-braces-for-higher-tides-over-thanksgiving-and-christmas/",
+          "published": "2026-11-06T20:25:27+00:00"
         }
       ]
     },
     {
-      "headline": "162: El número ‘mágico’ de Adhara Pérez",
-      "published": "2026-11-06T19:56:03+00:00",
+      "headline": "Uptown News: November 6, 2026",
+      "published": "2026-11-06T20:19:46+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "Times of San Diego",
-          "title": "162: El número ‘mágico’ de Adhara Pérez",
-          "link": "https://timesofsandiego.com/community/2026/11/06/162-el-numero-magico-de-adhara-perez/",
-          "published": "2026-11-06T19:56:03+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Cómo mueren los escritores",
-      "published": "2026-11-06T19:47:27+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Cómo mueren los escritores",
-          "link": "https://timesofsandiego.com/opinion/2026/11/06/como-mueren-los-escritores/",
-          "published": "2026-11-06T19:47:27+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Beach and Bay Press: November 6, 2026",
-      "published": "2026-11-06T19:32:37+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Beach and Bay Press: November 6, 2026",
-          "link": "https://timesofsandiego.com/print-editions/2026/11/06/beach-and-bay-press-november-6-2026/",
-          "published": "2026-11-06T19:32:37+00:00"
+          "title": "Uptown News: November 6, 2026",
+          "link": "https://timesofsandiego.com/print-editions/2026/11/06/uptown-news-november-6-2026/",
+          "published": "2026-11-06T20:19:46+00:00"
         }
       ]
     },
@@ -129,19 +376,6 @@
           "title": "Summer shuttle data is in, but a decision on its future will wait until next year",
           "link": "https://coronadotimes.com/news/2026/11/06/summer-shuttle-data-is-in-but-a-decision-on-its-future-will-wait-until-next-year/",
           "published": "2026-11-06T19:14:31+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Cuando los monos descubrieron el dinero: el experimento que sorprendió a todos",
-      "published": "2026-11-06T19:04:24+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Cuando los monos descubrieron el dinero: el experimento que sorprendió a todos",
-          "link": "https://timesofsandiego.com/health/2026/11/06/cuando-los-monos-descubrieron-el-dinero-el-experimento-que-sorprendio-a-todos/",
-          "published": "2026-11-06T19:04:24+00:00"
         }
       ]
     },
@@ -172,19 +406,6 @@
       ]
     },
     {
-      "headline": "Queens of the Stone Age: la noche que otro recordó por mí y el disco que pegó lo roto",
-      "published": "2026-11-06T18:13:08+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Queens of the Stone Age: la noche que otro recordó por mí y el disco que pegó lo roto",
-          "link": "https://timesofsandiego.com/arts/2026/11/06/queens-of-the-stone-age-la-noche-que-otro-recordo-por-mi-y-el-disco-que-pego-lo-roto/",
-          "published": "2026-11-06T18:13:08+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Newsom commutes sentences of all death row inmates",
       "published": "2026-11-06T18:11:42+00:00",
       "outlet_count": 1,
@@ -198,32 +419,6 @@
       ]
     },
     {
-      "headline": "Opinion: San Diego’s canyons, ‘our precious natural infrastructure,’ are more important than ever",
-      "published": "2026-11-06T18:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Opinion: San Diego’s canyons, ‘our precious natural infrastructure,’ are more important than ever",
-          "link": "https://timesofsandiego.com/opinion/2026/11/06/opinion-san-diegos-canyons-more-important/",
-          "published": "2026-11-06T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Los ‘No Sabo Kids’: La generación latina que encontró su voz política",
-      "published": "2026-11-06T17:17:02+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Los ‘No Sabo Kids’: La generación latina que encontró su voz política",
-          "link": "https://timesofsandiego.com/politics/2026/11/06/los-no-sabo-kids-la-generacion-latina-que-encontro-su-voz-politica/",
-          "published": "2026-11-06T17:17:02+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Now They Have to Solve the TJ River Crisis",
       "published": "2026-11-06T10:15:00+00:00",
       "outlet_count": 1,
@@ -233,19 +428,6 @@
           "title": "Now They Have to Solve the TJ River Crisis",
           "link": "https://voiceofsandiego.org/2026/11/06/now-they-have-to-solve-the-tj-river-crisis/",
           "published": "2026-11-06T10:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Three new faces are set to join the City Council. All are Democrats, but that doesn’t mean they’ll vote in lockstep",
-      "published": "2026-11-06T02:43:13+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Three new faces are set to join the City Council. All are Democrats, but that doesn’t mean they’ll vote in lockstep",
-          "link": "https://timesofsandiego.com/politics/2026/11/05/new-faces-san-diego-city-council-democrats/",
-          "published": "2026-11-06T02:43:13+00:00"
         }
       ]
     },
@@ -272,19 +454,6 @@
           "title": "OCEANSIDE: Veterans organization plans ceremony Nov. 11",
           "link": "https://www.northcoastcurrent.com/currentevents/2026/11/oceanside-veterans-organization-plans-ceremony-nov-11/",
           "published": "2026-11-06T00:30:25+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Review: Tremendous homecoming for ‘The Outsiders’ musical tour",
-      "published": "2026-11-06T00:30:17+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Review: Tremendous homecoming for ‘The Outsiders’ musical tour",
-          "link": "https://timesofsandiego.com/arts/2026/11/05/review-tremendous-homecoming-for-the-outsiders-musical-tour/",
-          "published": "2026-11-06T00:30:17+00:00"
         }
       ]
     },
@@ -610,175 +779,6 @@
           "title": "TA SHORTS 11/5/26",
           "link": "https://www.times-advocate.com/articles/ta-shorts-11-5-26/",
           "published": "2026-11-05T15:09:16+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Legal Notices, November 6, 2026",
-      "published": "2026-11-05T15:06:40+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Legal Notices, November 6, 2026",
-          "link": "https://thecoastnews.com/legal-notices-november-6-2026/",
-          "published": "2026-11-05T15:06:40+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "The Holy Spirit Was Given as A Friend!",
-      "published": "2026-11-05T15:05:40+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "The Holy Spirit Was Given as A Friend!",
-          "link": "https://www.times-advocate.com/articles/the-holy-spirit-was-given-as-a-friend/",
-          "published": "2026-11-05T15:05:40+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Leads Widen for County Sales Tax, Reform Measures",
-      "published": "2026-11-05T10:15:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Leads Widen for County Sales Tax, Reform Measures",
-          "link": "https://voiceofsandiego.org/2026/11/05/leads-widen-for-county-sales-tax-reform-measures/",
-          "published": "2026-11-05T10:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Fifth rape of semester reported at CSUSM",
-      "published": "2026-11-05T07:18:02+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Fifth rape of semester reported at CSUSM",
-          "link": "https://thecoastnews.com/fifth-rape-of-semester-reported-at-csusm/",
-          "published": "2026-11-05T07:18:02+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Encinitas city races too close to call",
-      "published": "2026-11-05T04:29:52+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Encinitas city races too close to call",
-          "link": "https://www.northcoastcurrent.com/election-2026/2026/11/encinitas-city-races-too-close-to-call/",
-          "published": "2026-11-05T04:29:52+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Joyce, Robinson ahead in Oceanside council races",
-      "published": "2026-11-05T04:21:23+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Joyce, Robinson ahead in Oceanside council races",
-          "link": "https://www.northcoastcurrent.com/election-2026/2026/11/joyce-robinson-ahead-in-oceanside-council-races/",
-          "published": "2026-11-05T04:21:23+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Blackburn holds wide lead in Carlsbad mayoral race",
-      "published": "2026-11-05T04:10:01+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Blackburn holds wide lead in Carlsbad mayoral race",
-          "link": "https://www.northcoastcurrent.com/election-2026/2026/11/blackburn-holds-wide-lead-in-carlsbad-mayoral-race/",
-          "published": "2026-11-05T04:10:01+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Results tight for Vista mayoral, city District 1 races",
-      "published": "2026-11-05T04:03:30+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Results tight for Vista mayoral, city District 1 races",
-          "link": "https://www.northcoastcurrent.com/election-2026/2026/11/results-tight-for-vista-mayoral-city-district-1-races/",
-          "published": "2026-11-05T04:03:30+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Votes for San Marcos mayor, city District 2 neck and neck",
-      "published": "2026-11-05T03:54:33+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Votes for San Marcos mayor, city District 2 neck and neck",
-          "link": "https://www.northcoastcurrent.com/election-2026/2026/11/votes-for-san-marcos-mayor-city-district-2-neck-and-neck/",
-          "published": "2026-11-05T03:54:33+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "County Offices Close on Veterans Day",
-      "published": "2026-11-05T01:20:33+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "County Offices Close on Veterans Day",
-          "link": "https://www.countynewscenter.com/county-offices-close-on-veterans-day/?utm_source=rss&utm_medium=rss&utm_campaign=county-offices-close-on-veterans-day",
-          "published": "2026-11-05T01:20:33+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "How North County Races Are Shaping Out So Far",
-      "published": "2026-11-05T01:02:49+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "How North County Races Are Shaping Out So Far",
-          "link": "https://voiceofsandiego.org/2026/11/04/how-north-county-races-are-shaping-out-so-far/",
-          "published": "2026-11-05T01:02:49+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Election 2026: Razor-thin margins in Encinitas, San Marcos",
-      "published": "2026-11-05T00:21:40+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Election 2026: Razor-thin margins in Encinitas, San Marcos",
-          "link": "https://thecoastnews.com/election-2026-razor-thin-margins-in-encinitas-san-marcos/",
-          "published": "2026-11-05T00:21:40+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "‘No’ on Gloria Recall: Let Him Languish",
-      "published": "2026-11-04T21:30:22+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "‘No’ on Gloria Recall: Let Him Languish",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxRCw0HoXL8HGeU8fXU02LJ?utm_source=follow.it",
-          "published": "2026-11-04T21:30:22+02:00"
         }
       ]
     }
