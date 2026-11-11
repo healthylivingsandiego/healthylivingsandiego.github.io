@@ -1,7 +1,462 @@
 {
-  "generated_at": "2026-11-10T20:42:51.253050+00:00",
+  "generated_at": "2026-11-11T21:04:19.058110+00:00",
   "story_count": 95,
   "stories": [
+    {
+      "headline": "San Diego Thanksgiving Weekend Guide",
+      "published": "2026-11-11T20:24:24+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego Thanksgiving Weekend Guide",
+          "link": "https://timesofsandiego.com/san-diego-events/2026/11/11/san-diego-thanksgiving-weekend-guide/",
+          "published": "2026-11-11T20:24:24+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Councilmember Raul Campillo’s Comments on Why He Voted ‘Yes’ to Approve the Midway Rising Project",
+      "published": "2026-11-11T20:01:46+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Councilmember Raul Campillo’s Comments on Why He Voted ‘Yes’ to Approve the Midway Rising Project",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwcDt8MfwGEj4WUK23tz2V7?utm_source=follow.it",
+          "published": "2026-11-11T20:01:46+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego Lawmakers Demand Answers About 8 Year Old Immigrant Student Taken into ICE Custody",
+      "published": "2026-11-11T19:53:00+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "San Diego Lawmakers Demand Answers About 8 Year Old Immigrant Student Taken into ICE Custody",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwcDt8MfwGEj4Hs3l1_N3P3?utm_source=follow.it",
+          "published": "2026-11-11T19:53:00+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego Veterans for Peace Set Up ‘Hometown Arlington West Memorial’",
+      "published": "2026-11-11T19:29:53+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "San Diego Veterans for Peace Set Up ‘Hometown Arlington West Memorial’",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxsmBdbRfzGjubfkhDygXIg?utm_source=follow.it",
+          "published": "2026-11-11T19:29:53+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Election 2026: Ehlers closes gap, trails Viskanta by 19 votes",
+      "published": "2026-11-11T19:17:09+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Election 2026: Ehlers closes gap, trails Viskanta by 19 votes",
+          "link": "https://thecoastnews.com/election-2026-ehlers-closes-gap-trails-viskanta-by-19-votes/",
+          "published": "2026-11-11T19:17:09+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Healthy living starts with a doctor you trust",
+      "published": "2026-11-11T19:03:19+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Healthy living starts with a doctor you trust",
+          "link": "https://thecoastnews.com/healthy-living-starts-with-a-doctor-you-trust/",
+          "published": "2026-11-11T19:03:19+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Encinitas Turkey Trot: The family gathering before the family gathering",
+      "published": "2026-11-11T18:59:26+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Encinitas Turkey Trot: The family gathering before the family gathering",
+          "link": "https://thecoastnews.com/encinitas-turkey-trot-the-family-gathering-before-the-family-gathering/",
+          "published": "2026-11-11T18:59:26+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Saddle up for horse show, hoedown at TERI Campus of Life",
+      "published": "2026-11-11T18:57:48+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Saddle up for horse show, hoedown at TERI Campus of Life",
+          "link": "https://thecoastnews.com/saddle-up-for-horse-show-hoedown-at-teri-campus-of-life/",
+          "published": "2026-11-11T18:57:48+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "New holiday tradition coming to Encinitas",
+      "published": "2026-11-11T18:50:09+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "New holiday tradition coming to Encinitas",
+          "link": "https://thecoastnews.com/new-holiday-tradition-coming-to-encinitas/",
+          "published": "2026-11-11T18:50:09+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Cartoon: Scott Chambers",
+      "published": "2026-11-11T18:49:06+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Cartoon: Scott Chambers",
+          "link": "https://thecoastnews.com/cartoon-scott-chambers-336/",
+          "published": "2026-11-11T18:49:06+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "‘Super tough’ Santa Fe Christian aims to quiet doubts about spot in Open Division semifinals",
+      "published": "2026-11-11T18:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "‘Super tough’ Santa Fe Christian aims to quiet doubts about spot in Open Division semifinals",
+          "link": "https://timesofsandiego.com/sports/2026/11/11/santa-fe-christian-san-diego-open-division-semifinals/",
+          "published": "2026-11-11T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "From the cockpit to canvas: Matt DeGree’s art takes flight",
+      "published": "2026-11-11T17:17:45+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "From the cockpit to canvas: Matt DeGree’s art takes flight",
+          "link": "https://coronadotimes.com/news/2026/11/11/from-the-cockpit-to-canvas-matt-degrees-art-takes-flight/",
+          "published": "2026-11-11T17:17:45+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Demanda alega que San Diego impidió que su única capitana socorrista accediera al puesto más alto",
+      "published": "2026-11-11T16:39:10+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Demanda alega que San Diego impidió que su única capitana socorrista accediera al puesto más alto",
+          "link": "https://timesofsandiego.com/community/2026/11/11/demanda-alega-que-san-diego-impidio-que-su-unica-capitana-socorrista-accediera-al-puesto-mas-alto/",
+          "published": "2026-11-11T16:39:10+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Holiday letter-writing campaign for USS Theodore Roosevelt",
+      "published": "2026-11-11T16:30:18+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Holiday letter-writing campaign for USS Theodore Roosevelt",
+          "link": "https://coronadotimes.com/news/2026/11/11/holiday-letter-writing-campaign-for-uss-theodore-roosevelt/",
+          "published": "2026-11-11T16:30:18+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Point Loma begins quest for Div. II football title",
+      "published": "2026-11-11T15:45:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Point Loma begins quest for Div. II football title",
+          "link": "https://timesofsandiego.com/sports/2026/11/11/point-loma-begins-quest-for-div-ii-football-title/",
+          "published": "2026-11-11T15:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "How veterans came together to honor their own at Mount Soledad",
+      "published": "2026-11-11T15:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "How veterans came together to honor their own at Mount Soledad",
+          "link": "https://timesofsandiego.com/military/2026/11/11/how-veterans-came-together-to-honor-their-own-at-mount-soledad/",
+          "published": "2026-11-11T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "‘Ronin 3: The Battle for Sangin’ depicts ferocious fights Camp Pendleton Marines faced in Afghanstan, circa 2010",
+      "published": "2026-11-11T13:05:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "‘Ronin 3: The Battle for Sangin’ depicts ferocious fights Camp Pendleton Marines faced in Afghanstan, circa 2010",
+          "link": "https://timesofsandiego.com/military/2026/11/11/ronin-3-the-battle-for-sangin-depicts-ferocious-fights-camp-pendleton-marines-faced-in-afghanstan-circa-2010/",
+          "published": "2026-11-11T13:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Concerns Mount Over 8-Year-Old Haitian Taken by ICE",
+      "published": "2026-11-11T10:15:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Concerns Mount Over 8-Year-Old Haitian Taken by ICE",
+          "link": "https://voiceofsandiego.org/2026/11/11/concerns-mount-over-8-year-old-haitian-taken-by-ice/",
+          "published": "2026-11-11T10:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Trains begin crossing new Batiquitos rail bridge",
+      "published": "2026-11-11T01:22:14+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "Trains begin crossing new Batiquitos rail bridge",
+          "link": "https://www.northcoastcurrent.com/carlsbad-news/2026/11/trains-begin-crossing-new-batiquitos-rail-bridge/",
+          "published": "2026-11-11T01:22:14+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Op-ed: When local government adopts AI, who is accountable?",
+      "published": "2026-11-11T00:49:11+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Op-ed: When local government adopts AI, who is accountable?",
+          "link": "https://thecoastnews.com/op-ed-when-local-government-adopts-ai-who-is-accountable/",
+          "published": "2026-11-11T00:49:11+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Affordable Homes and Veteran Housing Open in National City",
+      "published": "2026-11-11T00:18:08+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "Affordable Homes and Veteran Housing Open in National City",
+          "link": "https://www.countynewscenter.com/affordable-homes-and-veteran-housing-open-in-national-city/?utm_source=rss&utm_medium=rss&utm_campaign=affordable-homes-and-veteran-housing-open-in-national-city",
+          "published": "2026-11-11T00:18:08+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Legisladores critican a ICE por el trato dado a un estudiante de primaria de San Diego",
+      "published": "2026-11-11T00:10:34+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Legisladores critican a ICE por el trato dado a un estudiante de primaria de San Diego",
+          "link": "https://timesofsandiego.com/immigration/2026/11/10/legisladores-critican-a-ice-por-el-trato-dado-a-un-estudiante-de-primaria-de-san-diego/",
+          "published": "2026-11-11T00:10:34+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Patrick Henry wrestling builds pipeline from youth beginners to CIF contenders",
+      "published": "2026-11-11T00:00:41+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Patrick Henry wrestling builds pipeline from youth beginners to CIF contenders",
+          "link": "https://timesofsandiego.com/education/2026/11/10/patrick-henry-wrestling-builds-pipeline-from-youth-beginners-to-cif-contenders/",
+          "published": "2026-11-11T00:00:41+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "‘More than skateboarding’: Exposure celebrates women’s skate culture",
+      "published": "2026-11-11T00:00:40+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "‘More than skateboarding’: Exposure celebrates women’s skate culture",
+          "link": "https://thecoastnews.com/more-than-skateboarding-exposure-celebrates-womens-skate-culture/",
+          "published": "2026-11-11T00:00:40+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "La Mesa weighs changes to Flock camera program after millions of license plate scans",
+      "published": "2026-11-10T23:27:10+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "La Mesa weighs changes to Flock camera program after millions of license plate scans",
+          "link": "https://timesofsandiego.com/community/2026/11/10/la-mesa-changes-flock-camera-program/",
+          "published": "2026-11-10T23:27:10+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego aprueba la remodelación del distrito de Midway por valor de $4.200 millones",
+      "published": "2026-11-10T23:14:44+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego aprueba la remodelación del distrito de Midway por valor de $4.200 millones",
+          "link": "https://timesofsandiego.com/politics/2026/11/10/san-diego-aprueba-la-remodelacion-del-distrito-de-midway-por-valor-de-4-200-millones/",
+          "published": "2026-11-10T23:14:44+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Residents sound alarm over Lake Hodges spillway plan",
+      "published": "2026-11-10T22:24:44+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Residents sound alarm over Lake Hodges spillway plan",
+          "link": "https://thecoastnews.com/residents-sound-alarm-over-lake-hodges-spillway-plan/",
+          "published": "2026-11-10T22:24:44+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Oceanside backs bonds to expand two TrueCare clinics",
+      "published": "2026-11-10T21:34:46+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Oceanside backs bonds to expand two TrueCare clinics",
+          "link": "https://thecoastnews.com/oceanside-backs-bonds-to-expand-two-truecare-clinics/",
+          "published": "2026-11-10T21:34:46+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "YIMBY Democrats Push City to Build 23-Story ‘Tower’ in Pacific Beach",
+      "published": "2026-11-10T21:21:15+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "YIMBY Democrats Push City to Build 23-Story ‘Tower’ in Pacific Beach",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDzFERxcGl93VXDB9JqPtCtc?utm_source=follow.it",
+          "published": "2026-11-10T21:21:15+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Oceanside explores funding for sewer infrastructure projects",
+      "published": "2026-11-10T21:20:47+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Oceanside explores funding for sewer infrastructure projects",
+          "link": "https://thecoastnews.com/oceanside-explores-funding-for-sewer-infrastructure-projects/",
+          "published": "2026-11-10T21:20:47+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Lawsuit by First and Only Female Lifeguard Captain: City Barred Her From Top Job",
+      "published": "2026-11-10T21:08:07+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Lawsuit by First and Only Female Lifeguard Captain: City Barred Her From Top Job",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDzXvw_O1DFm-sLE__uAA4ww?utm_source=follow.it",
+          "published": "2026-11-10T21:08:07+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Random Photo from the Rag Past (Before A.I.)",
+      "published": "2026-11-10T20:50:24+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Random Photo from the Rag Past (Before A.I.)",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDyl8W7Mo1NcpyNEym2GhTs-?utm_source=follow.it",
+          "published": "2026-11-10T20:50:24+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Trump Bubble Bursts?",
+      "published": "2026-11-10T20:37:33+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Trump Bubble Bursts?",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwrpyi-hgGu946l_DJZ_OOB?utm_source=follow.it",
+          "published": "2026-11-10T20:37:33+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Todd Gloria’s Problem Isn’t His Messaging. It’s His Leadership.",
+      "published": "2026-11-10T20:21:21+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Todd Gloria’s Problem Isn’t His Messaging. It’s His Leadership.",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDyABPfildgyC0i0K6ZcnzXi?utm_source=follow.it",
+          "published": "2026-11-10T20:21:21+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Out With the Old Ways and in With the New",
+      "published": "2026-11-10T20:04:41+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Out With the Old Ways and in With the New",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDylsbN-Q8x1T1mRQJ6_F6vh?utm_source=follow.it",
+          "published": "2026-11-10T20:04:41+02:00"
+        }
+      ]
+    },
     {
       "headline": "Sweet potatoes for now and later",
       "published": "2026-11-10T20:00:08+00:00",
@@ -12,19 +467,6 @@
           "title": "Sweet potatoes for now and later",
           "link": "https://thecoastnews.com/sweet-potatoes-for-now-and-later/",
           "published": "2026-11-10T20:00:08+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diego Wave FC plans to use upset loss in quarterfinals as fuel while waiting for Macario, Dudinha to get healthy",
-      "published": "2026-11-10T19:55:04+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "San Diego Wave FC plans to use upset loss in quarterfinals as fuel while waiting for Macario, Dudinha to get healthy",
-          "link": "https://timesofsandiego.com/sports/2026/11/10/san-diego-wave-fc-loss-quarterfinals-season-review/",
-          "published": "2026-11-10T19:55:04+00:00"
         }
       ]
     },
@@ -42,106 +484,15 @@
       ]
     },
     {
-      "headline": "Gayle Skidmore to Los Tigres del Norte to cholo-goth pioneers, Prayers — this week in live music",
-      "published": "2026-11-10T19:33:17+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Gayle Skidmore to Los Tigres del Norte to cholo-goth pioneers, Prayers — this week in live music",
-          "link": "https://timesofsandiego.com/arts/2026/11/10/gayle-skidmore-to-los-tigres-del-norte-to-cholo-goth-pioneers-prayers-this-week-in-live-music/",
-          "published": "2026-11-10T19:33:17+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "YIMBY Democrats Push City to Build 23-Story ‘Tower’ in Pacific Beach",
-      "published": "2026-11-10T19:21:15+00:00",
+      "headline": "A Retraction on ‘No on Gloria Recall’",
+      "published": "2026-11-10T19:37:19+02:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
-          "title": "YIMBY Democrats Push City to Build 23-Story ‘Tower’ in Pacific Beach",
-          "link": "https://obrag.org/2026/11/yimby-democrats-push-city-to-build-23-story-tower-in-pacific-beach/",
-          "published": "2026-11-10T19:21:15+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Lawsuit by First and Only Female Lifeguard Captain: City Barred Her From Top Job",
-      "published": "2026-11-10T19:08:07+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Lawsuit by First and Only Female Lifeguard Captain: City Barred Her From Top Job",
-          "link": "https://obrag.org/2026/11/lawsuit-by-first-and-only-female-lifeguard-captain-city-barred-her-from-top-job/",
-          "published": "2026-11-10T19:08:07+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Random Photo from the Rag Past (Before A.I.)",
-      "published": "2026-11-10T18:50:24+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Random Photo from the Rag Past (Before A.I.)",
-          "link": "https://obrag.org/2026/11/random-photo-from-the-rag-past-before-a-i/",
-          "published": "2026-11-10T18:50:24+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Shop the Trails: Holiday Marketplace Returns to Mission Trails Nov. 14–15",
-      "published": "2026-11-10T18:38:38+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Shop the Trails: Holiday Marketplace Returns to Mission Trails Nov. 14–15",
-          "link": "https://timesofsandiego.com/community/2026/11/10/shop-the-trails-holiday-marketplace-returns-to-mission-trails-nov-14-15/",
-          "published": "2026-11-10T18:38:38+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Trump Bubble Bursts?",
-      "published": "2026-11-10T18:37:33+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Trump Bubble Bursts?",
-          "link": "https://obrag.org/2026/11/trump-bubble-bursts/",
-          "published": "2026-11-10T18:37:33+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Todd Gloria’s Problem Isn’t His Messaging. It’s His Leadership.",
-      "published": "2026-11-10T18:21:21+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Todd Gloria’s Problem Isn’t His Messaging. It’s His Leadership.",
-          "link": "https://obrag.org/2026/11/todd-glorias-problem-isnt-his-messaging-its-his-leadership/",
-          "published": "2026-11-10T18:21:21+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Out With the Old Ways and in With the New",
-      "published": "2026-11-10T18:04:41+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Out With the Old Ways and in With the New",
-          "link": "https://obrag.org/2026/11/out-with-the-old-ways-and-in-with-the-new/",
-          "published": "2026-11-10T18:04:41+00:00"
+          "title": "A Retraction on ‘No on Gloria Recall’",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxMDZ5xnReL4gaIfTt6XUj0?utm_source=follow.it",
+          "published": "2026-11-10T19:37:19+02:00"
         }
       ]
     },
@@ -172,32 +523,6 @@
       ]
     },
     {
-      "headline": "Opinion: Diwali offers a shared celebration across political divides",
-      "published": "2026-11-10T18:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Opinion: Diwali offers a shared celebration across political divides",
-          "link": "https://timesofsandiego.com/opinion/2026/11/10/diwali-shared-celebration-political-divides/",
-          "published": "2026-11-10T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "A Retraction on ‘No on Gloria Recall’",
-      "published": "2026-11-10T17:37:19+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "A Retraction on ‘No on Gloria Recall’",
-          "link": "https://obrag.org/2026/11/a-retraction-on-no-on-gloria-recall/",
-          "published": "2026-11-10T17:37:19+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Escondido close to spending all $38.8M in pandemic relief",
       "published": "2026-11-10T17:34:28+00:00",
       "outlet_count": 1,
@@ -207,71 +532,6 @@
           "title": "Escondido close to spending all $38.8M in pandemic relief",
           "link": "https://thecoastnews.com/escondido-close-to-spending-all-38-8m-in-pandemic-relief/",
           "published": "2026-11-10T17:34:28+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "New center for veterans in Liberty Station uses creative activities to promote well-being",
-      "published": "2026-11-10T17:01:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "New center for veterans in Liberty Station uses creative activities to promote well-being",
-          "link": "https://timesofsandiego.com/military/2026/11/10/new-center-for-veterans-in-liberty-station-uses-creative-activities-to-well-being/",
-          "published": "2026-11-10T17:01:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Midway Rises: City Council Votes Unanimously for $4.2 Billion Redevelopment Project",
-      "published": "2026-11-10T16:52:18+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Midway Rises: City Council Votes Unanimously for $4.2 Billion Redevelopment Project",
-          "link": "https://obrag.org/2026/11/midway-rises-city-council-votes-unanimously-for-4-2-billion-redevelopment-project/",
-          "published": "2026-11-10T16:52:18+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Escondido amends mall ground leases in preparation for Costco",
-      "published": "2026-11-10T16:41:41+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Escondido amends mall ground leases in preparation for Costco",
-          "link": "https://thecoastnews.com/escondido-amends-mall-ground-leases-in-preparation-for-costco/",
-          "published": "2026-11-10T16:41:41+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Man pleads not guilty to murder in deaths of San Marcos couple",
-      "published": "2026-11-10T16:35:03+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Man pleads not guilty to murder in deaths of San Marcos couple",
-          "link": "https://thecoastnews.com/man-pleads-not-guilty-to-murder-in-deaths-of-san-marcos-couple/",
-          "published": "2026-11-10T16:35:03+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "200 students and counting: Mission Trails inspires the next generation of environmental stewards",
-      "published": "2026-11-10T16:33:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "200 students and counting: Mission Trails inspires the next generation of environmental stewards",
-          "link": "https://timesofsandiego.com/environment/2026/11/10/200-students-and-counting-mission-trails-inspires-the-next-generation-of-environmental-stewards/",
-          "published": "2026-11-10T16:33:00+00:00"
         }
       ]
     },
@@ -302,19 +562,6 @@
       ]
     },
     {
-      "headline": "City Council approves $4.2 billion Midway District makeover",
-      "published": "2026-11-10T04:42:06+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "City Council approves $4.2 billion Midway District makeover",
-          "link": "https://timesofsandiego.com/politics/2026/11/09/midway-rising-approved-by-city-council/",
-          "published": "2026-11-10T04:42:06+00:00"
-        }
-      ]
-    },
-    {
       "headline": "This Bipartisan Bill Could Make Data Centers Pay",
       "published": "2026-11-10T01:36:56+00:00",
       "outlet_count": 1,
@@ -324,58 +571,6 @@
           "title": "This Bipartisan Bill Could Make Data Centers Pay",
           "link": "https://voiceofsandiego.org/2026/11/09/this-bipartisan-bill-could-make-data-centers-pay/",
           "published": "2026-11-10T01:36:56+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Escondido police officer granted diversion in fatal on-duty crash",
-      "published": "2026-11-10T00:53:30+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Escondido police officer granted diversion in fatal on-duty crash",
-          "link": "https://thecoastnews.com/escondido-police-officer-granted-diversion-in-fatal-on-duty-crash/",
-          "published": "2026-11-10T00:53:30+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Oceanside mom questions daughter’s removal from Pop Warner cheer",
-      "published": "2026-11-09T23:53:46+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Oceanside mom questions daughter’s removal from Pop Warner cheer",
-          "link": "https://thecoastnews.com/oceanside-mom-questions-daughters-removal-from-pop-warner-cheer/",
-          "published": "2026-11-09T23:53:46+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "No matter the shade, Carney’s kicks were golden",
-      "published": "2026-11-09T23:46:36+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "No matter the shade, Carney’s kicks were golden",
-          "link": "https://thecoastnews.com/no-matter-the-shade-carneys-kicks-were-golden/",
-          "published": "2026-11-09T23:46:36+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "‘Lot of difficult moments’ doomed SDFC’s sophomore season. The club has many decisions to make heading into 2027",
-      "published": "2026-11-09T23:10:27+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "‘Lot of difficult moments’ doomed SDFC’s sophomore season. The club has many decisions to make heading into 2027",
-          "link": "https://timesofsandiego.com/sports/2026/11/09/san-diego-difficult-sdfc-sophomore-season/",
-          "published": "2026-11-09T23:10:27+00:00"
         }
       ]
     },
@@ -393,80 +588,15 @@
       ]
     },
     {
-      "headline": "Dead set on making good music: Oh He Dead’s CJ Johnson talks songwriting, a film in the works and the band’s return to The Casbah",
-      "published": "2026-11-09T22:37:57+00:00",
+      "headline": "Rebuttal in Recall Todd Gloria Debate: How Is the Mayor ‘Languishing’?",
+      "published": "2026-11-09T22:24:10+02:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "Times of San Diego",
-          "title": "Dead set on making good music: Oh He Dead’s CJ Johnson talks songwriting, a film in the works and the band’s return to The Casbah",
-          "link": "https://timesofsandiego.com/arts/2026/11/09/oh-he-dead-cj-johnson-songwriting-film-casbah/",
-          "published": "2026-11-09T22:37:57+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Ringed seals from Alaska, Mavsaq and Taku, soon to make debuts in SeaWorld San Diego’s Wild Arctic",
-      "published": "2026-11-09T22:20:29+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Ringed seals from Alaska, Mavsaq and Taku, soon to make debuts in SeaWorld San Diego’s Wild Arctic",
-          "link": "https://timesofsandiego.com/life/2026/11/09/ringed-seals-from-alaska-mavsaq-and-taku-soon-to-make-debuts-in-seaworld-san-diegos-wild-arctic/",
-          "published": "2026-11-09T22:20:29+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Promotion leaves a bad taste",
-      "published": "2026-11-09T21:37:48+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Promotion leaves a bad taste",
-          "link": "https://thecoastnews.com/promotion-leaves-a-bad-taste/",
-          "published": "2026-11-09T21:37:48+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Marcos pastry chef scores another Food Network win",
-      "published": "2026-11-09T21:14:58+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "San Marcos pastry chef scores another Food Network win",
-          "link": "https://thecoastnews.com/san-marcos-pastry-chef-scores-another-food-network-win/",
-          "published": "2026-11-09T21:14:58+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Torrey Pines shuts out Helix to win second straight flag football title",
-      "published": "2026-11-09T20:48:30+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Torrey Pines shuts out Helix to win second straight flag football title",
-          "link": "https://thecoastnews.com/torrey-pines-shuts-out-helix-to-win-second-straight-flag-football-title/",
-          "published": "2026-11-09T20:48:30+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Celebrate the Craft blends primal fire, artisanal flavors",
-      "published": "2026-11-09T20:47:59+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Celebrate the Craft blends primal fire, artisanal flavors",
-          "link": "https://thecoastnews.com/celebrate-the-craft-blends-primal-fire-artisanal-flavors/",
-          "published": "2026-11-09T20:47:59+00:00"
+          "source": "OB Rag",
+          "title": "Rebuttal in Recall Todd Gloria Debate: How Is the Mayor ‘Languishing’?",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDzo6LVB2RZBLVRkrk5oka8B?utm_source=follow.it",
+          "published": "2026-11-09T22:24:10+02:00"
         }
       ]
     },
@@ -484,32 +614,6 @@
       ]
     },
     {
-      "headline": "Rebuttal in Recall Todd Gloria Debate: How Is the Mayor ‘Languishing’?",
-      "published": "2026-11-09T20:24:10+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Rebuttal in Recall Todd Gloria Debate: How Is the Mayor ‘Languishing’?",
-          "link": "https://obrag.org/2026/11/rebuttal-in-recall-todd-gloria-debate-how-is-the-mayor-languishing/",
-          "published": "2026-11-09T20:24:10+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Who’s News: 11/13/26",
-      "published": "2026-11-09T19:21:18+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Who’s News: 11/13/26",
-          "link": "https://thecoastnews.com/whos-news-11-13-26/",
-          "published": "2026-11-09T19:21:18+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Completion of plant to address Tijuana sewage may be delayed to 2028",
       "published": "2026-11-09T19:11:34+00:00",
       "outlet_count": 1,
@@ -523,6 +627,32 @@
       ]
     },
     {
+      "headline": "Community Coalition Bulletin: This Week at City Hall November 9–13, 2026",
+      "published": "2026-11-09T18:06:02+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Community Coalition Bulletin: This Week at City Hall November 9–13, 2026",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDzvlW9lPMQIIGLfZrvquG-s?utm_source=follow.it",
+          "published": "2026-11-09T18:06:02+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "New San Diego COO Bethany Bezak: Worst Gloria Hire Ever?",
+      "published": "2026-11-09T17:44:24+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "New San Diego COO Bethany Bezak: Worst Gloria Hire Ever?",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwASVC8cBr3OHTBZNnWOJV6?utm_source=follow.it",
+          "published": "2026-11-09T17:44:24+02:00"
+        }
+      ]
+    },
+    {
       "headline": "County Employee Charitable Organization Opens Grant Application Period for Nonprofits",
       "published": "2026-11-09T17:09:36+00:00",
       "outlet_count": 1,
@@ -532,32 +662,6 @@
           "title": "County Employee Charitable Organization Opens Grant Application Period for Nonprofits",
           "link": "https://www.countynewscenter.com/county-employee-charitable-organization-opens-grant-application-period-for-nonprofits/?utm_source=rss&utm_medium=rss&utm_campaign=county-employee-charitable-organization-opens-grant-application-period-for-nonprofits",
           "published": "2026-11-09T17:09:36+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Pedestrian fatally struck by two vehicles in Escondido",
-      "published": "2026-11-09T17:08:51+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Pedestrian fatally struck by two vehicles in Escondido",
-          "link": "https://thecoastnews.com/pedestrian-fatally-struck-by-two-vehicles-in-escondido/",
-          "published": "2026-11-09T17:08:51+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Community Coalition Bulletin: This Week at City Hall November 9–13, 2026",
-      "published": "2026-11-09T16:06:02+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Community Coalition Bulletin: This Week at City Hall November 9–13, 2026",
-          "link": "https://obrag.org/2026/11/community-coalition-bulletin-this-week-at-city-hall-november-9-13-2026/",
-          "published": "2026-11-09T16:06:02+00:00"
         }
       ]
     },
@@ -627,6 +731,19 @@
       ]
     },
     {
+      "headline": "Monday, November 9th Is Midway Rising Day at City Council",
+      "published": "2026-11-08T20:27:45+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Monday, November 9th Is Midway Rising Day at City Council",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDyWUbTf3cjVA-GrDcjRcqKI?utm_source=follow.it",
+          "published": "2026-11-08T20:27:45+02:00"
+        }
+      ]
+    },
+    {
       "headline": "Tired of Election Coverage?",
       "published": "2026-11-08T14:00:00+00:00",
       "outlet_count": 1,
@@ -662,123 +779,6 @@
           "title": "Election update: Results lean toward Carlsbad city incumbents",
           "link": "https://www.northcoastcurrent.com/election-2026/2026/11/election-update-results-lean-toward-carlsbad-city-incumbents/",
           "published": "2026-11-08T07:23:32+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Election update: San Marcos races for mayor, council remain close",
-      "published": "2026-11-08T07:06:22+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Election update: San Marcos races for mayor, council remain close",
-          "link": "https://www.northcoastcurrent.com/election-2026/2026/11/election-update-san-marcos-races-for-mayor-council-remain-close/",
-          "published": "2026-11-08T07:06:22+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Election update: Vista mayoral race tightens to 301 votes",
-      "published": "2026-11-08T01:27:59+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Election update: Vista mayoral race tightens to 301 votes",
-          "link": "https://www.northcoastcurrent.com/election-2026/2026/11/election-update-vista-mayoral-race-tightens-to-301-votes/",
-          "published": "2026-11-08T01:27:59+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Election update: Del Mar competitive; Solana Beach measure leads",
-      "published": "2026-11-08T01:19:06+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Election update: Del Mar competitive; Solana Beach measure leads",
-          "link": "https://www.northcoastcurrent.com/election-2026/2026/11/election-update-del-mar-competitive-solana-beach-measure-leads/",
-          "published": "2026-11-08T01:19:06+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Election update: North County healthcare district race tight",
-      "published": "2026-11-08T00:49:57+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Election update: North County healthcare district race tight",
-          "link": "https://www.northcoastcurrent.com/election-2026/2026/11/election-update-north-county-healthcare-district-race-tight/",
-          "published": "2026-11-08T00:49:57+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Election update: Oceanside Measure S trails",
-      "published": "2026-11-07T23:41:17+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Election update: Oceanside Measure S trails",
-          "link": "https://www.northcoastcurrent.com/election-2026/2026/11/election-update-oceanside-measure-s-trails/",
-          "published": "2026-11-07T23:41:17+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Election update: Flicker, Doyle, Moodie ahead in San Dieguito race",
-      "published": "2026-11-07T23:18:29+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Election update: Flicker, Doyle, Moodie ahead in San Dieguito race",
-          "link": "https://www.northcoastcurrent.com/election-2026/2026/11/election-update-flicker-doyle-moodie-ahead-in-san-dieguito-race/",
-          "published": "2026-11-07T23:18:29+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Election update: Del Mar Union board seat separated by 11 votes",
-      "published": "2026-11-07T22:29:52+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Election update: Del Mar Union board seat separated by 11 votes",
-          "link": "https://www.northcoastcurrent.com/election-2026/2026/11/election-update-del-mar-union-board-seat-separated-by-11-votes/",
-          "published": "2026-11-07T22:29:52+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Election update: Jeffries, Patacsil lead in Palomar College race",
-      "published": "2026-11-07T21:35:42+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Election update: Jeffries, Patacsil lead in Palomar College race",
-          "link": "https://www.northcoastcurrent.com/election-2026/2026/11/election-update-jeffries-patacsil-lead-in-palomar-college-race/",
-          "published": "2026-11-07T21:35:42+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "CUSD honors Reclassified Fluent English Proficient students",
-      "published": "2026-11-07T19:36:44+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "CUSD honors Reclassified Fluent English Proficient students",
-          "link": "https://coronadotimes.com/news/2026/11/07/cusd-honors-reclassified-fluent-english-proficient-students/",
-          "published": "2026-11-07T19:36:44+00:00"
         }
       ]
     }
