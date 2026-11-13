@@ -1,17 +1,329 @@
 {
-  "generated_at": "2026-11-12T21:19:13.172249+00:00",
-  "story_count": 85,
+  "generated_at": "2026-11-13T20:46:10.420015+00:00",
+  "story_count": 95,
   "stories": [
     {
-      "headline": "La Mesa evalúa cambios en el programa de lectores automáticos de placas",
-      "published": "2026-11-12T21:10:20+00:00",
+      "headline": "The Story Behind the Recall Todd Gloria Campaign",
+      "published": "2026-11-13T22:20:16+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "The Story Behind the Recall Todd Gloria Campaign",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwD1UyFpdHL0wci-pKuS9mN?utm_source=follow.it",
+          "published": "2026-11-13T22:20:16+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Is America’s Socialist Movement ‘Back’?",
+      "published": "2026-11-13T22:04:27+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Is America’s Socialist Movement ‘Back’?",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDz0to_kDB1Q0g14dW4RKXCQ?utm_source=follow.it",
+          "published": "2026-11-13T22:04:27+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "The Bay Area Just Rescued Its Public Transit System",
+      "published": "2026-11-13T21:47:09+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "The Bay Area Just Rescued Its Public Transit System",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDylCYN4ghT6bNORkGH5jZGe?utm_source=follow.it",
+          "published": "2026-11-13T21:47:09+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "SOHO’s Penning the Past Roams Historic Highway 80 — Presentation by Historian Chris Wray, Sat., Nov. 14",
+      "published": "2026-11-13T21:29:14+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "SOHO’s Penning the Past Roams Historic Highway 80 — Presentation by Historian Chris Wray, Sat., Nov. 14",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDz1ZRUPSuMwdeOUGFZEdowZ?utm_source=follow.it",
+          "published": "2026-11-13T21:29:14+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Celebrating 100 Years of Highway 80",
+      "published": "2026-11-13T21:23:05+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Celebrating 100 Years of Highway 80",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDz1ZRUPSuMwdQXdm8_Utfka?utm_source=follow.it",
+          "published": "2026-11-13T21:23:05+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Nearly 7 in 10 San Diegans Say the City Is on the Wrong Track",
+      "published": "2026-11-13T21:01:49+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Nearly 7 in 10 San Diegans Say the City Is on the Wrong Track",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDw2LBnXS54wEFL45X0am235?utm_source=follow.it",
+          "published": "2026-11-13T21:01:49+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Point Loma’s Food Basket With Roots in the 1950s Began a Tradition of Having a Neighborhood Grocery in Point Loma",
+      "published": "2026-11-13T20:43:04+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Point Loma’s Food Basket With Roots in the 1950s Began a Tradition of Having a Neighborhood Grocery in Point Loma",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxubFCawZ5YLP_j4jDCNi9Y?utm_source=follow.it",
+          "published": "2026-11-13T20:43:04+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Carlsbad rejects Village housing project despite risk of ‘painful’ consequences",
+      "published": "2026-11-13T18:16:37+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Carlsbad rejects Village housing project despite risk of ‘painful’ consequences",
+          "link": "https://thecoastnews.com/carlsbad-rejects-village-housing-project-despite-risk-of-painful-consequences/",
+          "published": "2026-11-13T18:16:37+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Rise in Local Mpox Cases Prompts Expanded County Outreach",
+      "published": "2026-11-13T16:58:01+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "Rise in Local Mpox Cases Prompts Expanded County Outreach",
+          "link": "https://www.countynewscenter.com/rise-in-local-mpox-cases-prompts-expanded-county-outreach/?utm_source=rss&utm_medium=rss&utm_campaign=rise-in-local-mpox-cases-prompts-expanded-county-outreach",
+          "published": "2026-11-13T16:58:01+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Las reparaciones del alumbrado público en San Diego ahora tardan un promedio de 340 días, según auditoría",
+      "published": "2026-11-13T16:12:03+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "Times of San Diego",
-          "title": "La Mesa evalúa cambios en el programa de lectores automáticos de placas",
-          "link": "https://timesofsandiego.com/community/2026/11/12/la-mesa-evalua-cambios-en-el-programa-de-lectores-automaticos-de-placas/",
-          "published": "2026-11-12T21:10:20+00:00"
+          "title": "Las reparaciones del alumbrado público en San Diego ahora tardan un promedio de 340 días, según auditoría",
+          "link": "https://timesofsandiego.com/community/2026/11/13/las-reparaciones-del-alumbrado-publico-en-san-diego-ahora-tardan-un-promedio-de-340-dias-segun-auditoria/",
+          "published": "2026-11-13T16:12:03+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego alberga a la mitad de los delincuentes sexuales violentos del estado. ¿Existe una mejor manera de alojarlos?",
+      "published": "2026-11-13T16:02:03+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego alberga a la mitad de los delincuentes sexuales violentos del estado. ¿Existe una mejor manera de alojarlos?",
+          "link": "https://timesofsandiego.com/crime/2026/11/13/san-diego-alberga-a-la-mitad-de-los-delincuentes-sexuales-violentos-del-estado-existe-una-mejor-manera-de-alojarlos/",
+          "published": "2026-11-13T16:02:03+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "‘Ronin 3: La batalla por Sangin’ retrata los combates que enfrentaron los Marines de Camp Pendleton en Afganistán, en 2010",
+      "published": "2026-11-13T12:10:44+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "‘Ronin 3: La batalla por Sangin’ retrata los combates que enfrentaron los Marines de Camp Pendleton en Afganistán, en 2010",
+          "link": "https://timesofsandiego.com/arts/2026/11/13/ronin-3-la-batalla-por-sangin-retrata-los-combates-que-enfrentaron-los-marines-de-camp-pendleton-en-afganistan-en-2010/",
+          "published": "2026-11-13T12:10:44+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "When Flock Gets Turned On the Cops",
+      "published": "2026-11-13T10:15:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "When Flock Gets Turned On the Cops",
+          "link": "https://voiceofsandiego.org/2026/11/13/when-flock-gets-turned-on-the-cops/",
+          "published": "2026-11-13T10:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Encinitas Chamber honors high school seniors as Rising Stars",
+      "published": "2026-11-13T02:22:02+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "Encinitas Chamber honors high school seniors as Rising Stars",
+          "link": "https://www.northcoastcurrent.com/campus/2026/11/encinitas-chamber-honors-high-school-seniors-as-rising-stars/",
+          "published": "2026-11-13T02:22:02+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Street Dining Returns to an Urbanizing Chula Vista",
+      "published": "2026-11-13T01:45:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Street Dining Returns to an Urbanizing Chula Vista",
+          "link": "https://voiceofsandiego.org/2026/11/12/street-dining-returns-to-an-urbanizing-chula-vista/",
+          "published": "2026-11-13T01:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego streetlight repairs now take 340 days on average, city audit finds",
+      "published": "2026-11-13T00:52:30+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego streetlight repairs now take 340 days on average, city audit finds",
+          "link": "https://timesofsandiego.com/community/2026/11/12/san-diego-streetlight-repairs-now-take-340-days-on-average-city-audit-finds/",
+          "published": "2026-11-13T00:52:30+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Land Acknowledgement Installation Honors Tribal Nations",
+      "published": "2026-11-13T00:21:51+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "Land Acknowledgement Installation Honors Tribal Nations",
+          "link": "https://www.countynewscenter.com/land-acknowledgement-installation-honors-tribal-nations/?utm_source=rss&utm_medium=rss&utm_campaign=land-acknowledgement-installation-honors-tribal-nations",
+          "published": "2026-11-13T00:21:51+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Peninsula Beacon: November 13, 2026",
+      "published": "2026-11-12T23:30:07+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Peninsula Beacon: November 13, 2026",
+          "link": "https://timesofsandiego.com/print-editions/2026/11/12/peninsula-beacon-november-13-2026/",
+          "published": "2026-11-12T23:30:07+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Mason Miller wins first NL Reliever of the Year Award in a season that tested him off the field",
+      "published": "2026-11-12T23:11:45+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Mason Miller wins first NL Reliever of the Year Award in a season that tested him off the field",
+          "link": "https://timesofsandiego.com/sports/2026/11/12/mason-miller-national-league-reliever-year-award/",
+          "published": "2026-11-12T23:11:45+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Von Wilpert, la nueva representante por San Diego, se une a la nueva generación de congresistas en Washington",
+      "published": "2026-11-12T23:09:45+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Von Wilpert, la nueva representante por San Diego, se une a la nueva generación de congresistas en Washington",
+          "link": "https://timesofsandiego.com/politics/2026/11/12/von-wilpert-la-nueva-representante-por-san-diego-se-une-a-la-nueva-generacion-de-congresistas-en-washington/",
+          "published": "2026-11-12T23:09:45+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Mission Times Courier: November 13, 2026",
+      "published": "2026-11-12T23:07:54+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Mission Times Courier: November 13, 2026",
+          "link": "https://timesofsandiego.com/print-editions/2026/11/12/mission-times-courier-november-11-2026/",
+          "published": "2026-11-12T23:07:54+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Difunden la foto del hombre sospechoso de manosear a una niña de 5 años en Mission Beach",
+      "published": "2026-11-12T22:57:54+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Difunden la foto del hombre sospechoso de manosear a una niña de 5 años en Mission Beach",
+          "link": "https://timesofsandiego.com/crime/2026/11/12/difunden-la-foto-del-hombre-sospechoso-de-manosear-a-una-nina-de-5-anos-en-mission-beach/",
+          "published": "2026-11-12T22:57:54+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego case accusing USAA of overcharging enlisted clients bound for California Supreme Court",
+      "published": "2026-11-12T22:48:38+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego case accusing USAA of overcharging enlisted clients bound for California Supreme Court",
+          "link": "https://timesofsandiego.com/military/2026/11/12/san-diego-lawsuit-usaa-overcharges-california-supreme-court/",
+          "published": "2026-11-12T22:48:38+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Light Rain Forecast Overnight in San Diego County",
+      "published": "2026-11-12T22:25:22+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "Light Rain Forecast Overnight in San Diego County",
+          "link": "https://www.countynewscenter.com/light-rain-forecast-overnight-in-san-diego-county/?utm_source=rss&utm_medium=rss&utm_campaign=light-rain-forecast-overnight-in-san-diego-county",
+          "published": "2026-11-12T22:25:22+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego Police Used Flock to Surveil Officers, Domestic Violence Victim",
+      "published": "2026-11-12T21:49:41+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "San Diego Police Used Flock to Surveil Officers, Domestic Violence Victim",
+          "link": "https://voiceofsandiego.org/2026/11/12/san-diego-police-used-flock-to-surveil-officers-domestic-violence-victim/",
+          "published": "2026-11-12T21:49:41+00:00"
         }
       ]
     },
@@ -29,80 +341,80 @@
       ]
     },
     {
-      "headline": "San Diego Weekend Guide Nov. 13-15: Counting down to Thanksgiving",
-      "published": "2026-11-12T21:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "San Diego Weekend Guide Nov. 13-15: Counting down to Thanksgiving",
-          "link": "https://timesofsandiego.com/san-diego-events/2026/11/12/san-diego-weekend-guide-nov-13-15-counting-down-to-thanksgiving/",
-          "published": "2026-11-12T21:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Police release photo of man suspected of fondling 5-year-old child in Mission Beach",
-      "published": "2026-11-12T20:15:05+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Police release photo of man suspected of fondling 5-year-old child in Mission Beach",
-          "link": "https://timesofsandiego.com/crime/2026/11/12/police-photo-suspect-fondling-child-mission-beach/",
-          "published": "2026-11-12T20:15:05+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Can San Diego County safely house more violent sex offenders?",
-      "published": "2026-11-12T20:05:33+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Can San Diego County safely house more violent sex offenders?",
-          "link": "https://timesofsandiego.com/crime/2026/11/12/can-san-diego-county-safely-house-more-violent-sex-offenders/",
-          "published": "2026-11-12T20:05:33+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "White House to Congressional Dems: ‘Investigate Us, We’ll Prosecute You for Crimes’",
-      "published": "2026-11-12T18:52:14+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "White House to Congressional Dems: ‘Investigate Us, We’ll Prosecute You for Crimes’",
-          "link": "https://obrag.org/2026/11/white-house-to-congressional-dems-investigate-us-were-prosecute-you-for-crimes/",
-          "published": "2026-11-12T18:52:14+00:00"
-        }
-      ]
-    },
-    {
       "headline": "New Head Coach of PLNU Women’s Basketball Team Follows in Grand-Father’s Foot-Steps on the Point",
-      "published": "2026-11-12T18:50:35+00:00",
+      "published": "2026-11-12T20:52:35+02:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
           "title": "New Head Coach of PLNU Women’s Basketball Team Follows in Grand-Father’s Foot-Steps on the Point",
-          "link": "https://obrag.org/2026/11/new-head-coach-of-plnu-womens-basketball-team-follows-in-grand-fathers-foot-steps-on-the-point/",
-          "published": "2026-11-12T18:50:35+00:00"
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDw1QaDcFGDH_imLmjAsogzc?utm_source=follow.it",
+          "published": "2026-11-12T20:52:35+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "White House to Congressional Dems: ‘Investigate Us, We’ll Prosecute You for Crimes’",
+      "published": "2026-11-12T20:32:14+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "White House to Congressional Dems: ‘Investigate Us, We’ll Prosecute You for Crimes’",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDw2soZdgZ3B9JjCAGuT2RmQ?utm_source=follow.it",
+          "published": "2026-11-12T20:32:14+02:00"
         }
       ]
     },
     {
       "headline": "SOHO: ‘We Stopped Prop 45. Now Call Congress to Stop Bill That Will Gut National Historic Preservation Act’",
-      "published": "2026-11-12T18:09:06+00:00",
+      "published": "2026-11-12T20:09:06+02:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
           "title": "SOHO: ‘We Stopped Prop 45. Now Call Congress to Stop Bill That Will Gut National Historic Preservation Act’",
-          "link": "https://obrag.org/2026/11/soho-we-stopped-prop-45-now-call-congress-to-stop-bill-that-will-gut-national-historic-preservation-act/",
-          "published": "2026-11-12T18:09:06+00:00"
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDyu4dLwDDBqNdxvkJwoztQv?utm_source=follow.it",
+          "published": "2026-11-12T20:09:06+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Disabled Vietnam Veteran’s Wife Taken by ICE; Family Appeals for Help",
+      "published": "2026-11-12T19:58:27+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Disabled Vietnam Veteran’s Wife Taken by ICE; Family Appeals for Help",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDyu4dLwDDBqNbENeJA6YRdr?utm_source=follow.it",
+          "published": "2026-11-12T19:58:27+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "We’ve Been Warned: Dire Predictions About Midway Rising",
+      "published": "2026-11-12T18:52:44+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "We’ve Been Warned: Dire Predictions About Midway Rising",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxrYSJXMJnV1LJ1C6BVB_gm?utm_source=follow.it",
+          "published": "2026-11-12T18:52:44+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "Small Work, On Purpose — in ‘Takeover’ at OB’s SHIFT Gallery Through Nov.17",
+      "published": "2026-11-12T18:26:01+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Small Work, On Purpose — in ‘Takeover’ at OB’s SHIFT Gallery Through Nov.17",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDy59hT2lwhTJ0R1Of0-r8cc?utm_source=follow.it",
+          "published": "2026-11-12T18:26:01+02:00"
         }
       ]
     },
@@ -120,19 +432,6 @@
       ]
     },
     {
-      "headline": "Disabled Vietnam Veteran’s Wife Taken by ICE; Family Appeals for Help",
-      "published": "2026-11-12T17:58:27+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Disabled Vietnam Veteran’s Wife Taken by ICE; Family Appeals for Help",
-          "link": "https://obrag.org/2026/11/disabled-vietnam-veterans-wife-taken-by-ice-family-appeals-for-help/",
-          "published": "2026-11-12T17:58:27+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Coronado High student Logan Berk receives Environmental Hero award",
       "published": "2026-11-12T17:10:28+00:00",
       "outlet_count": 1,
@@ -142,19 +441,6 @@
           "title": "Coronado High student Logan Berk receives Environmental Hero award",
           "link": "https://coronadotimes.com/news/2026/11/12/coronado-high-student-logan-berk-receives-environmental-hero-award/",
           "published": "2026-11-12T17:10:28+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Room additions in San Diego: how the process works, from permit to move-in",
-      "published": "2026-11-12T17:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Room additions in San Diego: how the process works, from permit to move-in",
-          "link": "https://timesofsandiego.com/branded-content/2026/11/12/room-additions-in-san-diego-how-the-process-works-from-permit-to-move-in/",
-          "published": "2026-11-12T17:00:00+00:00"
         }
       ]
     },
@@ -172,19 +458,6 @@
       ]
     },
     {
-      "headline": "We’ve Been Warned: Dire Predictions About Midway Rising",
-      "published": "2026-11-12T16:52:44+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "We’ve Been Warned: Dire Predictions About Midway Rising",
-          "link": "https://obrag.org/2026/11/weve-been-warned-dire-predictions-about-midway-rising/",
-          "published": "2026-11-12T16:52:44+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Longshot, favorite shine at Del Mar’s Bing Crosby Meet",
       "published": "2026-11-12T16:43:19+00:00",
       "outlet_count": 1,
@@ -194,19 +467,6 @@
           "title": "Longshot, favorite shine at Del Mar’s Bing Crosby Meet",
           "link": "https://thecoastnews.com/longshot-favorite-shine-at-del-mars-bing-crosby-meet/",
           "published": "2026-11-12T16:43:19+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Small Work, On Purpose — in ‘Takeover’ at OB’s SHIFT Gallery Through Nov.17",
-      "published": "2026-11-12T16:26:01+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Small Work, On Purpose — in ‘Takeover’ at OB’s SHIFT Gallery Through Nov.17",
-          "link": "https://obrag.org/2026/11/small-work-on-purpose-in-takeover-at-obs-shift-gallery-through-nov-17/",
-          "published": "2026-11-12T16:26:01+00:00"
         }
       ]
     },
@@ -393,19 +653,6 @@
       ]
     },
     {
-      "headline": "La congresista Sara Jacobs afirma que es hora de que la mayoría demócrata apruebe el cuidado infantil gratuito universal",
-      "published": "2026-11-12T01:17:25+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "La congresista Sara Jacobs afirma que es hora de que la mayoría demócrata apruebe el cuidado infantil gratuito universal",
-          "link": "https://timesofsandiego.com/politics/2026/11/11/la-congresista-sara-jacobs-afirma-que-es-hora-de-que-la-mayoria-democrata-apruebe-el-cuidado-infantil-gratuito-universal/",
-          "published": "2026-11-12T01:17:25+00:00"
-        }
-      ]
-    },
-    {
       "headline": "La Jolla’s Most ‘Infamous’ House Party Fails the Test of Time",
       "published": "2026-11-12T01:00:18+00:00",
       "outlet_count": 1,
@@ -428,32 +675,6 @@
           "title": "Encinitas adds 5 crosswalks as part of Safe Routes",
           "link": "https://www.northcoastcurrent.com/encinitas-news/2026/11/encinitas-adds-5-crosswalks-as-part-of-safe-routes/",
           "published": "2026-11-12T00:54:44+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Jacobs, in House leadership bid, says it’s time for Democratic majority to pass universal free child care",
-      "published": "2026-11-11T22:51:58+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Jacobs, in House leadership bid, says it’s time for Democratic majority to pass universal free child care",
-          "link": "https://timesofsandiego.com/politics/2026/11/11/jacobs-leadership-caucus-vice-chair-universal-free-child-care/",
-          "published": "2026-11-11T22:51:58+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Los votantes de California rechazan la Proposición 40, que buscaba imponer un impuesto a los multimillonarios",
-      "published": "2026-11-11T22:49:41+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Los votantes de California rechazan la Proposición 40, que buscaba imponer un impuesto a los multimillonarios",
-          "link": "https://timesofsandiego.com/politics/2026/11/11/los-votantes-de-california-rechazan-la-proposicion-40-que-buscaba-imponer-un-impuesto-a-los-multimillonarios/",
-          "published": "2026-11-11T22:49:41+00:00"
         }
       ]
     },
@@ -484,15 +705,41 @@
       ]
     },
     {
-      "headline": "San Diego Thanksgiving Weekend Guide",
-      "published": "2026-11-11T20:24:24+00:00",
+      "headline": "Councilmember Raul Campillo’s Comments on Why He Voted ‘Yes’ to Approve the Midway Rising Project",
+      "published": "2026-11-11T20:01:46+02:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "Times of San Diego",
-          "title": "San Diego Thanksgiving Weekend Guide",
-          "link": "https://timesofsandiego.com/san-diego-events/2026/11/11/san-diego-thanksgiving-weekend-guide/",
-          "published": "2026-11-11T20:24:24+00:00"
+          "source": "OB Rag",
+          "title": "Councilmember Raul Campillo’s Comments on Why He Voted ‘Yes’ to Approve the Midway Rising Project",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwcDt8MfwGEj4WUK23tz2V7?utm_source=follow.it",
+          "published": "2026-11-11T20:01:46+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego Lawmakers Demand Answers About 8 Year Old Immigrant Student Taken into ICE Custody",
+      "published": "2026-11-11T19:53:00+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "San Diego Lawmakers Demand Answers About 8 Year Old Immigrant Student Taken into ICE Custody",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDwcDt8MfwGEj4Hs3l1_N3P3?utm_source=follow.it",
+          "published": "2026-11-11T19:53:00+02:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego Veterans for Peace Set Up ‘Hometown Arlington West Memorial’",
+      "published": "2026-11-11T19:29:53+02:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "San Diego Veterans for Peace Set Up ‘Hometown Arlington West Memorial’",
+          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxsmBdbRfzGjubfkhDygXIg?utm_source=follow.it",
+          "published": "2026-11-11T19:29:53+02:00"
         }
       ]
     },
@@ -532,253 +779,6 @@
           "title": "Coronado Island Film Festival announces 2026 Audience and Jury Award winners",
           "link": "https://coronadotimes.com/news/2026/11/11/coronado-island-film-festival-announces-2026-audience-and-jury-award-winners/",
           "published": "2026-11-11T19:11:26+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Healthy living starts with a doctor you trust",
-      "published": "2026-11-11T19:03:19+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Healthy living starts with a doctor you trust",
-          "link": "https://thecoastnews.com/healthy-living-starts-with-a-doctor-you-trust/",
-          "published": "2026-11-11T19:03:19+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Encinitas Turkey Trot: The family gatherings before the family gathering",
-      "published": "2026-11-11T18:59:26+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Encinitas Turkey Trot: The family gatherings before the family gathering",
-          "link": "https://thecoastnews.com/encinitas-turkey-trot-the-family-gathering-before-the-family-gathering/",
-          "published": "2026-11-11T18:59:26+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Saddle up for horse show, hoedown at TERI Campus of Life",
-      "published": "2026-11-11T18:57:48+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Saddle up for horse show, hoedown at TERI Campus of Life",
-          "link": "https://thecoastnews.com/saddle-up-for-horse-show-hoedown-at-teri-campus-of-life/",
-          "published": "2026-11-11T18:57:48+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "New holiday tradition coming to Encinitas",
-      "published": "2026-11-11T18:50:09+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "New holiday tradition coming to Encinitas",
-          "link": "https://thecoastnews.com/new-holiday-tradition-coming-to-encinitas/",
-          "published": "2026-11-11T18:50:09+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Cartoon: Scott Chambers",
-      "published": "2026-11-11T18:49:06+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Cartoon: Scott Chambers",
-          "link": "https://thecoastnews.com/cartoon-scott-chambers-336/",
-          "published": "2026-11-11T18:49:06+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Councilmember Raul Campillo’s Comments on Why He Voted ‘Yes’ to Approve the Midway Rising Project",
-      "published": "2026-11-11T18:01:46+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Councilmember Raul Campillo’s Comments on Why He Voted ‘Yes’ to Approve the Midway Rising Project",
-          "link": "https://obrag.org/2026/11/councilmember-raul-campillos-comments-on-why-he-voted-yes-to-approve-the-midway-rising-project/",
-          "published": "2026-11-11T18:01:46+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "‘Super tough’ Santa Fe Christian aims to quiet doubts about spot in Open Division semifinals",
-      "published": "2026-11-11T18:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "‘Super tough’ Santa Fe Christian aims to quiet doubts about spot in Open Division semifinals",
-          "link": "https://timesofsandiego.com/sports/2026/11/11/santa-fe-christian-san-diego-open-division-semifinals/",
-          "published": "2026-11-11T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diego Lawmakers Demand Answers About 8 Year Old Immigrant Student Taken into ICE Custody",
-      "published": "2026-11-11T17:53:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "San Diego Lawmakers Demand Answers About 8 Year Old Immigrant Student Taken into ICE Custody",
-          "link": "https://obrag.org/2026/11/san-diego-lawmakers-demand-answers-about-8-year-old-immigrant-student-taken-into-ice-custody/",
-          "published": "2026-11-11T17:53:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diego Veterans for Peace Set Up ‘Hometown Arlington West Memorial’",
-      "published": "2026-11-11T17:29:53+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "San Diego Veterans for Peace Set Up ‘Hometown Arlington West Memorial’",
-          "link": "https://obrag.org/2026/11/san-diego-veterans-for-peace-set-up-hometown-arlington-west-memorial/",
-          "published": "2026-11-11T17:29:53+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "From the cockpit to canvas: Matt DeGree’s art takes flight",
-      "published": "2026-11-11T17:17:45+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "From the cockpit to canvas: Matt DeGree’s art takes flight",
-          "link": "https://coronadotimes.com/news/2026/11/11/from-the-cockpit-to-canvas-matt-degrees-art-takes-flight/",
-          "published": "2026-11-11T17:17:45+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Holiday letter-writing campaign for USS Theodore Roosevelt",
-      "published": "2026-11-11T16:30:18+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Holiday letter-writing campaign for USS Theodore Roosevelt",
-          "link": "https://coronadotimes.com/news/2026/11/11/holiday-letter-writing-campaign-for-uss-theodore-roosevelt/",
-          "published": "2026-11-11T16:30:18+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Concerns Mount Over 8-Year-Old Haitian Taken by ICE",
-      "published": "2026-11-11T10:15:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Concerns Mount Over 8-Year-Old Haitian Taken by ICE",
-          "link": "https://voiceofsandiego.org/2026/11/11/concerns-mount-over-8-year-old-haitian-taken-by-ice/",
-          "published": "2026-11-11T10:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Trains begin crossing new Batiquitos rail bridge",
-      "published": "2026-11-11T01:22:14+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Trains begin crossing new Batiquitos rail bridge",
-          "link": "https://www.northcoastcurrent.com/carlsbad-news/2026/11/trains-begin-crossing-new-batiquitos-rail-bridge/",
-          "published": "2026-11-11T01:22:14+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Op-ed: When local government adopts AI, who is accountable?",
-      "published": "2026-11-11T00:49:11+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Op-ed: When local government adopts AI, who is accountable?",
-          "link": "https://thecoastnews.com/op-ed-when-local-government-adopts-ai-who-is-accountable/",
-          "published": "2026-11-11T00:49:11+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Affordable Homes and Veteran Housing Open in National City",
-      "published": "2026-11-11T00:18:08+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "Affordable Homes and Veteran Housing Open in National City",
-          "link": "https://www.countynewscenter.com/affordable-homes-and-veteran-housing-open-in-national-city/?utm_source=rss&utm_medium=rss&utm_campaign=affordable-homes-and-veteran-housing-open-in-national-city",
-          "published": "2026-11-11T00:18:08+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "‘More than skateboarding’: Exposure celebrates women’s skate culture",
-      "published": "2026-11-11T00:00:40+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "‘More than skateboarding’: Exposure celebrates women’s skate culture",
-          "link": "https://thecoastnews.com/more-than-skateboarding-exposure-celebrates-womens-skate-culture/",
-          "published": "2026-11-11T00:00:40+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Residents sound alarm over Lake Hodges spillway plan",
-      "published": "2026-11-10T22:24:44+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Residents sound alarm over Lake Hodges spillway plan",
-          "link": "https://thecoastnews.com/residents-sound-alarm-over-lake-hodges-spillway-plan/",
-          "published": "2026-11-10T22:24:44+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "16th Annual Take a Veteran to School Day honors veterans at Coronado Middle School",
-      "published": "2026-11-10T21:00:59+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "16th Annual Take a Veteran to School Day honors veterans at Coronado Middle School",
-          "link": "https://coronadotimes.com/news/2026/11/10/16th-annual-take-a-veteran-to-school-day-honors-veterans-at-coronado-middle-school/",
-          "published": "2026-11-10T21:00:59+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "YIMBY Democrats Push City to Build 23-Story ‘Tower’ in Pacific Beach",
-      "published": "2026-11-10T19:21:15+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "YIMBY Democrats Push City to Build 23-Story ‘Tower’ in Pacific Beach",
-          "link": "https://obrag.org/2026/11/yimby-democrats-push-city-to-build-23-story-tower-in-pacific-beach/",
-          "published": "2026-11-10T19:21:15+00:00"
         }
       ]
     }
