@@ -1,7 +1,553 @@
 {
-  "generated_at": "2026-11-16T23:13:25.645611+00:00",
-  "story_count": 82,
+  "generated_at": "2026-11-17T22:02:19.672819+00:00",
+  "story_count": 85,
   "stories": [
+    {
+      "headline": "San Marcos planners back 147-unit Ascend project",
+      "published": "2026-11-17T21:39:57+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "San Marcos planners back 147-unit Ascend project",
+          "link": "https://thecoastnews.com/san-marcos-planners-back-147-unit-ascend-project/",
+          "published": "2026-11-17T21:39:57+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Encore Sushi brings a fresh setlist to Cedros",
+      "published": "2026-11-17T20:43:06+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Encore Sushi brings a fresh setlist to Cedros",
+          "link": "https://thecoastnews.com/encore-sushi-brings-a-fresh-setlist-to-cedros/",
+          "published": "2026-11-17T20:43:06+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Ask Rexy: When classmates test your patience",
+      "published": "2026-11-17T20:24:44+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Ask Rexy: When classmates test your patience",
+          "link": "https://thecoastnews.com/ask-rexy-when-classmates-test-your-patience/",
+          "published": "2026-11-17T20:24:44+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "After midseason forfeit, La Jolla Country Day rallies to reach Div. V quarterfinals",
+      "published": "2026-11-17T19:59:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "After midseason forfeit, La Jolla Country Day rallies to reach Div. V quarterfinals",
+          "link": "https://timesofsandiego.com/sports/2026/11/17/after-midseason-forfeit-la-jolla-country-day-rallies-to-reach-div-v-quarterfinals/",
+          "published": "2026-11-17T19:59:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Partners Team for Community Open House on Tijuana River Valley Crisis",
+      "published": "2026-11-17T19:57:41+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "Partners Team for Community Open House on Tijuana River Valley Crisis",
+          "link": "https://www.countynewscenter.com/partners-team-for-community-open-house-on-tijuana-river-valley-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=partners-team-for-community-open-house-on-tijuana-river-valley-crisis",
+          "published": "2026-11-17T19:57:41+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "What’s Going to Happen to Kobey’s Swap Meet Now That Midway Rising Has Been Approved?",
+      "published": "2026-11-17T19:54:12+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "What’s Going to Happen to Kobey’s Swap Meet Now That Midway Rising Has Been Approved?",
+          "link": "https://obrag.org/2026/11/whats-going-to-happen-to-kobeys-swap-meet-now-that-midway-rising-has-been-approved/",
+          "published": "2026-11-17T19:54:12+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Voltaire Laundrymat to Close to Make Way for 4 ADUs",
+      "published": "2026-11-17T19:28:29+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Voltaire Laundrymat to Close to Make Way for 4 ADUs",
+          "link": "https://obrag.org/2026/11/voltaire-laundrymat-to-close-to-make-way-for-4-adus/",
+          "published": "2026-11-17T19:28:29+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Bridgeworthy: Two million pounds of ice holiday magic in A Charlie Brown Christmas at Gaylord Pacific Resort",
+      "published": "2026-11-17T19:24:56+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Bridgeworthy: Two million pounds of ice holiday magic in A Charlie Brown Christmas at Gaylord Pacific Resort",
+          "link": "https://coronadotimes.com/news/2026/11/17/bridgeworthy-two-million-pounds-of-ice-holiday-magic-in-a-charlie-brown-christmas-at-gaylord-pacific-resort/",
+          "published": "2026-11-17T19:24:56+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "State of the County Highlights Progress in Healthcare Access, Consumer Rights and Tijuana River Valley Crisis",
+      "published": "2026-11-17T19:21:25+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "State of the County Highlights Progress in Healthcare Access, Consumer Rights and Tijuana River Valley Crisis",
+          "link": "https://www.countynewscenter.com/state-of-the-county-highlights-progress-in-healthcare-access-consumer-rights-and-tijuana-river-valley-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=state-of-the-county-highlights-progress-in-healthcare-access-consumer-rights-and-tijuana-river-valley-crisis",
+          "published": "2026-11-17T19:21:25+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Del Mar advances low-income housing plans at City Hall site",
+      "published": "2026-11-17T19:15:28+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Del Mar advances low-income housing plans at City Hall site",
+          "link": "https://thecoastnews.com/del-mar-advances-low-income-housing-plans-at-city-hall-site/",
+          "published": "2026-11-17T19:15:28+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Sure Fire Soul Ensemble, The Amalgamated and spot-on Russian tribute band – Live music this week",
+      "published": "2026-11-17T19:10:05+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Sure Fire Soul Ensemble, The Amalgamated and spot-on Russian tribute band – Live music this week",
+          "link": "https://timesofsandiego.com/arts/2026/11/17/sure-fire-soul-ensemble-the-amalgamated-and-spot-on-russian-tribute-band-live-music-this-week/",
+          "published": "2026-11-17T19:10:05+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Playoff roundup: Torrey Pines ousts top seed; Oceanside rolls into semifinals",
+      "published": "2026-11-17T18:53:37+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Playoff roundup: Torrey Pines ousts top seed; Oceanside rolls into semifinals",
+          "link": "https://thecoastnews.com/playoff-roundup-torrey-pines-ousts-top-seed-oceanside-rolls-into-semifinals/",
+          "published": "2026-11-17T18:53:37+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Dons shut down Mission Hills, advance to Open Division final",
+      "published": "2026-11-17T18:38:23+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Dons shut down Mission Hills, advance to Open Division final",
+          "link": "https://thecoastnews.com/dons-shut-down-mission-hills-advance-to-open-division-final/",
+          "published": "2026-11-17T18:38:23+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego economy outpaces rest of Southern California while analysts predict moderate growth for 2027",
+      "published": "2026-11-17T18:28:10+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego economy outpaces rest of Southern California while analysts predict moderate growth for 2027",
+          "link": "https://timesofsandiego.com/business/2026/11/17/san-diego-economy-outpaces-rest-of-southern-california-while-analysts-predict-moderate-growth-for-2027/",
+          "published": "2026-11-17T18:28:10+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego Just Became the Largest City in America to Shut Down its Flock Network",
+      "published": "2026-11-17T18:21:40+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "San Diego Just Became the Largest City in America to Shut Down its Flock Network",
+          "link": "https://obrag.org/2026/11/san-diego-just-became-the-largest-city-in-america-to-shut-down-its-flock-network/",
+          "published": "2026-11-17T18:21:40+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Opinion: Law enforcement cameras track where you drive. Who keeps track of why?",
+      "published": "2026-11-17T18:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Opinion: Law enforcement cameras track where you drive. Who keeps track of why?",
+          "link": "https://timesofsandiego.com/opinion/2026/11/17/automated-license-plate-cameras-police-law-transparency/",
+          "published": "2026-11-17T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Carlsbad survives Santa Fe Christian’s upset bid in 21-13 semifinal win",
+      "published": "2026-11-17T17:52:09+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Carlsbad survives Santa Fe Christian’s upset bid in 21-13 semifinal win",
+          "link": "https://thecoastnews.com/carlsbad-survives-santa-fe-christians-upset-bid-in-21-13-semifinal-win/",
+          "published": "2026-11-17T17:52:09+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Letter: Peace cannot mean abandoning Ukrainians under occupation",
+      "published": "2026-11-17T17:50:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Letter: Peace cannot mean abandoning Ukrainians under occupation",
+          "link": "https://timesofsandiego.com/opinion/2026/11/17/letter-peace-ukrainians-occupation/",
+          "published": "2026-11-17T17:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "The Latest Update on the Future of Skateworld in Linda Vista",
+      "published": "2026-11-17T17:43:23+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "The Latest Update on the Future of Skateworld in Linda Vista",
+          "link": "https://obrag.org/2026/11/the-latest-update-on-the-future-of-skateworld-in-linda-vista/",
+          "published": "2026-11-17T17:43:23+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego desactiva todas las cámaras lectoras de placas y del alumbrado público en un desafío al contrato con Flock Safety",
+      "published": "2026-11-17T17:40:20+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego desactiva todas las cámaras lectoras de placas y del alumbrado público en un desafío al contrato con Flock Safety",
+          "link": "https://timesofsandiego.com/community/2026/11/17/desactivan-camaras-lectoras-matriculas-flock-san-diego/",
+          "published": "2026-11-17T17:40:20+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "OB Historical Society presents: ‘Bound to Die’ : A New True Crime Book by Richard Carrico — Thursday, Nov. 19th",
+      "published": "2026-11-17T17:13:32+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "OB Historical Society presents: ‘Bound to Die’ : A New True Crime Book by Richard Carrico — Thursday, Nov. 19th",
+          "link": "https://obrag.org/2026/11/ob-historical-society-presents-bound-to-die-a-new-true-crime-book-by-richard-carrico-thursday-nov-19th/",
+          "published": "2026-11-17T17:13:32+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Rising federal loan bills under new Trump rules put financial squeeze on California students",
+      "published": "2026-11-17T17:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Rising federal loan bills under new Trump rules put financial squeeze on California students",
+          "link": "https://timesofsandiego.com/education/2026/11/17/rising-federal-loan-bills-under-new-trump-rules-put-financial-squeeze-on-california-students/",
+          "published": "2026-11-17T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Encinitas Ranch weathers ‘perfect storm’ of turf woes",
+      "published": "2026-11-17T16:48:30+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Encinitas Ranch weathers ‘perfect storm’ of turf woes",
+          "link": "https://thecoastnews.com/encinitas-ranch-weathers-perfect-storm-of-turf-woes/",
+          "published": "2026-11-17T16:48:30+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Tax the rich — sometimes California voters sent mixed signals with ballot measures",
+      "published": "2026-11-17T16:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Tax the rich — sometimes California voters sent mixed signals with ballot measures",
+          "link": "https://timesofsandiego.com/politics/2026/11/17/tax-the-rich-sometimes-california-voters-sent-mixed-signals-with-ballot-measures/",
+          "published": "2026-11-17T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Summer in November?",
+      "published": "2026-11-17T15:45:13+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Summer in November?",
+          "link": "https://obrag.org/2026/11/summer-in-november/",
+          "published": "2026-11-17T15:45:13+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Border Sewage Plant Needs Way More Money",
+      "published": "2026-11-17T10:15:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Border Sewage Plant Needs Way More Money",
+          "link": "https://voiceofsandiego.org/2026/11/17/border-sewage-plant-needs-way-more-money/",
+          "published": "2026-11-17T10:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego City Council Cans Surveillance Cams",
+      "published": "2026-11-17T06:03:27+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "San Diego City Council Cans Surveillance Cams",
+          "link": "https://voiceofsandiego.org/2026/11/16/san-diego-city-council-cans-surveillance-cams/",
+          "published": "2026-11-17T06:03:27+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego shuts off all ALPR, Smart Streetlight cameras in challenge to Flock contract",
+      "published": "2026-11-17T05:15:47+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego shuts off all ALPR, Smart Streetlight cameras in challenge to Flock contract",
+          "link": "https://timesofsandiego.com/politics/2026/11/16/san-diego-alpr-smart-streetlights-cameras-flock/",
+          "published": "2026-11-17T05:15:47+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Business briefs: Holiday golf carts, fall ferry photo op, Thanksgiving at The Del, Marriott Coastal Christmas Cottage",
+      "published": "2026-11-17T04:55:30+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Business briefs: Holiday golf carts, fall ferry photo op, Thanksgiving at The Del, Marriott Coastal Christmas Cottage",
+          "link": "https://coronadotimes.com/news/2026/11/16/business-briefs-holiday-golf-carts-fall-ferry-photo-op-thanksgiving-at-the-del-marriott-coastal-christmas-cottage/",
+          "published": "2026-11-17T04:55:30+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Second Annual Uptown Coronado Walkabout – This Saturday",
+      "published": "2026-11-17T03:34:33+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Second Annual Uptown Coronado Walkabout – This Saturday",
+          "link": "https://coronadotimes.com/news/2026/11/16/coronados-second-annual-uptown-walkabout-this-saturday/",
+          "published": "2026-11-17T03:34:33+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Coronado Soroptimists support Rotary Club of Coronado Binacional clean water projects",
+      "published": "2026-11-17T03:11:19+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Coronado Soroptimists support Rotary Club of Coronado Binacional clean water projects",
+          "link": "https://coronadotimes.com/news/2026/11/16/coronado-soroptimists-support-rotary-club-of-coronado-binacional-clean-water-projects/",
+          "published": "2026-11-17T03:11:19+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "United Through Reading Annual Storybook Soiree raises $161,000 for military families",
+      "published": "2026-11-17T02:23:48+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "United Through Reading Annual Storybook Soiree raises $161,000 for military families",
+          "link": "https://coronadotimes.com/news/2026/11/16/united-through-reading-annual-storybook-soiree-raises-161000-for-military-families/",
+          "published": "2026-11-17T02:23:48+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "TERI launches Equine Experience for team and leadership development",
+      "published": "2026-11-17T02:07:32+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "TERI launches Equine Experience for team and leadership development",
+          "link": "https://www.northcoastcurrent.com/north-coast-life/2026/11/teri-launches-equine-experience-for-team-and-leadership-development/",
+          "published": "2026-11-17T02:07:32+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "A story that came full circle: My experience filming PAWS of Coronado",
+      "published": "2026-11-17T01:54:20+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "A story that came full circle: My experience filming PAWS of Coronado",
+          "link": "https://coronadotimes.com/news/2026/11/16/a-story-that-came-full-circle-my-experience-filming-paws-of-coronado/",
+          "published": "2026-11-17T01:54:20+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Oceanside Library friends host Craft & Book Sale and Silent Auction",
+      "published": "2026-11-17T01:40:48+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "Oceanside Library friends host Craft & Book Sale and Silent Auction",
+          "link": "https://www.northcoastcurrent.com/in-the-spirit/2026/11/oceanside-library-friends-host-craft-book-sale-and-silent-auction/",
+          "published": "2026-11-17T01:40:48+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "StandUp For Kids Oceanside seeks donations through Dec. 5",
+      "published": "2026-11-17T01:24:10+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "North Coast Current",
+          "title": "StandUp For Kids Oceanside seeks donations through Dec. 5",
+          "link": "https://www.northcoastcurrent.com/in-the-spirit/2026/11/standup-for-kids-oceanside-seeks-donations-through-dec-5/",
+          "published": "2026-11-17T01:24:10+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "How Immigration Enforcement Activity Is Affecting Students in Oceanside",
+      "published": "2026-11-17T01:13:56+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "How Immigration Enforcement Activity Is Affecting Students in Oceanside",
+          "link": "https://voiceofsandiego.org/2026/11/16/how-immigration-enforcement-activity-is-affecting-students-in-oceanside/",
+          "published": "2026-11-17T01:13:56+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego Unified proposes district-issued permits for e-bikes",
+      "published": "2026-11-17T00:53:59+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego Unified proposes district-issued permits for e-bikes",
+          "link": "https://timesofsandiego.com/education/2026/11/16/san-diego-unified-proposes-district-issued-permits-for-e-bikes/",
+          "published": "2026-11-17T00:53:59+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Coronado schools unveil new requirements for e-bikes",
+      "published": "2026-11-17T00:22:50+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Coronado schools unveil new requirements for e-bikes",
+          "link": "https://coronadotimes.com/news/2026/11/16/coronado-schools-unveil-new-requirements-for-e-bikes/",
+          "published": "2026-11-17T00:22:50+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Army-Navy’s football future takes shape in a season of firsts",
+      "published": "2026-11-17T00:04:07+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Army-Navy’s football future takes shape in a season of firsts",
+          "link": "https://thecoastnews.com/army-navys-football-future-takes-shape-in-a-season-of-firsts/",
+          "published": "2026-11-17T00:04:07+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Del Mar council declines to meet with fair board over probe request",
+      "published": "2026-11-16T23:46:20+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Del Mar council declines to meet with fair board over probe request",
+          "link": "https://thecoastnews.com/del-mar-council-declines-to-meet-with-fair-board-over-probe-request/",
+          "published": "2026-11-16T23:46:20+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "County Expands Access to Board Meetings With New Language and Participation Tools",
+      "published": "2026-11-16T23:41:11+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "County Expands Access to Board Meetings With New Language and Participation Tools",
+          "link": "https://www.countynewscenter.com/county-expands-access-to-board-meetings-with-new-language-and-participation-tools/?utm_source=rss&utm_medium=rss&utm_campaign=county-expands-access-to-board-meetings-with-new-language-and-participation-tools",
+          "published": "2026-11-16T23:41:11+00:00"
+        }
+      ]
+    },
     {
       "headline": "Who’s News: 11/20/26",
       "published": "2026-11-16T22:52:35+00:00",
@@ -16,58 +562,6 @@
       ]
     },
     {
-      "headline": "Mission Bay boys water polo wins CIF Div. II championship",
-      "published": "2026-11-16T22:15:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Mission Bay boys water polo wins CIF Div. II championship",
-          "link": "https://timesofsandiego.com/sports/2026/11/16/mission-bay-boys-water-polo-wins-cif-div-ii-championship/",
-          "published": "2026-11-16T22:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Supreme Court rejects Trump’s effort to impose DEI policies on UC researchers",
-      "published": "2026-11-16T22:05:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Supreme Court rejects Trump’s effort to impose DEI policies on UC researchers",
-          "link": "https://timesofsandiego.com/education/2026/11/16/supreme-court-rejects-trumps-effort-to-impose-dei-policies-on-uc-researchers/",
-          "published": "2026-11-16T22:05:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "USS Theodore Roosevelt arrives in Middle East, again giving the US three aircraft carriers in region",
-      "published": "2026-11-16T21:40:07+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "USS Theodore Roosevelt arrives in Middle East, again giving the US three aircraft carriers in region",
-          "link": "https://timesofsandiego.com/military/2026/11/16/uss-theodore-roosevelt-middle-east-iran/",
-          "published": "2026-11-16T21:40:07+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Late punt return propels Mission Bay over Bishop’s in quarterfinals",
-      "published": "2026-11-16T20:34:30+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Late punt return propels Mission Bay over Bishop’s in quarterfinals",
-          "link": "https://timesofsandiego.com/sports/2026/11/16/late-punt-return-propels-mission-bay-over-bishops-in-quarterfinals/",
-          "published": "2026-11-16T20:34:30+00:00"
-        }
-      ]
-    },
-    {
       "headline": "San Marcos approves 257-home Oakcrest development",
       "published": "2026-11-16T20:27:08+00:00",
       "outlet_count": 1,
@@ -77,58 +571,6 @@
           "title": "San Marcos approves 257-home Oakcrest development",
           "link": "https://thecoastnews.com/san-marcos-approves-257-home-oakcrest-development/",
           "published": "2026-11-16T20:27:08+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Customers at major banks experience online disruptions as JP Morgan Chase addresses ‘software bug’",
-      "published": "2026-11-16T20:25:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Customers at major banks experience online disruptions as JP Morgan Chase addresses ‘software bug’",
-          "link": "https://timesofsandiego.com/business/2026/11/16/major-banks-chase-wells-fargo-disruptions-online-services/",
-          "published": "2026-11-16T20:25:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Pointers football defeats Mater Dei, will meet top-seeded Poway",
-      "published": "2026-11-16T20:08:12+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Pointers football defeats Mater Dei, will meet top-seeded Poway",
-          "link": "https://timesofsandiego.com/sports/2026/11/16/pointers-football-team-defeats-mater-dei-will-meet-top-seeded-poway/",
-          "published": "2026-11-16T20:08:12+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Un elefante del zoológico de San Diego muere a  de una enfermedad de rápida progresión y ahora su medio hermano está enfermo",
-      "published": "2026-11-16T19:59:58+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Un elefante del zoológico de San Diego muere a  de una enfermedad de rápida progresión y ahora su medio hermano está enfermo",
-          "link": "https://timesofsandiego.com/community/2026/11/16/elefante-enfermedad-san-diego-zoologico-muerte-hermano/",
-          "published": "2026-11-16T19:59:58+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Torrey Pines stuns Helix with last second score in Div. 1 quarterfinals",
-      "published": "2026-11-16T19:55:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Torrey Pines stuns Helix with last second score in Div. 1 quarterfinals",
-          "link": "https://timesofsandiego.com/sports/2026/11/16/torrey-pines-stuns-helix-with-last-second-score-in-div-1-quarterfinals/",
-          "published": "2026-11-16T19:55:00+00:00"
         }
       ]
     },
@@ -185,19 +627,6 @@
       ]
     },
     {
-      "headline": "California officials face growing problem of homeless seniors",
-      "published": "2026-11-16T18:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "California officials face growing problem of homeless seniors",
-          "link": "https://timesofsandiego.com/housing/2026/11/16/california-officials-face-growing-problem-of-homeless-seniors/",
-          "published": "2026-11-16T18:00:00+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Customer complaints are business opportunities",
       "published": "2026-11-16T17:56:34+00:00",
       "outlet_count": 1,
@@ -250,45 +679,6 @@
       ]
     },
     {
-      "headline": "Encinitas commission urges limits on offshore drilling",
-      "published": "2026-11-16T16:53:21+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Encinitas commission urges limits on offshore drilling",
-          "link": "https://thecoastnews.com/encinitas-commission-urges-limits-on-offshore-drilling/",
-          "published": "2026-11-16T16:53:21+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Community Coalition Bulletin: This Week at City Hall Nov. 16–20",
-      "published": "2026-11-16T16:22:35+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Community Coalition Bulletin: This Week at City Hall Nov. 16–20",
-          "link": "https://obrag.org/2026/11/community-coalition-bulletin-this-week-at-city-hall-nov-16-20/",
-          "published": "2026-11-16T16:22:35+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Mayor Gloria Keeps Ignoring Critics and Rewarding Failure",
-      "published": "2026-11-16T16:02:25+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Mayor Gloria Keeps Ignoring Critics and Rewarding Failure",
-          "link": "https://obrag.org/2026/11/mayor-gloria-keeps-ignoring-critics-and-rewarding-failure/",
-          "published": "2026-11-16T16:02:25+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Help turn holiday wishes into reality for local military kids",
       "published": "2026-11-16T16:00:40+00:00",
       "outlet_count": 1,
@@ -302,15 +692,15 @@
       ]
     },
     {
-      "headline": "Trump administration reiterates it won’t enforce English learner guidance",
-      "published": "2026-11-16T16:00:00+00:00",
+      "headline": "Coronado ocean water and air quality report – Nov. 5-11, 2026",
+      "published": "2026-11-16T15:45:31+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "Times of San Diego",
-          "title": "Trump administration reiterates it won’t enforce English learner guidance",
-          "link": "https://timesofsandiego.com/education/2026/11/16/trump-administration-reiterates-it-wont-enforce-english-learner-guidance/",
-          "published": "2026-11-16T16:00:00+00:00"
+          "source": "Coronado Times",
+          "title": "Coronado ocean water and air quality report – Nov. 5-11, 2026",
+          "link": "https://coronadotimes.com/news/2026/11/16/coronado-ocean-water-and-air-quality-report-nov-5-11-2026/",
+          "published": "2026-11-16T15:45:31+00:00"
         }
       ]
     },
@@ -337,19 +727,6 @@
           "title": "Gloria Won’t Veto Flock Contract Cancellation",
           "link": "https://voiceofsandiego.org/2026/11/16/trumps-tijuana-river-solution-is-already-underfunded/",
           "published": "2026-11-16T10:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Guests get into character at Friends of the Coronado Library Murder Mystery Night",
-      "published": "2026-11-15T21:20:35+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Guests get into character at Friends of the Coronado Library Murder Mystery Night",
-          "link": "https://coronadotimes.com/news/2026/11/15/guests-get-into-character-at-friends-of-the-coronado-library-murder-mystery-night/",
-          "published": "2026-11-15T21:20:35+00:00"
         }
       ]
     },
@@ -402,383 +779,6 @@
           "title": "Oceanside church to mark Thanksgiving with worship, community meal in Carlsbad",
           "link": "https://www.northcoastcurrent.com/in-the-spirit/2026/11/oceanside-church-to-mark-thanksgiving-with-worship-community-meal-in-carlsbad/",
           "published": "2026-11-14T02:03:31+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Fitness fundraiser raises record $250K for Challenged Athletes Foundation",
-      "published": "2026-11-14T02:02:28+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Fitness fundraiser raises record $250K for Challenged Athletes Foundation",
-          "link": "https://www.northcoastcurrent.com/in-the-spirit/2026/11/fitness-fundraiser-raises-record-250k-for-challenged-athletes-foundation/",
-          "published": "2026-11-14T02:02:28+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Dem Sweep: San Diego’s Statehouse Delegation is Bluer Than Ever",
-      "published": "2026-11-14T01:41:04+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Dem Sweep: San Diego’s Statehouse Delegation is Bluer Than Ever",
-          "link": "https://voiceofsandiego.org/2026/11/13/dem-sweep-san-diegos-statehouse-delegation-is-bluer-than-ever/",
-          "published": "2026-11-14T01:41:04+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "CHA Wine & Lecture invites community to explore “The Frog War”: The Railroad Battle That Opened Southern California",
-      "published": "2026-11-14T01:09:40+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "CHA Wine & Lecture invites community to explore “The Frog War”: The Railroad Battle That Opened Southern California",
-          "link": "https://coronadotimes.com/news/2026/11/13/cha-wine-lecture-invites-community-to-explore-the-frog-war-the-railroad-battle-that-opened-southern-california/",
-          "published": "2026-11-14T01:09:40+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "La Costa Canyon student helps peers connect through adaptive dance",
-      "published": "2026-11-14T00:58:51+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "La Costa Canyon student helps peers connect through adaptive dance",
-          "link": "https://thecoastnews.com/la-costa-canyon-student-helps-peers-connect-through-adaptive-dance/",
-          "published": "2026-11-14T00:58:51+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Best Buddies build friendships at Olivenhain farm",
-      "published": "2026-11-14T00:39:50+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Best Buddies build friendships at Olivenhain farm",
-          "link": "https://thecoastnews.com/best-buddies-build-friendships-at-olivenhain-farm/",
-          "published": "2026-11-14T00:39:50+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Carlsbad welcomes Main Street leaders from across California",
-      "published": "2026-11-14T00:27:14+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Carlsbad welcomes Main Street leaders from across California",
-          "link": "https://thecoastnews.com/carlsbad-welcomes-main-street-leaders-from-across-california/",
-          "published": "2026-11-14T00:27:14+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Encinitas florist told to leave after 36 years on Saxony Road",
-      "published": "2026-11-13T22:38:52+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Encinitas florist told to leave after 36 years on Saxony Road",
-          "link": "https://thecoastnews.com/encinitas-florist-faces-uncertain-future-after-36-years-on-saxony-road/",
-          "published": "2026-11-13T22:38:52+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "VOSD Podcast: Terra Lawson-Remer Brings Us a Surf Board",
-      "published": "2026-11-13T22:36:16+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "VOSD Podcast: Terra Lawson-Remer Brings Us a Surf Board",
-          "link": "https://voiceofsandiego.org/2026/11/13/vosd-podcast-terra-lawson-remer-brings-us-a-surf-board/",
-          "published": "2026-11-13T22:36:16+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Upcoming Events for Ocean Beach and Point Loma",
-      "published": "2026-11-13T21:16:01+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Upcoming Events for Ocean Beach and Point Loma",
-          "link": "https://obrag.org/2026/11/upcoming-events-for-ocean-beach-and-point-loma/",
-          "published": "2026-11-13T21:16:01+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Vista’s Guadalupe Tap House to close by end of month",
-      "published": "2026-11-13T20:48:39+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Vista’s Guadalupe Tap House to close by end of month",
-          "link": "https://thecoastnews.com/vistas-guadalupe-tap-house-to-close-by-end-of-month/",
-          "published": "2026-11-13T20:48:39+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Shipbuilders Reach Milestone in Recreating ‘The Pilgrim’ — The Ship Made Famous by Richard Henry Dana",
-      "published": "2026-11-13T20:40:51+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Shipbuilders Reach Milestone in Recreating ‘The Pilgrim’ — The Ship Made Famous by Richard Henry Dana",
-          "link": "https://obrag.org/2026/11/shipbuilders-reach-milestone-in-recreating-the-pilgrim-the-ship-made-famous-by-richard-henry-dana/",
-          "published": "2026-11-13T20:40:51+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "The Story Behind the Recall Todd Gloria Campaign",
-      "published": "2026-11-13T20:20:16+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "The Story Behind the Recall Todd Gloria Campaign",
-          "link": "https://obrag.org/2026/11/the-story-behind-the-recall-todd-gloria-campaign/",
-          "published": "2026-11-13T20:20:16+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Is America’s Socialist Movement ‘Back’?",
-      "published": "2026-11-13T20:04:27+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Is America’s Socialist Movement ‘Back’?",
-          "link": "https://obrag.org/2026/11/is-americas-socialist-movement-back/",
-          "published": "2026-11-13T20:04:27+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Carlsbad rejects Village housing project despite risk of ‘painful’ consequences",
-      "published": "2026-11-13T18:16:37+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Carlsbad rejects Village housing project despite risk of ‘painful’ consequences",
-          "link": "https://thecoastnews.com/carlsbad-rejects-village-housing-project-despite-risk-of-painful-consequences/",
-          "published": "2026-11-13T18:16:37+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Rise in Local Mpox Cases Prompts Expanded County Outreach",
-      "published": "2026-11-13T16:58:01+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "Rise in Local Mpox Cases Prompts Expanded County Outreach",
-          "link": "https://www.countynewscenter.com/rise-in-local-mpox-cases-prompts-expanded-county-outreach/?utm_source=rss&utm_medium=rss&utm_campaign=rise-in-local-mpox-cases-prompts-expanded-county-outreach",
-          "published": "2026-11-13T16:58:01+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "When Flock Gets Turned On the Cops",
-      "published": "2026-11-13T10:15:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "When Flock Gets Turned On the Cops",
-          "link": "https://voiceofsandiego.org/2026/11/13/when-flock-gets-turned-on-the-cops/",
-          "published": "2026-11-13T10:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Encinitas Chamber honors high school seniors as Rising Stars",
-      "published": "2026-11-13T02:22:02+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "North Coast Current",
-          "title": "Encinitas Chamber honors high school seniors as Rising Stars",
-          "link": "https://www.northcoastcurrent.com/campus/2026/11/encinitas-chamber-honors-high-school-seniors-as-rising-stars/",
-          "published": "2026-11-13T02:22:02+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Street Dining Returns to an Urbanizing Chula Vista",
-      "published": "2026-11-13T01:45:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Street Dining Returns to an Urbanizing Chula Vista",
-          "link": "https://voiceofsandiego.org/2026/11/12/street-dining-returns-to-an-urbanizing-chula-vista/",
-          "published": "2026-11-13T01:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Land Acknowledgement Installation Honors Tribal Nations",
-      "published": "2026-11-13T00:21:51+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "Land Acknowledgement Installation Honors Tribal Nations",
-          "link": "https://www.countynewscenter.com/land-acknowledgement-installation-honors-tribal-nations/?utm_source=rss&utm_medium=rss&utm_campaign=land-acknowledgement-installation-honors-tribal-nations",
-          "published": "2026-11-13T00:21:51+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Light Rain Forecast Overnight in San Diego County",
-      "published": "2026-11-12T22:25:22+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "Light Rain Forecast Overnight in San Diego County",
-          "link": "https://www.countynewscenter.com/light-rain-forecast-overnight-in-san-diego-county/?utm_source=rss&utm_medium=rss&utm_campaign=light-rain-forecast-overnight-in-san-diego-county",
-          "published": "2026-11-12T22:25:22+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diego Police Used Flock to Surveil Officers, Domestic Violence Victim",
-      "published": "2026-11-12T21:49:41+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "San Diego Police Used Flock to Surveil Officers, Domestic Violence Victim",
-          "link": "https://voiceofsandiego.org/2026/11/12/san-diego-police-used-flock-to-surveil-officers-domestic-violence-victim/",
-          "published": "2026-11-12T21:49:41+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Crystal Tones Alchemy singing bowls: A luxury gift with a personal note",
-      "published": "2026-11-12T21:07:18+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Crystal Tones Alchemy singing bowls: A luxury gift with a personal note",
-          "link": "https://thecoastnews.com/crystal-tones-singing-bowls-luxury-gift/",
-          "published": "2026-11-12T21:07:18+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "El Camino erases 19-point deficit to stun Grossmont in playoff opener",
-      "published": "2026-11-12T18:03:36+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "El Camino erases 19-point deficit to stun Grossmont in playoff opener",
-          "link": "https://thecoastnews.com/el-camino-erases-19-point-deficit-to-stun-grossmont-in-playoff-opener/",
-          "published": "2026-11-12T18:03:36+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Coronado High student Logan Berk receives Environmental Hero award",
-      "published": "2026-11-12T17:10:28+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Coronado High student Logan Berk receives Environmental Hero award",
-          "link": "https://coronadotimes.com/news/2026/11/12/coronado-high-student-logan-berk-receives-environmental-hero-award/",
-          "published": "2026-11-12T17:10:28+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "CSUSM receives sixth rape report this fall, ninth in 2026",
-      "published": "2026-11-12T16:58:07+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "CSUSM receives sixth rape report this fall, ninth in 2026",
-          "link": "https://thecoastnews.com/csusm-receives-sixth-rape-report-this-fall-ninth-in-2026/",
-          "published": "2026-11-12T16:58:07+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "New city attorney talks about her new job",
-      "published": "2026-11-12T15:22:59+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "New city attorney talks about her new job",
-          "link": "https://www.times-advocate.com/articles/new-city-attorney-talks-about-her-new-job/",
-          "published": "2026-11-12T15:22:59+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Mayor’s race is now neck and neck; Jones is elected 5th District super",
-      "published": "2026-11-12T15:21:20+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Mayor’s race is now neck and neck; Jones is elected 5th District super",
-          "link": "https://www.times-advocate.com/articles/mayors-race-is-now-neck-and-neck-jones-is-elected-5th-district-super/",
-          "published": "2026-11-12T15:21:20+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Editor takes Best of Show, 5 first places at Press Club Awards",
-      "published": "2026-11-12T15:20:08+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Editor takes Best of Show, 5 first places at Press Club Awards",
-          "link": "https://www.times-advocate.com/articles/editor-takes-best-of-show-5-first-places-at-press-club-awards/",
-          "published": "2026-11-12T15:20:08+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Chamber to host 16th annual  Community In Unity at Lyric Court",
-      "published": "2026-11-12T15:19:20+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Chamber to host 16th annual  Community In Unity at Lyric Court",
-          "link": "https://www.times-advocate.com/articles/chamber-to-host-16th-annual-community-in-unity-at-lyric-court/",
-          "published": "2026-11-12T15:19:20+00:00"
         }
       ]
     }
