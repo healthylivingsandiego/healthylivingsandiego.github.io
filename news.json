@@ -1,17 +1,199 @@
 {
-  "generated_at": "2026-11-20T21:41:42.291229+00:00",
-  "story_count": 95,
+  "generated_at": "2026-11-21T20:22:49.841039+00:00",
+  "story_count": 85,
   "stories": [
     {
-      "headline": "Closed Bay Paths and Sunset Cliffs Parking Lot Due to Flood Risks and High Surf",
-      "published": "2026-11-20T21:15:39+02:00",
+      "headline": "City officials activate weather shelter program ahead of cold weather on Saturday night",
+      "published": "2026-11-21T20:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "City officials activate weather shelter program ahead of cold weather on Saturday night",
+          "link": "https://timesofsandiego.com/weather/2026/11/21/city-officials-activate-weather-shelter-program-ahead-of-cold-weather-on-saturday-night/",
+          "published": "2026-11-21T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "‘It’s a really good bill as it is’: Rep. Peters backs energy permitting reform despite opposition from California Democrats",
+      "published": "2026-11-21T18:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "‘It’s a really good bill as it is’: Rep. Peters backs energy permitting reform despite opposition from California Democrats",
+          "link": "https://timesofsandiego.com/politics/2026/11/21/peters-democrats-baaja-permitting-reform-clean-energy/",
+          "published": "2026-11-21T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Commentary: Campaigns spent millions on AI in election advertising – but was it effective?",
+      "published": "2026-11-21T17:50:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Commentary: Campaigns spent millions on AI in election advertising – but was it effective?",
+          "link": "https://timesofsandiego.com/opinion/2026/11/21/millions-ai-election-advertising-effective/",
+          "published": "2026-11-21T17:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Some Big San Diego Politics Questions",
+      "published": "2026-11-21T15:58:21+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Some Big San Diego Politics Questions",
+          "link": "https://voiceofsandiego.org/2026/11/21/some-big-san-diego-politics-questions/",
+          "published": "2026-11-21T15:58:21+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Cornish Heights and the Point Loma building boom of the 1920s",
+      "published": "2026-11-21T15:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Cornish Heights and the Point Loma building boom of the 1920s",
+          "link": "https://timesofsandiego.com/arts/2026/11/21/cornish-heights-and-the-point-loma-building-boom-of-the-1920s/",
+          "published": "2026-11-21T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "ICE detained a mother near her child’s elementary school in Encinitas",
+      "published": "2026-11-21T02:13:31+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "ICE detained a mother near her child’s elementary school in Encinitas",
+          "link": "https://timesofsandiego.com/immigration/2026/11/20/ice-detained-mother-ocean-knoll-elementary-school-encinitas/",
+          "published": "2026-11-21T02:13:31+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego’s Statehouse Delegation Is More Diverse Than Ever",
+      "published": "2026-11-21T01:43:23+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "San Diego’s Statehouse Delegation Is More Diverse Than Ever",
+          "link": "https://voiceofsandiego.org/2026/11/20/san-diegos-statehouse-delegation-is-more-diverse-than-ever/",
+          "published": "2026-11-21T01:43:23+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Chucky’s back – SDFC must come up with new solution after end to Lozano’s brief stint in Los Angeles",
+      "published": "2026-11-21T01:41:16+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Chucky’s back – SDFC must come up with new solution after end to Lozano’s brief stint in Los Angeles",
+          "link": "https://timesofsandiego.com/sports/2026/11/20/chuckys-back-sdfc-must-come-up-with-new-solution-after-end-to-lozanos-brief-stint-in-los-angeles/",
+          "published": "2026-11-21T01:41:16+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Zoning Ordinance Changes Support Housing Production",
+      "published": "2026-11-21T00:22:34+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "Zoning Ordinance Changes Support Housing Production",
+          "link": "https://www.countynewscenter.com/zoning-ordinance-changes-support-housing-production/?utm_source=rss&utm_medium=rss&utm_campaign=zoning-ordinance-changes-support-housing-production",
+          "published": "2026-11-21T00:22:34+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Holiday Decorating in the Land of OB",
+      "published": "2026-11-21T00:13:45+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
-          "title": "Closed Bay Paths and Sunset Cliffs Parking Lot Due to Flood Risks and High Surf",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxBlJQfkPzyxgSHmejqXhNe?utm_source=follow.it",
-          "published": "2026-11-20T21:15:39+02:00"
+          "title": "Holiday Decorating in the Land of OB",
+          "link": "https://obrag.org/2026/11/holiday-decorating-in-the-land-of-ob/",
+          "published": "2026-11-21T00:13:45+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Commentary: We can’t afford to wait for affordable housing",
+      "published": "2026-11-20T23:58:08+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Commentary: We can’t afford to wait for affordable housing",
+          "link": "https://thecoastnews.com/commentary-we-cant-afford-to-wait-for-affordable-housing/",
+          "published": "2026-11-20T23:58:08+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "El ‘swap meet’ de Kobey lleva 46 años en el Sports Arena. Puede que estos sean sus últimos años en ese lugar",
+      "published": "2026-11-20T23:20:36+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "El ‘swap meet’ de Kobey lleva 46 años en el Sports Arena. Puede que estos sean sus últimos años en ese lugar",
+          "link": "https://timesofsandiego.com/life/2026/11/20/el-swap-meet-de-kobey-lleva-46-anos-en-el-sports-arena-puede-que-estos-sean-sus-ultimos-anos-en-ese-lugar/",
+          "published": "2026-11-20T23:20:36+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Oceanside man sentenced to seven years in $10M investment fraud scheme",
+      "published": "2026-11-20T23:01:05+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Oceanside man sentenced to seven years in $10M investment fraud scheme",
+          "link": "https://thecoastnews.com/oceanside-man-sentenced-to-seven-years-in-10m-investment-fraud-scheme/",
+          "published": "2026-11-20T23:01:05+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "‘The Zoo Lady: The Forgotten Legend of Who Saved and Built the San Diego Zoo’ — Sat., Nov.21",
+      "published": "2026-11-20T22:32:08+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "‘The Zoo Lady: The Forgotten Legend of Who Saved and Built the San Diego Zoo’ — Sat., Nov.21",
+          "link": "https://obrag.org/2026/11/the-zoo-lady-the-forgotten-legend-of-who-saved-and-built-the-san-diego-zoo-sat-nov-21/",
+          "published": "2026-11-20T22:32:08+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego prepares for Thanksgiving King Tides with pumps, road closures and sand berms",
+      "published": "2026-11-20T22:10:18+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego prepares for Thanksgiving King Tides with pumps, road closures and sand berms",
+          "link": "https://timesofsandiego.com/community/2026/11/20/san-diego-prepares-for-thanksgiving-king-tides-event-with-pumps-road-closures-and-sand-berms/",
+          "published": "2026-11-20T22:10:18+00:00"
         }
       ]
     },
@@ -29,45 +211,6 @@
       ]
     },
     {
-      "headline": "What the New OB Library Will Look Like",
-      "published": "2026-11-20T20:20:09+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "What the New OB Library Will Look Like",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDySjdUZbelgM4_Q45W_AtSU?utm_source=follow.it",
-          "published": "2026-11-20T20:20:09+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "Peninsula Holiday Markets and Craft Fairs : Nov. 21-22",
-      "published": "2026-11-20T20:04:51+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Peninsula Holiday Markets and Craft Fairs : Nov. 21-22",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxKnzRKj24t6SvIrF0joNyw?utm_source=follow.it",
-          "published": "2026-11-20T20:04:51+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "Third Time’s a Charm? El Punto Opens in Liberty Station",
-      "published": "2026-11-20T19:42:45+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Third Time’s a Charm? El Punto Opens in Liberty Station",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDylc_uq_KU2A4QJaVzJofTn?utm_source=follow.it",
-          "published": "2026-11-20T19:42:45+02:00"
-        }
-      ]
-    },
-    {
       "headline": "San Diegan Alex Bentley does it all in new indie crime drama ‘Off the Record,’ featuring former Charger Shawne Merriman",
       "published": "2026-11-20T19:25:20+00:00",
       "outlet_count": 1,
@@ -81,28 +224,41 @@
       ]
     },
     {
-      "headline": "Ocean Beach Library Expansion Project Kick-Off",
-      "published": "2026-11-20T18:59:59+02:00",
+      "headline": "Closed Bay Paths and Sunset Cliffs Parking Lot Due to Flood Risks and High Surf",
+      "published": "2026-11-20T19:15:39+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
-          "title": "Ocean Beach Library Expansion Project Kick-Off",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDyniTpD-AYY47b4NQsEG0Jp?utm_source=follow.it",
-          "published": "2026-11-20T18:59:59+02:00"
+          "title": "Closed Bay Paths and Sunset Cliffs Parking Lot Due to Flood Risks and High Surf",
+          "link": "https://obrag.org/2026/11/closed-bay-paths-and-sunset-cliffs-parking-lot-due-to-flood-risks-and-high-surf/",
+          "published": "2026-11-20T19:15:39+00:00"
         }
       ]
     },
     {
-      "headline": "no title",
-      "published": "2026-11-20T18:30:09+02:00",
+      "headline": "What the New OB Library Will Look Like",
+      "published": "2026-11-20T18:20:09+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "OB Rag",
-          "title": "no title",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDyaW5fiBDuSAeLb8p71SqDX?utm_source=follow.it",
-          "published": "2026-11-20T18:30:09+02:00"
+          "title": "What the New OB Library Will Look Like",
+          "link": "https://obrag.org/2026/11/what-the-new-ob-library-will-look-like/",
+          "published": "2026-11-20T18:20:09+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Peninsula Holiday Markets and Craft Fairs : Nov. 21-22",
+      "published": "2026-11-20T18:04:51+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Peninsula Holiday Markets and Craft Fairs : Nov. 21-22",
+          "link": "https://obrag.org/2026/11/peninsula-holiday-markets-and-craft-fairs-nov-21-22/",
+          "published": "2026-11-20T18:04:51+00:00"
         }
       ]
     },
@@ -120,41 +276,15 @@
       ]
     },
     {
-      "headline": "Un informe revela acoso sexual ‘sistémico’ en los Servicios de Salvavidas de San Diego; el alcalde califica los resultados de ‘inaceptables’",
-      "published": "2026-11-20T17:35:13+00:00",
+      "headline": "Third Time’s a Charm? El Punto Opens in Liberty Station",
+      "published": "2026-11-20T17:42:45+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "Times of San Diego",
-          "title": "Un informe revela acoso sexual ‘sistémico’ en los Servicios de Salvavidas de San Diego; el alcalde califica los resultados de ‘inaceptables’",
-          "link": "https://timesofsandiego.com/crime/2026/11/20/un-informe-revela-acoso-sexual-sistemico-en-los-servicios-de-salvavidas-de-san-diego-el-alcalde-califica-los-resultados-de-inaceptables/",
-          "published": "2026-11-20T17:35:13+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "La Jolla Village News: November 20, 2026",
-      "published": "2026-11-20T17:27:58+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "La Jolla Village News: November 20, 2026",
-          "link": "https://timesofsandiego.com/print-editions/2026/11/20/la-jolla-village-news-november-20-2026/",
-          "published": "2026-11-20T17:27:58+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Beach and Bay Press: November 20, 2026",
-      "published": "2026-11-20T17:14:51+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Beach and Bay Press: November 20, 2026",
-          "link": "https://timesofsandiego.com/print-editions/2026/11/20/beach-and-bay-press-november-20-2026/",
-          "published": "2026-11-20T17:14:51+00:00"
+          "source": "OB Rag",
+          "title": "Third Time’s a Charm? El Punto Opens in Liberty Station",
+          "link": "https://obrag.org/2026/11/third-times-a-charm-el-punto-opens-in-liberty-station/",
+          "published": "2026-11-20T17:42:45+00:00"
         }
       ]
     },
@@ -172,6 +302,19 @@
       ]
     },
     {
+      "headline": "Ocean Beach Library Expansion Project Kick-Off",
+      "published": "2026-11-20T16:59:59+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Ocean Beach Library Expansion Project Kick-Off",
+          "link": "https://obrag.org/2026/11/ocean-beach-library-expansion-project-kick-off/",
+          "published": "2026-11-20T16:59:59+00:00"
+        }
+      ]
+    },
+    {
       "headline": "Commentary: Thanksgiving is an American tradition",
       "published": "2026-11-20T16:53:45+00:00",
       "outlet_count": 1,
@@ -181,6 +324,19 @@
           "title": "Commentary: Thanksgiving is an American tradition",
           "link": "https://thecoastnews.com/commentary-thanksgiving-is-an-american-tradition/",
           "published": "2026-11-20T16:53:45+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "No Photo Is Worth Your Life",
+      "published": "2026-11-20T16:30:09+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "No Photo Is Worth Your Life",
+          "link": "https://obrag.org/2026/11/320782/",
+          "published": "2026-11-20T16:30:09+00:00"
         }
       ]
     },
@@ -198,15 +354,15 @@
       ]
     },
     {
-      "headline": "Las mujeres que salvaron a Cervantes",
-      "published": "2026-11-20T10:48:50+00:00",
+      "headline": "More on the Future of Kobey’s Swap Meet",
+      "published": "2026-11-20T15:39:41+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "Times of San Diego",
-          "title": "Las mujeres que salvaron a Cervantes",
-          "link": "https://timesofsandiego.com/arts/2026/11/20/las-mujeres-que-salvaron-a-cervantes/",
-          "published": "2026-11-20T10:48:50+00:00"
+          "source": "OB Rag",
+          "title": "More on the Future of Kobey’s Swap Meet",
+          "link": "https://obrag.org/2026/11/more-on-the-future-of-kobeys-swap-meet/",
+          "published": "2026-11-20T15:39:41+00:00"
         }
       ]
     },
@@ -224,32 +380,6 @@
       ]
     },
     {
-      "headline": "ICE arresta a una madre de familia cerca de la escuela de su hijo en Encinitas",
-      "published": "2026-11-20T04:17:19+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "ICE arresta a una madre de familia cerca de la escuela de su hijo en Encinitas",
-          "link": "https://timesofsandiego.com/immigration/2026/11/19/ice-arresta-a-una-madre-de-familia-cerca-de-la-escuela-de-su-hijo-en-encinitas/",
-          "published": "2026-11-20T04:17:19+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "City report finds ‘systemic’ sexual harassment in SD Lifeguard Services, mayor calls results ‘unacceptable’",
-      "published": "2026-11-20T01:23:29+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "City report finds ‘systemic’ sexual harassment in SD Lifeguard Services, mayor calls results ‘unacceptable’",
-          "link": "https://timesofsandiego.com/crime/2026/11/19/san-diego-report-lifeguards-systemic-sexual-harassment/",
-          "published": "2026-11-20T01:23:29+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Church enters escrow to buy, preserve La Paloma Theater in Encinitas",
       "published": "2026-11-20T00:45:51+00:00",
       "outlet_count": 1,
@@ -263,19 +393,6 @@
       ]
     },
     {
-      "headline": "Kobey’s Swap Meet has spent over 40 years at the Sports Arena. These might be their last few years at the location.",
-      "published": "2026-11-20T00:29:59+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Kobey’s Swap Meet has spent over 40 years at the Sports Arena. These might be their last few years at the location.",
-          "link": "https://timesofsandiego.com/life/2026/11/19/kobeys-swap-meet-sports-arena-midway-rising/",
-          "published": "2026-11-20T00:29:59+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Does the Chula Vista City Council Need a Time Out?",
       "published": "2026-11-19T23:34:24+00:00",
       "outlet_count": 1,
@@ -285,32 +402,6 @@
           "title": "Does the Chula Vista City Council Need a Time Out?",
           "link": "https://voiceofsandiego.org/2026/11/19/does-the-chula-vista-city-council-need-a-time-out/",
           "published": "2026-11-19T23:34:24+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "La Mesa Reads: The Books On Movies Edition",
-      "published": "2026-11-19T21:42:15+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "La Mesa Reads: The Books On Movies Edition",
-          "link": "https://timesofsandiego.com/community/2026/11/19/la-mesa-reads-the-books-on-movies-edition/",
-          "published": "2026-11-19T21:42:15+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Wanted: Local OB and Point Loma Writers and Reporters",
-      "published": "2026-11-19T19:36:29+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Wanted: Local OB and Point Loma Writers and Reporters",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDyVa4-JI2nl16U-lJ8DL3np?utm_source=follow.it",
-          "published": "2026-11-19T19:36:29+02:00"
         }
       ]
     },
@@ -376,6 +467,19 @@
           "title": "Man sentenced to 26 years to life for 2008 killing of Oceanside veteran",
           "link": "https://thecoastnews.com/man-sentenced-to-26-years-to-life-for-2008-killing-of-oceanside-veteran/",
           "published": "2026-11-19T17:39:02+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Wanted: Local OB and Point Loma Writers and Reporters",
+      "published": "2026-11-19T17:36:29+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Wanted: Local OB and Point Loma Writers and Reporters",
+          "link": "https://obrag.org/2026/11/wanted-local-ob-and-point-loma-writers-and-reporters/",
+          "published": "2026-11-19T17:36:29+00:00"
         }
       ]
     },
@@ -575,32 +679,6 @@
       ]
     },
     {
-      "headline": "Holiday feasts and Christmas lights at Park Hyatt Aviara",
-      "published": "2026-11-18T21:44:19+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Holiday feasts and Christmas lights at Park Hyatt Aviara",
-          "link": "https://thecoastnews.com/holiday-feasts-and-christmas-lights-at-park-hyatt-aviara/",
-          "published": "2026-11-18T21:44:19+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "This Giving Tuesday, help United Cerebral Palsy open doors across San Diego",
-      "published": "2026-11-18T21:42:35+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "This Giving Tuesday, help United Cerebral Palsy open doors across San Diego",
-          "link": "https://thecoastnews.com/this-giving-tuesday-help-united-cerebral-palsy-open-doors-across-san-diego/",
-          "published": "2026-11-18T21:42:35+00:00"
-        }
-      ]
-    },
-    {
       "headline": "WTA Finals Champions: Andreeva shines in singles and Siniakova / Townsend dominate doubles",
       "published": "2026-11-18T21:10:56+00:00",
       "outlet_count": 1,
@@ -610,32 +688,6 @@
           "title": "WTA Finals Champions: Andreeva shines in singles and Siniakova / Townsend dominate doubles",
           "link": "https://coronadotimes.com/news/2026/11/18/wta-finals-champions-andreeva-shines-in-singles-and-siniakova-townsend-dominate-doubles/",
           "published": "2026-11-18T21:10:56+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Vista Just Elected the County’s First Democratic Socialist Mayor — Kenneth Zuniga",
-      "published": "2026-11-18T21:04:58+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Vista Just Elected the County’s First Democratic Socialist Mayor — Kenneth Zuniga",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDyCLT8hIcpPItMnMhfkJSMi?utm_source=follow.it",
-          "published": "2026-11-18T21:04:58+02:00"
-        }
-      ]
-    },
-    {
-      "headline": "OB Rag: Help Wanted – Apply Within",
-      "published": "2026-11-18T20:45:09+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "OB Rag: Help Wanted – Apply Within",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDxqOqILmPlO8xJBvza5r3Ie?utm_source=follow.it",
-          "published": "2026-11-18T20:45:09+02:00"
         }
       ]
     },
@@ -705,19 +757,6 @@
       ]
     },
     {
-      "headline": "Corey Bruins Again Delays His Criminal Case — He Fired His Public Defender and Now Represents Himself",
-      "published": "2026-11-18T19:55:10+02:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Corey Bruins Again Delays His Criminal Case — He Fired His Public Defender and Now Represents Himself",
-          "link": "https://api.follow.it/track-rss-story-click/v3/6LOs7Hf7uDymsEhw4p8qoBR4RfKUdkEF?utm_source=follow.it",
-          "published": "2026-11-18T19:55:10+02:00"
-        }
-      ]
-    },
-    {
       "headline": "Ed Gallo Speaks: How I write my column",
       "published": "2026-11-18T19:54:40+00:00",
       "outlet_count": 1,
@@ -740,45 +779,6 @@
           "title": "The rain may come hard this winter—Be ready either way",
           "link": "https://www.times-advocate.com/articles/the-rain-may-come-hard-this-winter-be-ready-either-way/",
           "published": "2026-11-18T19:52:31+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "TA Shorts 11/18/2026",
-      "published": "2026-11-18T19:51:40+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "TA Shorts 11/18/2026",
-          "link": "https://www.times-advocate.com/articles/ta-shorts-11-18-2026/",
-          "published": "2026-11-18T19:51:40+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Letter to the Editor: COUNTRIES LEADING THE FIGHT AGAINST CLIMATE CHANGE",
-      "published": "2026-11-18T19:50:34+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Letter to the Editor: COUNTRIES LEADING THE FIGHT AGAINST CLIMATE CHANGE",
-          "link": "https://www.times-advocate.com/articles/letter-to-the-editor-countries-leading-the-fight-against-climate-change/",
-          "published": "2026-11-18T19:50:34+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "A city cannot grow faster than its welcome",
-      "published": "2026-11-18T19:49:24+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "A city cannot grow faster than its welcome",
-          "link": "https://www.times-advocate.com/articles/a-city-cannot-grow-faster-than-its-welcome/",
-          "published": "2026-11-18T19:49:24+00:00"
         }
       ]
     }
