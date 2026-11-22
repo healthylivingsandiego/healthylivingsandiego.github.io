@@ -1,43 +1,186 @@
 {
-  "generated_at": "2026-11-21T20:22:49.841039+00:00",
-  "story_count": 85,
+  "generated_at": "2026-11-22T20:35:34.382605+00:00",
+  "story_count": 84,
   "stories": [
     {
-      "headline": "City officials activate weather shelter program ahead of cold weather on Saturday night",
-      "published": "2026-11-21T20:00:00+00:00",
+      "headline": "Coast Guard airlifts 74-year-old passenger from cruise ship near San Diego",
+      "published": "2026-11-22T20:00:00+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "Times of San Diego",
-          "title": "City officials activate weather shelter program ahead of cold weather on Saturday night",
-          "link": "https://timesofsandiego.com/weather/2026/11/21/city-officials-activate-weather-shelter-program-ahead-of-cold-weather-on-saturday-night/",
-          "published": "2026-11-21T20:00:00+00:00"
+          "title": "Coast Guard airlifts 74-year-old passenger from cruise ship near San Diego",
+          "link": "https://timesofsandiego.com/life/2026/11/22/coast-guard-airlifts-74-year-old-passenger-from-cruise-ship-near-san-diego/",
+          "published": "2026-11-22T20:00:00+00:00"
         }
       ]
     },
     {
-      "headline": "‘It’s a really good bill as it is’: Rep. Peters backs energy permitting reform despite opposition from California Democrats",
-      "published": "2026-11-21T18:00:00+00:00",
+      "headline": "Story of San Diego’s DIY skateboarding history takes shape in new Mingei exhibit",
+      "published": "2026-11-22T19:05:00+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "Times of San Diego",
-          "title": "‘It’s a really good bill as it is’: Rep. Peters backs energy permitting reform despite opposition from California Democrats",
-          "link": "https://timesofsandiego.com/politics/2026/11/21/peters-democrats-baaja-permitting-reform-clean-energy/",
-          "published": "2026-11-21T18:00:00+00:00"
+          "title": "Story of San Diego’s DIY skateboarding history takes shape in new Mingei exhibit",
+          "link": "https://timesofsandiego.com/arts/2026/11/22/san-diego-diy-skateboarding-history-mingei-museum/",
+          "published": "2026-11-22T19:05:00+00:00"
         }
       ]
     },
     {
-      "headline": "Commentary: Campaigns spent millions on AI in election advertising – but was it effective?",
-      "published": "2026-11-21T17:50:00+00:00",
+      "headline": "San Diego airport not affected by disruptions to Delta Airline flights",
+      "published": "2026-11-22T19:00:00+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "Times of San Diego",
-          "title": "Commentary: Campaigns spent millions on AI in election advertising – but was it effective?",
-          "link": "https://timesofsandiego.com/opinion/2026/11/21/millions-ai-election-advertising-effective/",
-          "published": "2026-11-21T17:50:00+00:00"
+          "title": "San Diego airport not affected by disruptions to Delta Airline flights",
+          "link": "https://timesofsandiego.com/transportation/2026/11/22/san-diego-airport-not-affected-by-disruptions-to-delta-airline-flights/",
+          "published": "2026-11-22T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Pointers fall one yard short to Poway in Div. II semifinal",
+      "published": "2026-11-22T18:33:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Pointers fall one yard short to Poway in Div. II semifinal",
+          "link": "https://timesofsandiego.com/sports/2026/11/22/pointers-fall-one-yard-short-to-poway-in-div-ii-semifinal/",
+          "published": "2026-11-22T18:33:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Black Friday in July?",
+      "published": "2026-11-22T18:08:22+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Black Friday in July?",
+          "link": "https://thecoastnews.com/black-friday-in-july/",
+          "published": "2026-11-22T18:08:22+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Plenty of food and drink options for Thanksgiving on the coast",
+      "published": "2026-11-22T17:01:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Plenty of food and drink options for Thanksgiving on the coast",
+          "link": "https://timesofsandiego.com/business/2026/11/22/plenty-of-food-and-drink-options-for-thanksgiving-on-the-coast/",
+          "published": "2026-11-22T17:01:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "AI should be used for administrative tasks, not teaching students, Cal State faculty says",
+      "published": "2026-11-22T15:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "AI should be used for administrative tasks, not teaching students, Cal State faculty says",
+          "link": "https://timesofsandiego.com/education/2026/11/22/ai-should-be-used-for-administrative-tasks-not-teaching-students-cal-state-faculty-says/",
+          "published": "2026-11-22T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Beef Week Is Coming",
+      "published": "2026-11-22T14:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Beef Week Is Coming",
+          "link": "https://voiceofsandiego.org/2026/11/22/beef-week-is-coming/",
+          "published": "2026-11-22T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Pedestrian struck and killed in Vista hit-and-run",
+      "published": "2026-11-22T01:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Pedestrian struck and killed in Vista hit-and-run",
+          "link": "https://timesofsandiego.com/crime/2026/11/21/pedestrian-struck-and-killed-in-vista-hit-and-run/",
+          "published": "2026-11-22T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Light rain possible on Sunday night for San Diego County",
+      "published": "2026-11-22T00:30:52+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Light rain possible on Sunday night for San Diego County",
+          "link": "https://timesofsandiego.com/weather/2026/11/21/light-rain-possible-on-sunday-night-for-san-diego-county/",
+          "published": "2026-11-22T00:30:52+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "OB’s Dog Beach Closed Due to Sewage Spill",
+      "published": "2026-11-22T00:16:57+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "OB’s Dog Beach Closed Due to Sewage Spill",
+          "link": "https://obrag.org/2026/11/obs-dog-beach-closed-due-to-sewage-spill/",
+          "published": "2026-11-22T00:16:57+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Poway High marching band students and alumni to perform in Macy’s Thanksgiving Day Parade",
+      "published": "2026-11-21T22:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Poway High marching band students and alumni to perform in Macy’s Thanksgiving Day Parade",
+          "link": "https://timesofsandiego.com/community/2026/11/21/poway-high-marching-band-students-and-alumni-to-perform-in-macys-thanksgiving-day-parade/",
+          "published": "2026-11-21T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "The holiday season is here and San Diego is ready to celebrate",
+      "published": "2026-11-21T21:10:47+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "The holiday season is here and San Diego is ready to celebrate",
+          "link": "https://coronadotimes.com/news/2026/11/21/the-holiday-season-is-here-and-san-diego-is-ready-to-celebrate/",
+          "published": "2026-11-21T21:10:47+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Who should California’s first education commissioner be? Experts weigh in",
+      "published": "2026-11-21T21:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Who should California’s first education commissioner be? Experts weigh in",
+          "link": "https://timesofsandiego.com/education/2026/11/21/who-should-californias-first-education-commissioner-be-experts-weigh-in/",
+          "published": "2026-11-21T21:00:00+00:00"
         }
       ]
     },
@@ -55,32 +198,6 @@
       ]
     },
     {
-      "headline": "Cornish Heights and the Point Loma building boom of the 1920s",
-      "published": "2026-11-21T15:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Cornish Heights and the Point Loma building boom of the 1920s",
-          "link": "https://timesofsandiego.com/arts/2026/11/21/cornish-heights-and-the-point-loma-building-boom-of-the-1920s/",
-          "published": "2026-11-21T15:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "ICE detained a mother near her child’s elementary school in Encinitas",
-      "published": "2026-11-21T02:13:31+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "ICE detained a mother near her child’s elementary school in Encinitas",
-          "link": "https://timesofsandiego.com/immigration/2026/11/20/ice-detained-mother-ocean-knoll-elementary-school-encinitas/",
-          "published": "2026-11-21T02:13:31+00:00"
-        }
-      ]
-    },
-    {
       "headline": "San Diego’s Statehouse Delegation Is More Diverse Than Ever",
       "published": "2026-11-21T01:43:23+00:00",
       "outlet_count": 1,
@@ -90,19 +207,6 @@
           "title": "San Diego’s Statehouse Delegation Is More Diverse Than Ever",
           "link": "https://voiceofsandiego.org/2026/11/20/san-diegos-statehouse-delegation-is-more-diverse-than-ever/",
           "published": "2026-11-21T01:43:23+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Chucky’s back – SDFC must come up with new solution after end to Lozano’s brief stint in Los Angeles",
-      "published": "2026-11-21T01:41:16+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Chucky’s back – SDFC must come up with new solution after end to Lozano’s brief stint in Los Angeles",
-          "link": "https://timesofsandiego.com/sports/2026/11/20/chuckys-back-sdfc-must-come-up-with-new-solution-after-end-to-lozanos-brief-stint-in-los-angeles/",
-          "published": "2026-11-21T01:41:16+00:00"
         }
       ]
     },
@@ -146,19 +250,6 @@
       ]
     },
     {
-      "headline": "El ‘swap meet’ de Kobey lleva 46 años en el Sports Arena. Puede que estos sean sus últimos años en ese lugar",
-      "published": "2026-11-20T23:20:36+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "El ‘swap meet’ de Kobey lleva 46 años en el Sports Arena. Puede que estos sean sus últimos años en ese lugar",
-          "link": "https://timesofsandiego.com/life/2026/11/20/el-swap-meet-de-kobey-lleva-46-anos-en-el-sports-arena-puede-que-estos-sean-sus-ultimos-anos-en-ese-lugar/",
-          "published": "2026-11-20T23:20:36+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Oceanside man sentenced to seven years in $10M investment fraud scheme",
       "published": "2026-11-20T23:01:05+00:00",
       "outlet_count": 1,
@@ -181,45 +272,6 @@
           "title": "‘The Zoo Lady: The Forgotten Legend of Who Saved and Built the San Diego Zoo’ — Sat., Nov.21",
           "link": "https://obrag.org/2026/11/the-zoo-lady-the-forgotten-legend-of-who-saved-and-built-the-san-diego-zoo-sat-nov-21/",
           "published": "2026-11-20T22:32:08+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diego prepares for Thanksgiving King Tides with pumps, road closures and sand berms",
-      "published": "2026-11-20T22:10:18+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "San Diego prepares for Thanksgiving King Tides with pumps, road closures and sand berms",
-          "link": "https://timesofsandiego.com/community/2026/11/20/san-diego-prepares-for-thanksgiving-king-tides-event-with-pumps-road-closures-and-sand-berms/",
-          "published": "2026-11-20T22:10:18+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "NCAA heartbreak – After Toreros’ lead slips away with 13 seconds left, they fall 3-2 in double OT",
-      "published": "2026-11-20T21:00:06+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "NCAA heartbreak – After Toreros’ lead slips away with 13 seconds left, they fall 3-2 in double OT",
-          "link": "https://timesofsandiego.com/sports/2026/11/20/ncaa-san-diego-toreros-eliminated-double-overtime/",
-          "published": "2026-11-20T21:00:06+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diegan Alex Bentley does it all in new indie crime drama ‘Off the Record,’ featuring former Charger Shawne Merriman",
-      "published": "2026-11-20T19:25:20+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "San Diegan Alex Bentley does it all in new indie crime drama ‘Off the Record,’ featuring former Charger Shawne Merriman",
-          "link": "https://timesofsandiego.com/arts/2026/11/20/san-diego-alex-bentley-indie-crime-drama-off-record/",
-          "published": "2026-11-20T19:25:20+00:00"
         }
       ]
     },
@@ -471,19 +523,6 @@
       ]
     },
     {
-      "headline": "Wanted: Local OB and Point Loma Writers and Reporters",
-      "published": "2026-11-19T17:36:29+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Wanted: Local OB and Point Loma Writers and Reporters",
-          "link": "https://obrag.org/2026/11/wanted-local-ob-and-point-loma-writers-and-reporters/",
-          "published": "2026-11-19T17:36:29+00:00"
-        }
-      ]
-    },
-    {
       "headline": "San Marcos man arrested after deputies find stolen handgun, ‘ghost gun’",
       "published": "2026-11-19T17:28:19+00:00",
       "outlet_count": 1,
@@ -666,19 +705,6 @@
       ]
     },
     {
-      "headline": "Make Jingle Belle Cruises a new holiday tradition on Mission Bay",
-      "published": "2026-11-18T21:45:19+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Make Jingle Belle Cruises a new holiday tradition on Mission Bay",
-          "link": "https://thecoastnews.com/make-jingle-belle-cruises-a-new-holiday-tradition-on-mission-bay/",
-          "published": "2026-11-18T21:45:19+00:00"
-        }
-      ]
-    },
-    {
       "headline": "WTA Finals Champions: Andreeva shines in singles and Siniakova / Townsend dominate doubles",
       "published": "2026-11-18T21:10:56+00:00",
       "outlet_count": 1,
@@ -753,32 +779,6 @@
           "title": "Artists will work through the night at ArtHatch’s 16th annual Art-A-Thon",
           "link": "https://www.times-advocate.com/articles/artists-will-work-through-the-night-at-arthatchs-16th-annual-art-a-thon/",
           "published": "2026-11-18T19:55:42+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Ed Gallo Speaks: How I write my column",
-      "published": "2026-11-18T19:54:40+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Ed Gallo Speaks: How I write my column",
-          "link": "https://www.times-advocate.com/articles/ed-gallo-speaks-how-i-write-my-column/",
-          "published": "2026-11-18T19:54:40+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "The rain may come hard this winter—Be ready either way",
-      "published": "2026-11-18T19:52:31+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "The rain may come hard this winter—Be ready either way",
-          "link": "https://www.times-advocate.com/articles/the-rain-may-come-hard-this-winter-be-ready-either-way/",
-          "published": "2026-11-18T19:52:31+00:00"
         }
       ]
     }
