@@ -1,95 +1,511 @@
 {
-  "generated_at": "2026-11-22T20:35:34.382605+00:00",
-  "story_count": 84,
+  "generated_at": "2026-11-24T01:29:18.704068+00:00",
+  "story_count": 83,
   "stories": [
     {
-      "headline": "Coast Guard airlifts 74-year-old passenger from cruise ship near San Diego",
-      "published": "2026-11-22T20:00:00+00:00",
+      "headline": "Enrollment ‘Fraud Ring’ Forces Some Grossmont-Cuyamaca Online Classes to In-Person Instruction",
+      "published": "2026-11-24T01:05:51+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "Times of San Diego",
-          "title": "Coast Guard airlifts 74-year-old passenger from cruise ship near San Diego",
-          "link": "https://timesofsandiego.com/life/2026/11/22/coast-guard-airlifts-74-year-old-passenger-from-cruise-ship-near-san-diego/",
-          "published": "2026-11-22T20:00:00+00:00"
+          "source": "Voice of San Diego",
+          "title": "Enrollment ‘Fraud Ring’ Forces Some Grossmont-Cuyamaca Online Classes to In-Person Instruction",
+          "link": "https://voiceofsandiego.org/2026/11/23/enrollment-fraud-ring-forces-some-grossmont-cuyamaca-online-classes-to-in-person-instruction/",
+          "published": "2026-11-24T01:05:51+00:00"
         }
       ]
     },
     {
-      "headline": "Story of San Diego’s DIY skateboarding history takes shape in new Mingei exhibit",
-      "published": "2026-11-22T19:05:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Story of San Diego’s DIY skateboarding history takes shape in new Mingei exhibit",
-          "link": "https://timesofsandiego.com/arts/2026/11/22/san-diego-diy-skateboarding-history-mingei-museum/",
-          "published": "2026-11-22T19:05:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diego airport not affected by disruptions to Delta Airline flights",
-      "published": "2026-11-22T19:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "San Diego airport not affected by disruptions to Delta Airline flights",
-          "link": "https://timesofsandiego.com/transportation/2026/11/22/san-diego-airport-not-affected-by-disruptions-to-delta-airline-flights/",
-          "published": "2026-11-22T19:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Pointers fall one yard short to Poway in Div. II semifinal",
-      "published": "2026-11-22T18:33:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Pointers fall one yard short to Poway in Div. II semifinal",
-          "link": "https://timesofsandiego.com/sports/2026/11/22/pointers-fall-one-yard-short-to-poway-in-div-ii-semifinal/",
-          "published": "2026-11-22T18:33:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Black Friday in July?",
-      "published": "2026-11-22T18:08:22+00:00",
+      "headline": "Carlsbad planners back condos at Hennessey’s site",
+      "published": "2026-11-24T00:19:08+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "The Coast News",
-          "title": "Black Friday in July?",
-          "link": "https://thecoastnews.com/black-friday-in-july/",
-          "published": "2026-11-22T18:08:22+00:00"
+          "title": "Carlsbad planners back condos at Hennessey’s site",
+          "link": "https://thecoastnews.com/carlsbad-planners-back-condos-at-hennesseys-site/",
+          "published": "2026-11-24T00:19:08+00:00"
         }
       ]
     },
     {
-      "headline": "Plenty of food and drink options for Thanksgiving on the coast",
-      "published": "2026-11-22T17:01:00+00:00",
+      "headline": "California, San Diego, among agencies suing to block Trump administration housing rule",
+      "published": "2026-11-24T00:10:08+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "Times of San Diego",
-          "title": "Plenty of food and drink options for Thanksgiving on the coast",
-          "link": "https://timesofsandiego.com/business/2026/11/22/plenty-of-food-and-drink-options-for-thanksgiving-on-the-coast/",
-          "published": "2026-11-22T17:01:00+00:00"
+          "title": "California, San Diego, among agencies suing to block Trump administration housing rule",
+          "link": "https://timesofsandiego.com/politics/2026/11/23/california-san-diego-lawsuit-trump-housing-undocumented/",
+          "published": "2026-11-24T00:10:08+00:00"
         }
       ]
     },
     {
-      "headline": "AI should be used for administrative tasks, not teaching students, Cal State faculty says",
-      "published": "2026-11-22T15:00:00+00:00",
+      "headline": "Black Friday is one day, but smart holiday marketing lasts all year",
+      "published": "2026-11-23T23:27:20+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Black Friday is one day, but smart holiday marketing lasts all year",
+          "link": "https://thecoastnews.com/black-friday-is-one-day-but-smart-holiday-marketing-lasts-all-year/",
+          "published": "2026-11-23T23:27:20+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Victims of fatal San Diego-area traffic accidents ID’d",
+      "published": "2026-11-23T23:01:16+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Victims of fatal San Diego-area traffic accidents ID’d",
+          "link": "https://thecoastnews.com/victims-of-fatal-san-diego-area-traffic-accidents-idd-4/",
+          "published": "2026-11-23T23:01:16+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Vista Unified renews SIATech charter for 5 additional years",
+      "published": "2026-11-23T22:52:31+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Vista Unified renews SIATech charter for 5 additional years",
+          "link": "https://thecoastnews.com/vista-unified-renews-siatech-charter-for-5-additional-years/",
+          "published": "2026-11-23T22:52:31+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Undefeated Aztecs roll dice at Players Era 16 in Vegas for resume building – and cash",
+      "published": "2026-11-23T22:50:07+00:00",
       "outlet_count": 1,
       "coverage": [
         {
           "source": "Times of San Diego",
-          "title": "AI should be used for administrative tasks, not teaching students, Cal State faculty says",
-          "link": "https://timesofsandiego.com/education/2026/11/22/ai-should-be-used-for-administrative-tasks-not-teaching-students-cal-state-faculty-says/",
-          "published": "2026-11-22T15:00:00+00:00"
+          "title": "Undefeated Aztecs roll dice at Players Era 16 in Vegas for resume building – and cash",
+          "link": "https://timesofsandiego.com/sports/2026/11/23/undefeated-aztecs-players-era-16/",
+          "published": "2026-11-23T22:50:07+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "‘Sin previo aviso’: un joven de 19 años baleado por un policía de San Diego cuando se dirigía al trabajo presenta una demanda",
+      "published": "2026-11-23T22:25:21+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "‘Sin previo aviso’: un joven de 19 años baleado por un policía de San Diego cuando se dirigía al trabajo presenta una demanda",
+          "link": "https://timesofsandiego.com/crime/2026/11/23/sin-previo-aviso-un-joven-de-19-anos-baleado-por-un-policia-de-san-diego-cuando-se-dirigia-al-trabajo-presenta-una-demanda/",
+          "published": "2026-11-23T22:25:21+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Dons beat Carlsbad for second straight Open Division title",
+      "published": "2026-11-23T22:19:49+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Dons beat Carlsbad for second straight Open Division title",
+          "link": "https://thecoastnews.com/dons-beat-carlsbad-for-second-straight-open-division-title/",
+          "published": "2026-11-23T22:19:49+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Teens and e-bikes: What North County parents need to know about the rules, insurance and crashes",
+      "published": "2026-11-23T22:03:47+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Teens and e-bikes: What North County parents need to know about the rules, insurance and crashes",
+          "link": "https://thecoastnews.com/teens-and-e-bikes-what-north-county-parents-need-to-know-about-the-rules-insurance-and-crashes/",
+          "published": "2026-11-23T22:03:47+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Oceanside dominates in rematch, advances to first Division I final since 2015",
+      "published": "2026-11-23T21:34:40+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Oceanside dominates in rematch, advances to first Division I final since 2015",
+          "link": "https://thecoastnews.com/oceanside-dominates-in-rematch-advances-to-first-division-i-final-since-2015/",
+          "published": "2026-11-23T21:34:40+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Who’s News: 11/27/26",
+      "published": "2026-11-23T21:33:06+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Who’s News: 11/27/26",
+          "link": "https://thecoastnews.com/whos-news-11-27-26/",
+          "published": "2026-11-23T21:33:06+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Mission Hills marching band wins state competition",
+      "published": "2026-11-23T21:16:05+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Mission Hills marching band wins state competition",
+          "link": "https://thecoastnews.com/mission-hills-marching-band-wins-state-competition/",
+          "published": "2026-11-23T21:16:05+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "PAWS of Coronado launches See’s Candies holiday fundraiser",
+      "published": "2026-11-23T21:03:05+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "PAWS of Coronado launches See’s Candies holiday fundraiser",
+          "link": "https://coronadotimes.com/news/2026/11/23/paws-of-coronado-launches-sees-candies-holiday-fundraiser/",
+          "published": "2026-11-23T21:03:05+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Marcos residents learn to fight floods with sandbags",
+      "published": "2026-11-23T21:00:44+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "San Marcos residents learn to fight floods with sandbags",
+          "link": "https://thecoastnews.com/san-marcos-residents-learn-to-fight-floods-with-sandbags/",
+          "published": "2026-11-23T21:00:44+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego Food + Wine Festival reimagines its Grand Weekend",
+      "published": "2026-11-23T20:47:46+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "San Diego Food + Wine Festival reimagines its Grand Weekend",
+          "link": "https://thecoastnews.com/san-diego-food-wine-festival-reimagines-its-grand-weekend/",
+          "published": "2026-11-23T20:47:46+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Relief, elation for San Diego Internacional FC, which makes US Open Cup with 3-0 win",
+      "published": "2026-11-23T20:35:35+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Relief, elation for San Diego Internacional FC, which makes US Open Cup with 3-0 win",
+          "link": "https://timesofsandiego.com/sports/2026/11/23/san-diego-internacional-fc-us-open-cup/",
+          "published": "2026-11-23T20:35:35+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "State could spend millions on food for Medi-Cal recipients",
+      "published": "2026-11-23T20:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "State could spend millions on food for Medi-Cal recipients",
+          "link": "https://timesofsandiego.com/health/2026/11/23/state-could-spend-millions-on-food-for-medi-cal-recipients/",
+          "published": "2026-11-23T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "University City in CIF championship after dramatic win over Steele Canyon",
+      "published": "2026-11-23T19:55:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "University City in CIF championship after dramatic win over Steele Canyon",
+          "link": "https://timesofsandiego.com/sports/2026/11/23/university-city-in-cif-championship-after-dramatic-win-over-steele-canyon/",
+          "published": "2026-11-23T19:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Crown City Water Polo builds on Coronado’s rich aquatic tradition",
+      "published": "2026-11-23T19:29:12+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Crown City Water Polo builds on Coronado’s rich aquatic tradition",
+          "link": "https://coronadotimes.com/news/2026/11/23/crown-city-water-polo-builds-on-coronados-rich-aquatic-tradition/",
+          "published": "2026-11-23T19:29:12+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "‘No warning’ — 19-year-old shot by a San Diego police officer on his way to work files lawsuit",
+      "published": "2026-11-23T19:23:23+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "‘No warning’ — 19-year-old shot by a San Diego police officer on his way to work files lawsuit",
+          "link": "https://timesofsandiego.com/crime/2026/11/23/man-shot-san-diego-police-officer-files-lawsuit/",
+          "published": "2026-11-23T19:23:23+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Missing Camp Pendleton Marine found dead in San Bernardino County",
+      "published": "2026-11-23T19:21:48+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Missing Camp Pendleton Marine found dead in San Bernardino County",
+          "link": "https://thecoastnews.com/missing-camp-pendleton-marine-found-dead-in-san-bernardino-county/",
+          "published": "2026-11-23T19:21:48+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "The Lowdown on OB’s Holiday Festivals",
+      "published": "2026-11-23T18:44:16+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "The Lowdown on OB’s Holiday Festivals",
+          "link": "https://obrag.org/2026/11/the-lowdown-on-obs-holiday-festivals/",
+          "published": "2026-11-23T18:44:16+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Un infante de Marina desaparecido de Camp Pendleton fue hallado muerto en el condado de San Bernardino",
+      "published": "2026-11-23T18:34:05+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Un infante de Marina desaparecido de Camp Pendleton fue hallado muerto en el condado de San Bernardino",
+          "link": "https://timesofsandiego.com/military/2026/11/23/un-infante-de-marina-desaparecido-de-camp-pendleton-fue-hallado-muerto-en-el-condado-de-san-bernardino/",
+          "published": "2026-11-23T18:34:05+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "County Offices to Close Over Thanksgiving Holiday",
+      "published": "2026-11-23T18:11:51+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "County Offices to Close Over Thanksgiving Holiday",
+          "link": "https://www.countynewscenter.com/county-offices-to-close-over-thanksgiving-holiday/?utm_source=rss&utm_medium=rss&utm_campaign=county-offices-to-close-over-thanksgiving-holiday",
+          "published": "2026-11-23T18:11:51+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Opinion: This Thanksgiving, don’t ignore the need though Washington has stopped counting who’s going hungry",
+      "published": "2026-11-23T18:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Opinion: This Thanksgiving, don’t ignore the need though Washington has stopped counting who’s going hungry",
+          "link": "https://timesofsandiego.com/opinion/2026/11/23/thanksgiving-needy-hunger-no-us-statistics/",
+          "published": "2026-11-23T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "UC gives students free access to ChatGPT. Faculty say OpenAI deal is ‘unwise’",
+      "published": "2026-11-23T17:40:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "UC gives students free access to ChatGPT. Faculty say OpenAI deal is ‘unwise’",
+          "link": "https://timesofsandiego.com/education/2026/11/23/uc-gives-students-free-access-to-chatgpt-faculty-say-openai-deal-is-unwise/",
+          "published": "2026-11-23T17:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "U-T Economic Experts Question Zoo Tax Subsidy",
+      "published": "2026-11-23T17:39:55+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "U-T Economic Experts Question Zoo Tax Subsidy",
+          "link": "https://obrag.org/2026/11/u-t-economic-experts-question-zoo-tax-subsidy/",
+          "published": "2026-11-23T17:39:55+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "A paperwhite narcissus tradition",
+      "published": "2026-11-23T17:29:10+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "A paperwhite narcissus tradition",
+          "link": "https://thecoastnews.com/a-paperwhite-narcissus-tradition/",
+          "published": "2026-11-23T17:29:10+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Report: Vista had lowest injury crash rate among larger North County cities",
+      "published": "2026-11-23T17:26:51+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Report: Vista had lowest injury crash rate among larger North County cities",
+          "link": "https://thecoastnews.com/report-vista-had-lowest-injury-crash-rate-among-larger-north-county-cities/",
+          "published": "2026-11-23T17:26:51+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Be One of Santa’s Helpers, Toys for Tots is Back at 5 County Airports",
+      "published": "2026-11-23T17:19:06+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "Be One of Santa’s Helpers, Toys for Tots is Back at 5 County Airports",
+          "link": "https://www.countynewscenter.com/be-one-of-santas-helpers-toys-for-tots-is-back-at-5-county-airports/?utm_source=rss&utm_medium=rss&utm_campaign=be-one-of-santas-helpers-toys-for-tots-is-back-at-5-county-airports",
+          "published": "2026-11-23T17:19:06+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Il Fornaio Coronado – Italian home for the holidays",
+      "published": "2026-11-23T17:00:34+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Il Fornaio Coronado – Italian home for the holidays",
+          "link": "https://coronadotimes.com/news/2026/11/23/il-fornaio-coronado-italian-home-for-the-holidays/",
+          "published": "2026-11-23T17:00:34+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "OB’s Holiday Parade Needs You to Volunteer",
+      "published": "2026-11-23T16:55:39+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "OB’s Holiday Parade Needs You to Volunteer",
+          "link": "https://obrag.org/2026/11/obs-holiday-parade-needs-you-to-volunteer/",
+          "published": "2026-11-23T16:55:39+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Del Mar responds to state warning over affordable housing",
+      "published": "2026-11-23T16:24:03+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Del Mar responds to state warning over affordable housing",
+          "link": "https://thecoastnews.com/del-mar-responds-to-state-warning-over-affordable-housing/",
+          "published": "2026-11-23T16:24:03+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Fred Louis Baker (1935-2026)",
+      "published": "2026-11-23T16:00:30+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Fred Louis Baker (1935-2026)",
+          "link": "https://coronadotimes.com/news/2026/11/23/fred-louis-baker-1935-2026/",
+          "published": "2026-11-23T16:00:30+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "The History of San Diego’s DIY Skateboards Shred the Mingei Museum in Balboa Park",
+      "published": "2026-11-23T14:55:07+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "The History of San Diego’s DIY Skateboards Shred the Mingei Museum in Balboa Park",
+          "link": "https://obrag.org/2026/11/the-history-of-san-diegos-diy-skateboards-shred-the-mingei-museum-in-balboa-park/",
+          "published": "2026-11-23T14:55:07+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Beef Week: South County Dems’ Big, Unhappy Family",
+      "published": "2026-11-23T10:15:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Beef Week: South County Dems’ Big, Unhappy Family",
+          "link": "https://voiceofsandiego.org/2026/11/23/beef-week-south-county-dems-big-unhappy-family/",
+          "published": "2026-11-23T10:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "South County Democrats Can’t Stop Fighting Each Other",
+      "published": "2026-11-23T10:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "South County Democrats Can’t Stop Fighting Each Other",
+          "link": "https://voiceofsandiego.org/2026/11/23/south-county-democrats-cant-stop-fighting-each-other/",
+          "published": "2026-11-23T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Port of San Diego temporarily closes Grand Caribe trail due to predicted high tides",
+      "published": "2026-11-23T00:16:49+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Port of San Diego temporarily closes Grand Caribe trail due to predicted high tides",
+          "link": "https://coronadotimes.com/news/2026/11/22/port-of-san-diego-temporarily-closes-grand-caribe-trail-due-to-predicted-high-tides/",
+          "published": "2026-11-23T00:16:49+00:00"
         }
       ]
     },
@@ -107,28 +523,15 @@
       ]
     },
     {
-      "headline": "Pedestrian struck and killed in Vista hit-and-run",
-      "published": "2026-11-22T01:00:00+00:00",
+      "headline": "New patch of invasive Caulerpa found near south channel entrance to Coronado Cays",
+      "published": "2026-11-22T00:57:19+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "Times of San Diego",
-          "title": "Pedestrian struck and killed in Vista hit-and-run",
-          "link": "https://timesofsandiego.com/crime/2026/11/21/pedestrian-struck-and-killed-in-vista-hit-and-run/",
-          "published": "2026-11-22T01:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Light rain possible on Sunday night for San Diego County",
-      "published": "2026-11-22T00:30:52+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Light rain possible on Sunday night for San Diego County",
-          "link": "https://timesofsandiego.com/weather/2026/11/21/light-rain-possible-on-sunday-night-for-san-diego-county/",
-          "published": "2026-11-22T00:30:52+00:00"
+          "source": "Coronado Times",
+          "title": "New patch of invasive Caulerpa found near south channel entrance to Coronado Cays",
+          "link": "https://coronadotimes.com/news/2026/11/21/new-patch-of-invasive-caulerpa-found-near-south-channel-entrance-to-coronado-cays/",
+          "published": "2026-11-22T00:57:19+00:00"
         }
       ]
     },
@@ -146,19 +549,6 @@
       ]
     },
     {
-      "headline": "Poway High marching band students and alumni to perform in Macy’s Thanksgiving Day Parade",
-      "published": "2026-11-21T22:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Poway High marching band students and alumni to perform in Macy’s Thanksgiving Day Parade",
-          "link": "https://timesofsandiego.com/community/2026/11/21/poway-high-marching-band-students-and-alumni-to-perform-in-macys-thanksgiving-day-parade/",
-          "published": "2026-11-21T22:00:00+00:00"
-        }
-      ]
-    },
-    {
       "headline": "The holiday season is here and San Diego is ready to celebrate",
       "published": "2026-11-21T21:10:47+00:00",
       "outlet_count": 1,
@@ -168,19 +558,6 @@
           "title": "The holiday season is here and San Diego is ready to celebrate",
           "link": "https://coronadotimes.com/news/2026/11/21/the-holiday-season-is-here-and-san-diego-is-ready-to-celebrate/",
           "published": "2026-11-21T21:10:47+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Who should California’s first education commissioner be? Experts weigh in",
-      "published": "2026-11-21T21:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Who should California’s first education commissioner be? Experts weigh in",
-          "link": "https://timesofsandiego.com/education/2026/11/21/who-should-californias-first-education-commissioner-be-experts-weigh-in/",
-          "published": "2026-11-21T21:00:00+00:00"
         }
       ]
     },
@@ -233,32 +610,6 @@
           "title": "Holiday Decorating in the Land of OB",
           "link": "https://obrag.org/2026/11/holiday-decorating-in-the-land-of-ob/",
           "published": "2026-11-21T00:13:45+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Commentary: We can’t afford to wait for affordable housing",
-      "published": "2026-11-20T23:58:08+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Commentary: We can’t afford to wait for affordable housing",
-          "link": "https://thecoastnews.com/commentary-we-cant-afford-to-wait-for-affordable-housing/",
-          "published": "2026-11-20T23:58:08+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Oceanside man sentenced to seven years in $10M investment fraud scheme",
-      "published": "2026-11-20T23:01:05+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Oceanside man sentenced to seven years in $10M investment fraud scheme",
-          "link": "https://thecoastnews.com/oceanside-man-sentenced-to-seven-years-in-10m-investment-fraud-scheme/",
-          "published": "2026-11-20T23:01:05+00:00"
         }
       ]
     },
@@ -328,19 +679,6 @@
       ]
     },
     {
-      "headline": "Third Time’s a Charm? El Punto Opens in Liberty Station",
-      "published": "2026-11-20T17:42:45+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Third Time’s a Charm? El Punto Opens in Liberty Station",
-          "link": "https://obrag.org/2026/11/third-times-a-charm-el-punto-opens-in-liberty-station/",
-          "published": "2026-11-20T17:42:45+00:00"
-        }
-      ]
-    },
-    {
       "headline": "VOSD Podcast: The Ultimate Election Recap LIVE From Soda Bar",
       "published": "2026-11-20T17:00:00+00:00",
       "outlet_count": 1,
@@ -350,45 +688,6 @@
           "title": "VOSD Podcast: The Ultimate Election Recap LIVE From Soda Bar",
           "link": "https://voiceofsandiego.org/2026/11/20/vosd-podcast-the-ultimate-election-recap-live-from-soda-bar/",
           "published": "2026-11-20T17:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Ocean Beach Library Expansion Project Kick-Off",
-      "published": "2026-11-20T16:59:59+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Ocean Beach Library Expansion Project Kick-Off",
-          "link": "https://obrag.org/2026/11/ocean-beach-library-expansion-project-kick-off/",
-          "published": "2026-11-20T16:59:59+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Commentary: Thanksgiving is an American tradition",
-      "published": "2026-11-20T16:53:45+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Commentary: Thanksgiving is an American tradition",
-          "link": "https://thecoastnews.com/commentary-thanksgiving-is-an-american-tradition/",
-          "published": "2026-11-20T16:53:45+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "No Photo Is Worth Your Life",
-      "published": "2026-11-20T16:30:09+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "No Photo Is Worth Your Life",
-          "link": "https://obrag.org/2026/11/320782/",
-          "published": "2026-11-20T16:30:09+00:00"
         }
       ]
     },
@@ -406,19 +705,6 @@
       ]
     },
     {
-      "headline": "More on the Future of Kobey’s Swap Meet",
-      "published": "2026-11-20T15:39:41+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "More on the Future of Kobey’s Swap Meet",
-          "link": "https://obrag.org/2026/11/more-on-the-future-of-kobeys-swap-meet/",
-          "published": "2026-11-20T15:39:41+00:00"
-        }
-      ]
-    },
-    {
       "headline": "The ‘Chula Vista City Council Novelas’",
       "published": "2026-11-20T10:15:00+00:00",
       "outlet_count": 1,
@@ -432,15 +718,15 @@
       ]
     },
     {
-      "headline": "Church enters escrow to buy, preserve La Paloma Theater in Encinitas",
-      "published": "2026-11-20T00:45:51+00:00",
+      "headline": "County holds community open house in Imperial Beach on pollution in Tijuana River Valley",
+      "published": "2026-11-20T01:00:37+00:00",
       "outlet_count": 1,
       "coverage": [
         {
-          "source": "The Coast News",
-          "title": "Church enters escrow to buy, preserve La Paloma Theater in Encinitas",
-          "link": "https://thecoastnews.com/church-enters-escrow-to-buy-preserve-la-paloma-theater-in-encinitas/",
-          "published": "2026-11-20T00:45:51+00:00"
+          "source": "Coronado Times",
+          "title": "County holds community open house in Imperial Beach on pollution in Tijuana River Valley",
+          "link": "https://coronadotimes.com/news/2026/11/19/county-holds-community-open-house-in-imperial-beach-on-pollution-in-tijuana-river-valley/",
+          "published": "2026-11-20T01:00:37+00:00"
         }
       ]
     },
@@ -471,19 +757,6 @@
       ]
     },
     {
-      "headline": "Man, 66, arrested on suspicion of gun, drug possession near Escondido",
-      "published": "2026-11-19T19:05:45+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Man, 66, arrested on suspicion of gun, drug possession near Escondido",
-          "link": "https://thecoastnews.com/man-66-arrested-on-suspicion-of-gun-drug-possession-near-escondido/",
-          "published": "2026-11-19T19:05:45+00:00"
-        }
-      ]
-    },
-    {
       "headline": "135 years of magic:  The Del kicks off “A Holiday Through Time”",
       "published": "2026-11-19T19:01:25+00:00",
       "outlet_count": 1,
@@ -506,279 +779,6 @@
           "title": "CUSD Robotics teams shine in 2026 BIOGLOW Challenge, qualify for regional finals",
           "link": "https://coronadotimes.com/news/2026/11/19/cusd-robotics-teams-shine-in-2026-bioglow-challenge-qualify-for-regional-finals/",
           "published": "2026-11-19T18:48:52+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Man sentenced to 26 years to life for 2008 killing of Oceanside veteran",
-      "published": "2026-11-19T17:39:02+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Man sentenced to 26 years to life for 2008 killing of Oceanside veteran",
-          "link": "https://thecoastnews.com/man-sentenced-to-26-years-to-life-for-2008-killing-of-oceanside-veteran/",
-          "published": "2026-11-19T17:39:02+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Marcos man arrested after deputies find stolen handgun, ‘ghost gun’",
-      "published": "2026-11-19T17:28:19+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "San Marcos man arrested after deputies find stolen handgun, ‘ghost gun’",
-          "link": "https://thecoastnews.com/san-marcos-man-arrested-after-deputies-find-stolen-handgun-ghost-gun/",
-          "published": "2026-11-19T17:28:19+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Levin reintroduces bill to tighten spent nuclear fuel storage standards",
-      "published": "2026-11-19T17:23:53+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Levin reintroduces bill to tighten spent nuclear fuel storage standards",
-          "link": "https://thecoastnews.com/levin-reintroduces-bill-to-tighten-spent-nuclear-fuel-storage-standards/",
-          "published": "2026-11-19T17:23:53+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "County supervisors approve 138 homes in Fallbrook",
-      "published": "2026-11-19T17:06:03+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "County supervisors approve 138 homes in Fallbrook",
-          "link": "https://thecoastnews.com/county-supervisors-approve-138-homes-in-fallbrook/",
-          "published": "2026-11-19T17:06:03+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "A season to remember for Coronado Cross Country",
-      "published": "2026-11-19T17:02:55+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "A season to remember for Coronado Cross Country",
-          "link": "https://coronadotimes.com/news/2026/11/19/a-season-to-remember-for-coronado-cross-country/",
-          "published": "2026-11-19T17:02:55+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Bill Walton Foundation debuts with a Grateful Dead tribute",
-      "published": "2026-11-19T16:50:57+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Bill Walton Foundation debuts with a Grateful Dead tribute",
-          "link": "https://thecoastnews.com/bill-walton-foundation-debuts-with-a-grateful-dead-tribute/",
-          "published": "2026-11-19T16:50:57+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Encinitas Union celebrates board members ahead of retirements",
-      "published": "2026-11-19T16:46:52+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Encinitas Union celebrates board members ahead of retirements",
-          "link": "https://thecoastnews.com/encinitas-union-celebrates-board-members-ahead-of-retirements/",
-          "published": "2026-11-19T16:46:52+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Legal Notices, November 20, 2026",
-      "published": "2026-11-19T14:47:10+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Legal Notices, November 20, 2026",
-          "link": "https://thecoastnews.com/legal-notices-november-20-2026/",
-          "published": "2026-11-19T14:47:10+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Obituary – Capt. Guy Lee,  USN, Ret.",
-      "published": "2026-11-19T13:49:21+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Obituary – Capt. Guy Lee,  USN, Ret.",
-          "link": "https://thecoastnews.com/obituary-capt-guy-lee-usn-ret/",
-          "published": "2026-11-19T13:49:21+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "City’s Structural Budget Deficit May Not Be Fixed After All",
-      "published": "2026-11-19T10:15:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "City’s Structural Budget Deficit May Not Be Fixed After All",
-          "link": "https://voiceofsandiego.org/2026/11/19/citys-structural-budget-deficit-may-not-be-fixed-after-all/",
-          "published": "2026-11-19T10:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Escondido’s Mayor Is Out After Just One Term. What Happened?",
-      "published": "2026-11-19T02:44:21+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Escondido’s Mayor Is Out After Just One Term. What Happened?",
-          "link": "https://voiceofsandiego.org/2026/11/18/escondidos-mayor-is-out-after-just-one-term-what-happened/",
-          "published": "2026-11-19T02:44:21+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diego County Storm to Bring Rain and Gusty Winds Thursday",
-      "published": "2026-11-19T00:47:46+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "San Diego County Storm to Bring Rain and Gusty Winds Thursday",
-          "link": "https://www.countynewscenter.com/san-diego-county-storm-to-bring-rain-and-gusty-winds-thursday/?utm_source=rss&utm_medium=rss&utm_campaign=san-diego-county-storm-to-bring-rain-and-gusty-winds-thursday",
-          "published": "2026-11-19T00:47:46+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Baffert makes his presence felt with two Del Mar stakes wins",
-      "published": "2026-11-19T00:41:55+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Baffert makes his presence felt with two Del Mar stakes wins",
-          "link": "https://thecoastnews.com/baffert-makes-his-presence-felt-with-two-del-mar-stakes-wins/",
-          "published": "2026-11-19T00:41:55+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "County Advances Arts and Cultural Opportunities",
-      "published": "2026-11-19T00:12:16+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "County Advances Arts and Cultural Opportunities",
-          "link": "https://www.countynewscenter.com/county-advances-arts-and-cultural-opportunities/?utm_source=rss&utm_medium=rss&utm_campaign=county-advances-arts-and-cultural-opportunities",
-          "published": "2026-11-19T00:12:16+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "County Seeks $11.4 Million for Affordable Housing and Homeownership Programs",
-      "published": "2026-11-18T21:55:09+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "County Seeks $11.4 Million for Affordable Housing and Homeownership Programs",
-          "link": "https://www.countynewscenter.com/county-seeks-11-4-million-for-affordable-housing-and-homeownership-programs/?utm_source=rss&utm_medium=rss&utm_campaign=county-seeks-11-4-million-for-affordable-housing-and-homeownership-programs",
-          "published": "2026-11-18T21:55:09+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "WTA Finals Champions: Andreeva shines in singles and Siniakova / Townsend dominate doubles",
-      "published": "2026-11-18T21:10:56+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "WTA Finals Champions: Andreeva shines in singles and Siniakova / Townsend dominate doubles",
-          "link": "https://coronadotimes.com/news/2026/11/18/wta-finals-champions-andreeva-shines-in-singles-and-siniakova-townsend-dominate-doubles/",
-          "published": "2026-11-18T21:10:56+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Emerald Keepers interns and Eagle Scout candidate coordinate on beach toy box",
-      "published": "2026-11-18T20:15:46+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Emerald Keepers interns and Eagle Scout candidate coordinate on beach toy box",
-          "link": "https://coronadotimes.com/news/2026/11/18/emerald-keepers-interns-and-eagle-scout-candidate-coordinate-on-beach-toy-box/",
-          "published": "2026-11-18T20:15:46+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Prince Asante Sefa-Boakye makes history swimming across Lake Bosomtwe",
-      "published": "2026-11-18T20:06:24+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "Prince Asante Sefa-Boakye makes history swimming across Lake Bosomtwe",
-          "link": "https://coronadotimes.com/news/2026/11/18/prince-asante-sefa-boakye-makes-history-swimming-across-lake-bosomtwe/",
-          "published": "2026-11-18T20:06:24+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Council authorizes mall  lease amendments",
-      "published": "2026-11-18T19:59:31+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Council authorizes mall  lease amendments",
-          "link": "https://www.times-advocate.com/articles/council-authorizes-mall-lease-amendments/",
-          "published": "2026-11-18T19:59:31+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Code Compliance’s ‘Our Helping Hands’ program gets state, national recognition",
-      "published": "2026-11-18T19:57:24+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Code Compliance’s ‘Our Helping Hands’ program gets state, national recognition",
-          "link": "https://www.times-advocate.com/articles/code-compliances-our-helping-hands-program-gets-state-national-recognition/",
-          "published": "2026-11-18T19:57:24+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Artists will work through the night at ArtHatch’s 16th annual Art-A-Thon",
-      "published": "2026-11-18T19:55:42+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Artists will work through the night at ArtHatch’s 16th annual Art-A-Thon",
-          "link": "https://www.times-advocate.com/articles/artists-will-work-through-the-night-at-arthatchs-16th-annual-art-a-thon/",
-          "published": "2026-11-18T19:55:42+00:00"
         }
       ]
     }
