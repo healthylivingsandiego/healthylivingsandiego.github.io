@@ -1,7 +1,455 @@
 {
-  "generated_at": "2026-11-24T01:29:18.704068+00:00",
-  "story_count": 83,
+  "generated_at": "2026-11-24T23:23:37.031729+00:00",
+  "story_count": 79,
   "stories": [
+    {
+      "headline": "Medi-Cal Changes are Coming: What San Diego County Members Need to Know",
+      "published": "2026-11-24T22:36:57+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "Medi-Cal Changes are Coming: What San Diego County Members Need to Know",
+          "link": "https://www.countynewscenter.com/medi-cal-changes-are-coming-what-san-diego-county-members-need-to-know/?utm_source=rss&utm_medium=rss&utm_campaign=medi-cal-changes-are-coming-what-san-diego-county-members-need-to-know",
+          "published": "2026-11-24T22:36:57+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Encinitas extends temporary limits on mobile home park rent hikes",
+      "published": "2026-11-24T22:32:55+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Encinitas extends temporary limits on mobile home park rent hikes",
+          "link": "https://thecoastnews.com/encinitas-extends-temporary-limits-on-mobile-home-park-rent-hikes/",
+          "published": "2026-11-24T22:32:55+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Oceanside moves to cap local campaign contributions",
+      "published": "2026-11-24T22:28:13+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Oceanside moves to cap local campaign contributions",
+          "link": "https://thecoastnews.com/oceanside-moves-to-cap-local-campaign-contributions/",
+          "published": "2026-11-24T22:28:13+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "California y San Diego, entre los que demandan para bloquear la norma de vivienda que excluye a familias de estatus migratorio mixto",
+      "published": "2026-11-24T22:19:34+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "California y San Diego, entre los que demandan para bloquear la norma de vivienda que excluye a familias de estatus migratorio mixto",
+          "link": "https://timesofsandiego.com/politics/2026/11/24/california-y-san-diego-entre-las-agencias-que-demandan-para-bloquear-la-normativa-de-vivienda-de-la-administracion-trump/",
+          "published": "2026-11-24T22:19:34+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Fast-Food workers face growing AI surveillance",
+      "published": "2026-11-24T21:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Fast-Food workers face growing AI surveillance",
+          "link": "https://timesofsandiego.com/tech/2026/11/24/fast-food-workers-face-growing-ai-surveillance/",
+          "published": "2026-11-24T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "La Mesa kicks off Holiday in the Village",
+      "published": "2026-11-24T20:40:33+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "La Mesa kicks off Holiday in the Village",
+          "link": "https://timesofsandiego.com/san-diego-events/2026/11/24/la-mesa-kicks-off-holiday-in-the-village/",
+          "published": "2026-11-24T20:40:33+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Oceanside council unanimously renames Cesar Chavez Park",
+      "published": "2026-11-24T20:18:58+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Oceanside council unanimously renames Cesar Chavez Park",
+          "link": "https://thecoastnews.com/oceanside-council-unanimously-renames-cesar-chavez-park/",
+          "published": "2026-11-24T20:18:58+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Cartoon: Scott Chambers",
+      "published": "2026-11-24T20:07:01+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Cartoon: Scott Chambers",
+          "link": "https://thecoastnews.com/cartoon-scott-chambers-338/",
+          "published": "2026-11-24T20:07:01+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Report Shows Significant Reductions in Gun Violence Across the County",
+      "published": "2026-11-24T19:44:06+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "Report Shows Significant Reductions in Gun Violence Across the County",
+          "link": "https://www.countynewscenter.com/report-shows-significant-reductions-in-gun-violence-across-the-county/?utm_source=rss&utm_medium=rss&utm_campaign=report-shows-significant-reductions-in-gun-violence-across-the-county",
+          "published": "2026-11-24T19:44:06+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "La Mirada Academy to return to elementary grades in 2027",
+      "published": "2026-11-24T19:30:34+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "La Mirada Academy to return to elementary grades in 2027",
+          "link": "https://thecoastnews.com/la-mirada-academy-to-return-to-elementary-grades-in-2027/",
+          "published": "2026-11-24T19:30:34+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Lumberyard ends paid parking program that ‘defied common sense’",
+      "published": "2026-11-24T19:21:38+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Lumberyard ends paid parking program that ‘defied common sense’",
+          "link": "https://thecoastnews.com/lumberyard-ends-paid-parking-program-that-defied-common-sense/",
+          "published": "2026-11-24T19:21:38+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "SDSU, pumped by big upset, shot at Pac-12 title, heads into flex week matchup on a high",
+      "published": "2026-11-24T19:15:18+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "SDSU, pumped by big upset, shot at Pac-12 title, heads into flex week matchup on a high",
+          "link": "https://timesofsandiego.com/sports/2026/11/24/sdsu-upset-pac-12-title-shot-flex-week/",
+          "published": "2026-11-24T19:15:18+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Election 2026: Encinitas, Escondido poised for City Hall shake-ups",
+      "published": "2026-11-24T18:57:25+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Election 2026: Encinitas, Escondido poised for City Hall shake-ups",
+          "link": "https://thecoastnews.com/election-2026-encinitas-escondido-poised-for-city-hall-shake-ups/",
+          "published": "2026-11-24T18:57:25+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "NCTD weighs giving Route 303 buses priority at traffic lights",
+      "published": "2026-11-24T18:02:58+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "NCTD weighs giving Route 303 buses priority at traffic lights",
+          "link": "https://thecoastnews.com/nctd-weighs-giving-route-303-buses-priority-at-traffic-lights/",
+          "published": "2026-11-24T18:02:58+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Trump Hands World Leadership to China",
+      "published": "2026-11-24T17:55:50+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Trump Hands World Leadership to China",
+          "link": "https://obrag.org/2026/11/trump-hands-world-leadership-to-china/",
+          "published": "2026-11-24T17:55:50+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "The Holidays are Here, Remember to Double-Check Your Receipts",
+      "published": "2026-11-24T17:44:26+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "The Holidays are Here, Remember to Double-Check Your Receipts",
+          "link": "https://www.countynewscenter.com/the-holidays-are-here-remember-to-double-check-your-receipts/?utm_source=rss&utm_medium=rss&utm_campaign=the-holidays-are-here-remember-to-double-check-your-receipts",
+          "published": "2026-11-24T17:44:26+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Strong Ale Festival returns to Carlsbad Village on Dec. 4-5",
+      "published": "2026-11-24T17:44:25+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Strong Ale Festival returns to Carlsbad Village on Dec. 4-5",
+          "link": "https://thecoastnews.com/strong-ale-festival-returns-to-carlsbad-village-on-dec-4-5/",
+          "published": "2026-11-24T17:44:25+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "No More Enforcers as We Move On",
+      "published": "2026-11-24T17:42:53+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "No More Enforcers as We Move On",
+          "link": "https://obrag.org/2026/11/no-more-enforcers-as-we-move-on/",
+          "published": "2026-11-24T17:42:53+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "El estado podría gastar millones en alimentos para los beneficiarios de Medi-Cal",
+      "published": "2026-11-24T17:42:27+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "El estado podría gastar millones en alimentos para los beneficiarios de Medi-Cal",
+          "link": "https://timesofsandiego.com/health/2026/11/24/el-estado-podria-gastar-millones-en-alimentos-para-los-beneficiarios-de-medi-cal/",
+          "published": "2026-11-24T17:42:27+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Del Mar’s grandstand is home to old-school trades",
+      "published": "2026-11-24T17:40:03+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Del Mar’s grandstand is home to old-school trades",
+          "link": "https://thecoastnews.com/del-mars-grandstand-is-home-to-old-school-trades/",
+          "published": "2026-11-24T17:40:03+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "A Deep Dive Into How San Diego Planning Commission Handled Discussion on Density in Kensington",
+      "published": "2026-11-24T17:37:34+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "A Deep Dive Into How San Diego Planning Commission Handled Discussion on Density in Kensington",
+          "link": "https://obrag.org/2026/11/a-deep-dive-into-how-san-diego-planning-commission-handled-discussion-on-density-in-kensington/",
+          "published": "2026-11-24T17:37:34+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego Among Over Dozen Local Governments and Agencies Suing to Block Trump Rule Barring Aid to Mixed-status Families",
+      "published": "2026-11-24T17:21:40+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "San Diego Among Over Dozen Local Governments and Agencies Suing to Block Trump Rule Barring Aid to Mixed-status Families",
+          "link": "https://obrag.org/2026/11/san-diego-among-over-dozen-local-governments-and-agencies-suing-to-block-trump-rule-barring-aid-to-mixed-status-families/",
+          "published": "2026-11-24T17:21:40+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Think you’re not wealthy enough? A new estate tax bill could make that a reality",
+      "published": "2026-11-24T17:15:50+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Think you’re not wealthy enough? A new estate tax bill could make that a reality",
+          "link": "https://thecoastnews.com/think-youre-not-wealthy-enough-a-new-estate-tax-bill-could-make-that-a-reality/",
+          "published": "2026-11-24T17:15:50+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Rosario takes narrow lead into Bing Crosby meet finale",
+      "published": "2026-11-24T17:00:43+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Rosario takes narrow lead into Bing Crosby meet finale",
+          "link": "https://thecoastnews.com/rosario-takes-narrow-lead-into-bing-crosby-meet-finale/",
+          "published": "2026-11-24T17:00:43+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Which Black Friday deals suit a living room? WoodUpp puts wood wall panels on sale from November 23",
+      "published": "2026-11-24T17:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Which Black Friday deals suit a living room? WoodUpp puts wood wall panels on sale from November 23",
+          "link": "https://timesofsandiego.com/branded-content/2026/11/24/which-black-friday-deals-suit-a-living-room-woodupp-puts-wood-wall-panels-on-sale-from-november-23/",
+          "published": "2026-11-24T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego celebrates Record Store Day and much more — This week in live music",
+      "published": "2026-11-24T16:42:04+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego celebrates Record Store Day and much more — This week in live music",
+          "link": "https://timesofsandiego.com/arts/2026/11/24/san-diego-celebrates-record-store-day-and-much-more-this-week-in-live-music/",
+          "published": "2026-11-24T16:42:04+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Oceanside names Supul Park home for Pop Warner, Thunder Rugby",
+      "published": "2026-11-24T16:22:22+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Oceanside names Supul Park home for Pop Warner, Thunder Rugby",
+          "link": "https://thecoastnews.com/oceanside-names-supul-park-home-for-pop-warner-thunder-rugby/",
+          "published": "2026-11-24T16:22:22+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Oceanside OKs Mission Flats condo project in historic district",
+      "published": "2026-11-24T16:06:48+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Oceanside OKs Mission Flats condo project in historic district",
+          "link": "https://thecoastnews.com/oceanside-oks-mission-flats-condo-project-in-historic-district/",
+          "published": "2026-11-24T16:06:48+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Debbie Sklar’s Series on San Diego’s Canneries: When Tuna Ruled the Waterfront",
+      "published": "2026-11-24T16:00:50+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Debbie Sklar’s Series on San Diego’s Canneries: When Tuna Ruled the Waterfront",
+          "link": "https://obrag.org/2026/11/debbie-sklars-series-on-san-diegos-canneries-when-tuna-ruled-the-waterfront/",
+          "published": "2026-11-24T16:00:50+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Trump administration rescinds mandatory pay hikes, benefits requirements for Head Start",
+      "published": "2026-11-24T16:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Trump administration rescinds mandatory pay hikes, benefits requirements for Head Start",
+          "link": "https://timesofsandiego.com/education/2026/11/24/trump-administration-rescinds-mandatory-pay-hikes-benefits-requirements-for-head-start/",
+          "published": "2026-11-24T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Point Loma High Girls Flag Football Coach a Finalist for LA Rams School Coach of the Year",
+      "published": "2026-11-24T15:48:12+00:00",
+      "outlet_count": 2,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "Point Loma High Girls Flag Football Coach a Finalist for LA Rams School Coach of the Year",
+          "link": "https://obrag.org/2026/11/point-loma-high-girls-flag-football-coach-a-finalist-for-la-rams-school-coach-of-the-year/",
+          "published": "2026-11-24T15:48:12+00:00"
+        },
+        {
+          "source": "Times of San Diego",
+          "title": "Point Loma flag football coach a finalist for NFL honor",
+          "link": "https://timesofsandiego.com/sports/2026/11/24/point-loma-flag-football-coach-a-finalist-for-nfl-honor/",
+          "published": "2026-11-24T15:01:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "A whole roasted ox made quite a Thanksgiving meal in San Diego in 1884",
+      "published": "2026-11-24T15:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "A whole roasted ox made quite a Thanksgiving meal in San Diego in 1884",
+          "link": "https://timesofsandiego.com/history/2026/11/24/a-whole-roasted-ox-made-quite-a-thanksgiving-meal-in-san-diego-in-1884/",
+          "published": "2026-11-24T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Beef Week: Encinitas and Former Mayor at Odds Again",
+      "published": "2026-11-24T10:15:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Beef Week: Encinitas and Former Mayor at Odds Again",
+          "link": "https://voiceofsandiego.org/2026/11/24/beef-week-encinitas-and-former-mayor-at-odds-again/",
+          "published": "2026-11-24T10:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "The Ongoing Feud Between Encinitas and Catherine Blakespear",
+      "published": "2026-11-24T10:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "The Ongoing Feud Between Encinitas and Catherine Blakespear",
+          "link": "https://voiceofsandiego.org/2026/11/24/the-ongoing-feud-between-encinitas-and-catherine-blakespear/",
+          "published": "2026-11-24T10:00:00+00:00"
+        }
+      ]
+    },
     {
       "headline": "Enrollment ‘Fraud Ring’ Forces Some Grossmont-Cuyamaca Online Classes to In-Person Instruction",
       "published": "2026-11-24T01:05:51+00:00",
@@ -29,149 +477,6 @@
       ]
     },
     {
-      "headline": "California, San Diego, among agencies suing to block Trump administration housing rule",
-      "published": "2026-11-24T00:10:08+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "California, San Diego, among agencies suing to block Trump administration housing rule",
-          "link": "https://timesofsandiego.com/politics/2026/11/23/california-san-diego-lawsuit-trump-housing-undocumented/",
-          "published": "2026-11-24T00:10:08+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Black Friday is one day, but smart holiday marketing lasts all year",
-      "published": "2026-11-23T23:27:20+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Black Friday is one day, but smart holiday marketing lasts all year",
-          "link": "https://thecoastnews.com/black-friday-is-one-day-but-smart-holiday-marketing-lasts-all-year/",
-          "published": "2026-11-23T23:27:20+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Victims of fatal San Diego-area traffic accidents ID’d",
-      "published": "2026-11-23T23:01:16+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Victims of fatal San Diego-area traffic accidents ID’d",
-          "link": "https://thecoastnews.com/victims-of-fatal-san-diego-area-traffic-accidents-idd-4/",
-          "published": "2026-11-23T23:01:16+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Vista Unified renews SIATech charter for 5 additional years",
-      "published": "2026-11-23T22:52:31+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Vista Unified renews SIATech charter for 5 additional years",
-          "link": "https://thecoastnews.com/vista-unified-renews-siatech-charter-for-5-additional-years/",
-          "published": "2026-11-23T22:52:31+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Undefeated Aztecs roll dice at Players Era 16 in Vegas for resume building – and cash",
-      "published": "2026-11-23T22:50:07+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Undefeated Aztecs roll dice at Players Era 16 in Vegas for resume building – and cash",
-          "link": "https://timesofsandiego.com/sports/2026/11/23/undefeated-aztecs-players-era-16/",
-          "published": "2026-11-23T22:50:07+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "‘Sin previo aviso’: un joven de 19 años baleado por un policía de San Diego cuando se dirigía al trabajo presenta una demanda",
-      "published": "2026-11-23T22:25:21+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "‘Sin previo aviso’: un joven de 19 años baleado por un policía de San Diego cuando se dirigía al trabajo presenta una demanda",
-          "link": "https://timesofsandiego.com/crime/2026/11/23/sin-previo-aviso-un-joven-de-19-anos-baleado-por-un-policia-de-san-diego-cuando-se-dirigia-al-trabajo-presenta-una-demanda/",
-          "published": "2026-11-23T22:25:21+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Dons beat Carlsbad for second straight Open Division title",
-      "published": "2026-11-23T22:19:49+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Dons beat Carlsbad for second straight Open Division title",
-          "link": "https://thecoastnews.com/dons-beat-carlsbad-for-second-straight-open-division-title/",
-          "published": "2026-11-23T22:19:49+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Teens and e-bikes: What North County parents need to know about the rules, insurance and crashes",
-      "published": "2026-11-23T22:03:47+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Teens and e-bikes: What North County parents need to know about the rules, insurance and crashes",
-          "link": "https://thecoastnews.com/teens-and-e-bikes-what-north-county-parents-need-to-know-about-the-rules-insurance-and-crashes/",
-          "published": "2026-11-23T22:03:47+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Oceanside dominates in rematch, advances to first Division I final since 2015",
-      "published": "2026-11-23T21:34:40+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Oceanside dominates in rematch, advances to first Division I final since 2015",
-          "link": "https://thecoastnews.com/oceanside-dominates-in-rematch-advances-to-first-division-i-final-since-2015/",
-          "published": "2026-11-23T21:34:40+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Who’s News: 11/27/26",
-      "published": "2026-11-23T21:33:06+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Who’s News: 11/27/26",
-          "link": "https://thecoastnews.com/whos-news-11-27-26/",
-          "published": "2026-11-23T21:33:06+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Mission Hills marching band wins state competition",
-      "published": "2026-11-23T21:16:05+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Mission Hills marching band wins state competition",
-          "link": "https://thecoastnews.com/mission-hills-marching-band-wins-state-competition/",
-          "published": "2026-11-23T21:16:05+00:00"
-        }
-      ]
-    },
-    {
       "headline": "PAWS of Coronado launches See’s Candies holiday fundraiser",
       "published": "2026-11-23T21:03:05+00:00",
       "outlet_count": 1,
@@ -181,71 +486,6 @@
           "title": "PAWS of Coronado launches See’s Candies holiday fundraiser",
           "link": "https://coronadotimes.com/news/2026/11/23/paws-of-coronado-launches-sees-candies-holiday-fundraiser/",
           "published": "2026-11-23T21:03:05+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Marcos residents learn to fight floods with sandbags",
-      "published": "2026-11-23T21:00:44+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "San Marcos residents learn to fight floods with sandbags",
-          "link": "https://thecoastnews.com/san-marcos-residents-learn-to-fight-floods-with-sandbags/",
-          "published": "2026-11-23T21:00:44+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diego Food + Wine Festival reimagines its Grand Weekend",
-      "published": "2026-11-23T20:47:46+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "San Diego Food + Wine Festival reimagines its Grand Weekend",
-          "link": "https://thecoastnews.com/san-diego-food-wine-festival-reimagines-its-grand-weekend/",
-          "published": "2026-11-23T20:47:46+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Relief, elation for San Diego Internacional FC, which makes US Open Cup with 3-0 win",
-      "published": "2026-11-23T20:35:35+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Relief, elation for San Diego Internacional FC, which makes US Open Cup with 3-0 win",
-          "link": "https://timesofsandiego.com/sports/2026/11/23/san-diego-internacional-fc-us-open-cup/",
-          "published": "2026-11-23T20:35:35+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "State could spend millions on food for Medi-Cal recipients",
-      "published": "2026-11-23T20:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "State could spend millions on food for Medi-Cal recipients",
-          "link": "https://timesofsandiego.com/health/2026/11/23/state-could-spend-millions-on-food-for-medi-cal-recipients/",
-          "published": "2026-11-23T20:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "University City in CIF championship after dramatic win over Steele Canyon",
-      "published": "2026-11-23T19:55:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "University City in CIF championship after dramatic win over Steele Canyon",
-          "link": "https://timesofsandiego.com/sports/2026/11/23/university-city-in-cif-championship-after-dramatic-win-over-steele-canyon/",
-          "published": "2026-11-23T19:55:00+00:00"
         }
       ]
     },
@@ -263,32 +503,6 @@
       ]
     },
     {
-      "headline": "‘No warning’ — 19-year-old shot by a San Diego police officer on his way to work files lawsuit",
-      "published": "2026-11-23T19:23:23+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "‘No warning’ — 19-year-old shot by a San Diego police officer on his way to work files lawsuit",
-          "link": "https://timesofsandiego.com/crime/2026/11/23/man-shot-san-diego-police-officer-files-lawsuit/",
-          "published": "2026-11-23T19:23:23+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Missing Camp Pendleton Marine found dead in San Bernardino County",
-      "published": "2026-11-23T19:21:48+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Missing Camp Pendleton Marine found dead in San Bernardino County",
-          "link": "https://thecoastnews.com/missing-camp-pendleton-marine-found-dead-in-san-bernardino-county/",
-          "published": "2026-11-23T19:21:48+00:00"
-        }
-      ]
-    },
-    {
       "headline": "The Lowdown on OB’s Holiday Festivals",
       "published": "2026-11-23T18:44:16+00:00",
       "outlet_count": 1,
@@ -298,19 +512,6 @@
           "title": "The Lowdown on OB’s Holiday Festivals",
           "link": "https://obrag.org/2026/11/the-lowdown-on-obs-holiday-festivals/",
           "published": "2026-11-23T18:44:16+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Un infante de Marina desaparecido de Camp Pendleton fue hallado muerto en el condado de San Bernardino",
-      "published": "2026-11-23T18:34:05+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Un infante de Marina desaparecido de Camp Pendleton fue hallado muerto en el condado de San Bernardino",
-          "link": "https://timesofsandiego.com/military/2026/11/23/un-infante-de-marina-desaparecido-de-camp-pendleton-fue-hallado-muerto-en-el-condado-de-san-bernardino/",
-          "published": "2026-11-23T18:34:05+00:00"
         }
       ]
     },
@@ -328,32 +529,6 @@
       ]
     },
     {
-      "headline": "Opinion: This Thanksgiving, don’t ignore the need though Washington has stopped counting who’s going hungry",
-      "published": "2026-11-23T18:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Opinion: This Thanksgiving, don’t ignore the need though Washington has stopped counting who’s going hungry",
-          "link": "https://timesofsandiego.com/opinion/2026/11/23/thanksgiving-needy-hunger-no-us-statistics/",
-          "published": "2026-11-23T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "UC gives students free access to ChatGPT. Faculty say OpenAI deal is ‘unwise’",
-      "published": "2026-11-23T17:40:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "UC gives students free access to ChatGPT. Faculty say OpenAI deal is ‘unwise’",
-          "link": "https://timesofsandiego.com/education/2026/11/23/uc-gives-students-free-access-to-chatgpt-faculty-say-openai-deal-is-unwise/",
-          "published": "2026-11-23T17:40:00+00:00"
-        }
-      ]
-    },
-    {
       "headline": "U-T Economic Experts Question Zoo Tax Subsidy",
       "published": "2026-11-23T17:39:55+00:00",
       "outlet_count": 1,
@@ -363,32 +538,6 @@
           "title": "U-T Economic Experts Question Zoo Tax Subsidy",
           "link": "https://obrag.org/2026/11/u-t-economic-experts-question-zoo-tax-subsidy/",
           "published": "2026-11-23T17:39:55+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "A paperwhite narcissus tradition",
-      "published": "2026-11-23T17:29:10+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "A paperwhite narcissus tradition",
-          "link": "https://thecoastnews.com/a-paperwhite-narcissus-tradition/",
-          "published": "2026-11-23T17:29:10+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Report: Vista had lowest injury crash rate among larger North County cities",
-      "published": "2026-11-23T17:26:51+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Report: Vista had lowest injury crash rate among larger North County cities",
-          "link": "https://thecoastnews.com/report-vista-had-lowest-injury-crash-rate-among-larger-north-county-cities/",
-          "published": "2026-11-23T17:26:51+00:00"
         }
       ]
     },
@@ -428,19 +577,6 @@
           "title": "OB’s Holiday Parade Needs You to Volunteer",
           "link": "https://obrag.org/2026/11/obs-holiday-parade-needs-you-to-volunteer/",
           "published": "2026-11-23T16:55:39+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Del Mar responds to state warning over affordable housing",
-      "published": "2026-11-23T16:24:03+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Del Mar responds to state warning over affordable housing",
-          "link": "https://thecoastnews.com/del-mar-responds-to-state-warning-over-affordable-housing/",
-          "published": "2026-11-23T16:24:03+00:00"
         }
       ]
     },
@@ -536,19 +672,6 @@
       ]
     },
     {
-      "headline": "OB’s Dog Beach Closed Due to Sewage Spill",
-      "published": "2026-11-22T00:16:57+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "OB’s Dog Beach Closed Due to Sewage Spill",
-          "link": "https://obrag.org/2026/11/obs-dog-beach-closed-due-to-sewage-spill/",
-          "published": "2026-11-22T00:16:57+00:00"
-        }
-      ]
-    },
-    {
       "headline": "The holiday season is here and San Diego is ready to celebrate",
       "published": "2026-11-21T21:10:47+00:00",
       "outlet_count": 1,
@@ -597,71 +720,6 @@
           "title": "Zoning Ordinance Changes Support Housing Production",
           "link": "https://www.countynewscenter.com/zoning-ordinance-changes-support-housing-production/?utm_source=rss&utm_medium=rss&utm_campaign=zoning-ordinance-changes-support-housing-production",
           "published": "2026-11-21T00:22:34+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Holiday Decorating in the Land of OB",
-      "published": "2026-11-21T00:13:45+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Holiday Decorating in the Land of OB",
-          "link": "https://obrag.org/2026/11/holiday-decorating-in-the-land-of-ob/",
-          "published": "2026-11-21T00:13:45+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "‘The Zoo Lady: The Forgotten Legend of Who Saved and Built the San Diego Zoo’ — Sat., Nov.21",
-      "published": "2026-11-20T22:32:08+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "‘The Zoo Lady: The Forgotten Legend of Who Saved and Built the San Diego Zoo’ — Sat., Nov.21",
-          "link": "https://obrag.org/2026/11/the-zoo-lady-the-forgotten-legend-of-who-saved-and-built-the-san-diego-zoo-sat-nov-21/",
-          "published": "2026-11-20T22:32:08+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Closed Bay Paths and Sunset Cliffs Parking Lot Due to Flood Risks and High Surf",
-      "published": "2026-11-20T19:15:39+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Closed Bay Paths and Sunset Cliffs Parking Lot Due to Flood Risks and High Surf",
-          "link": "https://obrag.org/2026/11/closed-bay-paths-and-sunset-cliffs-parking-lot-due-to-flood-risks-and-high-surf/",
-          "published": "2026-11-20T19:15:39+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "What the New OB Library Will Look Like",
-      "published": "2026-11-20T18:20:09+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "What the New OB Library Will Look Like",
-          "link": "https://obrag.org/2026/11/what-the-new-ob-library-will-look-like/",
-          "published": "2026-11-20T18:20:09+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Peninsula Holiday Markets and Craft Fairs : Nov. 21-22",
-      "published": "2026-11-20T18:04:51+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "OB Rag",
-          "title": "Peninsula Holiday Markets and Craft Fairs : Nov. 21-22",
-          "link": "https://obrag.org/2026/11/peninsula-holiday-markets-and-craft-fairs-nov-21-22/",
-          "published": "2026-11-20T18:04:51+00:00"
         }
       ]
     },
@@ -727,58 +785,6 @@
           "title": "County holds community open house in Imperial Beach on pollution in Tijuana River Valley",
           "link": "https://coronadotimes.com/news/2026/11/19/county-holds-community-open-house-in-imperial-beach-on-pollution-in-tijuana-river-valley/",
           "published": "2026-11-20T01:00:37+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Does the Chula Vista City Council Need a Time Out?",
-      "published": "2026-11-19T23:34:24+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Voice of San Diego",
-          "title": "Does the Chula Vista City Council Need a Time Out?",
-          "link": "https://voiceofsandiego.org/2026/11/19/does-the-chula-vista-city-council-need-a-time-out/",
-          "published": "2026-11-19T23:34:24+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diego County Probation K9 Unit Leads Donation Drive for Shelter Dogs",
-      "published": "2026-11-19T19:22:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "County News Center",
-          "title": "San Diego County Probation K9 Unit Leads Donation Drive for Shelter Dogs",
-          "link": "https://www.countynewscenter.com/san-diego-county-probation-k9-unit-leads-donation-drive-for-shelter-dogs/?utm_source=rss&utm_medium=rss&utm_campaign=san-diego-county-probation-k9-unit-leads-donation-drive-for-shelter-dogs",
-          "published": "2026-11-19T19:22:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "135 years of magic:  The Del kicks off “A Holiday Through Time”",
-      "published": "2026-11-19T19:01:25+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "135 years of magic:  The Del kicks off “A Holiday Through Time”",
-          "link": "https://coronadotimes.com/news/2026/11/19/135-years-of-magic-the-del-kicks-off-a-holiday-through-time/",
-          "published": "2026-11-19T19:01:25+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "CUSD Robotics teams shine in 2026 BIOGLOW Challenge, qualify for regional finals",
-      "published": "2026-11-19T18:48:52+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Coronado Times",
-          "title": "CUSD Robotics teams shine in 2026 BIOGLOW Challenge, qualify for regional finals",
-          "link": "https://coronadotimes.com/news/2026/11/19/cusd-robotics-teams-shine-in-2026-bioglow-challenge-qualify-for-regional-finals/",
-          "published": "2026-11-19T18:48:52+00:00"
         }
       ]
     }
