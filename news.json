@@ -1,7 +1,189 @@
 {
-  "generated_at": "2026-11-25T22:57:15.572498+00:00",
-  "story_count": 78,
+  "generated_at": "2026-11-26T22:51:53.964522+00:00",
+  "story_count": 68,
   "stories": [
+    {
+      "headline": "Where to find eggnog and decked-out halls — 2026 guide to San Diego holiday bar pop-ups",
+      "published": "2026-11-26T21:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Where to find eggnog and decked-out halls — 2026 guide to San Diego holiday bar pop-ups",
+          "link": "https://timesofsandiego.com/life/2026/11/26/where-to-find-eggnog-and-decked-out-halls-2026-guide-to-san-diego-holiday-bar-pop-ups/",
+          "published": "2026-11-26T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Think big, shop small: San Diego County guide to Small Business Saturday and Museum Store Sunday",
+      "published": "2026-11-26T19:05:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "Think big, shop small: San Diego County guide to Small Business Saturday and Museum Store Sunday",
+          "link": "https://timesofsandiego.com/business/2026/11/26/san-diego-county-guide-small-business-saturday-museum-store-sunday/",
+          "published": "2026-11-26T19:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "The road to third-grade reading proficiency",
+      "published": "2026-11-26T17:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "The road to third-grade reading proficiency",
+          "link": "https://timesofsandiego.com/branded-content/2026/11/26/the-road-to-third-grade-reading-proficiency/",
+          "published": "2026-11-26T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "What it took for 5 Californians to pull themselves out of homelessness",
+      "published": "2026-11-26T16:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "What it took for 5 Californians to pull themselves out of homelessness",
+          "link": "https://timesofsandiego.com/life/2026/11/26/what-it-took-for-5-californians-to-pull-themselves-out-of-homelessness/",
+          "published": "2026-11-26T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Beef Week: The Blurring Line Between Local Influencers and Local News",
+      "published": "2026-11-26T10:15:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "Beef Week: The Blurring Line Between Local Influencers and Local News",
+          "link": "https://voiceofsandiego.org/2026/11/26/beef-week-the-blurring-line-between-local-influencers-and-local-news/",
+          "published": "2026-11-26T10:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "The Blurring Line Between Local Influencers and Local News",
+      "published": "2026-11-26T10:00:00+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Voice of San Diego",
+          "title": "The Blurring Line Between Local Influencers and Local News",
+          "link": "https://voiceofsandiego.org/2026/11/26/the-blurring-line-between-local-influencers-and-local-news/",
+          "published": "2026-11-26T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "A local commitment to military families: Inside the work of STEP (Support the Enlisted Project)",
+      "published": "2026-11-26T05:16:49+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "A local commitment to military families: Inside the work of STEP (Support the Enlisted Project)",
+          "link": "https://coronadotimes.com/news/2026/11/25/a-local-commitment-to-military-families-inside-the-work-of-step-support-the-enlisted-project/",
+          "published": "2026-11-26T05:16:49+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "San Diego Democratic Party formally opposes effort to recall Mayor Todd Gloria",
+      "published": "2026-11-26T01:23:21+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "San Diego Democratic Party formally opposes effort to recall Mayor Todd Gloria",
+          "link": "https://timesofsandiego.com/politics/2026/11/25/san-diego-democratic-party-formally-opposes-effort-to-recall-mayor-todd-gloria/",
+          "published": "2026-11-26T01:23:21+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "¿Qué está abierto y qué está cerrado en Acción de Gracias en el condado de San Diego?",
+      "published": "2026-11-26T00:46:28+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "¿Qué está abierto y qué está cerrado en Acción de Gracias en el condado de San Diego?",
+          "link": "https://timesofsandiego.com/community/2026/11/25/que-esta-abierto-y-que-esta-cerrado-en-accion-de-gracias-en-el-condado-de-san-diego/",
+          "published": "2026-11-26T00:46:28+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "‘Papá, ayúdame’: una familia afirma que la Policía de Chula Vista les impidió salvar a su hijo",
+      "published": "2026-11-26T00:30:57+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Times of San Diego",
+          "title": "‘Papá, ayúdame’: una familia afirma que la Policía de Chula Vista les impidió salvar a su hijo",
+          "link": "https://timesofsandiego.com/crime/2026/11/25/papa-ayudame-una-familia-afirma-que-la-policia-de-chula-vista-les-impidio-salvar-a-su-hijo/",
+          "published": "2026-11-26T00:30:57+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "County Urges Two-Dose Vaccination After Spike in Mpox Cases",
+      "published": "2026-11-26T00:03:19+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "County Urges Two-Dose Vaccination After Spike in Mpox Cases",
+          "link": "https://www.countynewscenter.com/county-urges-two-dose-vaccination-after-spike-in-mpox-cases/?utm_source=rss&utm_medium=rss&utm_campaign=county-urges-two-dose-vaccination-after-spike-in-mpox-cases",
+          "published": "2026-11-26T00:03:19+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Deputies find no alcohol violations in Del Mar, Solana Beach checks",
+      "published": "2026-11-25T23:48:08+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Deputies find no alcohol violations in Del Mar, Solana Beach checks",
+          "link": "https://thecoastnews.com/deputies-find-no-alcohol-violations-in-del-mar-solana-beach-checks/",
+          "published": "2026-11-25T23:48:08+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Man arrested on suspicion of vandalism at San Marcos hotel",
+      "published": "2026-11-25T23:42:49+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "Man arrested on suspicion of vandalism at San Marcos hotel",
+          "link": "https://thecoastnews.com/man-arrested-on-suspicion-of-vandalism-at-san-marcos-hotel/",
+          "published": "2026-11-25T23:42:49+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "CHP steps up Thanksgiving patrols starting Wednesday evening",
+      "published": "2026-11-25T23:08:45+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "The Coast News",
+          "title": "CHP steps up Thanksgiving patrols starting Wednesday evening",
+          "link": "https://thecoastnews.com/chp-steps-up-thanksgiving-patrols-starting-wednesday-evening/",
+          "published": "2026-11-25T23:08:45+00:00"
+        }
+      ]
+    },
     {
       "headline": "Turkey trots, dinner and basketball highlight Thanksgiving in San Diego County",
       "published": "2026-11-25T22:56:27+00:00",
@@ -42,136 +224,6 @@
       ]
     },
     {
-      "headline": "Jaycees 75th Christmas Parade set for Dec. 5",
-      "published": "2026-11-25T20:28:31+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Jaycees 75th Christmas Parade set for Dec. 5",
-          "link": "https://www.times-advocate.com/articles/jaycees-75th-christmas-parade-set-for-dec-5/",
-          "published": "2026-11-25T20:28:31+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Make Downtown Escondido Part of Your Holiday Tradition",
-      "published": "2026-11-25T20:27:43+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Make Downtown Escondido Part of Your Holiday Tradition",
-          "link": "https://www.times-advocate.com/articles/make-downtown-escondido-part-of-your-holiday-tradition/",
-          "published": "2026-11-25T20:27:43+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Garcia violated campaign law, says special counsel",
-      "published": "2026-11-25T20:26:37+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Garcia violated campaign law, says special counsel",
-          "link": "https://www.times-advocate.com/articles/garcia-violated-campaign-law-says-special-counsel/",
-          "published": "2026-11-25T20:26:37+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Wake Up Escondido meets on Friday the 13th",
-      "published": "2026-11-25T20:25:41+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Wake Up Escondido meets on Friday the 13th",
-          "link": "https://www.times-advocate.com/articles/wake-up-escondido-meets-on-friday-the-13th/",
-          "published": "2026-11-25T20:25:41+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Ed Gallo Speaks: How about some good news?",
-      "published": "2026-11-25T20:24:11+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Ed Gallo Speaks: How about some good news?",
-          "link": "https://www.times-advocate.com/articles/ed-gallo-speaks-how-about-some-good-news/",
-          "published": "2026-11-25T20:24:11+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Letter to the Editor: AN OPEN LETTER OF GRATITUDE",
-      "published": "2026-11-25T20:22:58+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Letter to the Editor: AN OPEN LETTER OF GRATITUDE",
-          "link": "https://www.times-advocate.com/articles/letter-to-the-editor-an-open-letter-of-gratitude/",
-          "published": "2026-11-25T20:22:58+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Letter to the Editor: GLOBAL WARMING COVER UP",
-      "published": "2026-11-25T20:22:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Letter to the Editor: GLOBAL WARMING COVER UP",
-          "link": "https://www.times-advocate.com/articles/letter-to-the-editor-global-warming-cover-up/",
-          "published": "2026-11-25T20:22:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Letter to the Editor: NO PRACTICAL LIFE EXPERIENCE",
-      "published": "2026-11-25T20:20:48+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Letter to the Editor: NO PRACTICAL LIFE EXPERIENCE",
-          "link": "https://www.times-advocate.com/articles/letter-to-the-editor-no-practical-life-experience/",
-          "published": "2026-11-25T20:20:48+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "TA SHORTS 11/26/26",
-      "published": "2026-11-25T20:19:49+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "TA SHORTS 11/26/26",
-          "link": "https://www.times-advocate.com/articles/ta-shorts-11-26-26/",
-          "published": "2026-11-25T20:19:49+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Bethlehem Walk of Escondido brings Christmas Story to Life, Dec. 11–13",
-      "published": "2026-11-25T20:18:12+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times-Advocate (Escondido)",
-          "title": "Bethlehem Walk of Escondido brings Christmas Story to Life, Dec. 11–13",
-          "link": "https://www.times-advocate.com/articles/bethlehem-walk-of-escondido-brings-christmas-story-to-life-dec-11-13/",
-          "published": "2026-11-25T20:18:12+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Homemade goodies, cookies and crafts at annual Christmas Marketplace",
       "published": "2026-11-25T20:01:00+00:00",
       "outlet_count": 1,
@@ -198,32 +250,6 @@
       ]
     },
     {
-      "headline": "Emiten advertencia para navegantes y residentes de San Diego ante lo más fuerte de las mareas altas",
-      "published": "2026-11-25T18:30:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Emiten advertencia para navegantes y residentes de San Diego ante lo más fuerte de las mareas altas",
-          "link": "https://timesofsandiego.com/weather/2026/11/25/emiten-advertencia-para-navegantes-y-residentes-de-san-diego-ante-lo-mas-fuerte-de-las-mareas-altas/",
-          "published": "2026-11-25T18:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Opinion: We need a Marshall Plan for Education – a call for generational investment",
-      "published": "2026-11-25T18:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Opinion: We need a Marshall Plan for Education – a call for generational investment",
-          "link": "https://timesofsandiego.com/opinion/2026/11/25/marshall-plan-for-education-generational-investment-opportunity/",
-          "published": "2026-11-25T18:00:00+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Ocean Beach’s Pearl Hotel: From Seaside Lodging House to International Hostel",
       "published": "2026-11-25T17:34:38+00:00",
       "outlet_count": 1,
@@ -246,45 +272,6 @@
           "title": "County Program Recognized for Strengthening Partnerships with Tribal Nations",
           "link": "https://www.countynewscenter.com/county-program-recognized-for-strengthening-partnerships-with-tribal-nations/?utm_source=rss&utm_medium=rss&utm_campaign=county-program-recognized-for-strengthening-partnerships-with-tribal-nations",
           "published": "2026-11-25T17:29:49+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Review: A shining ensemble cast mines angst for laughs in Diversionary’s ‘Arrowhead’",
-      "published": "2026-11-25T17:27:31+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Review: A shining ensemble cast mines angst for laughs in Diversionary’s ‘Arrowhead’",
-          "link": "https://timesofsandiego.com/arts/2026/11/25/review-a-shining-ensemble-cast-mines-angst-for-laughs-in-diversionarys-arrowhead/",
-          "published": "2026-11-25T17:27:31+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Simple lifestyle habits can help you flourish when you have diabetes",
-      "published": "2026-11-25T17:00:00+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Simple lifestyle habits can help you flourish when you have diabetes",
-          "link": "https://timesofsandiego.com/branded-content/2026/11/25/simple-lifestyle-habits-can-help-you-flourish-when-you-have-diabetes/",
-          "published": "2026-11-25T17:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Cientos de cabras hambrientas son las últimas reclutas del Departamento de bomberos del condado de San Diego",
-      "published": "2026-11-25T16:51:22+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "Cientos de cabras hambrientas son las últimas reclutas del Departamento de bomberos del condado de San Diego",
-          "link": "https://timesofsandiego.com/community/2026/11/25/cientos-de-cabras-hambrientas-son-las-ultimas-reclutas-del-departamento-de-bomberos-del-condado-de-san-diego/",
-          "published": "2026-11-25T16:51:22+00:00"
         }
       ]
     },
@@ -406,32 +393,6 @@
       ]
     },
     {
-      "headline": "‘Dad, help me’ — Family says Chula Vista police prevented them from saving their son",
-      "published": "2026-11-25T01:35:55+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "‘Dad, help me’ — Family says Chula Vista police prevented them from saving their son",
-          "link": "https://timesofsandiego.com/crime/2026/11/24/dad-help-me-family-says-chula-vista-police-prevented-them-from-saving-their-son/",
-          "published": "2026-11-25T01:35:55+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "San Diegans gear up for a busy Thanksgiving travel week",
-      "published": "2026-11-25T01:07:15+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "Times of San Diego",
-          "title": "San Diegans gear up for a busy Thanksgiving travel week",
-          "link": "https://timesofsandiego.com/transportation/2026/11/24/san-diegans-gear-up-for-a-busy-thanksgiving-travel-week/",
-          "published": "2026-11-25T01:07:15+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Have a Say on County Projects Affecting Your Community",
       "published": "2026-11-25T01:02:24+00:00",
       "outlet_count": 1,
@@ -441,6 +402,19 @@
           "title": "Have a Say on County Projects Affecting Your Community",
           "link": "https://www.countynewscenter.com/have-a-say-on-county-projects-affecting-your-community/?utm_source=rss&utm_medium=rss&utm_campaign=have-a-say-on-county-projects-affecting-your-community",
           "published": "2026-11-25T01:02:24+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Coronado ocean water and air quality report – Nov. 12-18, 2026",
+      "published": "2026-11-25T01:00:36+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Coronado ocean water and air quality report – Nov. 12-18, 2026",
+          "link": "https://coronadotimes.com/news/2026/11/24/coronado-ocean-water-and-air-quality-report-nov-12-18-2026/",
+          "published": "2026-11-25T01:00:36+00:00"
         }
       ]
     },
@@ -575,19 +549,6 @@
       ]
     },
     {
-      "headline": "NCTD weighs giving Route 303 buses priority at traffic lights",
-      "published": "2026-11-24T18:02:58+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "NCTD weighs giving Route 303 buses priority at traffic lights",
-          "link": "https://thecoastnews.com/nctd-weighs-giving-route-303-buses-priority-at-traffic-lights/",
-          "published": "2026-11-24T18:02:58+00:00"
-        }
-      ]
-    },
-    {
       "headline": "Trump Hands World Leadership to China",
       "published": "2026-11-24T17:55:50+00:00",
       "outlet_count": 1,
@@ -614,19 +575,6 @@
       ]
     },
     {
-      "headline": "Strong Ale Festival returns to Carlsbad Village on Dec. 4-5",
-      "published": "2026-11-24T17:44:25+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Strong Ale Festival returns to Carlsbad Village on Dec. 4-5",
-          "link": "https://thecoastnews.com/strong-ale-festival-returns-to-carlsbad-village-on-dec-4-5/",
-          "published": "2026-11-24T17:44:25+00:00"
-        }
-      ]
-    },
-    {
       "headline": "No More Enforcers as We Move On",
       "published": "2026-11-24T17:42:53+00:00",
       "outlet_count": 1,
@@ -636,19 +584,6 @@
           "title": "No More Enforcers as We Move On",
           "link": "https://obrag.org/2026/11/no-more-enforcers-as-we-move-on/",
           "published": "2026-11-24T17:42:53+00:00"
-        }
-      ]
-    },
-    {
-      "headline": "Del Mar’s grandstand is home to old-school trades",
-      "published": "2026-11-24T17:40:03+00:00",
-      "outlet_count": 1,
-      "coverage": [
-        {
-          "source": "The Coast News",
-          "title": "Del Mar’s grandstand is home to old-school trades",
-          "link": "https://thecoastnews.com/del-mars-grandstand-is-home-to-old-school-trades/",
-          "published": "2026-11-24T17:40:03+00:00"
         }
       ]
     },
@@ -781,17 +716,83 @@
           "published": "2026-11-23T18:44:16+00:00"
         }
       ]
+    },
+    {
+      "headline": "County Offices to Close Over Thanksgiving Holiday",
+      "published": "2026-11-23T18:11:51+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "County Offices to Close Over Thanksgiving Holiday",
+          "link": "https://www.countynewscenter.com/county-offices-to-close-over-thanksgiving-holiday/?utm_source=rss&utm_medium=rss&utm_campaign=county-offices-to-close-over-thanksgiving-holiday",
+          "published": "2026-11-23T18:11:51+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "U-T Economic Experts Question Zoo Tax Subsidy",
+      "published": "2026-11-23T17:39:55+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "U-T Economic Experts Question Zoo Tax Subsidy",
+          "link": "https://obrag.org/2026/11/u-t-economic-experts-question-zoo-tax-subsidy/",
+          "published": "2026-11-23T17:39:55+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Be One of Santa’s Helpers, Toys for Tots is Back at 5 County Airports",
+      "published": "2026-11-23T17:19:06+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "County News Center",
+          "title": "Be One of Santa’s Helpers, Toys for Tots is Back at 5 County Airports",
+          "link": "https://www.countynewscenter.com/be-one-of-santas-helpers-toys-for-tots-is-back-at-5-county-airports/?utm_source=rss&utm_medium=rss&utm_campaign=be-one-of-santas-helpers-toys-for-tots-is-back-at-5-county-airports",
+          "published": "2026-11-23T17:19:06+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "Il Fornaio Coronado – Italian home for the holidays",
+      "published": "2026-11-23T17:00:34+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "Coronado Times",
+          "title": "Il Fornaio Coronado – Italian home for the holidays",
+          "link": "https://coronadotimes.com/news/2026/11/23/il-fornaio-coronado-italian-home-for-the-holidays/",
+          "published": "2026-11-23T17:00:34+00:00"
+        }
+      ]
+    },
+    {
+      "headline": "OB’s Holiday Parade Needs You to Volunteer",
+      "published": "2026-11-23T16:55:39+00:00",
+      "outlet_count": 1,
+      "coverage": [
+        {
+          "source": "OB Rag",
+          "title": "OB’s Holiday Parade Needs You to Volunteer",
+          "link": "https://obrag.org/2026/11/obs-holiday-parade-needs-you-to-volunteer/",
+          "published": "2026-11-23T16:55:39+00:00"
+        }
+      ]
     }
   ],
   "debug": {
     "sources_configured": 23,
-    "sources_ok": 9,
+    "sources_ok": 8,
     "sources_failed": [
       "KPBS",
       "San Diego Union-Tribune",
       "San Diego Reader",
       "CalMatters (San Diego tag)",
       "Inside San Diego",
+      "Times-Advocate (Escondido)",
       "Imperial Beach News CA",
       "La Jolla Light",
       "Point Loma-OB Monthly",
